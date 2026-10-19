@@ -1,0 +1,5 @@
+.llm_cache/
+__pycache__/
+.DS_Store
+data/history/*.tmp
+data/cache.json
