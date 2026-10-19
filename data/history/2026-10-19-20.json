@@ -1,6 +1,6 @@
 {
  "schema": "radar/leads.v1",
- "generated_at": "2026-10-19T20:53:43Z",
+ "generated_at": "2026-10-19T20:57:58Z",
  "window": {
   "hours": 4,
   "from": "2026-10-19-16",
@@ -17,9 +17,9 @@
    "lead_id": "L-20261019-14",
    "repo": "kksimp/Mac.apk",
    "url": "https://github.com/kksimp/Mac.apk",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 369,
+   "stars": 376,
    "forks": 6,
    "open_issues": 7,
    "language": "Java",
@@ -41,17 +41,17 @@
     "stars_in_window": 3,
     "window_h": 1.1,
     "stars_per_day_recent": 67.0,
-    "lifetime_stars_per_day": 2.4,
-    "acceleration": 27.9,
+    "lifetime_stars_per_day": 2.45,
+    "acceleration": 27.4,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
    "fit_internal": 0.0,
    "problem_statement": "PS-unknown",
    "manipulation_risk": 0.0,
-   "lead_score": 2.08,
+   "lead_score": 2.07,
    "score_explain": [
-    "V=2.02: хвост 67.0 зв/сут против штатных 2.4 (x28)",
+    "V=2.01: хвост 67.0 зв/сут против штатных 2.4 (x27)",
     "N=0.6: репо 154 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -60,7 +60,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -73,7 +73,7 @@
    "lead_id": "L-20261019-17",
    "repo": "AhmadHassan-BTed/FractalWorkspace",
    "url": "https://github.com/AhmadHassan-BTed/FractalWorkspace",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
    "stars": 1819,
    "forks": 0,
@@ -109,7 +109,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -122,11 +122,11 @@
    "lead_id": "L-20261019-02",
    "repo": "xerj-org/xerj",
    "url": "https://github.com/xerj-org/xerj",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 10440,
-   "forks": 545,
-   "open_issues": 121,
+   "stars": 10442,
+   "forks": 546,
+   "open_issues": 123,
    "language": "Rust",
    "license": "Apache-2.0",
    "archived": false,
@@ -146,7 +146,7 @@
     "stars_in_window": 15,
     "window_h": 2.1,
     "stars_per_day_recent": 175.2,
-    "lifetime_stars_per_day": 93.48,
+    "lifetime_stars_per_day": 93.5,
     "acceleration": 1.9,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -165,7 +165,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -178,7 +178,7 @@
    "lead_id": "L-20261019-18",
    "repo": "AhmadHassan-BTed/OpenHeart",
    "url": "https://github.com/AhmadHassan-BTed/OpenHeart",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
    "stars": 1813,
    "forks": 0,
@@ -221,7 +221,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -234,9 +234,9 @@
    "lead_id": "L-20261019-21",
    "repo": "KnifeLemon/Filee",
    "url": "https://github.com/KnifeLemon/Filee",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 6277,
+   "stars": 6280,
    "forks": 364,
    "open_issues": 39,
    "language": "C#",
@@ -258,7 +258,7 @@
     "stars_in_window": 3,
     "window_h": 1.7,
     "stars_per_day_recent": 41.2,
-    "lifetime_stars_per_day": 313.32,
+    "lifetime_stars_per_day": 313.43,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -268,7 +268,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 1.2,
    "score_explain": [
-    "V=0.12: хвост 41.2 зв/сут против штатных 313.3 (x0)",
+    "V=0.12: хвост 41.2 зв/сут против штатных 313.4 (x0)",
     "N=1.0: репо 20 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.96 -> PS-infer",
@@ -277,7 +277,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -290,7 +290,7 @@
    "lead_id": "L-20261019-12",
    "repo": "YuJunZhiXue/dsh-purge",
    "url": "https://github.com/YuJunZhiXue/dsh-purge",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
    "stars": 8624,
    "forks": 1440,
@@ -333,7 +333,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -346,7 +346,7 @@
    "lead_id": "L-20261019-16",
    "repo": "Leonxlnx/earshot",
    "url": "https://github.com/Leonxlnx/earshot",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
    "stars": 1469,
    "forks": 81,
@@ -369,7 +369,7 @@
     "stars_in_window": 3,
     "window_h": 1.2,
     "stars_per_day_recent": 59.8,
-    "lifetime_stars_per_day": 320.46,
+    "lifetime_stars_per_day": 320.26,
     "acceleration": 0.2,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -379,7 +379,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 1.07,
    "score_explain": [
-    "V=0.17: хвост 59.8 зв/сут против штатных 320.5 (x0)",
+    "V=0.17: хвост 59.8 зв/сут против штатных 320.3 (x0)",
     "N=1.0: репо 5 дн от роду",
     "C=1.0: пуш 1 дн назад",
     "fit=0.74 -> PS-infer",
@@ -388,7 +388,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -401,9 +401,9 @@
    "lead_id": "L-20261019-05",
    "repo": "DietrichGebert/ponytail",
    "url": "https://github.com/DietrichGebert/ponytail",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 167985,
+   "stars": 167987,
    "forks": 9132,
    "open_issues": 37,
    "language": "JavaScript",
@@ -425,7 +425,7 @@
     "stars_in_window": 5,
     "window_h": 0.8,
     "stars_per_day_recent": 143.0,
-    "lifetime_stars_per_day": 1293.84,
+    "lifetime_stars_per_day": 1293.83,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -444,7 +444,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -457,9 +457,9 @@
    "lead_id": "L-20261019-13",
    "repo": "awesome-selfhosted/awesome-selfhosted",
    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 328346,
+   "stars": 328347,
    "forks": 15428,
    "open_issues": 0,
    "language": null,
@@ -500,7 +500,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -513,11 +513,11 @@
    "lead_id": "L-20261019-01",
    "repo": "morluto/rea",
    "url": "https://github.com/morluto/rea",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 335538,
-   "forks": 84772,
-   "open_issues": 1253,
+   "stars": 335560,
+   "forks": 84776,
+   "open_issues": 1254,
    "language": "TypeScript",
    "license": "MIT",
    "archived": false,
@@ -537,7 +537,7 @@
     "stars_in_window": 18,
     "window_h": 3.8,
     "stars_per_day_recent": 114.0,
-    "lifetime_stars_per_day": 1776.89,
+    "lifetime_stars_per_day": 1776.97,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -547,7 +547,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.96,
    "score_explain": [
-    "V=0.04: хвост 114.0 зв/сут против штатных 1776.9 (x0)",
+    "V=0.04: хвост 114.0 зв/сут против штатных 1777.0 (x0)",
     "N=0.2: репо 189 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.96 -> PS-infer",
@@ -556,7 +556,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -569,15 +569,15 @@
    "lead_id": "L-20261019-09",
    "repo": "akitaonrails/ai-memory",
    "url": "https://github.com/akitaonrails/ai-memory",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 11238,
+   "stars": 11240,
    "forks": 795,
    "open_issues": 9,
    "language": "Rust",
    "license": "MIT",
    "archived": false,
-   "size_kb": 36403,
+   "size_kb": 36409,
    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
    "topics": [],
    "signals": {
@@ -586,7 +586,7 @@
     "stars_in_window": 4,
     "window_h": 2.8,
     "stars_per_day_recent": 34.2,
-    "lifetime_stars_per_day": 74.48,
+    "lifetime_stars_per_day": 74.49,
     "acceleration": 0.5,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -605,7 +605,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -618,9 +618,9 @@
    "lead_id": "L-20261019-19",
    "repo": "AndreSzymanski15/ai-jailbreaks",
    "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 199,
+   "stars": 200,
    "forks": 28,
    "open_issues": 0,
    "language": null,
@@ -642,7 +642,7 @@
     "stars_in_window": 3,
     "window_h": 1.6,
     "stars_per_day_recent": 44.2,
-    "lifetime_stars_per_day": 398.0,
+    "lifetime_stars_per_day": 400.0,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -652,7 +652,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.88,
    "score_explain": [
-    "V=0.11: хвост 44.2 зв/сут против штатных 398.0 (x0)",
+    "V=0.10: хвост 44.2 зв/сут против штатных 400.0 (x0)",
     "N=1.0: репо 0 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.96 -> PS-infer",
@@ -661,7 +661,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -674,9 +674,9 @@
    "lead_id": "L-20261019-25",
    "repo": "domsvoboda/xodus-nexus",
    "url": "https://github.com/domsvoboda/xodus-nexus",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 334,
+   "stars": 335,
    "forks": 6,
    "open_issues": 30,
    "language": "TypeScript",
@@ -691,7 +691,7 @@
     "stars_in_window": 3,
     "window_h": 2.3,
     "stars_per_day_recent": 31.5,
-    "lifetime_stars_per_day": 39.89,
+    "lifetime_stars_per_day": 39.99,
     "acceleration": 0.8,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -701,7 +701,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.86,
    "score_explain": [
-    "V=0.58: хвост 31.5 зв/сут против штатных 39.9 (x1)",
+    "V=0.58: хвост 31.5 зв/сут против штатных 40.0 (x1)",
     "N=1.0: репо 8 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -710,7 +710,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -723,9 +723,9 @@
    "lead_id": "L-20261019-23",
    "repo": "666ghj/MiroFish",
    "url": "https://github.com/666ghj/MiroFish",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 80627,
+   "stars": 80628,
    "forks": 12232,
    "open_issues": 156,
    "language": "Python",
@@ -766,7 +766,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -779,9 +779,9 @@
    "lead_id": "L-20261019-07",
    "repo": "bitwarden-app312/.gitp3d",
    "url": "https://github.com/bitwarden-app312/.gitp3d",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 270,
+   "stars": 271,
    "forks": 111,
    "open_issues": 0,
    "language": "HTML",
@@ -803,7 +803,7 @@
     "stars_in_window": 4,
     "window_h": 0.1,
     "stars_per_day_recent": 192.0,
-    "lifetime_stars_per_day": 540.0,
+    "lifetime_stars_per_day": 542.0,
     "acceleration": 0.4,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -813,7 +813,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.82,
    "score_explain": [
-    "V=0.30: хвост 192.0 зв/сут против штатных 540.0 (x0)",
+    "V=0.30: хвост 192.0 зв/сут против штатных 542.0 (x0)",
     "N=1.0: репо 0 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -822,7 +822,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -835,9 +835,9 @@
    "lead_id": "L-20261019-22",
    "repo": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 58327,
+   "stars": 58329,
    "forks": 3748,
    "open_issues": 45,
    "language": "HTML",
@@ -859,7 +859,7 @@
     "stars_in_window": 3,
     "window_h": 2.0,
     "stars_per_day_recent": 36.0,
-    "lifetime_stars_per_day": 313.38,
+    "lifetime_stars_per_day": 313.39,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -878,7 +878,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -891,10 +891,10 @@
    "lead_id": "L-20261019-06",
    "repo": "MadsLorentzen/ai-job-search",
    "url": "https://github.com/MadsLorentzen/ai-job-search",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 56827,
-   "forks": 18095,
+   "stars": 56831,
+   "forks": 18097,
    "open_issues": 25,
    "language": "Python",
    "license": "MIT",
@@ -915,7 +915,7 @@
     "stars_in_window": 5,
     "window_h": 3.7,
     "stars_per_day_recent": 32.7,
-    "lifetime_stars_per_day": 263.99,
+    "lifetime_stars_per_day": 264.0,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -934,7 +934,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -947,11 +947,11 @@
    "lead_id": "L-20261019-15",
    "repo": "boykopovar/AnyPS5",
    "url": "https://github.com/boykopovar/AnyPS5",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 44315,
+   "stars": 44319,
    "forks": 4049,
-   "open_issues": 891,
+   "open_issues": 892,
    "language": "C++",
    "license": "GPL-2.0",
    "archived": false,
@@ -971,7 +971,7 @@
     "stars_in_window": 3,
     "window_h": 1.1,
     "stars_per_day_recent": 64.7,
-    "lifetime_stars_per_day": 575.71,
+    "lifetime_stars_per_day": 575.74,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -990,7 +990,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1003,10 +1003,10 @@
    "lead_id": "L-20261019-08",
    "repo": "shiyu-coder/Kronos",
    "url": "https://github.com/shiyu-coder/Kronos",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 41564,
-   "forks": 6915,
+   "stars": 41567,
+   "forks": 6916,
    "open_issues": 282,
    "language": "Python",
    "license": "MIT",
@@ -1015,7 +1015,7 @@
    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
    "topics": [],
    "signals": {
-    "age_days": 475.7,
+    "age_days": 475.8,
     "last_push_days_ago": 189,
     "stars_in_window": 4,
     "window_h": 2.6,
@@ -1039,7 +1039,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1052,9 +1052,9 @@
    "lead_id": "L-20261019-11",
    "repo": "mattpocock/skills",
    "url": "https://github.com/mattpocock/skills",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 297366,
+   "stars": 297369,
    "forks": 24966,
    "open_issues": 197,
    "language": "Shell",
@@ -1088,7 +1088,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1101,9 +1101,9 @@
    "lead_id": "L-20261019-03",
    "repo": "VictorTaelin/uniichat",
    "url": "https://github.com/VictorTaelin/uniichat",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 217,
+   "stars": 219,
    "forks": 20,
    "open_issues": 2,
    "language": "TypeScript",
@@ -1118,7 +1118,7 @@
     "stars_in_window": 7,
     "window_h": 1.4,
     "stars_per_day_recent": 124.0,
-    "lifetime_stars_per_day": 434.0,
+    "lifetime_stars_per_day": 438.0,
     "acceleration": 0.3,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1128,7 +1128,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.59,
    "score_explain": [
-    "V=0.25: хвост 124.0 зв/сут против штатных 434.0 (x0)",
+    "V=0.25: хвост 124.0 зв/сут против штатных 438.0 (x0)",
     "N=1.0: репо 0 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -1137,7 +1137,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1150,7 +1150,7 @@
    "lead_id": "L-20261019-10",
    "repo": "SubmitGame/awesome-decomp-games",
    "url": "https://github.com/SubmitGame/awesome-decomp-games",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
    "stars": 2012,
    "forks": 106,
@@ -1174,7 +1174,7 @@
     "stars_in_window": 4,
     "window_h": 2.9,
     "stars_per_day_recent": 33.1,
-    "lifetime_stars_per_day": 196.58,
+    "lifetime_stars_per_day": 196.52,
     "acceleration": 0.2,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1184,7 +1184,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.53,
    "score_explain": [
-    "V=0.16: хвост 33.1 зв/сут против штатных 196.6 (x0)",
+    "V=0.16: хвост 33.1 зв/сут против штатных 196.5 (x0)",
     "N=1.0: репо 10 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -1193,7 +1193,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1206,10 +1206,10 @@
    "lead_id": "L-20261019-04",
    "repo": "google-research/harness2",
    "url": "https://github.com/google-research/harness2",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 11326,
-   "forks": 1029,
+   "stars": 11337,
+   "forks": 1032,
    "open_issues": 83,
    "language": "Python",
    "license": "Apache-2.0",
@@ -1223,7 +1223,7 @@
     "stars_in_window": 7,
     "window_h": 3.3,
     "stars_per_day_recent": 51.0,
-    "lifetime_stars_per_day": 873.77,
+    "lifetime_stars_per_day": 874.42,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1233,7 +1233,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.44,
    "score_explain": [
-    "V=0.06: хвост 51.0 зв/сут против штатных 873.8 (x0)",
+    "V=0.06: хвост 51.0 зв/сут против штатных 874.4 (x0)",
     "N=1.0: репо 13 дн от роду",
     "C=1.0: пуш 5 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -1242,7 +1242,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1255,10 +1255,10 @@
    "lead_id": "L-20261019-24",
    "repo": "Gathin23/cleanyourtv",
    "url": "https://github.com/Gathin23/cleanyourtv",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
-   "stars": 4741,
-   "forks": 574,
+   "stars": 4748,
+   "forks": 577,
    "open_issues": 56,
    "language": "Java",
    "license": "NOASSERTION",
@@ -1279,7 +1279,7 @@
     "stars_in_window": 3,
     "window_h": 2.2,
     "stars_per_day_recent": 32.7,
-    "lifetime_stars_per_day": 1874.97,
+    "lifetime_stars_per_day": 1875.55,
     "acceleration": 0.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1289,7 +1289,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.38,
    "score_explain": [
-    "V=0.02: хвост 32.7 зв/сут против штатных 1875.0 (x0)",
+    "V=0.02: хвост 32.7 зв/сут против штатных 1875.6 (x0)",
     "N=1.0: репо 3 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -1298,7 +1298,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1311,7 +1311,7 @@
    "lead_id": "L-20261019-20",
    "repo": "emilkowalski/skills",
    "url": "https://github.com/emilkowalski/skills",
-   "first_seen_at": "2026-10-19T20:53:43Z",
+   "first_seen_at": "2026-10-19T20:57:58Z",
    "channel": "gh_archive_watch",
    "stars": 47647,
    "forks": 2746,
@@ -1328,7 +1328,7 @@
     "stars_in_window": 3,
     "window_h": 1.7,
     "stars_per_day_recent": 43.6,
-    "lifetime_stars_per_day": 219.28,
+    "lifetime_stars_per_day": 219.27,
     "acceleration": 0.2,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1347,7 +1347,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-20T00:53:43Z",
+    "sla_deadline": "2026-10-20T00:57:58Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
