@@ -11,10 +11,10 @@ permissions:
   id-token: write        # attestation для Pages
   models: read           # БЕЗ ЭТОГО GitHub Models вернёт 403 на GITHUB_TOKEN
 concurrency: {group: radar, cancel-in-progress: false}
-timeout-minutes: 12
 jobs:
   radar:
     runs-on: ubuntu-latest
+    timeout-minutes: 12   # ВАЛИДАТОР Actions: на верхнем уровне ключ недопустим, только в job
     environment: radar                          # тут секреты: OPENAI_API_KEY / ANTHROPIC_API_KEY (опц.)
     steps:
       - uses: actions/checkout@v4
