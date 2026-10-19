@@ -1,0 +1,9 @@
+name: probe
+on: {workflow_dispatch: {}}
+permissions:
+  contents: read
+  models: read
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps: [{run: echo ok}]
