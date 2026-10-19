@@ -40,12 +40,23 @@ def call(url, key, model, prompt, readme, repo, desc, topics):
     body = json.dumps({"model": model, "temperature": 0, "max_tokens": 700,
                        "messages": [{"role": "system", "content": SYS},
                                     {"role": "user", "content": prompt.format(repo=repo, desc=desc, topics=topics, readme=readme[:3000])}]}).encode()
-    req = urllib.request.Request(url, data=body, headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        raw = r.read().decode("utf-8", "replace")
+    hdr = {"Authorization": f"Bearer {key}", "Content-Type": "application/json"}
+    if "models.github.ai" in url:                    # без этого заголовка Models отвечает не JSON
+        hdr["X-GitHub-Api-Version"] = "2022-11-28"
+    req = urllib.request.Request(url, data=body, headers=hdr)
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            status, raw = r.status, r.read().decode("utf-8", "replace")
+    except urllib.error.HTTPError as e:
+        status, raw = e.code, (e.read() or b"").decode("utf-8", "replace")
     if not raw.strip():
-        raise RuntimeError(f"пустой ответ от {url.split('/inference')[0]} (HTTP {r.status}) - обычно значит, что GitHub Models для репо не включён")
-    d = json.loads(raw)
+        raise RuntimeError(f"пустой ответ (HTTP {status}) - проверь, что GitHub Models включён для репо")
+    try:
+        d = json.loads(raw)
+    except json.JSONDecodeError:
+        raise RuntimeError(f"HTTP {status}, ответ не JSON: {raw[:160]!r}")
+    if status >= 400:
+        raise RuntimeError(f"HTTP {status} от модели: {raw[:160]!r}")
     txt = d["choices"][0]["message"]["content"]
     m = re.search(r"\{.*\}", txt, re.S)
     if not m:

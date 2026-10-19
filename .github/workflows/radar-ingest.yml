@@ -38,6 +38,7 @@ jobs:
       - name: Commit данных (история лидов = git log, журнал решений бесплатно)
         run: |
           git config user.name radar-bot; git config user.email radar@bot
+          mkdir -p data/history          # пустой каталог git не хранит - в чекауте его просто нет
           cp data/leads.json "data/history/$(date -u +%Y-%m-%d-%H).json"
           python3 mvp/build_dashboard.py && cp dashboard.html index.html   # устаревший снимок = exit 3
           git add -A; git diff --cached --quiet || git commit -m "radar: $(date -u +%FT%TZ)"
