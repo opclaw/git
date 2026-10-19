@@ -30,10 +30,36 @@ README (первые 3000 символов):
 
 
 def client():
-    for name in ("openai", "github"):                      # приоритет: платной ключ, иначе бесплатный GitHub Models
-        url, key, model = ENDPOINTS[name]
-        if key: return name, url, key, os.environ.get("RADAR_MODEL", model)
+    """Порядок выбора: (1) любой OpenAI-совместимый эндпоинт, (2) OpenAI, (3) GitHub Models - он закрыт, см. retired()."""
+    base = os.environ.get("RADAR_LLM_BASE", "").rstrip("/")
+    key = os.environ.get("RADAR_API_KEY") or os.environ.get("OPENAI_API_KEY")
+    if base and key:
+        return "custom", f"{base}/chat/completions", key, os.environ.get("RADAR_MODEL", "openai/gpt-4.1-mini")
+    for name in ("openai", "github"):
+        url, k, model = ENDPOINTS[name]
+        if k: return name, url, k, os.environ.get("RADAR_MODEL", model)
     return None
+
+
+def retired(url, key):
+    """GitHub Models закрыт 2026-07-30 (docs.github.com/en/github-models). С тех пор models.github.ai
+    отвечает `200 text/plain OK` на ЛЮБОЙ путь и токен - выглядит как успех, а это муляж.
+    Проверяем одним запросом, чтобы не жечь 25 вызовов и не маскировать проблему."""
+    if "models.github.ai" not in url:
+        return False
+    hdr = {"Authorization": f"Bearer {key}", "Content-Type": "application/json",
+           "X-GitHub-Api-Version": "2022-11-28"}
+    body = json.dumps({"model": "openai/gpt-4.1-mini", "max_tokens": 1,
+                       "messages": [{"role": "user", "content": "ping"}]}).encode()
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, data=body, headers=hdr), timeout=30) as r:
+            ct, raw = r.headers.get("Content-Type", ""), r.read().decode("utf-8", "replace")
+    except urllib.error.HTTPError as e:
+        ct = (e.headers.get("Content-Type", "") if e.headers else "")
+        raw = (e.read() or b"").decode("utf-8", "replace")
+    except Exception as e:
+        return False                                   # сеть/таймаут - это не про «закрыт», пусть решит основной цикл
+    return "text/plain" in ct or raw.strip() in ("OK", "")
 
 
 def call(url, key, model, prompt, readme, repo, desc, topics):
@@ -79,6 +105,12 @@ def main():
         print("нет GITHUB_TOKEN/OPENAI_API_KEY - пропускаю LLM-шаг (детерминированная часть уже готова)", file=sys.stderr)
         return 0
     name, url, key, model = cli
+    if retired(url, key):
+        print("::warning::GitHub Models закрыт 2026-07-30: models.github.ai отвечает 200 text/plain на любой путь. "
+              "LLM-обогащение отключено, детерминированная часть (числа, скор, дедуп) от этого не зависит. "
+              "Чтобы вернуть обогащение: secrets RADAR_LLM_BASE + RADAR_API_KEY (Groq/OpenRouter/Azure Foundry/OpenAI).",
+              file=sys.stderr)
+        return 0
     CACHE.mkdir(exist_ok=True)
     done = hits = 0
     errors = []

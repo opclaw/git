@@ -27,10 +27,12 @@ jobs:
       - name: Ingest + scoring (детерминированно, без LLM)
         env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}", HOURS: "4", TOP: "40"}
         run: python3 mvp/ingest.py --hours ${HOURS} --top ${TOP}
-      - name: LLM-обогащение (fit + краткое досье) — пропускается без ключа
+      - name: LLM-обогащение (fit + краткое досье) — пропускается без ключа или если Models закрыт
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"     # GitHub Models даёт бесплатный inference по токену задачи
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"     # GitHub Models ЗАКРЫТ 2026-07-30 - шаг сам это определит и пропустит
           OPENAI_API_KEY: "${{ secrets.OPENAI_API_KEY }}"
+          RADAR_API_KEY: "${{ secrets.RADAR_API_KEY }}"   # любой OpenAI-совместимый провайдер
+          RADAR_LLM_BASE: "${{ vars.RADAR_LLM_BASE }}"    # например https://api.groq.com/openai/v1
           RADAR_MODEL: "${{ vars.RADAR_MODEL || 'openai/gpt-4.1-mini' }}"
         run: python3 mvp/llm_enrich.py --in data/leads.json --out data/leads.json
       - name: Валидация контракта (схема lead.v1 + свежесть снимка)
