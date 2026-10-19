@@ -8,9 +8,20 @@ age_h = (datetime.now(timezone.utc) - datetime.fromisoformat(gen.replace("Z", "+
 if age_h > float(os.environ.get("RADAR_MAX_AGE_H", "4")):
     print(f"::error::снимку {age_h:.1f} ч - в канал это не отправляем, иначе люди будут триажировать вчерашний список", file=sys.stderr)
     raise SystemExit(1)
+import datetime as _dt
+SENT = pathlib.Path(os.environ.get("RADAR_SENT", "data/sent.json"))
+sent = json.loads(SENT.read_text(encoding="utf-8")) if SENT.exists() else {}
 top = [l for l in d["leads"] if l["lead_score"] >= float(os.environ.get("MIN_SCORE", "1.0"))
        and l["manipulation_risk"] < 0.35 and l.get("license")][:5]
-if not top: print("порог не пройден - молчим (шум в канал = смерть процесса)"); raise SystemExit(0)
+# cron каждые 30 минут = 48 прогонов в сутки. Без фильтра канал получал бы 48 сообщений в день
+# с одними и теми же репозиториями. В канал идёт только то, чего раньше не было.
+fresh = [l for l in top if l["repo"] not in sent]
+if not top:
+    print("порог не пройден - молчим (шум в канал = смерть процесса)"); raise SystemExit(0)
+if not fresh:
+    print(f"новых нет: все {len(top)} кандидатов уже приходили в канал ({', '.join(l['repo'] for l in top)[:140]})")
+    raise SystemExit(0)
+top = fresh
 msg = "RADAR: %d кандидата(ов)\n" % len(top) + "\n".join(
   f"- {l['repo']}  {l['stars']}★  +{l['signals']['stars_per_day_recent']:.0f}/сут  fit {l['fit_internal']} -> {l['problem_statement']}\n  {l['url']}"
   for l in top)
@@ -39,7 +50,15 @@ if t and c:
             r = json.load(urllib.request.urlopen(urllib.request.Request(
                 f"https://api.telegram.org/bot{t}/sendMessage", data=body,
                 headers={"Content-Type": "application/json"}), timeout=25))
-            print("-> отправлено, message_id:", r.get("result", {}).get("message_id")); break
+            print("-> отправлено, message_id:", r.get("result", {}).get("message_id"))
+            now = _dt.datetime.now(_dt.timezone.utc).isoformat(timespec="seconds")
+            for l in top: sent[l["repo"]] = now
+            cut = (_dt.datetime.now(_dt.timezone.utc) - _dt.timedelta(days=30)).isoformat()
+            SENT.parent.mkdir(parents=True, exist_ok=True)
+            SENT.write_text(json.dumps({k: v for k, v in sent.items() if v > cut},
+                                       ensure_ascii=False, indent=1), encoding="utf-8")
+            print(f"помечено отправленными: {len(top)} (в {SENT} итого: {len(sent)})")
+            break
         except urllib.error.HTTPError as e:
             wait = int(e.headers.get("retry-after", 2)) if e.code == 429 else 2
             print(f"  ! telegram {e.code}, повтор через {wait}с (попытка {attempt+1}/3)", file=sys.stderr); time.sleep(wait)

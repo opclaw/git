@@ -37,6 +37,10 @@ jobs:
         run: python3 mvp/llm_enrich.py --in data/leads.json --out data/leads.json
       - name: Валидация контракта (схема lead.v1 + свежесть снимка)
         run: python3 tools/validate_contracts.py data/leads.json --max-age-hours=4
+      - name: Алерт в Telegram/Slack, если нашлось что-то выше порога
+        if: success()
+        env: {TELEGRAM_BOT_TOKEN: "${{ secrets.TELEGRAM_BOT_TOKEN }}", TELEGRAM_CHAT_ID: "${{ vars.TELEGRAM_CHAT_ID }}"}
+        run: python3 mvp/notify.py || true
       - name: Commit данных (история лидов = git log, журнал решений бесплатно)
         run: |
           git config user.name radar-bot; git config user.email radar@bot
@@ -54,7 +58,3 @@ jobs:
       - name: Итог прогона в лог (для разбора Т4/Т5)
         if: always()
         run: python3 -c "import json;d=json.load(open('data/leads.json'));w=d['window'];print('лидов',len(d['leads']),'| WatchEvent',w['watch_events'],'| API-вызовов',w['api_calls'],'| authenticated',w['authenticated']);print('с LLM:',sum(1 for l in d['leads'] if l.get('llm')),'из',len(d['leads']))" || echo "leads.json не найден - инжест падал, см. лог выше"
-      - name: Алерт в Telegram/Slack, если нашлось что-то выше порога
-        if: success()
-        env: {TELEGRAM_BOT_TOKEN: "${{ secrets.TELEGRAM_BOT_TOKEN }}", TELEGRAM_CHAT_ID: "${{ vars.TELEGRAM_CHAT_ID }}"}
-        run: python3 mvp/notify.py || true
