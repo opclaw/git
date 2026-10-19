@@ -18,9 +18,20 @@ def data_dir(create=False):
         tgt.mkdir(parents=True, exist_ok=True)
     return tgt
 
+import sys
+from datetime import datetime, timezone
+MAX_AGE_H = float(os.environ.get("RADAR_MAX_AGE_H", "4"))
 HERE = pathlib.Path(__file__).resolve().parent
 DATA_PATH = data_dir() / "leads.json"
 DATA = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+try:
+    age_h = (datetime.now(timezone.utc) - datetime.fromisoformat(DATA["generated_at"].replace("Z", "+00:00"))).total_seconds() / 3600
+except Exception:
+    age_h = 9e9
+STALE = age_h > MAX_AGE_H
+if STALE:
+    print(f"::error::снимку {age_h:.1f} ч - публикация выглядела бы свежей, а это не так. "
+          f"Инжест падал. (порог RADAR_MAX_AGE_H={MAX_AGE_H}ч)", file=sys.stderr)
 DATA.setdefault("window", {}).update(DATA.pop("totals", {}))   # сводка за okno -> в DATA.window
 TPL = """<!doctype html><html lang="ru"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>RADAR · очередь репозиториев</title>
@@ -129,7 +140,11 @@ document.getElementById("stats").innerHTML=[["лидов в очереди",DATA
 draw();
 </script></body></html>"""
 
-out = TPL.replace("__DATA__", json.dumps(DATA, ensure_ascii=False))
+out = TPL.replace("__DATA__", json.dumps(DATA, ensure_ascii=False)).replace(
+    "<header>", "<div style=\"background:#5a1e1e;color:#ffd7d7;padding:8px 20px;font-size:13px;border-bottom:1px solid #f85149\">"    f"\u26a0 \u0421\u041d\u0418\u041c\u041e\u041a \u0423\u0421\u0422\u0410\u0420\u0415\u041b: {age_h:.1f} \u0447 - \u0438\u043d\u0436\u0435\u0441 \u043d\u0435 \u043e\u0431\u043d\u043e\u0432\u0438\u043b \u0434\u0430\u043d\u043d\u044b\u0435. "
+    "\u041d\u0438\u0436\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0441\u043d\u0438\u043c\u043e\u043a.</div><header>") if STALE else TPL.replace("__DATA__", json.dumps(DATA, ensure_ascii=False))
 OUT_PATH = DATA_PATH.parent.parent / "dashboard.html"   # рядом с data/: корень в deploy/, mvp/ в исходной раскладке
 OUT_PATH.write_text(out, encoding="utf-8")
+if STALE and "--allow-stale" not in sys.argv:
+    sys.exit(3)   # CI: красный. Локально: python3 mvp/build_dashboard.py --allow-stale
 print(f"{OUT_PATH}: {len(out)/1024:.0f} КБ, лидов: {len(DATA['leads'])}")

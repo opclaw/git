@@ -52,13 +52,29 @@ def validate(doc):
             errs.append(f"{lid}: M={l['manipulation_risk']} на {rank[lid]+1}-м месте - фильтр накрутки не сработал")
 
 
+def freshness(doc, max_age_h):
+    try:
+        from datetime import datetime, timezone
+        age = (datetime.now(timezone.utc) - datetime.fromisoformat(doc["generated_at"].replace("Z", "+00:00"))).total_seconds() / 3600
+    except Exception:
+        return "нет/битый generated_at - невозможно понять, свежий ли снимок"
+    if age > max_age_h:
+        return f"снимку {age:.1f} ч > порога {max_age_h} ч - выдавать его за текущий нельзя"
+    return None
+
+
 def main():
-    paths = sys.argv[1:] or ["mvp/data/leads.json"]
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    max_age = float(next((a.split("=", 1)[1] for a in sys.argv[1:] if a.startswith("--max-age-hours=")), 4))
+    paths = args or ["mvp/data/leads.json"]
     for p in paths:
         errs.clear(); warn.clear()
         f = pathlib.Path(p)
         if not f.exists(): errs.append(f"файл не найден: {p}"); continue
-        validate(json.loads(f.read_text(encoding="utf-8")))
+        doc = json.loads(f.read_text(encoding="utf-8"))
+        validate(doc)
+        fl = freshness(doc, max_age)
+        if fl: errs.append(fl)
         n = len(json.loads(f.read_text(encoding="utf-8")).get("leads", []))
         for w in warn: print(f"WARN  {p}: {w}")
         for e in errs[:40]: print(f"FAIL  {p}: {e}")

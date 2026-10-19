@@ -2,6 +2,12 @@
 """Порог срабатывания: не «у нас 200 новых репо», а «есть то, что стоит посмотреть сегодня»."""
 import json, os, pathlib, sys, urllib.request
 d = json.loads(pathlib.Path(os.environ.get("LEADS", "data/leads.json")).read_text(encoding="utf-8"))
+from datetime import datetime, timezone
+gen = d.get("generated_at")
+age_h = (datetime.now(timezone.utc) - datetime.fromisoformat(gen.replace("Z", "+00:00"))).total_seconds() / 3600 if gen else 9e9
+if age_h > float(os.environ.get("RADAR_MAX_AGE_H", "4")):
+    print(f"::error::снимку {age_h:.1f} ч - в канал это не отправляем, иначе люди будут триажировать вчерашний список", file=sys.stderr)
+    raise SystemExit(1)
 top = [l for l in d["leads"] if l["lead_score"] >= float(os.environ.get("MIN_SCORE", "1.0"))
        and l["manipulation_risk"] < 0.35 and l.get("license")][:5]
 if not top: print("порог не пройден - молчим (шум в канал = смерть процесса)"); raise SystemExit(0)
@@ -11,6 +17,11 @@ msg = "RADAR: %d кандидата(ов)\n" % len(top) + "\n".join(
 print(msg)
 import time
 t, c = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
+if not c:      # Telegram Variables требуют права Actions:write на запись - читаем chat id из файла в репо
+    for cand in (pathlib.Path("data/telegram.json"), pathlib.Path(__file__).resolve().parent / "data/telegram.json"):
+        if cand.exists():
+            c = str(json.loads(cand.read_text(encoding="utf-8")).get("chat_id") or "")
+            if c: print(f"chat id взят из {cand}"); break
 if "--test" in sys.argv:                              # python3 notify.py --test  (после настройки)
     msg = "RADAR на связи: тестовое сообщение."
 if not t:

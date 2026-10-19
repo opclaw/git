@@ -15,9 +15,7 @@ from datetime import datetime, timedelta, timezone
 
 ARCHIVE = "https://data.gharchive.org/{stamp}.json.gz"
 API = "https://api.github.com"
-UA = {"User-Agent": "radar-v0", "Accept": "application/vnd.github+json"}
-TOK = os.environ.get("GITHUB_TOKEN")
-if TOK: UA["Authorization"] = f"Bearer {TOK}"
+TOK = os.environ.get("GITHUB_TOKEN")   # используется ТОЛЬКО для api.github.com (см. headers_for)
 
 
 def data_dir(create=False):
@@ -35,9 +33,24 @@ def data_dir(create=False):
 
 QUOTA = {"core": None, "search": None}
 
-def http(url, binary=False, timeout=60):
+def headers_for(url):
+    """Заголовок Authorization отправляем ТОЛЬКО на api.github.com.
+    Иначе токен задачи утекает на сторонний хост (data.gharchive.org - это GCS), а он отвечает 401.
+    Проверяено на живом прогоне Actions: 4x HTTP Error 401 от архива."""
+    h = {"User-Agent": "radar-v0"}
+    if urllib.parse.urlparse(url).netloc.endswith("api.github.com"):
+        h["Accept"] = "application/vnd.github+json"
+        h["X-GitHub-Api-Version"] = "2022-11-28"
+        if TOK:
+            h["Authorization"] = f"Bearer {TOK}"
+    return h
+
+
+def http(url, binary=False, timeout=60, accept=None):
     """Один выход в API. Заодно читаем x-ratelimit-remaining - по нему решаем, каким способом брать метаданные."""
-    req = urllib.request.Request(url, headers=UA)
+    hdr = headers_for(url)
+    if accept: hdr["Accept"] = accept
+    req = urllib.request.Request(url, headers=hdr)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         k = "search" if "/search/" in url else "core"
         rem = r.headers.get("x-ratelimit-remaining")
@@ -158,7 +171,11 @@ def main():
     stars, events, actor_repos, selfs = scan(hours)
     print(f"всего WatchEvent: {sum(stars.values())} | уникальных репо: {len(stars)} | аккаунтов: {len(actor_repos)}")
     if not stars:
-        print("пусто - сеть недоступна"); return
+        # Молча выйти со «старым» leads.json = выдать вчерашний снимок за сегодняшний. Запрещаем.
+        print("::error::GH Archive вернул 0 событий за %d ч. leads.json НЕ обновлён, в репо лежит снимок %s. "
+              "Проверь: (1) есть ли файлы %s на data.gharchive.org, (2) не 401 ли (см. headers_for), (3) не 429 ли."
+              % (len(hours), "см. data/leads.json", hours[0]), file=sys.stderr)
+        raise SystemExit(2)
 
     # «кольцо» = аккаунт, наставивший звёзд на >=4 разных репо в этом окне. Считаем долю таких
     # в каждом репо: это бесплатный proxy-индикатор накрутки (в проде - графовая модель).

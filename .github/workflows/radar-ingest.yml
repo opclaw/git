@@ -33,13 +33,13 @@ jobs:
           OPENAI_API_KEY: "${{ secrets.OPENAI_API_KEY }}"
           RADAR_MODEL: "${{ vars.RADAR_MODEL || 'openai/gpt-4.1-mini' }}"
         run: python3 mvp/llm_enrich.py --in data/leads.json --out data/leads.json
-      - name: Валидация контракта (схема lead.v1)
-        run: python3 tools/validate_contracts.py data/leads.json
+      - name: Валидация контракта (схема lead.v1 + свежесть снимка)
+        run: python3 tools/validate_contracts.py data/leads.json --max-age-hours=4
       - name: Commit данных (история лидов = git log, журнал решений бесплатно)
         run: |
           git config user.name radar-bot; git config user.email radar@bot
           cp data/leads.json "data/history/$(date -u +%Y-%m-%d-%H).json"
-          python3 mvp/build_dashboard.py && cp dashboard.html index.html
+          python3 mvp/build_dashboard.py && cp dashboard.html index.html   # устаревший снимок = exit 3
           git add -A; git diff --cached --quiet || git commit -m "radar: $(date -u +%FT%TZ)"
           git push
       - name: Собрать каталог сайта (только витрина и данные, не весь репозиторий)

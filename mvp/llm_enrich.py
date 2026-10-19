@@ -42,14 +42,26 @@ def call(url, key, model, prompt, readme, repo, desc, topics):
                                     {"role": "user", "content": prompt.format(repo=repo, desc=desc, topics=topics, readme=readme[:3000])}]}).encode()
     req = urllib.request.Request(url, data=body, headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=60) as r:
-        txt = json.load(r)["choices"][0]["message"]["content"]
+        raw = r.read().decode("utf-8", "replace")
+    if not raw.strip():
+        raise RuntimeError(f"пустой ответ от {url.split('/inference')[0]} (HTTP {r.status}) - обычно значит, что GitHub Models для репо не включён")
+    d = json.loads(raw)
+    txt = d["choices"][0]["message"]["content"]
     m = re.search(r"\{.*\}", txt, re.S)
-    return json.loads(m.group(0)) if m else None
+    if not m:
+        raise RuntimeError(f"модель ответила не JSON: {txt[:120]!r}")
+    return json.loads(m.group(0))
 
 
 def main():
-    ap = argparse.ArgumentParser(); ap.add_argument("--in", dest="i", default="data/leads.json")
-    ap.add_argument("--out", default=None); ap.add_argument("--max", type=int, default=25); a = ap.parse_args()
+    here = pathlib.Path(__file__).resolve().parent
+    dflt = next((str(x) for x in (here.parent / "data/leads.json", here / "data/leads.json") if x.exists()), str(here / "data/leads.json"))
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--in", dest="i", default=dflt)
+    ap.add_argument("--out", default=None)
+    ap.add_argument("--max", type=int, default=25)
+    ap.add_argument("--strict", action="store_true", help="падать при сбоях модели; по умолчанию - нет, LLM не блокирует выдачу")
+    a = ap.parse_args()
     src = pathlib.Path(a.i); doc = json.loads(src.read_text(encoding="utf-8"))
     cli = client()
     if not cli:
@@ -58,6 +70,7 @@ def main():
     name, url, key, model = cli
     CACHE.mkdir(exist_ok=True)
     done = hits = 0
+    errors = []
     for l in doc["leads"][:a.max]:
         if l.get("llm"): hits += 1; continue
         try:
@@ -67,20 +80,30 @@ def main():
         except Exception:
             readme = l.get("description") or ""
         h = hashlib.sha256(f"{PROMPT_VER}|{model}|{l['repo']}|{readme}".encode()).hexdigest()[:24]
-        cf = CACHE / f"{h}.json"
-        if cf.exists():
-            obj = json.loads(cf.read_text())
-        else:
-            obj = call(url, key, model, USR, readme, l["repo"], l.get("description") or "", " ".join(l.get("topics") or []))
-            if obj: cf.write_text(json.dumps(obj, ensure_ascii=False))
-            done += 1
-        if not obj: continue
-        obj["model"], obj["prompt_ver"] = model, PROMPT_VER
-        l["llm"] = obj
-        if obj.get("ps") and obj["ps"] != l.get("problem_statement"):
-            l["problem_statement"] = obj["ps"]; l["fit_internal"] = round(max(l.get("fit_internal", 0), 0.45), 2)
+        try:                                                    # ни один вызов модели не роняет конвейер:
+            cf = CACHE / f"{h}.json"                            # числа уже посчитаны без LLM
+            if cf.exists():
+                obj = json.loads(cf.read_text())
+            else:
+                obj = call(url, key, model, USR, readme, l["repo"], l.get("description") or "", " ".join(l.get("topics") or []))
+                if obj: cf.write_text(json.dumps(obj, ensure_ascii=False))
+                done += 1
+            if not obj:
+                errors.append(f"{l['repo']}: модель вернула пустой/непарсимый ответ")
+                continue
+            obj["model"], obj["prompt_ver"] = model, PROMPT_VER
+            l["llm"] = obj
+            if obj.get("ps") and obj["ps"] != l.get("problem_statement"):
+                l["problem_statement"] = obj["ps"]; l["fit_internal"] = round(max(l.get("fit_internal", 0), 0.45), 2)
+        except Exception as e:
+            errors.append(f"{l['repo']}: {type(e).__name__}: {str(e)[:120]}")
     src.write_text(json.dumps(doc, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"LLM[{name}/{model}]: новых вызовов {done}, из кэша {hits} - стоимость ~{done*1500/1e6:.4f}M токенов")
+    print(f"LLM[{name}/{model}]: новых вызовов {done}, из кэша {hits}, заполнено {sum(1 for l in doc['leads'] if l.get('llm'))}/{len(doc['leads'])}")
+    if errors:
+        # LLM не имеет права валить конвейер: числа уже посчитаны без неё. Но и молчать нельзя.
+        print(f"::warning::LLM-шаг дал сбой на {len(errors)} репо, выдача не заблокирована. Пример: {errors[0]}", file=sys.stderr)
+    if a.strict and errors:
+        return 1
     return 0
 
 
