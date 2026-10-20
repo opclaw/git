@@ -1,0 +1,55 @@
+# Сторож. GitHub может пропустить запуск по расписанию (см. ниже), и тогда радар молчит,
+# а сайт честно показывает старый снимок. Этот workflow - отдельный, со своим расписанием
+# и своим минутным офсетом: вероятность, что GitHub пропустит оба, заметно ниже.
+name: radar-watchdog
+on:
+  schedule: [{cron: "23 * * * *"}]      # на 23-й минуте - не совпадает с */30 инжеста
+  workflow_dispatch: {}
+permissions:
+  contents: read
+  actions: write                        # иначе gh workflow run ответит 403
+jobs:
+  freshness:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Свежесть снимка
+        id: check
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os, pathlib, datetime as dt
+          p = pathlib.Path("data/leads.json")
+          if not p.exists():
+              print("stale=true"); print("age_h=999"); print("reason=нет data/leads.json"); raise SystemExit(0)
+          d = json.loads(p.read_text(encoding="utf-8"))
+          age = (dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(d["generated_at"].replace("Z", "+00:00"))).total_seconds() / 3600
+          print(f"age_h={age:.1f}")
+          print(f"stale={'true' if age > 2.5 else 'false'}")          # >2.5 ч = минимум 5 пропусков подряд
+          print(f"alarm={'true' if age > 6 else 'false'}")            # >6 ч = молчим слишком долго, надо сказать вслух
+          PY
+      - name: Перезапустить инжест
+        if: steps.check.outputs.stale == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "снимку ${{ steps.check.outputs.age_h }} ч - дёргаем инжест вручную"
+          gh workflow run radar-ingest.yml --ref main
+      - name: Сказать в Telegram, что радар молчит
+        if: steps.check.outputs.alarm == 'true'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, os, pathlib, urllib.request
+          t = os.environ.get("TELEGRAM_BOT_TOKEN")
+          if not t: print("нет токена - только лог"); raise SystemExit(0)
+          chat = json.loads(pathlib.Path("data/telegram.json").read_text(encoding="utf-8")).get("chat_id")
+          txt = ("RADAR молчит: снимку %s ч. Инжест не отрабатывает - "
+                 "проверь https://github.com/opclaw/git/actions" % os.environ.get("AGE", "?"))
+          urllib.request.urlopen(urllib.request.Request(
+              f"https://api.telegram.org/bot{t}/sendMessage",
+              data=json.dumps({"chat_id": chat, "text": txt}).encode(),
+              headers={"Content-Type": "application/json"}), timeout=20).read()
+          print("сообщил в Telegram")
+          PY
+        continue-on-error: true

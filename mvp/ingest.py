@@ -102,13 +102,20 @@ def fetch_metas(repos):
     return got, calls
 
 
+def hour_stamp(t):
+    """GH Archive кладёт файлы как 2026-10-20-0.json.gz - час БЕЗ ведущего нуля.
+    С нулём (…-00.json.gz) сервер отдаёт 404, но только для часов 0..9: то есть радар
+    слеп каждый день с 00:00 до 10:00 UTC. Проверено на живом архиве: -00 -> 404, -0 -> 206."""
+    return "%s-%d" % (t.strftime("%Y-%m-%d"), t.hour)
+
+
 def recent_hours(n):
     """Архив отстаёт на ~1 час и хранит последние ~3 суток -> идём назад от текущего часа."""
     now = datetime.now(timezone.utc) - timedelta(hours=1)
     out, i = [], 0
     while len(out) < n and i < 30:
         t = now - timedelta(hours=i); i += 1
-        out.append(t.strftime("%Y-%m-%d-%H"))
+        out.append(hour_stamp(t))
     return out
 
 
@@ -116,11 +123,13 @@ def scan(hours):
     """Один проход по потоку: никаких файлов на диск, только счётчики."""
     stars = collections.Counter(); events = collections.defaultdict(list)
     actor_repos = collections.defaultdict(set); selfs = collections.Counter()
+    ok = []
     for stamp in hours:
         try:
             raw = gzip.GzipFile(fileobj=io.BytesIO(http(ARCHIVE.format(stamp=stamp), binary=True)))
         except Exception as e:
             print(f"  ! {stamp}: {e}", file=sys.stderr); continue
+        ok.append(stamp)
         n = 0
         for line in raw:
             b = line.strip()
@@ -138,7 +147,7 @@ def scan(hours):
             ts = e.get("created_at")
             if ts: events[repo].append(ts)
         print(f"  {stamp}: WatchEvent {n}")
-    return stars, events, actor_repos, selfs
+    return stars, events, actor_repos, selfs, ok
 
 
 # PS-xx онтология Т3. Здесь детерминированный v0 (12 строк). В проде - 1 вызов LLM
@@ -168,13 +177,19 @@ def main():
     now = datetime.now(timezone.utc)
     hours = recent_hours(a.hours)
     print(f"GH Archive, {len(hours)} часов: {hours[-1]} .. {hours[0]}")
-    stars, events, actor_repos, selfs = scan(hours)
+    stars, events, actor_repos, selfs, ok_hours = scan(hours)
     print(f"всего WatchEvent: {sum(stars.values())} | уникальных репо: {len(stars)} | аккаунтов: {len(actor_repos)}")
+    if ok_hours and len(ok_hours) < len(hours):
+        missing = [h for h in hours if h not in ok_hours]
+        print(f"::warning::архив отдал {len(ok_hours)} из {len(hours)} часов (лаг публикации 30-60 мин): "
+              f"нет {', '.join(missing)}. Окно считаем по тем, что есть.", file=sys.stderr)
+        hours = ok_hours
     if not stars:
         # Молча выйти со «старым» leads.json = выдать вчерашний снимок за сегодняшний. Запрещаем.
-        print("::error::GH Archive вернул 0 событий за %d ч. leads.json НЕ обновлён, в репо лежит снимок %s. "
-              "Проверь: (1) есть ли файлы %s на data.gharchive.org, (2) не 401 ли (см. headers_for), (3) не 429 ли."
-              % (len(hours), "см. data/leads.json", hours[0]), file=sys.stderr)
+        print("::error::GH Archive не отдал ни одного часа из %d запрошенных (%s..%s). leads.json НЕ обновлён. "
+              "Проверь по порядку: (1) формат часа без ведущего нуля (см. hour_stamp), (2) не 401 ли - "
+              "Authorization только для api.github.com, (3) не 429 ли, (4) есть ли файлы на data.gharchive.org."
+              % (len(hours), hours[-1], hours[0]), file=sys.stderr)
         raise SystemExit(2)
 
     # «кольцо» = аккаунт, наставивший звёзд на >=4 разных репо в этом окне. Считаем долю таких
