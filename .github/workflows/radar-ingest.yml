@@ -51,7 +51,9 @@ jobs:
           git push
       - name: Собрать каталог сайта (только витрина и данные, не весь репозиторий)
         run: |
-          mkdir -p site/data && cp index.html site/index.html && cp data/leads.json site/data/leads.json
+          mkdir -p site/data
+          cp index.html site/index.html && cp data/leads.json site/data/leads.json
+          python3 mvp/build_day.py && cp day.html site/day.html   # агрегат за сутки: если смотреть раз в день
       - uses: actions/upload-pages-artifact@v4
         with: {path: "site"}
       - uses: actions/deploy-pages@v4

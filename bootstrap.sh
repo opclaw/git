@@ -6,6 +6,7 @@ echo "== 1. python =="; python3 -V
 echo "== 2. инжест (реальные данные) =="; python3 mvp/ingest.py --hours 8 --top 24
 echo "== 3. LLM-шаг (без ключа пропустится) =="; python3 mvp/llm_enrich.py || true
 echo "== 4. дашборд =="; python3 mvp/build_dashboard.py && cp dashboard.html index.html
+echo "== 4b. витрина за сутки =="; python3 mvp/build_day.py || true
 echo "== 5. контракт =="; python3 tools/validate_contracts.py data/leads.json
 if [ -d .git ]; then echo "== 6. git уже инициализирован - пропускаю =="; else
   git init -q
