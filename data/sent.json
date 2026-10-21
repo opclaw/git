@@ -25,5 +25,10 @@
  "fastapi/typer": "2026-10-20T23:00:01+00:00",
  "gradium-ai/xn-ptts": "2026-10-21T01:28:46+00:00",
  "thesysdev/openui": "2026-10-21T01:28:46+00:00",
- "Graphify-Labs/graphify": "2026-10-21T01:28:46+00:00"
+ "Graphify-Labs/graphify": "2026-10-21T01:28:46+00:00",
+ "kuafuai/andee": "2026-10-21T07:50:02+00:00",
+ "ZiChuanLan/pi-purge": "2026-10-21T07:50:02+00:00",
+ "AhmadHassan-BTed/ThreadRace": "2026-10-21T07:50:02+00:00",
+ "mmparko/dsh-purge": "2026-10-21T07:50:02+00:00",
+ "gamedev-skills/awesome-gamedev-agent-skills": "2026-10-21T07:50:02+00:00"
 }
