@@ -1,0 +1,332 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-10-22T23:02:22Z",
+ "window": {
+  "hours": 3,
+  "from": "2026-10-22-19",
+  "to": "2026-10-22-21",
+  "watch_events": 467,
+  "repos": 421,
+  "actors": 450,
+  "ring_accounts": 0,
+  "api_calls": 6,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261022-06",
+   "repo": "Comfy-Org/ComfyUI",
+   "url": "https://github.com/Comfy-Org/ComfyUI",
+   "first_seen_at": "2026-10-22T23:02:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 142006,
+   "forks": 16743,
+   "open_issues": 5328,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 105221,
+   "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+   "topics": [
+    "ai",
+    "comfy",
+    "comfyui",
+    "python",
+    "pytorch",
+    "stable-diffusion"
+   ],
+   "signals": {
+    "age_days": 1374.8,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.2,
+    "stars_per_day_recent": 32.6,
+    "lifetime_stars_per_day": 103.29,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.89,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.04,
+   "score_explain": [
+    "V=0.16: хвост 32.6 зв/сут против штатных 103.3 (x0)",
+    "N=0.2: репо 1375 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.89 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T03:02:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261022-04",
+   "repo": "Veldanabwah/Veldanabwah",
+   "url": "https://github.com/Veldanabwah/Veldanabwah",
+   "first_seen_at": "2026-10-22T23:02:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 40,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 4,
+   "description": "Profil gue — versi yang ada animasinya 🐟",
+   "topics": [],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.1,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 80.0,
+    "acceleration": 1.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.97,
+   "score_explain": [
+    "V=1.03: хвост 144.0 зв/сут против штатных 80.0 (x2)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T03:02:22Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261022-01",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-10-22T23:02:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 365903,
+   "forks": 91695,
+   "open_issues": 1564,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 98981,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "binary-analysis",
+    "claude-code",
+    "cli",
+    "codex"
+   ],
+   "signals": {
+    "age_days": 191.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 11,
+    "window_h": 2.4,
+    "stars_per_day_recent": 109.7,
+    "lifetime_stars_per_day": 1906.5,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.96,
+   "score_explain": [
+    "V=0.03: хвост 109.7 зв/сут против штатных 1906.5 (x0)",
+    "N=0.2: репо 192 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T03:02:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261022-05",
+   "repo": "affaan-m/ECC",
+   "url": "https://github.com/affaan-m/ECC",
+   "first_seen_at": "2026-10-22T23:02:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 286492,
+   "forks": 42497,
+   "open_issues": 257,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 59170,
+   "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+   "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm"
+   ],
+   "signals": {
+    "age_days": 277.9,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 1.5,
+    "stars_per_day_recent": 49.5,
+    "lifetime_stars_per_day": 1030.83,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.95,
+   "score_explain": [
+    "V=0.03: хвост 49.5 зв/сут против штатных 1030.8 (x0)",
+    "N=0.2: репо 278 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T03:02:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261022-03",
+   "repo": "NVIDIA/OpenShell",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "first_seen_at": "2026-10-22T23:02:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 17681,
+   "forks": 1832,
+   "open_issues": 561,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 92463,
+   "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+   "topics": [],
+   "signals": {
+    "age_days": 240.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 2.0,
+    "stars_per_day_recent": 60.5,
+    "lifetime_stars_per_day": 73.67,
+    "acceleration": 0.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.94,
+   "score_explain": [
+    "V=0.36: хвост 60.5 зв/сут против штатных 73.7 (x1)",
+    "N=0.2: репо 240 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T03:02:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261022-02",
+   "repo": "cloudflare/security-audit-skill",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "first_seen_at": "2026-10-22T23:02:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 39440,
+   "forks": 2455,
+   "open_issues": 80,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 143,
+   "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "topics": [],
+   "signals": {
+    "age_days": 126.4,
+    "last_push_days_ago": 38,
+    "stars_in_window": 7,
+    "window_h": 2.3,
+    "stars_per_day_recent": 74.6,
+    "lifetime_stars_per_day": 312.1,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.85,
+   "score_explain": [
+    "V=0.13: хвост 74.6 зв/сут против штатных 312.1 (x0)",
+    "N=0.6: репо 126 дн от роду",
+    "C=0.0: пуш 38 дн назад",
+    "fit=0.7 -> PS-sec",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T03:02:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}

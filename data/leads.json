@@ -1,87 +1,31 @@
 {
  "schema": "radar/leads.v1",
- "generated_at": "2026-10-22T22:29:42Z",
+ "generated_at": "2026-10-22T23:02:22Z",
  "window": {
-  "hours": 4,
-  "from": "2026-10-22-18",
+  "hours": 3,
+  "from": "2026-10-22-19",
   "to": "2026-10-22-21",
-  "watch_events": 656,
-  "repos": 578,
-  "actors": 634,
+  "watch_events": 467,
+  "repos": 421,
+  "actors": 450,
   "ring_accounts": 0,
-  "api_calls": 12,
+  "api_calls": 6,
   "authenticated": true
  },
  "leads": [
   {
-   "lead_id": "L-20261022-10",
-   "repo": "opentrap/opentrap",
-   "url": "https://github.com/opentrap/opentrap",
-   "first_seen_at": "2026-10-22T22:29:42Z",
-   "channel": "gh_archive_watch",
-   "stars": 378,
-   "forks": 5,
-   "open_issues": 0,
-   "language": "Java",
-   "license": "AGPL-3.0",
-   "archived": false,
-   "size_kb": 23662,
-   "description": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0.",
-   "topics": [
-    "application-security",
-    "appsec",
-    "bug-bounty",
-    "burp-alternative",
-    "burp-suite",
-    "dast"
-   ],
-   "signals": {
-    "age_days": 3.8,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 2.2,
-    "stars_per_day_recent": 32.9,
-    "lifetime_stars_per_day": 99.68,
-    "acceleration": 0.3,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.89,
-   "problem_statement": "PS-sec",
-   "manipulation_risk": 0.0,
-   "lead_score": 1.28,
-   "score_explain": [
-    "V=0.29: хвост 32.9 зв/сут против штатных 99.7 (x0)",
-    "N=1.0: репо 4 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.89 -> PS-sec",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-23T02:29:42Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261022-04",
+   "lead_id": "L-20261022-06",
    "repo": "Comfy-Org/ComfyUI",
    "url": "https://github.com/Comfy-Org/ComfyUI",
-   "first_seen_at": "2026-10-22T22:29:42Z",
+   "first_seen_at": "2026-10-22T23:02:22Z",
    "channel": "gh_archive_watch",
-   "stars": 142003,
+   "stars": 142006,
    "forks": 16743,
-   "open_issues": 5333,
+   "open_issues": 5328,
    "language": "Python",
    "license": "GPL-3.0",
    "archived": false,
-   "size_kb": 105206,
+   "size_kb": 105221,
    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
    "topics": [
     "ai",
@@ -94,9 +38,9 @@
    "signals": {
     "age_days": 1374.8,
     "last_push_days_ago": 0,
-    "stars_in_window": 4,
-    "window_h": 3.1,
-    "stars_per_day_recent": 31.0,
+    "stars_in_window": 3,
+    "window_h": 2.2,
+    "stars_per_day_recent": 32.6,
     "lifetime_stars_per_day": 103.29,
     "acceleration": 0.3,
     "self_star_share": 0.0,
@@ -105,9 +49,9 @@
    "fit_internal": 0.89,
    "problem_statement": "PS-ml",
    "manipulation_risk": 0.0,
-   "lead_score": 1.03,
+   "lead_score": 1.04,
    "score_explain": [
-    "V=0.16: хвост 31.0 зв/сут против штатных 103.3 (x0)",
+    "V=0.16: хвост 32.6 зв/сут против штатных 103.3 (x0)",
     "N=0.2: репо 1375 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.89 -> PS-ml",
@@ -116,7 +60,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-23T02:29:42Z",
+    "sla_deadline": "2026-10-23T03:02:22Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -126,66 +70,10 @@
    }
   },
   {
-   "lead_id": "L-20261022-07",
-   "repo": "DietrichGebert/ponytail",
-   "url": "https://github.com/DietrichGebert/ponytail",
-   "first_seen_at": "2026-10-22T22:29:42Z",
-   "channel": "gh_archive_watch",
-   "stars": 173347,
-   "forks": 9436,
-   "open_issues": 91,
-   "language": "JavaScript",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 12771,
-   "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "claude",
-    "claude-code",
-    "claude-code-plugin",
-    "cursor-rules"
-   ],
-   "signals": {
-    "age_days": 132.9,
-    "last_push_days_ago": 4,
-    "stars_in_window": 3,
-    "window_h": 1.3,
-    "stars_per_day_recent": 53.9,
-    "lifetime_stars_per_day": 1304.33,
-    "acceleration": 0.0,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.96,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 1.03,
-   "score_explain": [
-    "V=0.02: хвост 53.9 зв/сут против штатных 1304.3 (x0)",
-    "N=0.6: репо 133 дн от роду",
-    "C=1.0: пуш 4 дн назад",
-    "fit=0.96 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-23T02:29:42Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261022-05",
+   "lead_id": "L-20261022-04",
    "repo": "Veldanabwah/Veldanabwah",
    "url": "https://github.com/Veldanabwah/Veldanabwah",
-   "first_seen_at": "2026-10-22T22:29:42Z",
+   "first_seen_at": "2026-10-22T23:02:22Z",
    "channel": "gh_archive_watch",
    "stars": 40,
    "forks": 0,
@@ -221,7 +109,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-23T02:29:42Z",
+    "sla_deadline": "2026-10-23T03:02:22Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -234,11 +122,11 @@
    "lead_id": "L-20261022-01",
    "repo": "morluto/rea",
    "url": "https://github.com/morluto/rea",
-   "first_seen_at": "2026-10-22T22:29:42Z",
+   "first_seen_at": "2026-10-22T23:02:22Z",
    "channel": "gh_archive_watch",
-   "stars": 365789,
-   "forks": 91668,
-   "open_issues": 1562,
+   "stars": 365903,
+   "forks": 91695,
+   "open_issues": 1564,
    "language": "TypeScript",
    "license": "MIT",
    "archived": false,
@@ -255,10 +143,10 @@
    "signals": {
     "age_days": 191.9,
     "last_push_days_ago": 0,
-    "stars_in_window": 12,
-    "window_h": 2.6,
-    "stars_per_day_recent": 110.1,
-    "lifetime_stars_per_day": 1906.13,
+    "stars_in_window": 11,
+    "window_h": 2.4,
+    "stars_per_day_recent": 109.7,
+    "lifetime_stars_per_day": 1906.5,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -268,7 +156,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.96,
    "score_explain": [
-    "V=0.03: хвост 110.1 зв/сут против штатных 1906.1 (x0)",
+    "V=0.03: хвост 109.7 зв/сут против штатных 1906.5 (x0)",
     "N=0.2: репо 192 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.96 -> PS-infer",
@@ -277,7 +165,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-23T02:29:42Z",
+    "sla_deadline": "2026-10-23T03:02:22Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -287,14 +175,14 @@
    }
   },
   {
-   "lead_id": "L-20261022-08",
+   "lead_id": "L-20261022-05",
    "repo": "affaan-m/ECC",
    "url": "https://github.com/affaan-m/ECC",
-   "first_seen_at": "2026-10-22T22:29:42Z",
+   "first_seen_at": "2026-10-22T23:02:22Z",
    "channel": "gh_archive_watch",
-   "stars": 286473,
-   "forks": 42493,
-   "open_issues": 256,
+   "stars": 286492,
+   "forks": 42497,
+   "open_issues": 257,
    "language": "JavaScript",
    "license": "MIT",
    "archived": false,
@@ -314,7 +202,7 @@
     "stars_in_window": 3,
     "window_h": 1.5,
     "stars_per_day_recent": 49.5,
-    "lifetime_stars_per_day": 1030.84,
+    "lifetime_stars_per_day": 1030.83,
     "acceleration": 0.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -333,58 +221,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-23T02:29:42Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261022-06",
-   "repo": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
-   "url": "https://github.com/david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
-   "first_seen_at": "2026-10-22T22:29:42Z",
-   "channel": "gh_archive_watch",
-   "stars": 300,
-   "forks": 217,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 6,
-   "description": "High-performance Roblox aimbot with adaptive smooth tracking and precise auto aim. Fully configurable, works with most executors, clean modular structure. Easy setup for current Roblox version.",
-   "topics": [
-    "roblox"
-   ],
-   "signals": {
-    "age_days": 0.5,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 0.2,
-    "stars_per_day_recent": 144.0,
-    "lifetime_stars_per_day": 600.0,
-    "acceleration": 0.2,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.5,
-   "problem_statement": "PS-ml",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.93,
-   "score_explain": [
-    "V=0.22: хвост 144.0 зв/сут против штатных 600.0 (x0)",
-    "N=1.0: репо 0 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.5 -> PS-ml",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-23T02:29:42Z",
+    "sla_deadline": "2026-10-23T03:02:22Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -397,11 +234,11 @@
    "lead_id": "L-20261022-03",
    "repo": "NVIDIA/OpenShell",
    "url": "https://github.com/NVIDIA/OpenShell",
-   "first_seen_at": "2026-10-22T22:29:42Z",
+   "first_seen_at": "2026-10-22T23:02:22Z",
    "channel": "gh_archive_watch",
-   "stars": 17645,
+   "stars": 17681,
    "forks": 1832,
-   "open_issues": 560,
+   "open_issues": 561,
    "language": "Rust",
    "license": "Apache-2.0",
    "archived": false,
@@ -411,20 +248,20 @@
    "signals": {
     "age_days": 240.0,
     "last_push_days_ago": 0,
-    "stars_in_window": 7,
-    "window_h": 3.1,
-    "stars_per_day_recent": 54.0,
-    "lifetime_stars_per_day": 73.53,
-    "acceleration": 0.7,
+    "stars_in_window": 5,
+    "window_h": 2.0,
+    "stars_per_day_recent": 60.5,
+    "lifetime_stars_per_day": 73.67,
+    "acceleration": 0.8,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
    "fit_internal": 0.52,
    "problem_statement": "PS-infer",
    "manipulation_risk": 0.0,
-   "lead_score": 0.91,
+   "lead_score": 0.94,
    "score_explain": [
-    "V=0.33: хвост 54.0 зв/сут против штатных 73.5 (x1)",
+    "V=0.36: хвост 60.5 зв/сут против штатных 73.7 (x1)",
     "N=0.2: репо 240 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.52 -> PS-infer",
@@ -433,7 +270,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-23T02:29:42Z",
+    "sla_deadline": "2026-10-23T03:02:22Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -446,10 +283,10 @@
    "lead_id": "L-20261022-02",
    "repo": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
-   "first_seen_at": "2026-10-22T22:29:42Z",
+   "first_seen_at": "2026-10-22T23:02:22Z",
    "channel": "gh_archive_watch",
-   "stars": 39388,
-   "forks": 2452,
+   "stars": 39440,
+   "forks": 2455,
    "open_issues": 80,
    "language": "JavaScript",
    "license": "MIT",
@@ -458,12 +295,12 @@
    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
    "topics": [],
    "signals": {
-    "age_days": 126.3,
+    "age_days": 126.4,
     "last_push_days_ago": 38,
-    "stars_in_window": 10,
-    "window_h": 3.5,
-    "stars_per_day_recent": 69.1,
-    "lifetime_stars_per_day": 311.74,
+    "stars_in_window": 7,
+    "window_h": 2.3,
+    "stars_per_day_recent": 74.6,
+    "lifetime_stars_per_day": 312.1,
     "acceleration": 0.2,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -471,9 +308,9 @@
    "fit_internal": 0.7,
    "problem_statement": "PS-sec",
    "manipulation_risk": 0.0,
-   "lead_score": 0.84,
+   "lead_score": 0.85,
    "score_explain": [
-    "V=0.12: хвост 69.1 зв/сут против штатных 311.7 (x0)",
+    "V=0.13: хвост 74.6 зв/сут против штатных 312.1 (x0)",
     "N=0.6: репо 126 дн от роду",
     "C=0.0: пуш 38 дн назад",
     "fit=0.7 -> PS-sec",
@@ -482,167 +319,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-23T02:29:42Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261022-12",
-   "repo": "wesbos/3d-model-anything",
-   "url": "https://github.com/wesbos/3d-model-anything",
-   "first_seen_at": "2026-10-22T22:29:42Z",
-   "channel": "gh_archive_watch",
-   "stars": 443,
-   "forks": 77,
-   "open_issues": 3,
-   "language": "Swift",
-   "license": "NOASSERTION",
-   "archived": false,
-   "size_kb": 36174,
-   "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
-   "topics": [],
-   "signals": {
-    "age_days": 1.1,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 3.4,
-    "stars_per_day_recent": 21.5,
-    "lifetime_stars_per_day": 396.01,
-    "acceleration": 0.1,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.5,
-   "problem_statement": "PS-ml",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.79,
-   "score_explain": [
-    "V=0.05: хвост 21.5 зв/сут против штатных 396.0 (x0)",
-    "N=1.0: репо 1 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.5 -> PS-ml",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-23T02:29:42Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261022-11",
-   "repo": "Gathin23/cleanyourtv",
-   "url": "https://github.com/Gathin23/cleanyourtv",
-   "first_seen_at": "2026-10-22T22:29:42Z",
-   "channel": "gh_archive_watch",
-   "stars": 23785,
-   "forks": 2599,
-   "open_issues": 124,
-   "language": "Java",
-   "license": "NOASSERTION",
-   "archived": false,
-   "size_kb": 25762,
-   "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-   "topics": [
-    "adb",
-    "adblock",
-    "android-tv",
-    "android-tv-launcher",
-    "apple-tv",
-    "bloatware-removal"
-   ],
-   "signals": {
-    "age_days": 5.6,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 2.8,
-    "stars_per_day_recent": 25.8,
-    "lifetime_stars_per_day": 4250.94,
-    "acceleration": 0.0,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.0,
-   "problem_statement": "PS-unknown",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.37,
-   "score_explain": [
-    "V=0.01: хвост 25.8 зв/сут против штатных 4250.9 (x0)",
-    "N=1.0: репо 6 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.0 -> PS-unknown",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-23T02:29:42Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261022-09",
-   "repo": "sindresorhus/awesome",
-   "url": "https://github.com/sindresorhus/awesome",
-   "first_seen_at": "2026-10-22T22:29:42Z",
-   "channel": "gh_archive_watch",
-   "stars": 523142,
-   "forks": 37683,
-   "open_issues": 105,
-   "language": null,
-   "license": "CC0-1.0",
-   "archived": false,
-   "size_kb": 1566,
-   "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-   "topics": [
-    "awesome",
-    "awesome-list",
-    "lists",
-    "resources",
-    "unicorns"
-   ],
-   "signals": {
-    "age_days": 4486.4,
-    "last_push_days_ago": 50,
-    "stars_in_window": 3,
-    "window_h": 2.0,
-    "stars_per_day_recent": 36.3,
-    "lifetime_stars_per_day": 116.61,
-    "acceleration": 0.3,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.0,
-   "problem_statement": "PS-unknown",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.25,
-   "score_explain": [
-    "V=0.16: хвост 36.3 зв/сут против штатных 116.6 (x0)",
-    "N=0.2: репо 4486 дн от роду",
-    "C=0.0: пуш 50 дн назад",
-    "fit=0.0 -> PS-unknown",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-23T02:29:42Z",
+    "sla_deadline": "2026-10-23T03:02:22Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
