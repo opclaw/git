@@ -1,0 +1,654 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-10-23T01:38:47Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-10-22-21",
+  "to": "2026-10-23-0",
+  "watch_events": 604,
+  "repos": 538,
+  "actors": 560,
+  "ring_accounts": 5,
+  "api_calls": 12,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261023-05",
+   "repo": "Spectrmachina/Ztrust",
+   "url": "https://github.com/Spectrmachina/Ztrust",
+   "first_seen_at": "2026-10-23T01:38:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 152,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 237,
+   "description": "Zero-trust supply-chain security for open source: detects malicious & vulnerable dependencies, typosquats, leaked secrets and unsafe GitHub Actions — and pays independent researchers in shielded Zcash via a front-running-proof bounty protocol.",
+   "topics": [],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.2,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 304.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.31,
+   "score_explain": [
+    "V=0.49: хвост 192.0 зв/сут против штатных 304.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-sec",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T05:38:47Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261023-04",
+   "repo": "Ebony-Vinyl/dsh-our-free-model",
+   "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+   "first_seen_at": "2026-10-23T01:38:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 36861,
+   "forks": 1059,
+   "open_issues": 315,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 19166,
+   "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+   "topics": [
+    "ai-agents",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin"
+   ],
+   "signals": {
+    "age_days": 28.4,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.4,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 1298.38,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.03,
+   "score_explain": [
+    "V=0.14: хвост 192.0 зв/сут против штатных 1298.4 (x0)",
+    "N=1.0: репо 28 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T05:38:47Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261023-09",
+   "repo": "DietrichGebert/ponytail",
+   "url": "https://github.com/DietrichGebert/ponytail",
+   "first_seen_at": "2026-10-23T01:38:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 173540,
+   "forks": 9443,
+   "open_issues": 92,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 12771,
+   "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules"
+   ],
+   "signals": {
+    "age_days": 133.0,
+    "last_push_days_ago": 4,
+    "stars_in_window": 3,
+    "window_h": 1.9,
+    "stars_per_day_recent": 37.4,
+    "lifetime_stars_per_day": 1304.5,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.02,
+   "score_explain": [
+    "V=0.02: хвост 37.4 зв/сут против штатных 1304.5 (x0)",
+    "N=0.6: репо 133 дн от роду",
+    "C=1.0: пуш 4 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T05:38:47Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261023-07",
+   "repo": "Veldanabwah/Veldanabwah",
+   "url": "https://github.com/Veldanabwah/Veldanabwah",
+   "first_seen_at": "2026-10-23T01:38:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 40,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 4,
+   "description": "Profil gue — versi yang ada animasinya 🐟",
+   "topics": [],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.1,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 80.0,
+    "acceleration": 1.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.97,
+   "score_explain": [
+    "V=1.03: хвост 144.0 зв/сут против штатных 80.0 (x2)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T05:38:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261023-01",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-10-23T01:38:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 366493,
+   "forks": 91827,
+   "open_issues": 1574,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 99202,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "binary-analysis",
+    "claude-code",
+    "cli",
+    "codex"
+   ],
+   "signals": {
+    "age_days": 192.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 13,
+    "window_h": 3.4,
+    "stars_per_day_recent": 92.8,
+    "lifetime_stars_per_day": 1908.49,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.95,
+   "score_explain": [
+    "V=0.03: хвост 92.8 зв/сут против штатных 1908.5 (x0)",
+    "N=0.2: репо 192 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T05:38:47Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261023-12",
+   "repo": "debpalash/VoiceStudio",
+   "url": "https://github.com/debpalash/VoiceStudio",
+   "first_seen_at": "2026-10-23T01:38:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 81800,
+   "forks": 9040,
+   "open_issues": 317,
+   "language": "Python",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "size_kb": 138357,
+   "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+   "topics": [
+    "ai",
+    "audiobook",
+    "cuda",
+    "dubbing",
+    "elevenlabs-alternative",
+    "huggingface"
+   ],
+   "signals": {
+    "age_days": 196.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 3.7,
+    "stars_per_day_recent": 19.7,
+    "lifetime_stars_per_day": 416.99,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.89,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.9,
+   "score_explain": [
+    "V=0.03: хвост 19.7 зв/сут против штатных 417.0 (x0)",
+    "N=0.2: репо 196 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.89 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T05:38:47Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261023-11",
+   "repo": "Raphire/Win11Debloat",
+   "url": "https://github.com/Raphire/Win11Debloat",
+   "first_seen_at": "2026-10-23T01:38:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 60463,
+   "forks": 2648,
+   "open_issues": 49,
+   "language": "PowerShell",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 2697,
+   "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+   "topics": [
+    "automated",
+    "bloatware",
+    "bloatware-removal",
+    "cleanup",
+    "cli",
+    "debloat"
+   ],
+   "signals": {
+    "age_days": 2186.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 3.4,
+    "stars_per_day_recent": 21.1,
+    "lifetime_stars_per_day": 27.66,
+    "acceleration": 0.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.82,
+   "score_explain": [
+    "V=0.34: хвост 21.1 зв/сут против штатных 27.7 (x1)",
+    "N=0.2: репо 2186 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T05:38:47Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261023-03",
+   "repo": "cloudflare/security-audit-skill",
+   "url": "https://github.com/cloudflare/security-audit-skill",
+   "first_seen_at": "2026-10-23T01:38:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 39638,
+   "forks": 2471,
+   "open_issues": 80,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 143,
+   "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+   "topics": [],
+   "signals": {
+    "age_days": 126.5,
+    "last_push_days_ago": 38,
+    "stars_in_window": 5,
+    "window_h": 2.9,
+    "stars_per_day_recent": 41.4,
+    "lifetime_stars_per_day": 313.4,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.8,
+   "score_explain": [
+    "V=0.07: хвост 41.4 зв/сут против штатных 313.4 (x0)",
+    "N=0.6: репо 126 дн от роду",
+    "C=0.0: пуш 38 дн назад",
+    "fit=0.7 -> PS-sec",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T05:38:47Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261023-08",
+   "repo": "gr8rstudio/gr8r-studio",
+   "url": "https://github.com/gr8rstudio/gr8r-studio",
+   "first_seen_at": "2026-10-23T01:38:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 1205,
+   "forks": 261,
+   "open_issues": 5,
+   "language": "JavaScript",
+   "license": null,
+   "archived": false,
+   "size_kb": 696,
+   "description": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+   "topics": [],
+   "signals": {
+    "age_days": 15.6,
+    "last_push_days_ago": 15,
+    "stars_in_window": 3,
+    "window_h": 1.7,
+    "stars_per_day_recent": 42.0,
+    "lifetime_stars_per_day": 77.34,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.78,
+   "score_explain": [
+    "V=0.43: хвост 42.0 зв/сут против штатных 77.3 (x1)",
+    "N=1.0: репо 16 дн от роду",
+    "C=0.5: пуш 15 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T05:38:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261023-10",
+   "repo": "stablyai/orca",
+   "url": "https://github.com/stablyai/orca",
+   "first_seen_at": "2026-10-23T01:38:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 102821,
+   "forks": 6490,
+   "open_issues": 8639,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 1580412,
+   "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+   "topics": [
+    "ade",
+    "agent-ide",
+    "ai-agents",
+    "automation",
+    "bot",
+    "claude-code"
+   ],
+   "signals": {
+    "age_days": 219.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.2,
+    "stars_per_day_recent": 32.8,
+    "lifetime_stars_per_day": 467.53,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.72,
+   "score_explain": [
+    "V=0.04: хвост 32.8 зв/сут против штатных 467.5 (x0)",
+    "N=0.2: репо 220 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T05:38:47Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261023-06",
+   "repo": "seedds/nxnative",
+   "url": "https://github.com/seedds/nxnative",
+   "first_seen_at": "2026-10-23T01:38:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 1695,
+   "forks": 332,
+   "open_issues": 16,
+   "language": "C",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 41707,
+   "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+   "topics": [],
+   "signals": {
+    "age_days": 9.8,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 3.1,
+    "stars_per_day_recent": 30.9,
+    "lifetime_stars_per_day": 172.15,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.51,
+   "score_explain": [
+    "V=0.17: хвост 30.9 зв/сут против штатных 172.1 (x0)",
+    "N=1.0: репо 10 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T05:38:47Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261023-02",
+   "repo": "Gathin23/cleanyourtv",
+   "url": "https://github.com/Gathin23/cleanyourtv",
+   "first_seen_at": "2026-10-23T01:38:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 24221,
+   "forks": 2661,
+   "open_issues": 141,
+   "language": "Java",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 26038,
+   "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+   "topics": [
+    "adb",
+    "adblock",
+    "android-tv",
+    "android-tv-launcher",
+    "apple-tv",
+    "bloatware-removal"
+   ],
+   "signals": {
+    "age_days": 5.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 3.0,
+    "stars_per_day_recent": 63.0,
+    "lifetime_stars_per_day": 4229.61,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.38,
+   "score_explain": [
+    "V=0.01: хвост 63.0 зв/сут против штатных 4229.6 (x0)",
+    "N=1.0: репо 6 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-23T05:38:47Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}
