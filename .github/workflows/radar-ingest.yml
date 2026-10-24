@@ -1,12 +1,16 @@
 # .github/workflows/radar-ingest.yml  — ЕДИНСТВЕННЫЙ «сервер» MVP: cron на бесплатных минутах Actions.
 # Положить в репозиторий как .github/workflows/radar-ingest.yml. Settings -> Pages -> Source: GitHub Actions.
+#
+# ПОРЯДОК ШАГОВ ВАЖЕН: всё, что должно сохраниться (catalog.json, sent.json, html),
+# собирается ДО коммита. Раннер после прогона умирает, и всё несохранённое исчезает -
+# именно поэтому витрины стоят раньше git commit, а не после.
 name: radar-ingest
 on:
   schedule: [{cron: "*/30 * * * *"}]          # каждые 30 мин: окно GH Archive = последние 4 часа
   workflow_dispatch: {}                        # ручной запуск, когда Т2 ждёт пачку
   issues: {types: [opened]}                    # опция: «@radar проверь этот репо» из issue
 permissions:
-  contents: write        # коммит обновлённого data/leads.json
+  contents: write        # коммит данных и витрин
   pages: write           # деплой статики через upload/deploy-pages
   id-token: write        # attestation для Pages
   models: read           # БЕЗ ЭТОГО GitHub Models вернёт 403 на GITHUB_TOKEN
@@ -24,9 +28,11 @@ jobs:
           cache: pip
           cache-dependency-path: mvp/requirements.txt   # файл не в корне -> без этой строки step падает
       - run: pip install -r mvp/requirements.txt   # пустой: ядро MVP только на stdlib, зависимостей нет
+
       - name: Ingest + scoring (детерминированно, без LLM)
         env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}", HOURS: "4", TOP: "40"}
         run: python3 mvp/ingest.py --hours ${HOURS} --top ${TOP}
+
       - name: LLM-обогащение (fit + краткое досье) — пропускается без ключа или если Models закрыт
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"     # GitHub Models ЗАКРЫТ 2026-07-30 - шаг сам это определит и пропустит
@@ -35,28 +41,40 @@ jobs:
           RADAR_LLM_BASE: "${{ vars.RADAR_LLM_BASE }}"    # например https://api.groq.com/openai/v1
           RADAR_MODEL: "${{ vars.RADAR_MODEL || 'openai/gpt-4.1-mini' }}"
         run: python3 mvp/llm_enrich.py --in data/leads.json --out data/leads.json
+
       - name: Валидация контракта (схема lead.v1 + свежесть снимка)
         run: python3 tools/validate_contracts.py data/leads.json --max-age-hours=4
+
       - name: Алерт в Telegram/Slack, если нашлось что-то выше порога
         if: success()
         env: {TELEGRAM_BOT_TOKEN: "${{ secrets.TELEGRAM_BOT_TOKEN }}", TELEGRAM_CHAT_ID: "${{ vars.TELEGRAM_CHAT_ID }}"}
         run: python3 mvp/notify.py || true
+
+      # --- всё, что попадает в коммит, собирается здесь ---
+      - name: Собрать витрины (живой экран, сутки, каталог)
+        run: |
+          python3 mvp/build_dashboard.py && cp dashboard.html index.html   # устаревший снимок = exit 3
+          python3 mvp/build_day.py        && echo "витрина за сутки собрана"
+          python3 mvp/build_catalog.py                                      # + data/catalog.json, ротация снимков
+      # ---------------------------------------------------
+
       - name: Commit данных (история лидов = git log, журнал решений бесплатно)
         run: |
           git config user.name radar-bot; git config user.email radar@bot
           mkdir -p data/history          # пустой каталог git не хранит - в чекауте его просто нет
           cp data/leads.json "data/history/$(date -u +%Y-%m-%d-%H).json"
-          python3 mvp/build_dashboard.py && cp dashboard.html index.html   # устаревший снимок = exit 3
           git add -A; git diff --cached --quiet || git commit -m "radar: $(date -u +%FT%TZ)"
           git push
+
       - name: Собрать каталог сайта (только витрина и данные, не весь репозиторий)
         run: |
           mkdir -p site/data
-          cp index.html site/index.html && cp data/leads.json site/data/leads.json
-          python3 mvp/build_day.py && cp day.html site/day.html   # агрегат за сутки: если смотреть раз в день
+          cp index.html site/index.html && cp day.html site/day.html && cp catalog.html site/catalog.html
+          cp data/leads.json site/data/leads.json && cp data/catalog.json site/data/catalog.json
       - uses: actions/upload-pages-artifact@v4
         with: {path: "site"}
       - uses: actions/deploy-pages@v4
+
       - name: Итог прогона в лог (для разбора Т4/Т5)
         if: always()
-        run: python3 -c "import json;d=json.load(open('data/leads.json'));w=d['window'];print('лидов',len(d['leads']),'| WatchEvent',w['watch_events'],'| API-вызовов',w['api_calls'],'| authenticated',w['authenticated']);print('с LLM:',sum(1 for l in d['leads'] if l.get('llm')),'из',len(d['leads']))" || echo "leads.json не найден - инжест падал, см. лог выше"
+        run: python3 -c "import json;d=json.load(open('data/leads.json'));c=json.load(open('data/catalog.json'));w=d['window'];print('лидов',len(d['leads']),'| WatchEvent',w['watch_events'],'| API-вызовов',w['api_calls'],'| в каталоге',len(c));print('с LLM:',sum(1 for l in d['leads'] if l.get('llm')),'из',len(d['leads']))" || echo "leads.json не найден - инжест падал, см. лог выше"

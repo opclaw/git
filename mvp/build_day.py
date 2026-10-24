@@ -129,7 +129,7 @@ input[type=search]{background:var(--bg);border:1px solid var(--bd);border-radius
 </style></head><body>
 <header><h1><b>RADAR</b> · всё за сутки</h1>
 <div class="sub">Агрегат часовых снимков: <b id="gen"></b> · собрано снимков: <span id="sn"></span> ·
-<a href="index.html">← живой экран (последние часы)</a></div>
+<a href="index.html">← живой экран</a> · <a href="catalog.html">каталог (копится, ничего не удаляется) &#8594;</a></div>
 <div class="stats" id="stats"></div></header>
 <div class="bar"><span class="chip on" data-f="all">все</span><span class="chip" data-f="new">новые за сутки</span>
 <span class="chip" data-f="tg">ушли в Telegram</span><span class="chip" data-f="risk">риск накрутки</span>

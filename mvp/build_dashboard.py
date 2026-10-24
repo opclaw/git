@@ -69,7 +69,7 @@ button:hover{border-color:var(--ac)}textarea{width:100%;background:#0f141b;color
 .hide{display:none}@media(max-width:900px){.desc,th.hide,td.hide{display:none}}
 </style></head><body>
 <header><h1><b>RADAR</b> · очередь репозиториев и вердикты</h1>
-<div class="sub">Снимок: <b id="gen"></b> · окно наблюдения: <span id="win"></span> · обновление каждые 30 мин из GH Archive (cron в GitHub Actions). Сервер не нужен. · <a href="day.html">всё за сутки &#8594;</a></div>
+<div class="sub">Снимок: <b id="gen"></b> · окно наблюдения: <span id="win"></span> · обновление каждые 30 мин из GH Archive (cron в GitHub Actions). Сервер не нужен. · <a href="day.html">за сутки</a> · <a href="catalog.html">каталог (копится)</a></div>
 <div class="stats" id="stats"></div></header>
 <div class="bar"><span class="chip on" data-f="all">все</span><span class="chip" data-f="needs_review">нужен триаж</span>
 <span class="chip" data-f="adopt">adopt</span><span class="chip" data-f="pilot">pilot</span><span class="chip" data-f="watch">watch</span>
