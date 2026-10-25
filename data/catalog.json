@@ -51,7 +51,7 @@
 "last_seen": "2026-10-24T13:10:32Z",
 "hits": 7,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/OpenHeart": {
 "repo": "AhmadHassan-BTed/OpenHeart",
@@ -147,7 +147,7 @@
 "repo": "awesome-selfhosted/awesome-selfhosted",
 "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
 "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-"stars": 328349.0,
+"stars": 330260.0,
 "spd": 68.9,
 "score": 1.03,
 "fit": 0.65,
@@ -156,16 +156,16 @@
 "license": "NOASSERTION",
 "language": "",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-19T21:12:57Z",
-"hits": 2,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 3,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "morluto/rea": {
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 380858.0,
+"stars": 382256.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-25T10:01:51Z",
-"hits": 41,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 42,
 "in_tg": false,
 "status": "active"
 },
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 302616.0,
+"stars": 302949.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,8 +354,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-25T04:57:27Z",
-"hits": 8,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 9,
 "in_tg": false,
 "status": "active"
 },
@@ -417,7 +417,7 @@
 "repo": "Gathin23/cleanyourtv",
 "url": "https://github.com/Gathin23/cleanyourtv",
 "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-"stars": 33008.0,
+"stars": 33751.0,
 "spd": 533.5,
 "score": 0.45,
 "fit": 0.0,
@@ -426,8 +426,8 @@
 "license": "NOASSERTION",
 "language": "Java",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-25T10:01:51Z",
-"hits": 41,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 42,
 "in_tg": false,
 "status": "active"
 },
@@ -447,7 +447,7 @@
 "last_seen": "2026-10-24T11:17:52Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/B": {
 "repo": "AhmadHassan-BTed/B",
@@ -483,7 +483,7 @@
 "last_seen": "2026-10-24T13:10:32Z",
 "hits": 4,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "anomalyco/opencode": {
 "repo": "anomalyco/opencode",
@@ -579,7 +579,7 @@
 "repo": "Nikii-w/McLife-Desk",
 "url": "https://github.com/Nikii-w/McLife-Desk",
 "description": "忙碌了一天，回到家，你打开麦当劳，却突然纠结：今天吃了什么？这周点了几次？这个月花了多少钱？热量会不会超标？  于是有了 **McLife Desk 麦门人生工作台**。它记录每一次点麦：日期、餐品、金额与热量，生成专属点餐日历；按当月消费次数和金额解锁麦门等级，还能通过趣味测试发现自己的麦门消费人格。  它不劝你戒掉麦当劳，只陪你在忙碌、独处和奖励自己的时刻，看见自己的选择，管理预算与生活节奏。",
-"stars": 384,
+"stars": 1691.0,
 "spd": 48.2,
 "score": 1.0,
 "fit": 0.45,
@@ -588,10 +588,10 @@
 "license": null,
 "language": "HTML",
 "first_seen": "2026-10-20T00:08:51Z",
-"last_seen": "2026-10-20T00:08:51Z",
-"hits": 1,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 2,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "paperclipai/paperclip": {
 "repo": "paperclipai/paperclip",
@@ -651,7 +651,7 @@
 "repo": "Panniantong/Agent-Reach",
 "url": "https://github.com/Panniantong/Agent-Reach",
 "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-"stars": 100154.0,
+"stars": 102265.0,
 "spd": 59.6,
 "score": 1.0,
 "fit": 0.96,
@@ -660,10 +660,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-20T00:08:51Z",
-"last_seen": "2026-10-20T15:17:36Z",
-"hits": 3,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 4,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "openclaw/openclaw": {
 "repo": "openclaw/openclaw",
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 42110.0,
+"stars": 42534.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-25T10:01:51Z",
-"hits": 31,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 32,
 "in_tg": true,
 "status": "active"
 },
@@ -1047,7 +1047,7 @@
 "repo": "tashfeenahmed/freellmapi",
 "url": "https://github.com/tashfeenahmed/freellmapi",
 "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key",
-"stars": 41073.0,
+"stars": 41331.0,
 "spd": 176.6,
 "score": 1.01,
 "fit": 0.7,
@@ -1056,8 +1056,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-25T05:07:10Z",
-"hits": 9,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 10,
 "in_tg": false,
 "status": "active"
 },
@@ -1227,7 +1227,7 @@
 "repo": "yi1108/printfilm",
 "url": "https://github.com/yi1108/printfilm",
 "description": "PRINTFILM: AI short-video marketing and AI short-drama creation platform",
-"stars": 5506,
+"stars": 6735.0,
 "spd": 144.0,
 "score": 1.41,
 "fit": 0.52,
@@ -1236,10 +1236,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-20T15:17:36Z",
-"hits": 1,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 2,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "hmjz100/LinkSwift": {
 "repo": "hmjz100/LinkSwift",
@@ -1281,7 +1281,7 @@
 "repo": "debpalash/VoiceStudio",
 "url": "https://github.com/debpalash/VoiceStudio",
 "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-"stars": 85513.0,
+"stars": 85946.0,
 "spd": 376.8,
 "score": 1.22,
 "fit": 0.89,
@@ -1290,8 +1290,8 @@
 "license": "AGPL-3.0",
 "language": "Python",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-25T09:55:50Z",
-"hits": 22,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 23,
 "in_tg": false,
 "status": "active"
 },
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 105236.0,
+"stars": 105420.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-25T09:55:50Z",
-"hits": 14,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 15,
 "in_tg": false,
 "status": "active"
 },
@@ -1437,7 +1437,7 @@
 "last_seen": "2026-10-24T11:17:52Z",
 "hits": 10,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "microsoft/vscode": {
 "repo": "microsoft/vscode",
@@ -1491,7 +1491,7 @@
 "last_seen": "2026-10-24T13:10:32Z",
 "hits": 9,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "pbakaus/impeccable": {
 "repo": "pbakaus/impeccable",
@@ -1617,7 +1617,7 @@
 "last_seen": "2026-10-24T13:10:32Z",
 "hits": 12,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "github/spec-kit": {
 "repo": "github/spec-kit",
@@ -1653,7 +1653,7 @@
 "last_seen": "2026-10-24T11:17:52Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "sindresorhus/awesome": {
 "repo": "sindresorhus/awesome",
@@ -1869,7 +1869,7 @@
 "last_seen": "2026-10-24T13:10:32Z",
 "hits": 6,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "dataelement/dsh-desktop": {
 "repo": "dataelement/dsh-desktop",
@@ -2175,7 +2175,7 @@
 "last_seen": "2026-10-24T11:17:52Z",
 "hits": 7,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "bowenliang123/dsh-context": {
 "repo": "bowenliang123/dsh-context",
@@ -2343,17 +2343,17 @@
 "repo": "earendil-works/pi",
 "url": "https://github.com/earendil-works/pi",
 "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-"stars": 116878.0,
-"spd": 32.2,
-"score": 0.84,
+"stars": 117732.0,
+"spd": 63.6,
+"score": 0.9,
 "fit": 0.74,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-21T12:47:11Z",
-"last_seen": "2026-10-24T18:45:41Z",
-"hits": 2,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 3,
 "in_tg": false,
 "status": "active"
 },
@@ -2697,7 +2697,7 @@
 "last_seen": "2026-10-24T11:17:52Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "zheco68-collab/kece": {
 "repo": "zheco68-collab/kece",
@@ -3351,17 +3351,17 @@
 "repo": "experientiallabs/experiential",
 "url": "https://github.com/experientiallabs/experiential",
 "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized mode",
-"stars": 11954.0,
-"spd": 51.4,
-"score": 1.18,
+"stars": 12545.0,
+"spd": 86.6,
+"score": 1.28,
 "fit": 0.89,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-22T13:55:51Z",
-"last_seen": "2026-10-25T00:04:47Z",
-"hits": 4,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 5,
 "in_tg": true,
 "status": "active"
 },
@@ -3921,7 +3921,7 @@
 "last_seen": "2026-10-24T11:17:52Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "oosexgang/hackios-xnu-kernel": {
 "repo": "oosexgang/hackios-xnu-kernel",
@@ -3981,7 +3981,7 @@
 "repo": "trimstray/the-book-of-secret-knowledge",
 "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
 "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-"stars": 252543,
+"stars": 253114.0,
 "spd": 28.7,
 "score": 0.96,
 "fit": 0.92,
@@ -3990,10 +3990,10 @@
 "license": "MIT",
 "language": "",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-10-23T12:46:08Z",
-"hits": 1,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 2,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "AAA-EE/mcd-budget-planner": {
 "repo": "AAA-EE/mcd-budget-planner",
@@ -4521,7 +4521,7 @@
 "repo": "Zagitta/gpu-unlock",
 "url": "https://github.com/Zagitta/gpu-unlock",
 "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
-"stars": 4265.0,
+"stars": 5172.0,
 "spd": 87.2,
 "score": 0.72,
 "fit": 0.48,
@@ -4530,8 +4530,8 @@
 "license": null,
 "language": "C",
 "first_seen": "2026-10-24T08:47:32Z",
-"last_seen": "2026-10-25T10:01:51Z",
-"hits": 11,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 12,
 "in_tg": false,
 "status": "active"
 },
@@ -4587,7 +4587,7 @@
 "last_seen": "2026-10-24T13:10:32Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "firecrawl/firecrawl": {
 "repo": "firecrawl/firecrawl",
@@ -4605,7 +4605,7 @@
 "last_seen": "2026-10-25T09:55:50Z",
 "hits": 4,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "NanmiCoder/MediaCrawler": {
 "repo": "NanmiCoder/MediaCrawler",
@@ -4623,7 +4623,7 @@
 "last_seen": "2026-10-24T16:50:07Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "B0yko/tern": {
 "repo": "B0yko/tern",
@@ -4641,7 +4641,7 @@
 "last_seen": "2026-10-24T16:50:07Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "zuhairhalawa/studyai": {
 "repo": "zuhairhalawa/studyai",
@@ -4659,7 +4659,7 @@
 "last_seen": "2026-10-24T13:10:32Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "rootscripts/riff": {
 "repo": "rootscripts/riff",
@@ -4677,7 +4677,7 @@
 "last_seen": "2026-10-24T13:10:32Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "zcbacxc/mcd-party-planner": {
 "repo": "zcbacxc/mcd-party-planner",
@@ -4695,7 +4695,7 @@
 "last_seen": "2026-10-24T16:50:07Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "bilawalsidhu/gods-eye-view": {
 "repo": "bilawalsidhu/gods-eye-view",
@@ -4713,7 +4713,7 @@
 "last_seen": "2026-10-24T16:50:07Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "anthropics/knowledge-work-plugins": {
 "repo": "anthropics/knowledge-work-plugins",
@@ -4731,7 +4731,7 @@
 "last_seen": "2026-10-24T13:10:32Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "multica-ai/andrej-karpathy-skills": {
 "repo": "multica-ai/andrej-karpathy-skills",
@@ -4749,7 +4749,7 @@
 "last_seen": "2026-10-24T21:46:28Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "SoMarkAI/OXR": {
 "repo": "SoMarkAI/OXR",
@@ -4863,7 +4863,7 @@
 "repo": "JustAResearcher/gpu-unlock-ada",
 "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
 "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-"stars": 1621.0,
+"stars": 2093.0,
 "spd": 64.8,
 "score": 0.49,
 "fit": 0.0,
@@ -4872,8 +4872,8 @@
 "license": "GPL-2.0",
 "language": "C",
 "first_seen": "2026-10-24T16:50:07Z",
-"last_seen": "2026-10-25T09:55:50Z",
-"hits": 5,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 6,
 "in_tg": false,
 "status": "new"
 },
@@ -4881,7 +4881,7 @@
 "repo": "ludovic111/horizon",
 "url": "https://github.com/ludovic111/horizon",
 "description": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
-"stars": 1294.0,
+"stars": 1621.0,
 "spd": 70.5,
 "score": 1.64,
 "fit": 0.5,
@@ -4890,8 +4890,8 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-10-24T18:46:27Z",
-"last_seen": "2026-10-25T05:07:10Z",
-"hits": 5,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 6,
 "in_tg": true,
 "status": "new"
 },
@@ -4953,7 +4953,7 @@
 "repo": "luongnv89/claude-howto",
 "url": "https://github.com/luongnv89/claude-howto",
 "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-"stars": 44468.0,
+"stars": 44902.0,
 "spd": 51.7,
 "score": 0.78,
 "fit": 0.52,
@@ -4962,8 +4962,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-24T18:46:27Z",
-"last_seen": "2026-10-24T21:46:28Z",
-"hits": 3,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 4,
 "in_tg": false,
 "status": "new"
 },
@@ -5061,7 +5061,7 @@
 "repo": "Nutlope/hallmark",
 "url": "https://github.com/Nutlope/hallmark",
 "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-"stars": 32676.0,
+"stars": 33059.0,
 "spd": 50.6,
 "score": 0.73,
 "fit": 0.52,
@@ -5070,8 +5070,8 @@
 "license": "MIT",
 "language": "CSS",
 "first_seen": "2026-10-24T21:46:28Z",
-"last_seen": "2026-10-25T09:55:50Z",
-"hits": 3,
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 4,
 "in_tg": false,
 "status": "new"
 },
@@ -5403,16 +5403,88 @@
 "repo": "public-apis/public-apis",
 "url": "https://github.com/public-apis/public-apis",
 "description": "A collective list of free APIs",
-"stars": 491977,
-"spd": 25.5,
-"score": 0.7,
+"stars": 492037.0,
+"spd": 34.6,
+"score": 0.73,
 "fit": 0.5,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-25T09:55:50Z",
-"last_seen": "2026-10-25T09:55:50Z",
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 2,
+"in_tg": false,
+"status": "new"
+},
+"kissqy/Microduck-kissqy": {
+"repo": "kissqy/Microduck-kissqy",
+"url": "https://github.com/kissqy/Microduck-kissqy",
+"description": "🦆 Microduck 飞特 HD1910 实机复刻项目：从零复刻教程、材料清单与成本、全套 3D 打印件、自制 HAT / IMU、系统镜像、中文机器人中控与强化学习训练。稳定公开版 V167，提供实机演示与制作记录。",
+"stars": 233,
+"spd": 34.5,
+"score": 1.57,
+"fit": 0.43,
+"risk": 0.0,
+"ps": "PS-doc",
+"license": null,
+"language": "Rust",
+"first_seen": "2026-10-25T14:27:40Z",
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"DUNHKpcc/Claude-Guardian": {
+"repo": "DUNHKpcc/Claude-Guardian",
+"url": "https://github.com/DUNHKpcc/Claude-Guardian",
+"description": "Claude Guardian is an all-in-one Claude account safety and risk prevention skill. It intelligently assesses your device, account history, network environment, and payment options, then provides person",
+"stars": 472,
+"spd": 39.3,
+"score": 1.28,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "GPL-3.0",
+"language": "Python",
+"first_seen": "2026-10-25T14:27:40Z",
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"donnemartin/system-design-primer": {
+"repo": "donnemartin/system-design-primer",
+"url": "https://github.com/donnemartin/system-design-primer",
+"description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+"stars": 375542,
+"spd": 32.5,
+"score": 0.61,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "NOASSERTION",
+"language": "Python",
+"first_seen": "2026-10-25T14:27:40Z",
+"last_seen": "2026-10-25T14:27:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"liquidslr/leetcode-company-wise-problems": {
+"repo": "liquidslr/leetcode-company-wise-problems",
+"url": "https://github.com/liquidslr/leetcode-company-wise-problems",
+"description": "Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Oc",
+"stars": 32425,
+"spd": 41.6,
+"score": 0.6,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": null,
+"language": "",
+"first_seen": "2026-10-25T14:27:40Z",
+"last_seen": "2026-10-25T14:27:40Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
