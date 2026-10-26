@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 384457.0,
+"stars": 384861.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-25T23:28:03Z",
-"hits": 46,
+"last_seen": "2026-10-26T01:34:11Z",
+"hits": 47,
 "in_tg": false,
 "status": "active"
 },
@@ -933,7 +933,7 @@
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 7,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "tangency-labs/solidcraft": {
 "repo": "tangency-labs/solidcraft",
@@ -1821,8 +1821,8 @@
 "repo": "thesysdev/openui",
 "url": "https://github.com/thesysdev/openui",
 "description": "The Open Standard for Generative UI",
-"stars": 12693,
-"spd": 25.6,
+"stars": 13979.0,
+"spd": 28.3,
 "score": 1.25,
 "fit": 0.74,
 "risk": 0.0,
@@ -1830,10 +1830,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-21T01:28:35Z",
-"last_seen": "2026-10-21T01:28:35Z",
-"hits": 1,
-"in_tg": false,
-"status": "cooled"
+"last_seen": "2026-10-26T01:34:11Z",
+"hits": 2,
+"in_tg": true,
+"status": "active"
 },
 "Graphify-Labs/graphify": {
 "repo": "Graphify-Labs/graphify",
@@ -1857,7 +1857,7 @@
 "repo": "heygen-com/hyperframes",
 "url": "https://github.com/heygen-com/hyperframes",
 "description": "Write HTML. Render video. Built for agents.",
-"stars": 71148.0,
+"stars": 72187.0,
 "spd": 912.0,
 "score": 1.58,
 "fit": 0.96,
@@ -1866,10 +1866,10 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-21T01:28:35Z",
-"last_seen": "2026-10-24T13:10:32Z",
-"hits": 6,
-"in_tg": false,
-"status": "cooled"
+"last_seen": "2026-10-26T01:34:11Z",
+"hits": 7,
+"in_tg": true,
+"status": "active"
 },
 "dataelement/dsh-desktop": {
 "repo": "dataelement/dsh-desktop",
@@ -2553,7 +2553,7 @@
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ikow/php2shell-poc": {
 "repo": "ikow/php2shell-poc",
@@ -2931,7 +2931,7 @@
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 18,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Renhuai123/ziwei-doushu": {
 "repo": "Renhuai123/ziwei-doushu",
@@ -3579,7 +3579,7 @@
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 14,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "wesbos/3d-model-anything": {
 "repo": "wesbos/3d-model-anything",
@@ -4521,7 +4521,7 @@
 "repo": "Zagitta/gpu-unlock",
 "url": "https://github.com/Zagitta/gpu-unlock",
 "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
-"stars": 6566.0,
+"stars": 6842.0,
 "spd": 87.2,
 "score": 0.72,
 "fit": 0.48,
@@ -4530,8 +4530,8 @@
 "license": null,
 "language": "C",
 "first_seen": "2026-10-24T08:47:32Z",
-"last_seen": "2026-10-25T23:28:03Z",
-"hits": 15,
+"last_seen": "2026-10-26T01:34:11Z",
+"hits": 16,
 "in_tg": false,
 "status": "active"
 },
@@ -4863,7 +4863,7 @@
 "repo": "JustAResearcher/gpu-unlock-ada",
 "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
 "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-"stars": 2377.0,
+"stars": 2663.0,
 "spd": 72.7,
 "score": 0.49,
 "fit": 0.0,
@@ -4872,8 +4872,8 @@
 "license": "GPL-2.0",
 "language": "C",
 "first_seen": "2026-10-24T16:50:07Z",
-"last_seen": "2026-10-25T18:14:10Z",
-"hits": 8,
+"last_seen": "2026-10-26T01:34:11Z",
+"hits": 9,
 "in_tg": false,
 "status": "active"
 },
@@ -5037,7 +5037,7 @@
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "yeqv111/mccarbon": {
 "repo": "yeqv111/mccarbon",
@@ -5061,7 +5061,7 @@
 "repo": "Nutlope/hallmark",
 "url": "https://github.com/Nutlope/hallmark",
 "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-"stars": 33068.0,
+"stars": 33853.0,
 "spd": 50.6,
 "score": 0.73,
 "fit": 0.52,
@@ -5070,8 +5070,8 @@
 "license": "MIT",
 "language": "CSS",
 "first_seen": "2026-10-24T21:46:28Z",
-"last_seen": "2026-10-25T14:30:25Z",
-"hits": 5,
+"last_seen": "2026-10-26T01:34:11Z",
+"hits": 6,
 "in_tg": false,
 "status": "active"
 },
@@ -5091,7 +5091,7 @@
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "rushanemoneplain/Canva-Pro-Studio": {
 "repo": "rushanemoneplain/Canva-Pro-Studio",
@@ -5109,7 +5109,7 @@
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "XiangpengHao/bbtree": {
 "repo": "XiangpengHao/bbtree",
@@ -5127,7 +5127,7 @@
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "rlaope/oh-my-hermes": {
 "repo": "rlaope/oh-my-hermes",
@@ -5145,7 +5145,7 @@
 "last_seen": "2026-10-25T18:14:10Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "lemomo-ai/lemo-opuscar": {
 "repo": "lemomo-ai/lemo-opuscar",
@@ -5163,7 +5163,7 @@
 "last_seen": "2026-10-25T18:14:10Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "jouaaaaaa/mcd-self-butler": {
 "repo": "jouaaaaaa/mcd-self-butler",
@@ -5181,7 +5181,7 @@
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sgl-project/sglang": {
 "repo": "sgl-project/sglang",
@@ -5529,17 +5529,17 @@
 "repo": "JetBrains/thinkrail",
 "url": "https://github.com/JetBrains/thinkrail",
 "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-"stars": 1650.0,
-"spd": 42.2,
-"score": 1.53,
+"stars": 1780.0,
+"spd": 54.7,
+"score": 1.56,
 "fit": 0.61,
 "risk": 0.0,
 "ps": "PS-dev",
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-25T21:06:27Z",
-"last_seen": "2026-10-25T23:28:03Z",
-"hits": 2,
+"last_seen": "2026-10-26T01:34:11Z",
+"hits": 3,
 "in_tg": true,
 "status": "new"
 },
@@ -5611,6 +5611,60 @@
 "language": "",
 "first_seen": "2026-10-25T21:06:27Z",
 "last_seen": "2026-10-25T21:06:27Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"xyzdrizswtav/deadlock-cheats-mod-menu-with-aim-wallhack-cheat-privv8i": {
+"repo": "xyzdrizswtav/deadlock-cheats-mod-menu-with-aim-wallhack-cheat-privv8i",
+"url": "https://github.com/xyzdrizswtav/deadlock-cheats-mod-menu-with-aim-wallhack-cheat-privv8i",
+"description": "🎯 deadlock-cheats-mod-menu-with-aim-wallhack-cheat-private 🎯",
+"stars": 73,
+"spd": 192.0,
+"score": 1.58,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-10-26T01:34:11Z",
+"last_seen": "2026-10-26T01:34:11Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"DuarteSantos8/openGym": {
+"repo": "DuarteSantos8/openGym",
+"url": "https://github.com/DuarteSantos8/openGym",
+"description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. ",
+"stars": 15846,
+"spd": 34.7,
+"score": 1.01,
+"fit": 0.83,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "AGPL-3.0",
+"language": "JavaScript",
+"first_seen": "2026-10-26T01:34:11Z",
+"last_seen": "2026-10-26T01:34:11Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"rddmwmddr/android-ad-cleaner": {
+"repo": "rddmwmddr/android-ad-cleaner",
+"url": "https://github.com/rddmwmddr/android-ad-cleaner",
+"description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+"stars": 846,
+"spd": 60.2,
+"score": 0.87,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-10-26T01:34:11Z",
+"last_seen": "2026-10-26T01:34:11Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
