@@ -129,7 +129,7 @@
 "repo": "DietrichGebert/ponytail",
 "url": "https://github.com/DietrichGebert/ponytail",
 "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-"stars": 178012.0,
+"stars": 178051.0,
 "spd": 332.2,
 "score": 1.06,
 "fit": 0.96,
@@ -138,8 +138,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 24,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 25,
 "in_tg": true,
 "status": "active"
 },
@@ -159,13 +159,13 @@
 "last_seen": "2026-10-26T20:23:25Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "morluto/rea": {
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 396549.0,
+"stars": 396749.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 58,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 59,
 "in_tg": false,
 "status": "active"
 },
@@ -417,7 +417,7 @@
 "repo": "Gathin23/cleanyourtv",
 "url": "https://github.com/Gathin23/cleanyourtv",
 "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-"stars": 41441.0,
+"stars": 41550.0,
 "spd": 533.5,
 "score": 0.45,
 "fit": 0.0,
@@ -426,8 +426,8 @@
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 56,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 57,
 "in_tg": false,
 "status": "active"
 },
@@ -483,7 +483,7 @@
 "last_seen": "2026-10-26T20:23:25Z",
 "hits": 5,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "anomalyco/opencode": {
 "repo": "anomalyco/opencode",
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 46516.0,
+"stars": 46706.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-27T15:58:41Z",
-"hits": 41,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 42,
 "in_tg": true,
 "status": "active"
 },
@@ -1299,7 +1299,7 @@
 "repo": "affaan-m/ECC",
 "url": "https://github.com/affaan-m/ECC",
 "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-"stars": 290252.0,
+"stars": 290722.0,
 "spd": 199.1,
 "score": 0.97,
 "fit": 0.96,
@@ -1308,8 +1308,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-27T10:15:54Z",
-"hits": 11,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 12,
 "in_tg": false,
 "status": "active"
 },
@@ -1605,7 +1605,7 @@
 "repo": "ifixai-ai/iFixAi",
 "url": "https://github.com/ifixai-ai/iFixAi",
 "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th",
-"stars": 35870.0,
+"stars": 35876.0,
 "spd": 163.0,
 "score": 1.31,
 "fit": 0.96,
@@ -1614,8 +1614,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-20T19:30:26Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 15,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 16,
 "in_tg": true,
 "status": "active"
 },
@@ -1623,7 +1623,7 @@
 "repo": "github/spec-kit",
 "url": "https://github.com/github/spec-kit",
 "description": "💫 Toolkit to help you get started with SDD or any other process!",
-"stars": 142136.0,
+"stars": 143280.0,
 "spd": 86.1,
 "score": 0.72,
 "fit": 0.5,
@@ -1632,10 +1632,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-20T19:30:26Z",
-"last_seen": "2026-10-20T22:59:52Z",
-"hits": 2,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 3,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "addyosmani/agent-skills": {
 "repo": "addyosmani/agent-skills",
@@ -1857,7 +1857,7 @@
 "repo": "heygen-com/hyperframes",
 "url": "https://github.com/heygen-com/hyperframes",
 "description": "Write HTML. Render video. Built for agents.",
-"stars": 73806.0,
+"stars": 73840.0,
 "spd": 912.0,
 "score": 1.58,
 "fit": 0.96,
@@ -1866,8 +1866,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-21T01:28:35Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 9,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 10,
 "in_tg": true,
 "status": "active"
 },
@@ -2163,7 +2163,7 @@
 "repo": "yihui-dev/awesome-opus5-5-videos",
 "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
 "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
-"stars": 11900.0,
+"stars": 11911.0,
 "spd": 83.1,
 "score": 1.07,
 "fit": 0.74,
@@ -2172,8 +2172,8 @@
 "license": "MIT",
 "language": "",
 "first_seen": "2026-10-21T07:49:44Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 8,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 9,
 "in_tg": false,
 "status": "active"
 },
@@ -2460,8 +2460,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-21T17:56:34Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 2,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 3,
 "in_tg": true,
 "status": "active"
 },
@@ -2517,7 +2517,7 @@
 "last_seen": "2026-10-26T20:23:25Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/MotionShot": {
 "repo": "AhmadHassan-BTed/MotionShot",
@@ -3135,7 +3135,7 @@
 "repo": "Jakeschincariol/replica-skill",
 "url": "https://github.com/Jakeschincariol/replica-skill",
 "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-"stars": 6020.0,
+"stars": 6035.0,
 "spd": 34.2,
 "score": 0.82,
 "fit": 0.52,
@@ -3144,8 +3144,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-22T07:45:11Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 2,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 3,
 "in_tg": false,
 "status": "active"
 },
@@ -4359,7 +4359,7 @@
 "repo": "HKUDS/DeepTutor",
 "url": "https://github.com/HKUDS/DeepTutor",
 "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-"stars": 45616.0,
+"stars": 45654.0,
 "spd": 112.5,
 "score": 1.09,
 "fit": 0.74,
@@ -4368,8 +4368,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-24T03:56:39Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 6,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 7,
 "in_tg": false,
 "status": "active"
 },
@@ -4879,9 +4879,9 @@
 },
 "ludovic111/horizon": {
 "repo": "ludovic111/horizon",
-"url": "https://github.com/ludovic111/horizon",
+"url": "https://github.com/horizon-rust/horizon",
 "description": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
-"stars": 1622.0,
+"stars": 2851.0,
 "spd": 70.5,
 "score": 1.64,
 "fit": 0.5,
@@ -4890,10 +4890,10 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-10-24T18:46:27Z",
-"last_seen": "2026-10-25T14:30:25Z",
-"hits": 7,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 8,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "hujjun/mcd-saver-strategist": {
 "repo": "hujjun/mcd-saver-strategist",
@@ -5295,7 +5295,7 @@
 "repo": "elayadesign/ai-design-skills",
 "url": "https://github.com/elayadesign/ai-design-skills",
 "description": "",
-"stars": 8822.0,
+"stars": 9061.0,
 "spd": 83.5,
 "score": 1.15,
 "fit": 0.5,
@@ -5304,8 +5304,8 @@
 "license": "MIT",
 "language": "",
 "first_seen": "2026-10-25T05:07:10Z",
-"last_seen": "2026-10-27T15:58:41Z",
-"hits": 10,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 11,
 "in_tg": true,
 "status": "active"
 },
@@ -5847,7 +5847,7 @@
 "last_seen": "2026-10-26T20:23:25Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "martina9516/uncensored-ai-models": {
 "repo": "martina9516/uncensored-ai-models",
@@ -5865,7 +5865,7 @@
 "last_seen": "2026-10-26T20:23:25Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "DigitalShieldOfficial/USDT-Payment-Gateway": {
 "repo": "DigitalShieldOfficial/USDT-Payment-Gateway",
@@ -5883,7 +5883,7 @@
 "last_seen": "2026-10-26T20:23:25Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "DLSS-5-Swapper-Portable/.github": {
 "repo": "DLSS-5-Swapper-Portable/.github",
@@ -5901,7 +5901,7 @@
 "last_seen": "2026-10-27T00:00:08Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "krahets/hello-algo": {
 "repo": "krahets/hello-algo",
@@ -5919,7 +5919,7 @@
 "last_seen": "2026-10-26T20:23:25Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "every-app/every-app": {
 "repo": "every-app/every-app",
@@ -5997,7 +5997,7 @@
 "repo": "t3dotgg/tstack",
 "url": "https://github.com/t3dotgg/tstack",
 "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-"stars": 1938.0,
+"stars": 1955.0,
 "spd": 48.1,
 "score": 0.83,
 "fit": 0.52,
@@ -6006,8 +6006,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-27T00:00:08Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 3,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 4,
 "in_tg": false,
 "status": "new"
 },
@@ -6015,7 +6015,7 @@
 "repo": "AhmadHassan-BTed/EQAI",
 "url": "https://github.com/AhmadHassan-BTed/EQAI",
 "description": "A highly specialized reverse-engineering pipeline designed to structurally transplant original Vanilla character models into the EverQuest Online Adventures: Frontiers (PS2) game engine, resolving com",
-"stars": 2841.0,
+"stars": 2856.0,
 "spd": 31.0,
 "score": 0.92,
 "fit": 0.7,
@@ -6024,8 +6024,8 @@
 "license": null,
 "language": "Python",
 "first_seen": "2026-10-27T00:00:08Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 2,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 3,
 "in_tg": false,
 "status": "new"
 },
@@ -6501,8 +6501,8 @@
 "repo": "AienTech/dossier",
 "url": "https://github.com/AienTech/dossier",
 "description": "A self-hosted job search app that writes tailored resumes and cover letters from your profile.",
-"stars": 1167,
-"spd": 81.0,
+"stars": 1299.0,
+"spd": 89.2,
 "score": 1.73,
 "fit": 0.65,
 "risk": 0.0,
@@ -6510,8 +6510,8 @@
 "license": "AGPL-3.0",
 "language": "TypeScript",
 "first_seen": "2026-10-27T19:29:45Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 1,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 2,
 "in_tg": true,
 "status": "new"
 },
@@ -6537,7 +6537,7 @@
 "repo": "Fractal-Compute-Orchestrations/.github",
 "url": "https://github.com/Fractal-Compute-Orchestrations/.github",
 "description": "",
-"stars": 210,
+"stars": 219.0,
 "spd": 111.4,
 "score": 0.9,
 "fit": 0.0,
@@ -6546,9 +6546,27 @@
 "license": "NOASSERTION",
 "language": "",
 "first_seen": "2026-10-27T19:29:45Z",
-"last_seen": "2026-10-27T19:29:45Z",
-"hits": 1,
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 2,
 "in_tg": false,
+"status": "new"
+},
+"CopilotKit/OpenDuet": {
+"repo": "CopilotKit/OpenDuet",
+"url": "https://github.com/CopilotKit/OpenDuet",
+"description": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
+"stars": 310,
+"spd": 34.9,
+"score": 1.24,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-10-27T20:35:58Z",
+"last_seen": "2026-10-27T20:35:58Z",
+"hits": 1,
+"in_tg": true,
 "status": "new"
 }
 }
