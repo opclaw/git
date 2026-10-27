@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 390918.0,
+"stars": 391510.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-26T20:23:25Z",
-"hits": 52,
+"last_seen": "2026-10-27T00:00:08Z",
+"hits": 53,
 "in_tg": false,
 "status": "active"
 },
@@ -417,7 +417,7 @@
 "repo": "Gathin23/cleanyourtv",
 "url": "https://github.com/Gathin23/cleanyourtv",
 "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-"stars": 38847.0,
+"stars": 39189.0,
 "spd": 533.5,
 "score": 0.45,
 "fit": 0.0,
@@ -426,8 +426,8 @@
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-26T20:23:25Z",
-"hits": 50,
+"last_seen": "2026-10-27T00:00:08Z",
+"hits": 51,
 "in_tg": false,
 "status": "active"
 },
@@ -951,7 +951,7 @@
 "last_seen": "2026-10-25T21:06:27Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "HKUSTDial/Supervisor-Skills": {
 "repo": "HKUSTDial/Supervisor-Skills",
@@ -1281,7 +1281,7 @@
 "repo": "debpalash/VoiceStudio",
 "url": "https://github.com/debpalash/VoiceStudio",
 "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-"stars": 88859.0,
+"stars": 89175.0,
 "spd": 376.8,
 "score": 1.22,
 "fit": 0.89,
@@ -1290,8 +1290,8 @@
 "license": "AGPL-3.0",
 "language": "Python",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-26T20:23:25Z",
-"hits": 32,
+"last_seen": "2026-10-27T00:00:08Z",
+"hits": 33,
 "in_tg": false,
 "status": "active"
 },
@@ -1311,7 +1311,7 @@
 "last_seen": "2026-10-25T21:06:27Z",
 "hits": 10,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "openai/codex": {
 "repo": "openai/codex",
@@ -1401,7 +1401,7 @@
 "last_seen": "2026-10-25T21:06:27Z",
 "hits": 18,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "val-tools/.github": {
 "repo": "val-tools/.github",
@@ -3363,7 +3363,7 @@
 "last_seen": "2026-10-25T21:06:27Z",
 "hits": 7,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/SoulMatrix": {
 "repo": "AhmadHassan-BTed/SoulMatrix",
@@ -3741,7 +3741,7 @@
 "last_seen": "2026-10-25T23:28:03Z",
 "hits": 9,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Yoan98/Ncurator": {
 "repo": "Yoan98/Ncurator",
@@ -4395,7 +4395,7 @@
 "repo": "google/elephant-goldfish-model",
 "url": "https://github.com/google/elephant-goldfish-model",
 "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
-"stars": 975.0,
+"stars": 1761.0,
 "spd": 74.4,
 "score": 3.05,
 "fit": 0.96,
@@ -4404,8 +4404,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-24T08:47:32Z",
-"last_seen": "2026-10-25T23:28:03Z",
-"hits": 2,
+"last_seen": "2026-10-27T00:00:08Z",
+"hits": 3,
 "in_tg": true,
 "status": "active"
 },
@@ -4521,7 +4521,7 @@
 "repo": "Zagitta/gpu-unlock",
 "url": "https://github.com/Zagitta/gpu-unlock",
 "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
-"stars": 9339.0,
+"stars": 9652.0,
 "spd": 117.3,
 "score": 0.72,
 "fit": 0.48,
@@ -4530,8 +4530,8 @@
 "license": null,
 "language": "C",
 "first_seen": "2026-10-24T08:47:32Z",
-"last_seen": "2026-10-26T20:23:25Z",
-"hits": 18,
+"last_seen": "2026-10-27T00:00:08Z",
+"hits": 19,
 "in_tg": false,
 "status": "active"
 },
@@ -5061,7 +5061,7 @@
 "repo": "Nutlope/hallmark",
 "url": "https://github.com/Nutlope/hallmark",
 "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-"stars": 35910.0,
+"stars": 36254.0,
 "spd": 69.3,
 "score": 0.76,
 "fit": 0.52,
@@ -5070,8 +5070,8 @@
 "license": "MIT",
 "language": "CSS",
 "first_seen": "2026-10-24T21:46:28Z",
-"last_seen": "2026-10-26T20:23:25Z",
-"hits": 9,
+"last_seen": "2026-10-27T00:00:08Z",
+"hits": 10,
 "in_tg": false,
 "status": "active"
 },
@@ -5541,7 +5541,7 @@
 "last_seen": "2026-10-26T14:56:44Z",
 "hits": 5,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "Jakeschincariol/day-trader-skill": {
 "repo": "Jakeschincariol/day-trader-skill",
@@ -5559,7 +5559,7 @@
 "last_seen": "2026-10-25T21:06:27Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "lyramakesmusic/neuron-explorer": {
 "repo": "lyramakesmusic/neuron-explorer",
@@ -5577,7 +5577,7 @@
 "last_seen": "2026-10-25T21:06:27Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "DenisSergeevitch/ex-ussr-kinship-research": {
 "repo": "DenisSergeevitch/ex-ussr-kinship-research",
@@ -5595,7 +5595,7 @@
 "last_seen": "2026-10-25T21:06:27Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "unclebob/ub-mode": {
 "repo": "unclebob/ub-mode",
@@ -5613,7 +5613,7 @@
 "last_seen": "2026-10-25T21:06:27Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "xyzdrizswtav/deadlock-cheats-mod-menu-with-aim-wallhack-cheat-privv8i": {
 "repo": "xyzdrizswtav/deadlock-cheats-mod-menu-with-aim-wallhack-cheat-privv8i",
@@ -5889,7 +5889,7 @@
 "repo": "DLSS-5-Swapper-Portable/.github",
 "url": "https://github.com/DLSS-5-Swapper-Portable/.github",
 "description": "DLSS 5 Swapper is a graphics-focused utility designed for users who want more control over compatible game rendering components.",
-"stars": 125,
+"stars": 236.0,
 "spd": 144.0,
 "score": 0.83,
 "fit": 0.48,
@@ -5898,8 +5898,8 @@
 "license": null,
 "language": "",
 "first_seen": "2026-10-26T20:23:25Z",
-"last_seen": "2026-10-26T20:23:25Z",
-"hits": 1,
+"last_seen": "2026-10-27T00:00:08Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -5917,6 +5917,114 @@
 "language": "Java",
 "first_seen": "2026-10-26T20:23:25Z",
 "last_seen": "2026-10-26T20:23:25Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"every-app/every-app": {
+"repo": "every-app/every-app",
+"url": "https://github.com/every-app/every-app",
+"description": "Make every SaaS open source.",
+"stars": 149,
+"spd": 67.4,
+"score": 3.41,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-10-27T00:00:08Z",
+"last_seen": "2026-10-27T00:00:08Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"FrigadeHQ/hob": {
+"repo": "FrigadeHQ/hob",
+"url": "https://github.com/FrigadeHQ/hob",
+"description": "An easier way to use AI on your own computer. A free, open-source alternative to Claude and ChatGPT that runs open-weight models like Gemma and gpt-oss locally on Mac, Windows and Linux. Private, and ",
+"stars": 95,
+"spd": 55.2,
+"score": 2.98,
+"fit": 1.0,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-10-27T00:00:08Z",
+"last_seen": "2026-10-27T00:00:08Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"ebmeivktlmmj/autotyping-script": {
+"repo": "ebmeivktlmmj/autotyping-script",
+"url": "https://github.com/ebmeivktlmmj/autotyping-script",
+"description": "Autotyping tool that types text on a timer with adjustable WPM, custom hotkeys, and anti-AFK keystroke runs for games and chat apps.",
+"stars": 179,
+"spd": 204.3,
+"score": 2.1,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-10-27T00:00:08Z",
+"last_seen": "2026-10-27T00:00:08Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"AhmadHassan-BTed/AhmadHassan-BTed": {
+"repo": "AhmadHassan-BTed/AhmadHassan-BTed",
+"url": "https://github.com/AhmadHassan-BTed/AhmadHassan-BTed",
+"description": "Terminal-style developer runtime blueprint, interactive workspace statistics, and systems diagnostics cataloging the codebase footprint",
+"stars": 4178,
+"spd": 144.0,
+"score": 1.24,
+"fit": 0.61,
+"risk": 0.18,
+"ps": "PS-dev",
+"license": null,
+"language": "Python",
+"first_seen": "2026-10-27T00:00:08Z",
+"last_seen": "2026-10-27T00:00:08Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"t3dotgg/tstack": {
+"repo": "t3dotgg/tstack",
+"url": "https://github.com/t3dotgg/tstack",
+"description": "The agent skills I use every day. Works with Claude Code and Codex.",
+"stars": 1541,
+"spd": 48.1,
+"score": 0.83,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-10-27T00:00:08Z",
+"last_seen": "2026-10-27T00:00:08Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"AhmadHassan-BTed/EQAI": {
+"repo": "AhmadHassan-BTed/EQAI",
+"url": "https://github.com/AhmadHassan-BTed/EQAI",
+"description": "A highly specialized reverse-engineering pipeline designed to structurally transplant original Vanilla character models into the EverQuest Online Adventures: Frontiers (PS2) game engine, resolving com",
+"stars": 2627,
+"spd": 28.1,
+"score": 0.7,
+"fit": 0.7,
+"risk": 0.18,
+"ps": "PS-ml",
+"license": null,
+"language": "Python",
+"first_seen": "2026-10-27T00:00:08Z",
+"last_seen": "2026-10-27T00:00:08Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
