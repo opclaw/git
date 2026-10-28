@@ -57,7 +57,7 @@
 "repo": "AhmadHassan-BTed/OpenHeart",
 "url": "https://github.com/AhmadHassan-BTed/OpenHeart",
 "description": "Succinct Compositional Program Graph (SCPG) static analysis engine & 14-diagram UML generator in Rust.",
-"stars": 2859.0,
+"stars": 4873.0,
 "spd": 68.0,
 "score": 1.23,
 "fit": 0.5,
@@ -66,16 +66,16 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-21T21:29:58Z",
-"hits": 3,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 4,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "KnifeLemon/Filee": {
 "repo": "KnifeLemon/Filee",
 "url": "https://github.com/KnifeLemon/Filee",
 "description": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
-"stars": 15851.0,
+"stars": 16192.0,
 "spd": 109.0,
 "score": 1.31,
 "fit": 0.96,
@@ -84,8 +84,8 @@
 "license": "MIT",
 "language": "C#",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 18,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 19,
 "in_tg": true,
 "status": "active"
 },
@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 400320.0,
+"stars": 401676.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 65,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 66,
 "in_tg": false,
 "status": "active"
 },
@@ -321,7 +321,7 @@
 "last_seen": "2026-10-27T15:58:41Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "shiyu-coder/Kronos": {
 "repo": "shiyu-coder/Kronos",
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 304670.0,
+"stars": 305610.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,8 +354,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-27T15:58:41Z",
-"hits": 15,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 16,
 "in_tg": false,
 "status": "active"
 },
@@ -417,7 +417,7 @@
 "repo": "Gathin23/cleanyourtv",
 "url": "https://github.com/Gathin23/cleanyourtv",
 "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-"stars": 43049.0,
+"stars": 43499.0,
 "spd": 533.5,
 "score": 0.45,
 "fit": 0.0,
@@ -426,8 +426,8 @@
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 63,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 64,
 "in_tg": false,
 "status": "active"
 },
@@ -471,7 +471,7 @@
 "repo": "Fractal-Compute-Orchestrations/FractalWorkspace",
 "url": "https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace",
 "description": "A unified ecosystem and workspace for large-scale federated learning, bridging the gap between centralized model evolution and decentralized edge intelligence.",
-"stars": 5809.0,
+"stars": 6975.0,
 "spd": 309.3,
 "score": 2.11,
 "fit": 0.89,
@@ -480,10 +480,10 @@
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-19T21:12:57Z",
-"last_seen": "2026-10-26T20:23:25Z",
-"hits": 5,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 6,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "anomalyco/opencode": {
 "repo": "anomalyco/opencode",
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 48277.0,
+"stars": 48764.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 47,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 48,
 "in_tg": true,
 "status": "active"
 },
@@ -1029,7 +1029,7 @@
 "repo": "cloudflare/security-audit-skill",
 "url": "https://github.com/cloudflare/security-audit-skill",
 "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-"stars": 50518.0,
+"stars": 51393.0,
 "spd": 279.1,
 "score": 0.98,
 "fit": 0.7,
@@ -1038,8 +1038,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-28T06:04:38Z",
-"hits": 44,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 45,
 "in_tg": false,
 "status": "active"
 },
@@ -1047,7 +1047,7 @@
 "repo": "tashfeenahmed/freellmapi",
 "url": "https://github.com/tashfeenahmed/freellmapi",
 "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key",
-"stars": 42401.0,
+"stars": 43231.0,
 "spd": 176.6,
 "score": 1.01,
 "fit": 0.7,
@@ -1056,10 +1056,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-27T10:15:54Z",
-"hits": 13,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 14,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "Imbad0202/academic-research-skills": {
 "repo": "Imbad0202/academic-research-skills",
@@ -1257,7 +1257,7 @@
 "last_seen": "2026-10-27T13:23:31Z",
 "hits": 9,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Comfy-Org/ComfyUI": {
 "repo": "Comfy-Org/ComfyUI",
@@ -1281,7 +1281,7 @@
 "repo": "debpalash/VoiceStudio",
 "url": "https://github.com/debpalash/VoiceStudio",
 "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-"stars": 91771.0,
+"stars": 92732.0,
 "spd": 376.8,
 "score": 1.22,
 "fit": 0.89,
@@ -1290,8 +1290,8 @@
 "license": "AGPL-3.0",
 "language": "Python",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-28T06:04:38Z",
-"hits": 38,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 39,
 "in_tg": false,
 "status": "active"
 },
@@ -1497,7 +1497,7 @@
 "repo": "pbakaus/impeccable",
 "url": "https://github.com/pbakaus/impeccable",
 "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-"stars": 91421.0,
+"stars": 92257.0,
 "spd": 1008.0,
 "score": 1.3,
 "fit": 0.52,
@@ -1506,8 +1506,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 21,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 22,
 "in_tg": false,
 "status": "active"
 },
@@ -1605,7 +1605,7 @@
 "repo": "ifixai-ai/iFixAi",
 "url": "https://github.com/ifixai-ai/iFixAi",
 "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th",
-"stars": 36530.0,
+"stars": 36900.0,
 "spd": 163.0,
 "score": 1.31,
 "fit": 0.96,
@@ -1614,8 +1614,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-20T19:30:26Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 19,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 20,
 "in_tg": true,
 "status": "active"
 },
@@ -1653,7 +1653,7 @@
 "last_seen": "2026-10-27T15:58:41Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "sindresorhus/awesome": {
 "repo": "sindresorhus/awesome",
@@ -3153,17 +3153,17 @@
 "repo": "vectorize-io/hindsight",
 "url": "https://github.com/vectorize-io/hindsight",
 "description": "Hindsight: Agent Memory That Learns",
-"stars": 54589.0,
-"spd": 40.6,
-"score": 0.74,
+"stars": 55452.0,
+"spd": 54.2,
+"score": 0.78,
 "fit": 0.52,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-22T07:45:11Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 3,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 4,
 "in_tg": false,
 "status": "active"
 },
@@ -3543,7 +3543,7 @@
 "last_seen": "2026-10-27T15:58:41Z",
 "hits": 9,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "NationalSecurityAgency/ghidra": {
 "repo": "NationalSecurityAgency/ghidra",
@@ -3729,7 +3729,7 @@
 "repo": "seedds/nxnative",
 "url": "https://github.com/seedds/nxnative",
 "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
-"stars": 8554.0,
+"stars": 8844.0,
 "spd": 213.7,
 "score": 0.95,
 "fit": 0.0,
@@ -3738,8 +3738,8 @@
 "license": "MIT",
 "language": "Objective-C",
 "first_seen": "2026-10-23T01:46:20Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 15,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 16,
 "in_tg": false,
 "status": "active"
 },
@@ -4323,19 +4323,19 @@
 "repo": "AgriciDaniel/claude-seo",
 "url": "https://github.com/AgriciDaniel/claude-seo",
 "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
-"stars": 21371.0,
-"spd": 33.0,
-"score": 1.11,
+"stars": 23242.0,
+"spd": 89.0,
+"score": 1.3,
 "fit": 0.96,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-24T03:56:39Z",
-"last_seen": "2026-10-26T07:32:22Z",
-"hits": 3,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 4,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop": {
 "repo": "tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop",
@@ -4359,7 +4359,7 @@
 "repo": "HKUDS/DeepTutor",
 "url": "https://github.com/HKUDS/DeepTutor",
 "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-"stars": 47302.0,
+"stars": 47730.0,
 "spd": 112.5,
 "score": 1.09,
 "fit": 0.74,
@@ -4368,8 +4368,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-24T03:56:39Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 11,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 12,
 "in_tg": false,
 "status": "active"
 },
@@ -4395,7 +4395,7 @@
 "repo": "google/elephant-goldfish-model",
 "url": "https://github.com/google/elephant-goldfish-model",
 "description": "Open-source skills for designing and reviewing software with AI agents",
-"stars": 4058.0,
+"stars": 4431.0,
 "spd": 74.4,
 "score": 3.05,
 "fit": 0.96,
@@ -4404,8 +4404,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-24T08:47:32Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 9,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 10,
 "in_tg": true,
 "status": "active"
 },
@@ -4935,7 +4935,7 @@
 "repo": "rohitg00/ai-engineering-from-scratch",
 "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
 "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-"stars": 74439.0,
+"stars": 75240.0,
 "spd": 67.4,
 "score": 1.02,
 "fit": 0.96,
@@ -4944,10 +4944,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-24T18:46:27Z",
-"last_seen": "2026-10-27T04:51:59Z",
-"hits": 4,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 5,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "luongnv89/claude-howto": {
 "repo": "luongnv89/claude-howto",
@@ -5061,7 +5061,7 @@
 "repo": "Nutlope/hallmark",
 "url": "https://github.com/Nutlope/hallmark",
 "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-"stars": 40061.0,
+"stars": 40451.0,
 "spd": 100.8,
 "score": 0.81,
 "fit": 0.52,
@@ -5070,8 +5070,8 @@
 "license": "MIT",
 "language": "CSS",
 "first_seen": "2026-10-24T21:46:28Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 18,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 19,
 "in_tg": false,
 "status": "active"
 },
@@ -6045,7 +6045,7 @@
 "last_seen": "2026-10-27T15:58:41Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "StarTrail-org/LEANN": {
 "repo": "StarTrail-org/LEANN",
@@ -6171,7 +6171,7 @@
 "last_seen": "2026-10-27T13:23:31Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "togg53192-cmd/jailbreaks": {
 "repo": "togg53192-cmd/jailbreaks",
@@ -6189,7 +6189,7 @@
 "last_seen": "2026-10-27T15:58:41Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "TheAlgorithms/Java": {
 "repo": "TheAlgorithms/Java",
@@ -6351,7 +6351,7 @@
 "last_seen": "2026-10-27T13:23:31Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "hugues31/duckpad": {
 "repo": "hugues31/duckpad",
@@ -6369,7 +6369,7 @@
 "last_seen": "2026-10-27T15:58:41Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "gitroomhq/postiz-app": {
 "repo": "gitroomhq/postiz-app",
@@ -6387,7 +6387,7 @@
 "last_seen": "2026-10-27T13:23:31Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ChatAndBuild/non-fungible-agents-BAP-578": {
 "repo": "ChatAndBuild/non-fungible-agents-BAP-578",
@@ -6405,7 +6405,7 @@
 "last_seen": "2026-10-27T19:29:45Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Pomerado/pomerado": {
 "repo": "Pomerado/pomerado",
@@ -6423,7 +6423,7 @@
 "last_seen": "2026-10-27T15:58:41Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "stormydayy/halo-overlay": {
 "repo": "stormydayy/halo-overlay",
@@ -6441,7 +6441,7 @@
 "last_seen": "2026-10-28T00:18:33Z",
 "hits": 3,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "aicodeking/leanrea": {
 "repo": "aicodeking/leanrea",
@@ -6459,7 +6459,7 @@
 "last_seen": "2026-10-27T15:58:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "baidu/Unlimited-OCR": {
 "repo": "baidu/Unlimited-OCR",
@@ -6477,7 +6477,7 @@
 "last_seen": "2026-10-27T15:58:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "bandaxolotlknot/Moto-Windows-Setup-Guide": {
 "repo": "bandaxolotlknot/Moto-Windows-Setup-Guide",
@@ -6501,8 +6501,8 @@
 "repo": "AienTech/dossier",
 "url": "https://github.com/AienTech/dossier",
 "description": "A self-hosted job search app that writes tailored resumes and cover letters from your profile.",
-"stars": 2329.0,
-"spd": 89.2,
+"stars": 2655.0,
+"spd": 101.6,
 "score": 1.73,
 "fit": 0.65,
 "risk": 0.0,
@@ -6510,8 +6510,8 @@
 "license": "AGPL-3.0",
 "language": "TypeScript",
 "first_seen": "2026-10-27T19:29:45Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 4,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 5,
 "in_tg": true,
 "status": "new"
 },
@@ -6591,7 +6591,7 @@
 "repo": "interplains/Zero-Breach-Toolkit",
 "url": "https://github.com/interplains/Zero-Breach-Toolkit",
 "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-"stars": 1913.0,
+"stars": 2423.0,
 "spd": 192.0,
 "score": 1.1,
 "fit": 0.61,
@@ -6600,8 +6600,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-27T23:51:37Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 5,
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 6,
 "in_tg": true,
 "status": "new"
 },
@@ -6872,6 +6872,96 @@
 "first_seen": "2026-10-28T13:14:37Z",
 "last_seen": "2026-10-28T13:23:29Z",
 "hits": 2,
+"in_tg": false,
+"status": "new"
+},
+"StationJudge/DIss-5-Swapper": {
+"repo": "StationJudge/DIss-5-Swapper",
+"url": "https://github.com/StationJudge/DIss-5-Swapper",
+"description": "DLSS 5 Swapper is a graphics-oriented tool for PC users who want to explore the files and components associated with supported game-rendering technologies.",
+"stars": 203,
+"spd": 97.3,
+"score": 2.58,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": null,
+"language": "",
+"first_seen": "2026-10-28T18:56:32Z",
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Nasiko-Labs/nasiko": {
+"repo": "Nasiko-Labs/nasiko",
+"url": "https://github.com/Nasiko-Labs/nasiko",
+"description": "The Open Runtime for AI Agents",
+"stars": 10192,
+"spd": 137.7,
+"score": 1.76,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "NOASSERTION",
+"language": "Rust",
+"first_seen": "2026-10-28T18:56:32Z",
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"rocketride-org/rocketride-server": {
+"repo": "rocketride-org/rocketride-server",
+"url": "https://github.com/rocketride-org/rocketride-server",
+"description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all f",
+"stars": 18425,
+"spd": 120.9,
+"score": 1.48,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-10-28T18:56:32Z",
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"SleuthMesmerize/BorisFX": {
+"repo": "SleuthMesmerize/BorisFX",
+"url": "https://github.com/SleuthMesmerize/BorisFX",
+"description": "Complete standalone setup for Borisfx 2026, your go-to solution for professional video editing and VFX. Ready to run with all features unlocked.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.92,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": null,
+"language": "",
+"first_seen": "2026-10-28T18:56:32Z",
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"jacke-pp/open-yoki": {
+"repo": "jacke-pp/open-yoki",
+"url": "https://github.com/jacke-pp/open-yoki",
+"description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+"stars": 202,
+"spd": 33.3,
+"score": 0.8,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "JavaScript",
+"first_seen": "2026-10-28T18:56:32Z",
+"last_seen": "2026-10-28T18:56:32Z",
+"hits": 1,
 "in_tg": false,
 "status": "new"
 }
