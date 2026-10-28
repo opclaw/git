@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 401688.0,
+"stars": 402299.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-28T19:00:02Z",
-"hits": 67,
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 68,
 "in_tg": false,
 "status": "active"
 },
@@ -921,7 +921,7 @@
 "repo": "storytold/photocraft",
 "url": "https://github.com/storytold/photocraft",
 "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-"stars": 73482.0,
+"stars": 74393.0,
 "spd": 816.0,
 "score": 1.11,
 "fit": 0.74,
@@ -930,10 +930,10 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-27T04:51:59Z",
-"hits": 8,
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 9,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "tangency-labs/solidcraft": {
 "repo": "tangency-labs/solidcraft",
@@ -1029,7 +1029,7 @@
 "repo": "cloudflare/security-audit-skill",
 "url": "https://github.com/cloudflare/security-audit-skill",
 "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-"stars": 51400.0,
+"stars": 51608.0,
 "spd": 279.1,
 "score": 0.98,
 "fit": 0.7,
@@ -1038,8 +1038,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-28T19:00:02Z",
-"hits": 46,
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 47,
 "in_tg": false,
 "status": "active"
 },
@@ -1281,7 +1281,7 @@
 "repo": "debpalash/VoiceStudio",
 "url": "https://github.com/debpalash/VoiceStudio",
 "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-"stars": 92733.0,
+"stars": 92924.0,
 "spd": 376.8,
 "score": 1.22,
 "fit": 0.89,
@@ -1290,8 +1290,8 @@
 "license": "AGPL-3.0",
 "language": "Python",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-28T19:00:02Z",
-"hits": 40,
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 41,
 "in_tg": false,
 "status": "active"
 },
@@ -1299,7 +1299,7 @@
 "repo": "affaan-m/ECC",
 "url": "https://github.com/affaan-m/ECC",
 "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-"stars": 290859.0,
+"stars": 291724.0,
 "spd": 199.1,
 "score": 0.97,
 "fit": 0.96,
@@ -1308,8 +1308,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-27T23:51:37Z",
-"hits": 13,
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 14,
 "in_tg": false,
 "status": "active"
 },
@@ -1605,7 +1605,7 @@
 "repo": "ifixai-ai/iFixAi",
 "url": "https://github.com/ifixai-ai/iFixAi",
 "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th",
-"stars": 36905.0,
+"stars": 37042.0,
 "spd": 163.0,
 "score": 1.31,
 "fit": 0.96,
@@ -1614,8 +1614,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-20T19:30:26Z",
-"last_seen": "2026-10-28T19:00:02Z",
-"hits": 21,
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 22,
 "in_tg": true,
 "status": "active"
 },
@@ -1635,7 +1635,7 @@
 "last_seen": "2026-10-27T20:35:58Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "addyosmani/agent-skills": {
 "repo": "addyosmani/agent-skills",
@@ -1839,7 +1839,7 @@
 "repo": "Graphify-Labs/graphify",
 "url": "https://github.com/Graphify-Labs/graphify",
 "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-"stars": 133849.0,
+"stars": 137803.0,
 "spd": 816.0,
 "score": 1.29,
 "fit": 1.0,
@@ -1848,10 +1848,10 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-21T01:28:35Z",
-"last_seen": "2026-10-23T21:08:58Z",
-"hits": 12,
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 13,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "heygen-com/hyperframes": {
 "repo": "heygen-com/hyperframes",
@@ -2103,7 +2103,7 @@
 "last_seen": "2026-10-27T19:29:45Z",
 "hits": 8,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "eagle-hq/EAGLE-4": {
 "repo": "eagle-hq/EAGLE-4",
@@ -2175,7 +2175,7 @@
 "last_seen": "2026-10-27T20:35:58Z",
 "hits": 9,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "bowenliang123/dsh-context": {
 "repo": "bowenliang123/dsh-context",
@@ -2199,7 +2199,7 @@
 "repo": "wheresryan22/anatomy",
 "url": "https://github.com/wheresryan22/anatomy",
 "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-"stars": 19325.0,
+"stars": 22072.0,
 "spd": 53.3,
 "score": 0.79,
 "fit": 0.52,
@@ -2208,10 +2208,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-21T07:49:44Z",
-"last_seen": "2026-10-23T07:09:06Z",
-"hits": 4,
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 5,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "AhmadHassan-BTed/FormFilla": {
 "repo": "AhmadHassan-BTed/FormFilla",
@@ -2463,7 +2463,7 @@
 "last_seen": "2026-10-27T20:35:58Z",
 "hits": 3,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "zcyoung2000/douban-backup": {
 "repo": "zcyoung2000/douban-backup",
@@ -3147,7 +3147,7 @@
 "last_seen": "2026-10-27T20:35:58Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "vectorize-io/hindsight": {
 "repo": "vectorize-io/hindsight",
@@ -3363,7 +3363,7 @@
 "last_seen": "2026-10-27T19:29:45Z",
 "hits": 8,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/SoulMatrix": {
 "repo": "AhmadHassan-BTed/SoulMatrix",
@@ -4017,7 +4017,7 @@
 "repo": "obra/superpowers",
 "url": "https://github.com/obra/superpowers",
 "description": "An agentic skills framework & software development methodology that works.",
-"stars": 304540.0,
+"stars": 307406.0,
 "spd": 720.0,
 "score": 0.81,
 "fit": 0.52,
@@ -4026,10 +4026,10 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-10-24T16:50:07Z",
-"hits": 3,
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 4,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "pingdotgg/t3code": {
 "repo": "pingdotgg/t3code",
@@ -4305,7 +4305,7 @@
 "repo": "makecindy/cindy",
 "url": "https://github.com/makecindy/cindy",
 "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-"stars": 7661.0,
+"stars": 8056.0,
 "spd": 144.0,
 "score": 1.7,
 "fit": 0.74,
@@ -4314,8 +4314,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-24T03:56:39Z",
-"last_seen": "2026-10-28T05:56:44Z",
-"hits": 7,
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 8,
 "in_tg": true,
 "status": "active"
 },
@@ -4323,7 +4323,7 @@
 "repo": "AgriciDaniel/claude-seo",
 "url": "https://github.com/AgriciDaniel/claude-seo",
 "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
-"stars": 23242.0,
+"stars": 23342.0,
 "spd": 89.0,
 "score": 1.3,
 "fit": 0.96,
@@ -4332,8 +4332,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-24T03:56:39Z",
-"last_seen": "2026-10-28T19:00:02Z",
-"hits": 5,
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 6,
 "in_tg": true,
 "status": "active"
 },
@@ -4791,19 +4791,19 @@
 "repo": "kajisho5/ffmpeg-skill",
 "url": "https://github.com/kajisho5/ffmpeg-skill",
 "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou",
-"stars": 2472,
-"spd": 26.4,
-"score": 1.4,
+"stars": 3502.0,
+"spd": 127.3,
+"score": 2.0,
 "fit": 0.96,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-24T16:50:07Z",
-"last_seen": "2026-10-24T16:50:07Z",
-"hits": 1,
-"in_tg": false,
-"status": "cooled"
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 2,
+"in_tg": true,
+"status": "active"
 },
 "Derpyu520/qq-bridge": {
 "repo": "Derpyu520/qq-bridge",
@@ -5991,7 +5991,7 @@
 "last_seen": "2026-10-27T19:29:45Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "t3dotgg/tstack": {
 "repo": "t3dotgg/tstack",
@@ -6009,7 +6009,7 @@
 "last_seen": "2026-10-27T20:35:58Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/EQAI": {
 "repo": "AhmadHassan-BTed/EQAI",
@@ -6027,7 +6027,7 @@
 "last_seen": "2026-10-27T20:35:58Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "DilawarShafiq/nietzschian-debugger": {
 "repo": "DilawarShafiq/nietzschian-debugger",
@@ -6405,7 +6405,7 @@
 "last_seen": "2026-10-27T19:29:45Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Pomerado/pomerado": {
 "repo": "Pomerado/pomerado",
@@ -6495,7 +6495,7 @@
 "last_seen": "2026-10-27T19:29:45Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "AienTech/dossier": {
 "repo": "AienTech/dossier",
@@ -6513,7 +6513,7 @@
 "last_seen": "2026-10-28T19:00:02Z",
 "hits": 6,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "Appllama/appllama-skills": {
 "repo": "Appllama/appllama-skills",
@@ -6531,7 +6531,7 @@
 "last_seen": "2026-10-27T19:29:45Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Fractal-Compute-Orchestrations/.github": {
 "repo": "Fractal-Compute-Orchestrations/.github",
@@ -6549,7 +6549,7 @@
 "last_seen": "2026-10-27T20:35:58Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "CopilotKit/OpenDuet": {
 "repo": "CopilotKit/OpenDuet",
@@ -6567,7 +6567,7 @@
 "last_seen": "2026-10-27T23:51:37Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "TriangleMedicFinish/polymarket-ai-trading-bot": {
 "repo": "TriangleMedicFinish/polymarket-ai-trading-bot",
@@ -6591,7 +6591,7 @@
 "repo": "interplains/Zero-Breach-Toolkit",
 "url": "https://github.com/interplains/Zero-Breach-Toolkit",
 "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-"stars": 2426.0,
+"stars": 2705.0,
 "spd": 192.0,
 "score": 1.1,
 "fit": 0.61,
@@ -6600,8 +6600,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-27T23:51:37Z",
-"last_seen": "2026-10-28T19:00:02Z",
-"hits": 7,
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 8,
 "in_tg": true,
 "status": "new"
 },
@@ -6963,6 +6963,24 @@
 "last_seen": "2026-10-28T19:00:02Z",
 "hits": 2,
 "in_tg": false,
+"status": "new"
+},
+"milind-soni/OpenMausBot": {
+"repo": "milind-soni/OpenMausBot",
+"url": "https://github.com/milind-soni/OpenMausBot",
+"description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+"stars": 6579,
+"spd": 54.8,
+"score": 1.04,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": "Apache-2.0",
+"language": "TypeScript",
+"first_seen": "2026-10-28T23:07:35Z",
+"last_seen": "2026-10-28T23:07:35Z",
+"hits": 1,
+"in_tg": true,
 "status": "new"
 }
 }
