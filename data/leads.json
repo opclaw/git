@@ -1,23 +1,23 @@
 {
  "schema": "radar/leads.v1",
- "generated_at": "2026-10-28T05:56:27Z",
+ "generated_at": "2026-10-28T06:04:28Z",
  "window": {
-  "hours": 4,
-  "from": "2026-10-28-1",
+  "hours": 3,
+  "from": "2026-10-28-2",
   "to": "2026-10-28-4",
-  "watch_events": 1204,
-  "repos": 970,
-  "actors": 1157,
+  "watch_events": 901,
+  "repos": 757,
+  "actors": 867,
   "ring_accounts": 5,
-  "api_calls": 40,
+  "api_calls": 25,
   "authenticated": true
  },
  "leads": [
   {
-   "lead_id": "L-20261028-26",
+   "lead_id": "L-20261028-14",
    "repo": "Jonny-Marcos/PlanMilT",
    "url": "https://github.com/Jonny-Marcos/PlanMilT",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
    "stars": 26,
    "forks": 25,
@@ -59,7 +59,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -69,10 +69,10 @@
    }
   },
   {
-   "lead_id": "L-20261028-27",
+   "lead_id": "L-20261028-15",
    "repo": "zcyoung2000/douban-backup",
    "url": "https://github.com/zcyoung2000/douban-backup",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
    "stars": 762,
    "forks": 301,
@@ -115,7 +115,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -125,125 +125,13 @@
    }
   },
   {
-   "lead_id": "L-20261028-02",
-   "repo": "LieutenantBless46/DLSS-5-Manager-Main",
-   "url": "https://github.com/LieutenantBless46/DLSS-5-Manager-Main",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 1596,
-   "forks": 0,
-   "open_issues": 0,
-   "language": null,
-   "license": null,
-   "archived": false,
-   "size_kb": 3,
-   "description": "DLSS 5 Manager — A sleek, lightweight tool for managing DLSS settings, enhancing visual quality, and optimizing your gaming experience. ⚡",
-   "topics": [
-    "dlss-5-games",
-    "dlss-5-installer",
-    "dlss-5-manager",
-    "dlss-5-mod",
-    "dlss-swapper",
-    "dlss5-one-click"
-   ],
-   "signals": {
-    "age_days": 36.5,
-    "last_push_days_ago": 1,
-    "stars_in_window": 12,
-    "window_h": 1.1,
-    "stars_per_day_recent": 260.2,
-    "lifetime_stars_per_day": 43.67,
-    "acceleration": 6.0,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.61,
-   "problem_statement": "PS-dev",
-   "manipulation_risk": 0.0,
-   "lead_score": 2.24,
-   "score_explain": [
-    "V=1.94: хвост 260.2 зв/сут против штатных 43.7 (x6)",
-    "N=1.0: репо 37 дн от роду",
-    "C=1.0: пуш 1 дн назад",
-    "fit=0.61 -> PS-dev",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "MISSING->auto-reject",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-20",
-   "repo": "SoMarkAI/OXR",
-   "url": "https://github.com/SoMarkAI/OXR",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 1941,
-   "forks": 123,
-   "open_issues": 14,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "archived": false,
-   "size_kb": 1716,
-   "description": "An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-training.",
-   "topics": [
-    "agent",
-    "llm-tools",
-    "ocr",
-    "rsi",
-    "vlm",
-    "vlm-ocr"
-   ],
-   "signals": {
-    "age_days": 23.1,
-    "last_push_days_ago": 3,
-    "stars_in_window": 4,
-    "window_h": 1.8,
-    "stars_per_day_recent": 54.8,
-    "lifetime_stars_per_day": 84.17,
-    "acceleration": 0.7,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.96,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 1.56,
-   "score_explain": [
-    "V=0.50: хвост 54.8 зв/сут против штатных 84.2 (x1)",
-    "N=1.0: репо 23 дн от роду",
-    "C=1.0: пуш 3 дн назад",
-    "fit=0.96 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-12",
+   "lead_id": "L-20261028-25",
    "repo": "Orkas-AI/Orkas",
    "url": "https://github.com/Orkas-AI/Orkas",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 2621,
-   "forks": 133,
+   "stars": 2619,
+   "forks": 129,
    "open_issues": 1,
    "language": "JavaScript",
    "license": "MIT",
@@ -261,20 +149,20 @@
    "signals": {
     "age_days": 181.7,
     "last_push_days_ago": 0,
-    "stars_in_window": 6,
-    "window_h": 3.7,
-    "stars_per_day_recent": 39.3,
-    "lifetime_stars_per_day": 14.42,
-    "acceleration": 2.7,
+    "stars_in_window": 3,
+    "window_h": 2.7,
+    "stars_per_day_recent": 27.0,
+    "lifetime_stars_per_day": 14.41,
+    "acceleration": 1.9,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
    "fit_internal": 0.7,
    "problem_statement": "PS-ml",
    "manipulation_risk": 0.0,
-   "lead_score": 1.44,
+   "lead_score": 1.28,
    "score_explain": [
-    "V=0.79: хвост 39.3 зв/сут против штатных 14.4 (x3)",
+    "V=0.63: хвост 27.0 зв/сут против штатных 14.4 (x2)",
     "N=0.2: репо 182 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.7 -> PS-ml",
@@ -283,7 +171,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -293,12 +181,12 @@
    }
   },
   {
-   "lead_id": "L-20261028-23",
+   "lead_id": "L-20261028-22",
    "repo": "KnifeLemon/Filee",
    "url": "https://github.com/KnifeLemon/Filee",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 15155,
+   "stars": 15164,
    "forks": 972,
    "open_issues": 110,
    "language": "C#",
@@ -317,10 +205,10 @@
    "signals": {
     "age_days": 28.4,
     "last_push_days_ago": 0,
-    "stars_in_window": 4,
-    "window_h": 2.5,
-    "stars_per_day_recent": 38.5,
-    "lifetime_stars_per_day": 533.43,
+    "stars_in_window": 3,
+    "window_h": 1.3,
+    "stars_per_day_recent": 55.8,
+    "lifetime_stars_per_day": 533.64,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -328,9 +216,9 @@
    "fit_internal": 0.96,
    "problem_statement": "PS-infer",
    "manipulation_risk": 0.0,
-   "lead_score": 1.15,
+   "lead_score": 1.17,
    "score_explain": [
-    "V=0.07: хвост 38.5 зв/сут против штатных 533.4 (x0)",
+    "V=0.10: хвост 55.8 зв/сут против штатных 533.6 (x0)",
     "N=1.0: репо 28 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.96 -> PS-infer",
@@ -339,7 +227,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -349,13 +237,13 @@
    }
   },
   {
-   "lead_id": "L-20261028-28",
+   "lead_id": "L-20261028-16",
    "repo": "YuJunZhiXue/dsh-purge",
    "url": "https://github.com/YuJunZhiXue/dsh-purge",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 11340,
-   "forks": 2400,
+   "stars": 11344,
+   "forks": 2405,
    "open_issues": 10,
    "language": "JavaScript",
    "license": "Apache-2.0",
@@ -376,7 +264,7 @@
     "stars_in_window": 3,
     "window_h": 0.6,
     "stars_per_day_recent": 126.0,
-    "lifetime_stars_per_day": 162.17,
+    "lifetime_stars_per_day": 162.21,
     "acceleration": 0.8,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -395,7 +283,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -405,117 +293,12 @@
    }
   },
   {
-   "lead_id": "L-20261028-14",
-   "repo": "LNPANDY/NX2Apple",
-   "url": "https://github.com/LNPANDY/NX2Apple",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 1110,
-   "forks": 129,
-   "open_issues": 28,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "archived": false,
-   "size_kb": 160641,
-   "description": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
-   "topics": [
-    "apple-silicon",
-    "custom-format",
-    "homebrew",
-    "ios",
-    "ipa",
-    "ipad"
-   ],
-   "signals": {
-    "age_days": 7.5,
-    "last_push_days_ago": 0,
-    "stars_in_window": 5,
-    "window_h": 2.5,
-    "stars_per_day_recent": 48.1,
-    "lifetime_stars_per_day": 148.27,
-    "acceleration": 0.3,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.61,
-   "problem_statement": "PS-dev",
-   "manipulation_risk": 0.0,
-   "lead_score": 1.08,
-   "score_explain": [
-    "V=0.28: хвост 48.1 зв/сут против штатных 148.3 (x0)",
-    "N=1.0: репо 7 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.61 -> PS-dev",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-17",
-   "repo": "interplains/Zero-Breach-Toolkit",
-   "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 1181,
-   "forks": 129,
-   "open_issues": 2,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "archived": false,
-   "size_kb": 626,
-   "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-   "topics": [],
-   "signals": {
-    "age_days": 2.6,
-    "last_push_days_ago": 0,
-    "stars_in_window": 4,
-    "window_h": 0.5,
-    "stars_per_day_recent": 192.0,
-    "lifetime_stars_per_day": 448.14,
-    "acceleration": 0.4,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.5,
-   "problem_statement": "PS-ml",
-   "manipulation_risk": 0.0,
-   "lead_score": 1.06,
-   "score_explain": [
-    "V=0.36: хвост 192.0 зв/сут против штатных 448.1 (x0)",
-    "N=1.0: репо 3 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.5 -> PS-ml",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-25",
+   "lead_id": "L-20261028-24",
    "repo": "JetBrains/thinkrail",
    "url": "https://github.com/JetBrains/thinkrail",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 4279,
+   "stars": 4286,
    "forks": 227,
    "open_issues": 228,
    "language": "TypeScript",
@@ -534,20 +317,20 @@
    "signals": {
     "age_days": 111.9,
     "last_push_days_ago": 0,
-    "stars_in_window": 4,
-    "window_h": 3.4,
-    "stars_per_day_recent": 28.0,
-    "lifetime_stars_per_day": 38.23,
-    "acceleration": 0.7,
+    "stars_in_window": 3,
+    "window_h": 2.0,
+    "stars_per_day_recent": 36.0,
+    "lifetime_stars_per_day": 38.29,
+    "acceleration": 0.9,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
    "fit_internal": 0.61,
    "problem_statement": "PS-dev",
    "manipulation_risk": 0.0,
-   "lead_score": 1.06,
+   "lead_score": 1.12,
    "score_explain": [
-    "V=0.33: хвост 28.0 зв/сут против штатных 38.2 (x1)",
+    "V=0.40: хвост 36.0 зв/сут против штатных 38.3 (x1)",
     "N=0.6: репо 112 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -556,7 +339,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -566,14 +349,14 @@
    }
   },
   {
-   "lead_id": "L-20261028-11",
+   "lead_id": "L-20261028-23",
    "repo": "DuarteSantos8/openGym",
    "url": "https://github.com/DuarteSantos8/openGym",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 16752,
+   "stars": 16756,
    "forks": 2180,
-   "open_issues": 197,
+   "open_issues": 206,
    "language": "JavaScript",
    "license": "AGPL-3.0",
    "archived": false,
@@ -590,10 +373,10 @@
    "signals": {
     "age_days": 101.4,
     "last_push_days_ago": 0,
-    "stars_in_window": 6,
-    "window_h": 2.8,
-    "stars_per_day_recent": 51.4,
-    "lifetime_stars_per_day": 165.23,
+    "stars_in_window": 3,
+    "window_h": 1.6,
+    "stars_per_day_recent": 44.0,
+    "lifetime_stars_per_day": 165.26,
     "acceleration": 0.3,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -601,9 +384,9 @@
    "fit_internal": 0.83,
    "problem_statement": "PS-web",
    "manipulation_risk": 0.0,
-   "lead_score": 1.05,
+   "lead_score": 1.03,
    "score_explain": [
-    "V=0.16: хвост 51.4 зв/сут против штатных 165.2 (x0)",
+    "V=0.14: хвост 44.0 зв/сут против штатных 165.3 (x0)",
     "N=0.6: репо 101 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.83 -> PS-web",
@@ -612,7 +395,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -622,12 +405,12 @@
    }
   },
   {
-   "lead_id": "L-20261028-30",
+   "lead_id": "L-20261028-18",
    "repo": "Panniantong/Agent-Reach",
    "url": "https://github.com/Panniantong/Agent-Reach",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 105093,
+   "stars": 105094,
    "forks": 9318,
    "open_issues": 257,
    "language": "Python",
@@ -668,7 +451,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -678,101 +461,45 @@
    }
   },
   {
-   "lead_id": "L-20261028-37",
-   "repo": "cheaper-inference/OmniRoute",
-   "url": "https://github.com/cheaper-inference/OmniRoute",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "lead_id": "L-20261028-03",
+   "repo": "HKUDS/DeepTutor",
+   "url": "https://github.com/HKUDS/DeepTutor",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 81936,
-   "forks": 12070,
-   "open_issues": 476,
-   "language": "TypeScript",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 2252895,
-   "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
-   "topics": [
-    "a2a",
-    "ai-agents",
-    "ai-gateway",
-    "anthropic",
-    "claude",
-    "claude-code"
-   ],
-   "signals": {
-    "age_days": 256.7,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 2.5,
-    "stars_per_day_recent": 28.4,
-    "lifetime_stars_per_day": 319.16,
-    "acceleration": 0.1,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 1.0,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 1.02,
-   "score_explain": [
-    "V=0.05: хвост 28.4 зв/сут против штатных 319.2 (x0)",
-    "N=0.2: репо 257 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=1.0 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-39",
-   "repo": "makecindy/cindy",
-   "url": "https://github.com/makecindy/cindy",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 7661,
-   "forks": 908,
-   "open_issues": 2104,
-   "language": "TypeScript",
+   "stars": 46483,
+   "forks": 5813,
+   "open_issues": 218,
+   "language": "Python",
    "license": "Apache-2.0",
    "archived": false,
-   "size_kb": 531971,
-   "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+   "size_kb": 284142,
+   "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "topics": [
-    "agent",
-    "ai-agent",
-    "ai-assistant",
-    "android",
-    "claude-code",
-    "codex"
+    "ai-agents",
+    "ai-tutor",
+    "clawbot",
+    "cli-tool",
+    "deepresearch",
+    "interactive-learning"
    ],
    "signals": {
-    "age_days": 97.5,
+    "age_days": 303.6,
     "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 2.9,
-    "stars_per_day_recent": 25.2,
-    "lifetime_stars_per_day": 78.57,
-    "acceleration": 0.3,
+    "stars_in_window": 8,
+    "window_h": 2.7,
+    "stars_per_day_recent": 72.0,
+    "lifetime_stars_per_day": 153.1,
+    "acceleration": 0.5,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
    "fit_internal": 0.74,
    "problem_statement": "PS-infer",
    "manipulation_risk": 0.0,
-   "lead_score": 1.01,
+   "lead_score": 0.99,
    "score_explain": [
-    "V=0.17: хвост 25.2 зв/сут против штатных 78.6 (x0)",
-    "N=0.6: репо 98 дн от роду",
+    "V=0.23: хвост 72.0 зв/сут против штатных 153.1 (x0)",
+    "N=0.2: репо 304 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.74 -> PS-infer",
     "M=0.0: self-star 0.0, кольца 0.0"
@@ -780,7 +507,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -790,14 +517,14 @@
    }
   },
   {
-   "lead_id": "L-20261028-07",
+   "lead_id": "L-20261028-05",
    "repo": "yetone/magpie",
    "url": "https://github.com/yetone/magpie",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 23985,
-   "forks": 1944,
-   "open_issues": 2043,
+   "stars": 23991,
+   "forks": 1946,
+   "open_issues": 2044,
    "language": "Go",
    "license": "MIT",
    "archived": false,
@@ -814,10 +541,10 @@
    "signals": {
     "age_days": 34.6,
     "last_push_days_ago": 0,
-    "stars_in_window": 8,
-    "window_h": 3.0,
-    "stars_per_day_recent": 63.0,
-    "lifetime_stars_per_day": 693.91,
+    "stars_in_window": 7,
+    "window_h": 2.8,
+    "stars_per_day_recent": 59.6,
+    "lifetime_stars_per_day": 693.97,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -825,9 +552,9 @@
    "fit_internal": 0.74,
    "problem_statement": "PS-infer",
    "manipulation_risk": 0.0,
-   "lead_score": 1.0,
+   "lead_score": 0.99,
    "score_explain": [
-    "V=0.09: хвост 63.0 зв/сут против штатных 693.9 (x0)",
+    "V=0.08: хвост 59.6 зв/сут против штатных 694.0 (x0)",
     "N=1.0: репо 35 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.74 -> PS-infer",
@@ -836,7 +563,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -846,12 +573,12 @@
    }
   },
   {
-   "lead_id": "L-20261028-18",
+   "lead_id": "L-20261028-10",
    "repo": "designfuchen/word-atlas",
    "url": "https://github.com/designfuchen/word-atlas",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 2744,
+   "stars": 2746,
    "forks": 622,
    "open_issues": 21,
    "language": "TypeScript",
@@ -873,7 +600,7 @@
     "stars_in_window": 4,
     "window_h": 0.6,
     "stars_per_day_recent": 154.7,
-    "lifetime_stars_per_day": 947.78,
+    "lifetime_stars_per_day": 946.64,
     "acceleration": 0.2,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -883,7 +610,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.99,
    "score_explain": [
-    "V=0.15: хвост 154.7 зв/сут против штатных 947.8 (x0)",
+    "V=0.15: хвост 154.7 зв/сут против штатных 946.6 (x0)",
     "N=1.0: репо 3 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.65 -> PS-web",
@@ -892,7 +619,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -902,14 +629,14 @@
    }
   },
   {
-   "lead_id": "L-20261028-29",
+   "lead_id": "L-20261028-17",
    "repo": "Niko1221/Strata",
    "url": "https://github.com/Niko1221/Strata",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 34773,
+   "stars": 34776,
    "forks": 3727,
-   "open_issues": 985,
+   "open_issues": 986,
    "language": "C++",
    "license": "MIT",
    "archived": false,
@@ -922,7 +649,7 @@
     "stars_in_window": 3,
     "window_h": 0.9,
     "stars_per_day_recent": 82.3,
-    "lifetime_stars_per_day": 1036.36,
+    "lifetime_stars_per_day": 1036.28,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -932,7 +659,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.99,
    "score_explain": [
-    "V=0.08: хвост 82.3 зв/сут против штатных 1036.4 (x0)",
+    "V=0.08: хвост 82.3 зв/сут против штатных 1036.3 (x0)",
     "N=1.0: репо 34 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.74 -> PS-infer",
@@ -941,7 +668,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -951,13 +678,13 @@
    }
   },
   {
-   "lead_id": "L-20261028-03",
+   "lead_id": "L-20261028-02",
    "repo": "Ebony-Vinyl/dsh-our-free-model",
    "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 47302,
-   "forks": 1314,
+   "stars": 47320,
+   "forks": 1315,
    "open_issues": 364,
    "language": "JavaScript",
    "license": "MIT",
@@ -975,10 +702,10 @@
    "signals": {
     "age_days": 33.6,
     "last_push_days_ago": 0,
-    "stars_in_window": 12,
-    "window_h": 2.7,
-    "stars_per_day_recent": 106.5,
-    "lifetime_stars_per_day": 1409.1,
+    "stars_in_window": 10,
+    "window_h": 2.1,
+    "stars_per_day_recent": 114.6,
+    "lifetime_stars_per_day": 1409.41,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -988,7 +715,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.98,
    "score_explain": [
-    "V=0.07: хвост 106.5 зв/сут против штатных 1409.1 (x0)",
+    "V=0.08: хвост 114.6 зв/сут против штатных 1409.4 (x0)",
     "N=1.0: репо 34 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.76 -> PS-dev",
@@ -997,228 +724,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-04",
-   "repo": "HKUDS/DeepTutor",
-   "url": "https://github.com/HKUDS/DeepTutor",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 46472,
-   "forks": 5813,
-   "open_issues": 218,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "archived": false,
-   "size_kb": 284142,
-   "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-   "topics": [
-    "ai-agents",
-    "ai-tutor",
-    "clawbot",
-    "cli-tool",
-    "deepresearch",
-    "interactive-learning"
-   ],
-   "signals": {
-    "age_days": 303.6,
-    "last_push_days_ago": 0,
-    "stars_in_window": 10,
-    "window_h": 3.7,
-    "stars_per_day_recent": 64.7,
-    "lifetime_stars_per_day": 153.07,
-    "acceleration": 0.4,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.74,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.97,
-   "score_explain": [
-    "V=0.21: хвост 64.7 зв/сут против штатных 153.1 (x0)",
-    "N=0.2: репо 304 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.74 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-38",
-   "repo": "remotion-dev/remotion",
-   "url": "https://github.com/remotion-dev/remotion",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 68345,
-   "forks": 5560,
-   "open_issues": 204,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "archived": false,
-   "size_kb": 4456243,
-   "description": "🎥      Make videos programmatically with React",
-   "topics": [
-    "javascript",
-    "react",
-    "video"
-   ],
-   "signals": {
-    "age_days": 2317.4,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 2.6,
-    "stars_per_day_recent": 27.5,
-    "lifetime_stars_per_day": 29.49,
-    "acceleration": 0.9,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.52,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.97,
-   "score_explain": [
-    "V=0.40: хвост 27.5 зв/сут против штатных 29.5 (x1)",
-    "N=0.2: репо 2317 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.52 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-10",
-   "repo": "debpalash/VoiceStudio",
-   "url": "https://github.com/debpalash/VoiceStudio",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 91759,
-   "forks": 10155,
-   "open_issues": 34,
-   "language": "Python",
-   "license": "AGPL-3.0",
-   "archived": false,
-   "size_kb": 163981,
-   "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-   "topics": [
-    "ai",
-    "audiobook",
-    "cuda",
-    "dubbing",
-    "elevenlabs-alternative",
-    "huggingface"
-   ],
-   "signals": {
-    "age_days": 201.3,
-    "last_push_days_ago": 0,
-    "stars_in_window": 6,
-    "window_h": 1.9,
-    "stars_per_day_recent": 75.7,
-    "lifetime_stars_per_day": 455.73,
-    "acceleration": 0.2,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.89,
-   "problem_statement": "PS-ml",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.96,
-   "score_explain": [
-    "V=0.09: хвост 75.7 зв/сут против штатных 455.7 (x0)",
-    "N=0.2: репо 201 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.89 -> PS-ml",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-33",
-   "repo": "morganlinton/BeautifulRust",
-   "url": "https://github.com/morganlinton/BeautifulRust",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 1333,
-   "forks": 59,
-   "open_issues": 3,
-   "language": "Python",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 2865,
-   "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-   "topics": [
-    "agent-skills",
-    "claude-code",
-    "claude-plugin",
-    "claude-skills",
-    "clippy",
-    "code-review"
-   ],
-   "signals": {
-    "age_days": 5.1,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 1.6,
-    "stars_per_day_recent": 46.1,
-    "lifetime_stars_per_day": 260.26,
-    "acceleration": 0.2,
-    "self_star_share": 0.0,
-    "ring_share": 0.33
-   },
-   "fit_internal": 0.92,
-   "problem_statement": "PS-dev",
-   "manipulation_risk": 0.18,
-   "lead_score": 0.96,
-   "score_explain": [
-    "V=0.16: хвост 46.1 зв/сут против штатных 260.3 (x0)",
-    "N=1.0: репо 5 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.92 -> PS-dev",
-    "M=0.18: self-star 0.0, кольца 0.33"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1231,11 +737,11 @@
    "lead_id": "L-20261028-01",
    "repo": "morluto/rea",
    "url": "https://github.com/morluto/rea",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 398469,
-   "forks": 99964,
-   "open_issues": 1384,
+   "stars": 398497,
+   "forks": 99973,
+   "open_issues": 1385,
    "language": "TypeScript",
    "license": "MIT",
    "archived": false,
@@ -1252,20 +758,20 @@
    "signals": {
     "age_days": 197.2,
     "last_push_days_ago": 0,
-    "stars_in_window": 15,
-    "window_h": 3.7,
-    "stars_per_day_recent": 98.0,
-    "lifetime_stars_per_day": 2020.51,
-    "acceleration": 0.0,
+    "stars_in_window": 11,
+    "window_h": 2.2,
+    "stars_per_day_recent": 120.3,
+    "lifetime_stars_per_day": 2020.6,
+    "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
    "fit_internal": 0.96,
    "problem_statement": "PS-infer",
    "manipulation_risk": 0.0,
-   "lead_score": 0.95,
+   "lead_score": 0.96,
    "score_explain": [
-    "V=0.03: хвост 98.0 зв/сут против штатных 2020.5 (x0)",
+    "V=0.03: хвост 120.3 зв/сут против штатных 2020.6 (x0)",
     "N=0.2: репо 197 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.96 -> PS-infer",
@@ -1274,7 +780,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1284,12 +790,68 @@
    }
   },
   {
-   "lead_id": "L-20261028-05",
+   "lead_id": "L-20261028-06",
+   "repo": "debpalash/VoiceStudio",
+   "url": "https://github.com/debpalash/VoiceStudio",
+   "first_seen_at": "2026-10-28T06:04:28Z",
+   "channel": "gh_archive_watch",
+   "stars": 91771,
+   "forks": 10159,
+   "open_issues": 34,
+   "language": "Python",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "size_kb": 163981,
+   "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+   "topics": [
+    "ai",
+    "audiobook",
+    "cuda",
+    "dubbing",
+    "elevenlabs-alternative",
+    "huggingface"
+   ],
+   "signals": {
+    "age_days": 201.4,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 1.9,
+    "stars_per_day_recent": 75.7,
+    "lifetime_stars_per_day": 455.78,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.89,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.96,
+   "score_explain": [
+    "V=0.09: хвост 75.7 зв/сут против штатных 455.8 (x0)",
+    "N=0.2: репо 201 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.89 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-10-28T10:04:28Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261028-04",
    "repo": "elayadesign/ai-design-skills",
    "url": "https://github.com/elayadesign/ai-design-skills",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 9887,
+   "stars": 9902,
    "forks": 696,
    "open_issues": 6,
    "language": null,
@@ -1301,10 +863,10 @@
    "signals": {
     "age_days": 91.0,
     "last_push_days_ago": 0,
-    "stars_in_window": 10,
-    "window_h": 3.8,
-    "stars_per_day_recent": 63.2,
-    "lifetime_stars_per_day": 108.69,
+    "stars_in_window": 7,
+    "window_h": 2.6,
+    "stars_per_day_recent": 64.6,
+    "lifetime_stars_per_day": 108.85,
     "acceleration": 0.6,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1314,7 +876,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.91,
    "score_explain": [
-    "V=0.28: хвост 63.2 зв/сут против штатных 108.7 (x1)",
+    "V=0.28: хвост 64.6 зв/сут против штатных 108.8 (x1)",
     "N=0.6: репо 91 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.5 -> PS-ml",
@@ -1323,7 +885,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1333,53 +895,53 @@
    }
   },
   {
-   "lead_id": "L-20261028-35",
-   "repo": "usestrix/strix",
-   "url": "https://github.com/usestrix/strix",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "lead_id": "L-20261028-19",
+   "repo": "rddmwmddr/android-ad-cleaner",
+   "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 72395,
-   "forks": 8112,
-   "open_issues": 505,
+   "stars": 3714,
+   "forks": 324,
+   "open_issues": 191,
    "language": "Python",
-   "license": "Apache-2.0",
+   "license": "MIT",
    "archived": false,
-   "size_kb": 17014,
-   "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+   "size_kb": 4301,
+   "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
    "topics": [
-    "agents",
-    "ai-hacking",
-    "ai-penetration-testing",
-    "ai-pentesting",
-    "ai-security",
-    "artificial-intelligence"
+    "adb",
+    "ai-agent",
+    "android",
+    "coloros",
+    "debloat",
+    "hyperos"
    ],
    "signals": {
-    "age_days": 448.4,
+    "age_days": 4.0,
     "last_push_days_ago": 0,
     "stars_in_window": 3,
-    "window_h": 1.8,
-    "stars_per_day_recent": 38.9,
-    "lifetime_stars_per_day": 161.47,
-    "acceleration": 0.2,
+    "window_h": 0.9,
+    "stars_per_day_recent": 78.5,
+    "lifetime_stars_per_day": 923.9,
+    "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
-   "fit_internal": 0.74,
+   "fit_internal": 0.52,
    "problem_statement": "PS-infer",
    "manipulation_risk": 0.0,
-   "lead_score": 0.9,
+   "lead_score": 0.83,
    "score_explain": [
-    "V=0.13: хвост 38.9 зв/сут против штатных 161.5 (x0)",
-    "N=0.2: репо 448 дн от роду",
+    "V=0.08: хвост 78.5 зв/сут против штатных 923.9 (x0)",
+    "N=1.0: репо 4 дн от роду",
     "C=1.0: пуш 0 дн назад",
-    "fit=0.74 -> PS-infer",
+    "fit=0.52 -> PS-infer",
     "M=0.0: self-star 0.0, кольца 0.0"
    ],
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1389,12 +951,12 @@
    }
   },
   {
-   "lead_id": "L-20261028-15",
+   "lead_id": "L-20261028-12",
    "repo": "DietrichGebert/ponytail",
    "url": "https://github.com/DietrichGebert/ponytail",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 178372,
+   "stars": 178378,
    "forks": 9765,
    "open_issues": 146,
    "language": "JavaScript",
@@ -1413,29 +975,29 @@
    "signals": {
     "age_days": 138.2,
     "last_push_days_ago": 10,
-    "stars_in_window": 5,
-    "window_h": 2.6,
-    "stars_per_day_recent": 45.6,
-    "lifetime_stars_per_day": 1290.58,
+    "stars_in_window": 4,
+    "window_h": 2.1,
+    "stars_per_day_recent": 46.0,
+    "lifetime_stars_per_day": 1290.57,
     "acceleration": 0.0,
     "self_star_share": 0.0,
-    "ring_share": 0.2
+    "ring_share": 0.25
    },
    "fit_internal": 0.96,
    "problem_statement": "PS-infer",
-   "manipulation_risk": 0.11,
-   "lead_score": 0.84,
+   "manipulation_risk": 0.14,
+   "lead_score": 0.81,
    "score_explain": [
-    "V=0.02: хвост 45.6 зв/сут против штатных 1290.6 (x0)",
+    "V=0.02: хвост 46.0 зв/сут против штатных 1290.6 (x0)",
     "N=0.6: репо 138 дн от роду",
     "C=0.5: пуш 10 дн назад",
     "fit=0.96 -> PS-infer",
-    "M=0.11: self-star 0.0, кольца 0.2"
+    "M=0.14: self-star 0.0, кольца 0.25"
    ],
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1445,12 +1007,12 @@
    }
   },
   {
-   "lead_id": "L-20261028-31",
+   "lead_id": "L-20261028-21",
    "repo": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 50509,
+   "stars": 50518,
    "forks": 3183,
    "open_issues": 99,
    "language": "JavaScript",
@@ -1465,7 +1027,7 @@
     "stars_in_window": 3,
     "window_h": 1.2,
     "stars_per_day_recent": 58.7,
-    "lifetime_stars_per_day": 383.64,
+    "lifetime_stars_per_day": 383.69,
     "acceleration": 0.2,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1475,7 +1037,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.81,
    "score_explain": [
-    "V=0.09: хвост 58.7 зв/сут против штатных 383.6 (x0)",
+    "V=0.09: хвост 58.7 зв/сут против штатных 383.7 (x0)",
     "N=0.6: репо 132 дн от роду",
     "C=0.0: пуш 43 дн назад",
     "fit=0.7 -> PS-sec",
@@ -1484,7 +1046,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1494,181 +1056,13 @@
    }
   },
   {
-   "lead_id": "L-20261028-16",
-   "repo": "rddmwmddr/android-ad-cleaner",
-   "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 3705,
-   "forks": 323,
-   "open_issues": 191,
-   "language": "Python",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 4301,
-   "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-   "topics": [
-    "adb",
-    "ai-agent",
-    "android",
-    "coloros",
-    "debloat",
-    "hyperos"
-   ],
-   "signals": {
-    "age_days": 4.0,
-    "last_push_days_ago": 0,
-    "stars_in_window": 5,
-    "window_h": 3.2,
-    "stars_per_day_recent": 36.9,
-    "lifetime_stars_per_day": 922.94,
-    "acceleration": 0.0,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.52,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.79,
-   "score_explain": [
-    "V=0.04: хвост 36.9 зв/сут против штатных 922.9 (x0)",
-    "N=1.0: репо 4 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.52 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-21",
-   "repo": "anhao/ai-pose-gallery-zh",
-   "url": "https://github.com/anhao/ai-pose-gallery-zh",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 884,
-   "forks": 228,
-   "open_issues": 0,
-   "language": "HTML",
-   "license": "NOASSERTION",
-   "archived": false,
-   "size_kb": 677893,
-   "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-   "topics": [
-    "ai-art",
-    "chinese",
-    "cloudflare-pages",
-    "gallery",
-    "i18n",
-    "pose"
-   ],
-   "signals": {
-    "age_days": 0.7,
-    "last_push_days_ago": 0,
-    "stars_in_window": 4,
-    "window_h": 2.1,
-    "stars_per_day_recent": 45.6,
-    "lifetime_stars_per_day": 1210.22,
-    "acceleration": 0.0,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.52,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.79,
-   "score_explain": [
-    "V=0.04: хвост 45.6 зв/сут против штатных 1210.2 (x0)",
-    "N=1.0: репо 1 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.52 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-40",
-   "repo": "heygen-com/hyperframes",
-   "url": "https://github.com/heygen-com/hyperframes",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 74114,
-   "forks": 6730,
-   "open_issues": 197,
-   "language": "TypeScript",
-   "license": "Apache-2.0",
-   "archived": false,
-   "size_kb": 521534,
-   "description": "Write HTML. Render video. Built for agents.",
-   "topics": [
-    "ai",
-    "ai-agents",
-    "animation",
-    "claude-code",
-    "ffmpeg",
-    "framework"
-   ],
-   "signals": {
-    "age_days": 232.2,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 3.0,
-    "stars_per_day_recent": 23.8,
-    "lifetime_stars_per_day": 319.22,
-    "acceleration": 0.1,
-    "self_star_share": 0.0,
-    "ring_share": 0.33
-   },
-   "fit_internal": 0.96,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.18,
-   "lead_score": 0.77,
-   "score_explain": [
-    "V=0.04: хвост 23.8 зв/сут против штатных 319.2 (x0)",
-    "N=0.2: репо 232 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.96 -> PS-infer",
-    "M=0.18: self-star 0.0, кольца 0.33"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-06",
+   "lead_id": "L-20261028-09",
    "repo": "pbakaus/impeccable",
    "url": "https://github.com/pbakaus/impeccable",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 90916,
-   "forks": 5389,
+   "stars": 90934,
+   "forks": 5391,
    "open_issues": 47,
    "language": "Rust",
    "license": "Apache-2.0",
@@ -1685,10 +1079,10 @@
    "signals": {
     "age_days": 346.2,
     "last_push_days_ago": 0,
-    "stars_in_window": 8,
-    "window_h": 2.8,
-    "stars_per_day_recent": 67.4,
-    "lifetime_stars_per_day": 262.63,
+    "stars_in_window": 5,
+    "window_h": 1.8,
+    "stars_per_day_recent": 66.9,
+    "lifetime_stars_per_day": 262.68,
     "acceleration": 0.3,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1698,7 +1092,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.72,
    "score_explain": [
-    "V=0.14: хвост 67.4 зв/сут против штатных 262.6 (x0)",
+    "V=0.14: хвост 66.9 зв/сут против штатных 262.7 (x0)",
     "N=0.2: репо 346 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.52 -> PS-infer",
@@ -1707,7 +1101,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1717,62 +1111,13 @@
    }
   },
   {
-   "lead_id": "L-20261028-32",
-   "repo": "Nutlope/hallmark",
-   "url": "https://github.com/Nutlope/hallmark",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 39388,
-   "forks": 2055,
-   "open_issues": 64,
-   "language": "CSS",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 233521,
-   "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-   "topics": [],
-   "signals": {
-    "age_days": 183.4,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 1.3,
-    "stars_per_day_recent": 53.8,
-    "lifetime_stars_per_day": 214.79,
-    "acceleration": 0.3,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.52,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.72,
-   "score_explain": [
-    "V=0.13: хвост 53.8 зв/сут против штатных 214.8 (x0)",
-    "N=0.2: репо 183 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.52 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-13",
+   "lead_id": "L-20261028-20",
    "repo": "deepseek-ai/deepseek-harness",
    "url": "https://github.com/deepseek-ai/deepseek-harness",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 264002,
-   "forks": 31950,
+   "stars": 264008,
+   "forks": 31951,
    "open_issues": 0,
    "language": "TypeScript",
    "license": "MIT",
@@ -1786,12 +1131,12 @@
     "dsh-plugin"
    ],
    "signals": {
-    "age_days": 75.7,
+    "age_days": 75.8,
     "last_push_days_ago": 0,
-    "stars_in_window": 5,
-    "window_h": 1.5,
-    "stars_per_day_recent": 78.1,
-    "lifetime_stars_per_day": 3485.18,
+    "stars_in_window": 3,
+    "window_h": 1.2,
+    "stars_per_day_recent": 58.9,
+    "lifetime_stars_per_day": 3485.0,
     "acceleration": 0.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1799,9 +1144,9 @@
    "fit_internal": 0.52,
    "problem_statement": "PS-infer",
    "manipulation_risk": 0.0,
-   "lead_score": 0.71,
+   "lead_score": 0.7,
    "score_explain": [
-    "V=0.01: хвост 78.1 зв/сут против штатных 3485.2 (x0)",
+    "V=0.01: хвост 58.9 зв/сут против штатных 3485.0 (x0)",
     "N=0.6: репо 76 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.52 -> PS-infer",
@@ -1810,58 +1155,9 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-22",
-   "repo": "Zagitta/gpu-unlock",
-   "url": "https://github.com/Zagitta/gpu-unlock",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 11625,
-   "forks": 1141,
-   "open_issues": 79,
-   "language": "C",
-   "license": null,
-   "archived": false,
-   "size_kb": 239,
-   "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
-   "topics": [],
-   "signals": {
-    "age_days": 10.2,
-    "last_push_days_ago": 0,
-    "stars_in_window": 4,
-    "window_h": 2.2,
-    "stars_per_day_recent": 43.0,
-    "lifetime_stars_per_day": 1141.26,
-    "acceleration": 0.0,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.5,
-   "problem_statement": "PS-ml",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.47,
-   "score_explain": [
-    "V=0.04: хвост 43.0 зв/сут против штатных 1141.3 (x0)",
-    "N=1.0: репо 10 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.5 -> PS-ml",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "MISSING->auto-reject",
      "scorecard": "not_run",
      "readme_claims_reproduced": "not_run",
      "sandbox_run": "not_run"
@@ -1872,9 +1168,9 @@
    "lead_id": "L-20261028-08",
    "repo": "DLSS-5-Swaper-New/.github",
    "url": "https://github.com/DLSS-5-Swaper-New/.github",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 1542,
+   "stars": 1543,
    "forks": 1,
    "open_issues": 0,
    "language": null,
@@ -1893,20 +1189,20 @@
    "signals": {
     "age_days": 0.5,
     "last_push_days_ago": 0,
-    "stars_in_window": 8,
-    "window_h": 3.4,
-    "stars_per_day_recent": 55.7,
-    "lifetime_stars_per_day": 3084.0,
-    "acceleration": 0.0,
+    "stars_in_window": 5,
+    "window_h": 0.2,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 3086.0,
+    "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
    "fit_internal": 0.48,
    "problem_statement": "PS-web",
    "manipulation_risk": 0.0,
-   "lead_score": 0.44,
+   "lead_score": 0.49,
    "score_explain": [
-    "V=0.02: хвост 55.7 зв/сут против штатных 3084.0 (x0)",
+    "V=0.07: хвост 240.0 зв/сут против штатных 3086.0 (x0)",
     "N=1.0: репо 0 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.48 -> PS-web",
@@ -1915,7 +1211,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1925,48 +1221,48 @@
    }
   },
   {
-   "lead_id": "L-20261028-24",
-   "repo": "pengchujin/aerial-tv",
-   "url": "https://github.com/pengchujin/aerial-tv",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "lead_id": "L-20261028-13",
+   "repo": "Zagitta/gpu-unlock",
+   "url": "https://github.com/Zagitta/gpu-unlock",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 7041,
-   "forks": 572,
-   "open_issues": 281,
-   "language": "Kotlin",
-   "license": "MIT",
+   "stars": 11627,
+   "forks": 1142,
+   "open_issues": 79,
+   "language": "C",
+   "license": null,
    "archived": false,
-   "size_kb": 8172,
-   "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+   "size_kb": 239,
+   "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
    "topics": [],
    "signals": {
-    "age_days": 7.9,
+    "age_days": 10.2,
     "last_push_days_ago": 0,
     "stars_in_window": 4,
-    "window_h": 2.6,
-    "stars_per_day_recent": 36.5,
-    "lifetime_stars_per_day": 895.41,
+    "window_h": 2.2,
+    "stars_per_day_recent": 43.0,
+    "lifetime_stars_per_day": 1140.84,
     "acceleration": 0.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
-   "fit_internal": 0.0,
-   "problem_statement": "PS-unknown",
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
    "manipulation_risk": 0.0,
-   "lead_score": 0.4,
+   "lead_score": 0.47,
    "score_explain": [
-    "V=0.04: хвост 36.5 зв/сут против штатных 895.4 (x0)",
-    "N=1.0: репо 8 дн от роду",
+    "V=0.04: хвост 43.0 зв/сут против штатных 1140.8 (x0)",
+    "N=1.0: репо 10 дн от роду",
     "C=1.0: пуш 0 дн назад",
-    "fit=0.0 -> PS-unknown",
+    "fit=0.5 -> PS-ml",
     "M=0.0: self-star 0.0, кольца 0.0"
    ],
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
-     "license": "ok",
+     "license": "MISSING->auto-reject",
      "scorecard": "not_run",
      "readme_claims_reproduced": "not_run",
      "sandbox_run": "not_run"
@@ -1974,13 +1270,13 @@
    }
   },
   {
-   "lead_id": "L-20261028-19",
+   "lead_id": "L-20261028-11",
    "repo": "Gathin23/cleanyourtv",
    "url": "https://github.com/Gathin23/cleanyourtv",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 42293,
-   "forks": 5150,
+   "stars": 42305,
+   "forks": 5151,
    "open_issues": 171,
    "language": "Python",
    "license": "NOASSERTION",
@@ -2001,7 +1297,7 @@
     "stars_in_window": 4,
     "window_h": 1.0,
     "stars_per_day_recent": 92.7,
-    "lifetime_stars_per_day": 3878.15,
+    "lifetime_stars_per_day": 3877.27,
     "acceleration": 0.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -2011,7 +1307,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.39,
    "score_explain": [
-    "V=0.02: хвост 92.7 зв/сут против штатных 3878.1 (x0)",
+    "V=0.02: хвост 92.7 зв/сут против штатных 3877.3 (x0)",
     "N=1.0: репо 11 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -2020,7 +1316,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -2030,117 +1326,13 @@
    }
   },
   {
-   "lead_id": "L-20261028-34",
-   "repo": "sindresorhus/awesome",
-   "url": "https://github.com/sindresorhus/awesome",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 525864,
-   "forks": 37828,
-   "open_issues": 105,
-   "language": null,
-   "license": "CC0-1.0",
-   "archived": false,
-   "size_kb": 1566,
-   "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-   "topics": [
-    "awesome",
-    "awesome-list",
-    "lists",
-    "resources",
-    "unicorns"
-   ],
-   "signals": {
-    "age_days": 4491.7,
-    "last_push_days_ago": 56,
-    "stars_in_window": 3,
-    "window_h": 1.6,
-    "stars_per_day_recent": 45.3,
-    "lifetime_stars_per_day": 117.08,
-    "acceleration": 0.4,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.0,
-   "problem_statement": "PS-unknown",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.28,
-   "score_explain": [
-    "V=0.20: хвост 45.3 зв/сут против штатных 117.1 (x0)",
-    "N=0.2: репо 4492 дн от роду",
-    "C=0.0: пуш 56 дн назад",
-    "fit=0.0 -> PS-unknown",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-36",
-   "repo": "multica-ai/andrej-karpathy-skills",
-   "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-   "first_seen_at": "2026-10-28T05:56:27Z",
-   "channel": "gh_archive_watch",
-   "stars": 225608,
-   "forks": 22534,
-   "open_issues": 138,
-   "language": null,
-   "license": null,
-   "archived": false,
-   "size_kb": 20,
-   "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-   "topics": [],
-   "signals": {
-    "age_days": 274.1,
-    "last_push_days_ago": 190,
-    "stars_in_window": 3,
-    "window_h": 2.1,
-    "stars_per_day_recent": 35.0,
-    "lifetime_stars_per_day": 823.13,
-    "acceleration": 0.0,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.52,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.24,
-   "score_explain": [
-    "V=0.02: хвост 35.0 зв/сут против штатных 823.1 (x0)",
-    "N=0.2: репо 274 дн от роду",
-    "C=0.0: пуш 190 дн назад",
-    "fit=0.52 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
-    "checks": {
-     "license": "MISSING->auto-reject",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261028-09",
+   "lead_id": "L-20261028-07",
    "repo": "unclebob/ub-mode",
    "url": "https://github.com/unclebob/ub-mode",
-   "first_seen_at": "2026-10-28T05:56:27Z",
+   "first_seen_at": "2026-10-28T06:04:28Z",
    "channel": "gh_archive_watch",
-   "stars": 2695,
-   "forks": 123,
+   "stars": 2704,
+   "forks": 124,
    "open_issues": 3,
    "language": null,
    "license": null,
@@ -2151,20 +1343,20 @@
    "signals": {
     "age_days": 2.6,
     "last_push_days_ago": 2,
-    "stars_in_window": 7,
-    "window_h": 3.3,
-    "stars_per_day_recent": 51.0,
-    "lifetime_stars_per_day": 1045.39,
-    "acceleration": 0.0,
+    "stars_in_window": 6,
+    "window_h": 2.0,
+    "stars_per_day_recent": 71.9,
+    "lifetime_stars_per_day": 1046.62,
+    "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
    "fit_internal": 0.0,
    "problem_statement": "PS-unknown",
    "manipulation_risk": 0.0,
-   "lead_score": 0.08,
+   "lead_score": 0.1,
    "score_explain": [
-    "V=0.05: хвост 51.0 зв/сут против штатных 1045.4 (x0)",
+    "V=0.07: хвост 71.9 зв/сут против штатных 1046.6 (x0)",
     "N=1.0: репо 3 дн от роду",
     "C=1.0: пуш 2 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -2173,7 +1365,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-10-28T09:56:27Z",
+    "sla_deadline": "2026-10-28T10:04:28Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
