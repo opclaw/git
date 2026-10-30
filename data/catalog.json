@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 411780.0,
+"stars": 412219.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-30T20:00:11Z",
-"hits": 77,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 78,
 "in_tg": false,
 "status": "active"
 },
@@ -417,7 +417,7 @@
 "repo": "Gathin23/cleanyourtv",
 "url": "https://github.com/Gathin23/cleanyourtv",
 "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-"stars": 46547.0,
+"stars": 46700.0,
 "spd": 533.5,
 "score": 0.45,
 "fit": 0.0,
@@ -426,8 +426,8 @@
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-30T20:00:11Z",
-"hits": 70,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 71,
 "in_tg": false,
 "status": "active"
 },
@@ -921,7 +921,7 @@
 "repo": "storytold/photocraft",
 "url": "https://github.com/storytold/photocraft",
 "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-"stars": 74393.0,
+"stars": 75218.0,
 "spd": 816.0,
 "score": 1.11,
 "fit": 0.74,
@@ -930,10 +930,10 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-28T23:07:35Z",
-"hits": 9,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 10,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "tangency-labs/solidcraft": {
 "repo": "tangency-labs/solidcraft",
@@ -1011,7 +1011,7 @@
 "repo": "Leonxlnx/taste-skill",
 "url": "https://github.com/Leonxlnx/taste-skill",
 "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-"stars": 104959.0,
+"stars": 106310.0,
 "spd": 35.0,
 "score": 0.87,
 "fit": 0.83,
@@ -1020,10 +1020,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-29T09:34:46Z",
-"hits": 3,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 4,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "cloudflare/security-audit-skill": {
 "repo": "cloudflare/security-audit-skill",
@@ -1281,7 +1281,7 @@
 "repo": "debpalash/VoiceStudio",
 "url": "https://github.com/debpalash/VoiceStudio",
 "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-"stars": 95525.0,
+"stars": 95703.0,
 "spd": 376.8,
 "score": 1.22,
 "fit": 0.89,
@@ -1290,8 +1290,8 @@
 "license": "AGPL-3.0",
 "language": "Python",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-30T20:00:11Z",
-"hits": 43,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 44,
 "in_tg": false,
 "status": "active"
 },
@@ -1497,7 +1497,7 @@
 "repo": "pbakaus/impeccable",
 "url": "https://github.com/pbakaus/impeccable",
 "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-"stars": 96587.0,
+"stars": 97006.0,
 "spd": 1008.0,
 "score": 1.3,
 "fit": 0.52,
@@ -1506,8 +1506,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-30T15:12:18Z",
-"hits": 31,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 32,
 "in_tg": false,
 "status": "active"
 },
@@ -1839,7 +1839,7 @@
 "repo": "Graphify-Labs/graphify",
 "url": "https://github.com/Graphify-Labs/graphify",
 "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-"stars": 138973.0,
+"stars": 139455.0,
 "spd": 816.0,
 "score": 1.29,
 "fit": 1.0,
@@ -1848,9 +1848,9 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-21T01:28:35Z",
-"last_seen": "2026-10-30T08:16:17Z",
-"hits": 15,
-"in_tg": false,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 16,
+"in_tg": true,
 "status": "active"
 },
 "heygen-com/hyperframes": {
@@ -3111,7 +3111,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 11,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "lexmount/moli": {
 "repo": "lexmount/moli",
@@ -3549,7 +3549,7 @@
 "repo": "NationalSecurityAgency/ghidra",
 "url": "https://github.com/NationalSecurityAgency/ghidra",
 "description": "Ghidra is a software reverse engineering (SRE) framework",
-"stars": 94094.0,
+"stars": 96187.0,
 "spd": 864.0,
 "score": 2.23,
 "fit": 0.5,
@@ -3558,10 +3558,10 @@
 "license": "Apache-2.0",
 "language": "Java",
 "first_seen": "2026-10-22T18:39:37Z",
-"last_seen": "2026-10-25T10:01:51Z",
-"hits": 5,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 6,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "NVIDIA/OpenShell": {
 "repo": "NVIDIA/OpenShell",
@@ -4323,7 +4323,7 @@
 "repo": "AgriciDaniel/claude-seo",
 "url": "https://github.com/AgriciDaniel/claude-seo",
 "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local S",
-"stars": 24416.0,
+"stars": 24496.0,
 "spd": 89.0,
 "score": 1.3,
 "fit": 0.96,
@@ -4332,8 +4332,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-24T03:56:39Z",
-"last_seen": "2026-10-30T20:00:11Z",
-"hits": 9,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 10,
 "in_tg": true,
 "status": "active"
 },
@@ -4713,7 +4713,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "anthropics/knowledge-work-plugins": {
 "repo": "anthropics/knowledge-work-plugins",
@@ -5061,7 +5061,7 @@
 "repo": "Nutlope/hallmark",
 "url": "https://github.com/Nutlope/hallmark",
 "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-"stars": 42832.0,
+"stars": 42950.0,
 "spd": 144.0,
 "score": 0.86,
 "fit": 0.52,
@@ -5070,8 +5070,8 @@
 "license": "MIT",
 "language": "CSS",
 "first_seen": "2026-10-24T21:46:28Z",
-"last_seen": "2026-10-30T20:00:11Z",
-"hits": 24,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 25,
 "in_tg": false,
 "status": "active"
 },
@@ -6969,7 +6969,7 @@
 "repo": "milind-soni/OpenMausBot",
 "url": "https://github.com/milind-soni/OpenMausBot",
 "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-"stars": 8420.0,
+"stars": 8593.0,
 "spd": 99.5,
 "score": 1.14,
 "fit": 0.65,
@@ -6978,8 +6978,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-28T23:07:35Z",
-"last_seen": "2026-10-30T20:00:11Z",
-"hits": 7,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 8,
 "in_tg": true,
 "status": "active"
 },
@@ -7269,7 +7269,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "SteepleStarfish/Easy-Worship": {
 "repo": "SteepleStarfish/Easy-Worship",
@@ -7341,7 +7341,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "SpecialistRetrieve/Wondshare-Recoverit": {
 "repo": "SpecialistRetrieve/Wondshare-Recoverit",
@@ -7431,7 +7431,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "taboofinancialmask/MetaTrader-5-Bot": {
 "repo": "taboofinancialmask/MetaTrader-5-Bot",
@@ -7449,7 +7449,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "NetworkFringe/Microsoft-Office": {
 "repo": "NetworkFringe/Microsoft-Office",
@@ -7617,7 +7617,7 @@
 "repo": "lightpanda-io/browser",
 "url": "https://github.com/lightpanda-io/browser",
 "description": "Lightpanda: the headless browser designed for AI and automation",
-"stars": 37703.0,
+"stars": 38333.0,
 "spd": 58.4,
 "score": 1.19,
 "fit": 0.5,
@@ -7626,8 +7626,8 @@
 "license": "AGPL-3.0",
 "language": "Zig",
 "first_seen": "2026-10-29T16:43:14Z",
-"last_seen": "2026-10-30T01:41:03Z",
-"hits": 2,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 3,
 "in_tg": true,
 "status": "active"
 },
@@ -7791,7 +7791,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "LeopardReside/Patreon-Viewer": {
 "repo": "LeopardReside/Patreon-Viewer",
@@ -7809,7 +7809,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "xuliang2024/minitv": {
 "repo": "xuliang2024/minitv",
@@ -7827,7 +7827,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "AhmadHassan-BTed/AutoSwarm-Shadow-Adapter": {
 "repo": "AhmadHassan-BTed/AutoSwarm-Shadow-Adapter",
@@ -7845,7 +7845,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Silentbriditch/VoiceMod": {
 "repo": "Silentbriditch/VoiceMod",
@@ -7863,7 +7863,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "CelestialCommercial/Quicken-Deluxe": {
 "repo": "CelestialCommercial/Quicken-Deluxe",
@@ -7881,7 +7881,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Braveglovestibule/Nero-Platinum": {
 "repo": "Braveglovestibule/Nero-Platinum",
@@ -7899,7 +7899,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "NeutronTaxiSurvive/Power-Director": {
 "repo": "NeutronTaxiSurvive/Power-Director",
@@ -7917,7 +7917,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Harborlumill91/Honeypot-Detector": {
 "repo": "Harborlumill91/Honeypot-Detector",
@@ -7935,7 +7935,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ThunderEncoder/Melodyne-5": {
 "repo": "ThunderEncoder/Melodyne-5",
@@ -7953,7 +7953,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "CaveVerseNight/Adobe-InDesign": {
 "repo": "CaveVerseNight/Adobe-InDesign",
@@ -7971,7 +7971,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Plateplaflange/Display-Fusion": {
 "repo": "Plateplaflange/Display-Fusion",
@@ -7989,7 +7989,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Closedfordetonate/SystemCare-Pro": {
 "repo": "Closedfordetonate/SystemCare-Pro",
@@ -8007,7 +8007,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "UniteCuttlefishBolt/Canva-Pro": {
 "repo": "UniteCuttlefishBolt/Canva-Pro",
@@ -8025,7 +8025,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ToneLocksmithWedge/PHP-Storm": {
 "repo": "ToneLocksmithWedge/PHP-Storm",
@@ -8043,7 +8043,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "GrandNurseStretch/Genesis-Miner": {
 "repo": "GrandNurseStretch/Genesis-Miner",
@@ -8061,7 +8061,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Sectioninnozzle15/PH-Downloader": {
 "repo": "Sectioninnozzle15/PH-Downloader",
@@ -8079,7 +8079,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "covesoulrhythm/Autodesk-3ds-MAX": {
 "repo": "covesoulrhythm/Autodesk-3ds-MAX",
@@ -8097,7 +8097,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "GasClerkNurse/LANDR-Plugin-Bundle": {
 "repo": "GasClerkNurse/LANDR-Plugin-Bundle",
@@ -8115,7 +8115,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "freesanninendure/PAYDAY-3-Cheat": {
 "repo": "freesanninendure/PAYDAY-3-Cheat",
@@ -8133,7 +8133,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Lusterkrilift/CorelDraw": {
 "repo": "Lusterkrilift/CorelDraw",
@@ -8151,7 +8151,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "gryphonfighterblaze/RX-11-Audio-Editor": {
 "repo": "gryphonfighterblaze/RX-11-Audio-Editor",
@@ -8169,7 +8169,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Bytefaembody/Reason-14": {
 "repo": "Bytefaembody/Reason-14",
@@ -8187,7 +8187,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sewmayordiscover/KeyShot-Pro": {
 "repo": "sewmayordiscover/KeyShot-Pro",
@@ -8205,7 +8205,7 @@
 "last_seen": "2026-10-29T21:38:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "vmc-inner-circle/k-style-ui-ux": {
 "repo": "vmc-inner-circle/k-style-ui-ux",
@@ -8463,7 +8463,7 @@
 "repo": "paipiange/nvzhuang",
 "url": "https://github.com/paipiange/nvzhuang",
 "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-"stars": 960.0,
+"stars": 1158.0,
 "spd": 112.7,
 "score": 0.95,
 "fit": 0.52,
@@ -8472,8 +8472,8 @@
 "license": "MIT",
 "language": "Go",
 "first_seen": "2026-10-30T08:16:17Z",
-"last_seen": "2026-10-30T15:12:18Z",
-"hits": 2,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 3,
 "in_tg": false,
 "status": "new"
 },
@@ -8607,7 +8607,7 @@
 "repo": "heydamir/unslop",
 "url": "https://github.com/heydamir/unslop",
 "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-"stars": 876.0,
+"stars": 1186.0,
 "spd": 247.1,
 "score": 1.21,
 "fit": 0.5,
@@ -8616,8 +8616,8 @@
 "license": "CC-BY-4.0",
 "language": "JavaScript",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-10-30T20:00:11Z",
-"hits": 2,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 3,
 "in_tg": true,
 "status": "new"
 },
@@ -8787,7 +8787,7 @@
 "repo": "anthropics/skills",
 "url": "https://github.com/anthropics/skills",
 "description": "Public repository for Agent Skills",
-"stars": 185036,
+"stars": 185285.0,
 "spd": 49.8,
 "score": 0.37,
 "fit": 0.52,
@@ -8796,8 +8796,8 @@
 "license": null,
 "language": "Python",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-10-30T15:12:18Z",
-"hits": 1,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -9021,7 +9021,7 @@
 "repo": "kevinraymond/florilegium",
 "url": "https://github.com/kevinraymond/florilegium",
 "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-"stars": 367,
+"stars": 575.0,
 "spd": 46.5,
 "score": 0.4,
 "fit": 0.0,
@@ -9030,8 +9030,8 @@
 "license": "MIT",
 "language": "Lua",
 "first_seen": "2026-10-30T20:00:11Z",
-"last_seen": "2026-10-30T20:00:11Z",
-"hits": 1,
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -9039,7 +9039,7 @@
 "repo": "valentderah/totk-pc-recomp",
 "url": "https://github.com/valentderah/totk-pc-recomp",
 "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
-"stars": 1344,
+"stars": 1505.0,
 "spd": 31.4,
 "score": 0.39,
 "fit": 0.0,
@@ -9048,7 +9048,421 @@
 "license": "MIT",
 "language": "C",
 "first_seen": "2026-10-30T20:00:11Z",
-"last_seen": "2026-10-30T20:00:11Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 2,
+"in_tg": false,
+"status": "new"
+},
+"EntranceStarfish/VoiceStudioV2": {
+"repo": "EntranceStarfish/VoiceStudioV2",
+"url": "https://github.com/EntranceStarfish/VoiceStudioV2",
+"description": "Local AI voice studio: real-time voice changer, text-to-speech, voice cloning & dubbing with a drop-in OpenAI-compatible API. 100% offline, no cloud, no API keys. Unofficial fork of VoiceStudio.",
+"stars": 128,
+"spd": 192.0,
+"score": 1.39,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "MIT",
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Cometzublaze/Clion": {
+"repo": "Cometzublaze/Clion",
+"url": "https://github.com/Cometzublaze/Clion",
+"description": "Clion 2023: Full working installer with all plugins and settings ready to run on your desktop.",
+"stars": 83,
+"spd": 144.0,
+"score": 1.29,
+"fit": 0.92,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"WeaveHelperCrucible/Quant-Trading-Bot": {
+"repo": "WeaveHelperCrucible/Quant-Trading-Bot",
+"url": "https://github.com/WeaveHelperCrucible/Quant-Trading-Bot",
+"description": "Quant Trading Bot 2026: Full working installer with advanced trading algorithms and user-friendly interface. Ready to run on your desktop.",
+"stars": 100,
+"spd": 240.0,
+"score": 1.12,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"boardshogunfluctuate/Capri-AI": {
+"repo": "boardshogunfluctuate/Capri-AI",
+"url": "https://github.com/boardshogunfluctuate/Capri-AI",
+"description": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliat",
+"stars": 196,
+"spd": 192.0,
+"score": 1.11,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Shadowmunode20/ON1-Photo-RAW-MAX": {
+"repo": "Shadowmunode20/ON1-Photo-RAW-MAX",
+"url": "https://github.com/Shadowmunode20/ON1-Photo-RAW-MAX",
+"description": "On1 Photo Raw Max 2026: Complete standalone setup with full feature activation, ready to run out of the box.",
+"stars": 100,
+"spd": 192.0,
+"score": 1.1,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"SquadElectromancer/PAYDAY-3-Cheat": {
+"repo": "SquadElectromancer/PAYDAY-3-Cheat",
+"url": "https://github.com/SquadElectromancer/PAYDAY-3-Cheat",
+"description": "Payday 3: Full working installer for professional desktop utility configuration, ready to run in 2026.",
+"stars": 100,
+"spd": 192.0,
+"score": 1.1,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ClipTerrapin48/RX-11-Audio-Editor": {
+"repo": "ClipTerrapin48/RX-11-Audio-Editor",
+"url": "https://github.com/ClipTerrapin48/RX-11-Audio-Editor",
+"description": "Rx 11 Audio Editor 2026 - Full working installer with all professional audio tools ready to run.",
+"stars": 100,
+"spd": 144.0,
+"score": 1.1,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"LogoLieutenantDitch/Honeypot-Detector": {
+"repo": "LogoLieutenantDitch/Honeypot-Detector",
+"url": "https://github.com/LogoLieutenantDitch/Honeypot-Detector",
+"description": "Pre-activated desktop edition of Honeypot Detector 2026. Full working installer with all features ready to run.",
+"stars": 100,
+"spd": 144.0,
+"score": 1.05,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-sec",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"NailTrackStill/LossLess-Scaling": {
+"repo": "NailTrackStill/LossLess-Scaling",
+"url": "https://github.com/NailTrackStill/LossLess-Scaling",
+"description": "Lossless Scaling 2026: Full working installer with advanced image processing tools for seamless resolution adjustments.",
+"stars": 100,
+"spd": 144.0,
+"score": 1.05,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"KindTechnician/Sylenth-1": {
+"repo": "KindTechnician/Sylenth-1",
+"url": "https://github.com/KindTechnician/Sylenth-1",
+"description": "Ready-to-run desktop installation build for Sylenth 1. Full working installer with all features activated, ready to use out of the box.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ProtectorDestroy6/WinUtilits": {
+"repo": "ProtectorDestroy6/WinUtilits",
+"url": "https://github.com/ProtectorDestroy6/WinUtilits",
+"description": "WinUtilits 2026: Complete standalone setup with all essential tools for efficient Windows management.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"SpaceSummoner/Patreon-Viewer": {
+"repo": "SpaceSummoner/Patreon-Viewer",
+"url": "https://github.com/SpaceSummoner/Patreon-Viewer",
+"description": "Complete Patreon Viewer 2026 standalone desktop installation build. Ready-to-use software with all features unlocked.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"weldmitelaud/Quicken-Deluxe": {
+"repo": "weldmitelaud/Quicken-Deluxe",
+"url": "https://github.com/weldmitelaud/Quicken-Deluxe",
+"description": "Quicken Deluxe 2026: Pre-activated desktop edition with all features ready to run. Full installation setup, no activation required.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"GlazeElephant/SolidWorks-CAD": {
+"repo": "GlazeElephant/SolidWorks-CAD",
+"url": "https://github.com/GlazeElephant/SolidWorks-CAD",
+"description": "Solidworks Cad 2023 complete standalone installation setup. Ready-to-run desktop edition with all features pre-activated.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"fuchsiazebraspot/Discord-Server-Cloner": {
+"repo": "fuchsiazebraspot/Discord-Server-Cloner",
+"url": "https://github.com/fuchsiazebraspot/Discord-Server-Cloner",
+"description": "Discord Server Cloner 2026 - Full working installer for easy server duplication. Ready-to-run desktop software with complete functionality.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"holefencercall/Fishing-Planet-Cheat": {
+"repo": "holefencercall/Fishing-Planet-Cheat",
+"url": "https://github.com/holefencercall/Fishing-Planet-Cheat",
+"description": "Complete standalone setup for Fishing Planet 2026. Ready-to-run desktop edition with all features unlocked.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"knitorioleflare/Genesis-Miner": {
+"repo": "knitorioleflare/Genesis-Miner",
+"url": "https://github.com/knitorioleflare/Genesis-Miner",
+"description": "Genesis Miner 2026: Pre-activated desktop edition with complete standalone setup, ready to run.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"MacroDeerForceps/Hwid-Spoofer": {
+"repo": "MacroDeerForceps/Hwid-Spoofer",
+"url": "https://github.com/MacroDeerForceps/Hwid-Spoofer",
+"description": "Pre-activated desktop edition of Hwid Spoofer Free 2026, ready-to-run installer with all features unlocked.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"manemayorstronghold/IBM-SPSS": {
+"repo": "manemayorstronghold/IBM-SPSS",
+"url": "https://github.com/manemayorstronghold/IBM-SPSS",
+"description": "IBM SPSS Statistics 2023: Full working installer with all modules activated for immediate use.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"meetshipperamp/Instagram-Liker-Bot": {
+"repo": "meetshipperamp/Instagram-Liker-Bot",
+"url": "https://github.com/meetshipperamp/Instagram-Liker-Bot",
+"description": "Instagram Liker Bot 2026: Full working installer with advanced automation features for desktop use.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Mixedbrovacuum/LANDR-Plugin-Bundle": {
+"repo": "Mixedbrovacuum/LANDR-Plugin-Bundle",
+"url": "https://github.com/Mixedbrovacuum/LANDR-Plugin-Bundle",
+"description": "Landr Plugin Bundle 2026: Full working installer with all plugins pre-installed and ready to run.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026": {
+"repo": "QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026",
+"url": "https://github.com/QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026",
+"description": "Powerful FPS Optimizer for all games. Increase frame rate, reduce lag and stutters with one-click profiles. Clean interface, fully reversible, easy to use.",
+"stars": 264,
+"spd": 144.0,
+"score": 0.92,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"RewindOrdinary/Wise-Care": {
+"repo": "RewindOrdinary/Wise-Care",
+"url": "https://github.com/RewindOrdinary/Wise-Care",
+"description": "Pre-activated desktop edition of Wise Care 2026, a complete standalone setup ready to run.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.9,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-10-30T23:38:41Z",
+"last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
