@@ -129,7 +129,7 @@
 "repo": "DietrichGebert/ponytail",
 "url": "https://github.com/DietrichGebert/ponytail",
 "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-"stars": 180227.0,
+"stars": 181553.0,
 "spd": 332.2,
 "score": 1.07,
 "fit": 0.96,
@@ -138,10 +138,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-30T01:41:03Z",
-"hits": 31,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 32,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "awesome-selfhosted/awesome-selfhosted": {
 "repo": "awesome-selfhosted/awesome-selfhosted",
@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 415403.0,
+"stars": 415700.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 84,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 85,
 "in_tg": false,
 "status": "active"
 },
@@ -417,7 +417,7 @@
 "repo": "Gathin23/cleanyourtv",
 "url": "https://github.com/Gathin23/cleanyourtv",
 "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-"stars": 47566.0,
+"stars": 47992.0,
 "spd": 533.5,
 "score": 0.45,
 "fit": 0.0,
@@ -426,8 +426,8 @@
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-10-31T15:58:26Z",
-"hits": 73,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 74,
 "in_tg": false,
 "status": "active"
 },
@@ -651,7 +651,7 @@
 "repo": "Panniantong/Agent-Reach",
 "url": "https://github.com/Panniantong/Agent-Reach",
 "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-"stars": 107032.0,
+"stars": 107241.0,
 "spd": 82.2,
 "score": 1.02,
 "fit": 0.96,
@@ -660,8 +660,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-20T00:08:51Z",
-"last_seen": "2026-10-31T10:46:07Z",
-"hits": 9,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 10,
 "in_tg": false,
 "status": "active"
 },
@@ -741,7 +741,7 @@
 "repo": "siglake/siglake",
 "url": "https://github.com/siglake/siglake",
 "description": "",
-"stars": 284.0,
+"stars": 533.0,
 "spd": 109.6,
 "score": 1.98,
 "fit": 0.0,
@@ -750,10 +750,10 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-24T18:45:41Z",
-"hits": 2,
-"in_tg": false,
-"status": "cooled"
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 3,
+"in_tg": true,
+"status": "active"
 },
 "Roboparty/RP1": {
 "repo": "Roboparty/RP1",
@@ -867,8 +867,8 @@
 "repo": "yetone/magpie",
 "url": "https://github.com/yetone/magpie",
 "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-"stars": 26742.0,
-"spd": 119.7,
+"stars": 26995.0,
+"spd": 125.5,
 "score": 1.07,
 "fit": 0.74,
 "risk": 0.0,
@@ -876,8 +876,8 @@
 "license": "MIT",
 "language": "Go",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-31T13:44:46Z",
-"hits": 20,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 21,
 "in_tg": false,
 "status": "active"
 },
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 54305.0,
+"stars": 54460.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-31T22:36:57Z",
-"hits": 61,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 62,
 "in_tg": true,
 "status": "active"
 },
@@ -933,7 +933,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 10,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "tangency-labs/solidcraft": {
 "repo": "tangency-labs/solidcraft",
@@ -1029,7 +1029,7 @@
 "repo": "cloudflare/security-audit-skill",
 "url": "https://github.com/cloudflare/security-audit-skill",
 "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-"stars": 55275.0,
+"stars": 55391.0,
 "spd": 279.1,
 "score": 0.98,
 "fit": 0.7,
@@ -1038,8 +1038,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 53,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 54,
 "in_tg": false,
 "status": "active"
 },
@@ -1281,7 +1281,7 @@
 "repo": "debpalash/VoiceStudio",
 "url": "https://github.com/debpalash/VoiceStudio",
 "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-"stars": 96803.0,
+"stars": 96918.0,
 "spd": 376.8,
 "score": 1.22,
 "fit": 0.89,
@@ -1290,8 +1290,8 @@
 "license": "AGPL-3.0",
 "language": "Python",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 48,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 49,
 "in_tg": false,
 "status": "active"
 },
@@ -1299,7 +1299,7 @@
 "repo": "affaan-m/ECC",
 "url": "https://github.com/affaan-m/ECC",
 "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-"stars": 293492.0,
+"stars": 294108.0,
 "spd": 199.1,
 "score": 0.97,
 "fit": 0.96,
@@ -1308,8 +1308,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-31T04:39:38Z",
-"hits": 20,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 21,
 "in_tg": false,
 "status": "active"
 },
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 110492.0,
+"stars": 111766.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,10 +1398,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-30T08:16:17Z",
-"hits": 26,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 27,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "val-tools/.github": {
 "repo": "val-tools/.github",
@@ -1497,7 +1497,7 @@
 "repo": "pbakaus/impeccable",
 "url": "https://github.com/pbakaus/impeccable",
 "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-"stars": 98213.0,
+"stars": 98345.0,
 "spd": 1008.0,
 "score": 1.3,
 "fit": 0.52,
@@ -1506,8 +1506,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 38,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 39,
 "in_tg": false,
 "status": "active"
 },
@@ -1623,7 +1623,7 @@
 "repo": "github/spec-kit",
 "url": "https://github.com/github/spec-kit",
 "description": "💫 Toolkit to help you get started with SDD or any other process!",
-"stars": 144393.0,
+"stars": 144467.0,
 "spd": 86.1,
 "score": 0.72,
 "fit": 0.5,
@@ -1632,8 +1632,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-20T19:30:26Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 4,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 5,
 "in_tg": false,
 "status": "active"
 },
@@ -1851,7 +1851,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 16,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "heygen-com/hyperframes": {
 "repo": "heygen-com/hyperframes",
@@ -3561,7 +3561,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 6,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "NVIDIA/OpenShell": {
 "repo": "NVIDIA/OpenShell",
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "",
-"stars": 35401.0,
+"stars": 35715.0,
 "spd": 106.3,
 "score": 0.58,
 "fit": 0.0,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 8,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 9,
 "in_tg": false,
 "status": "active"
 },
@@ -4335,7 +4335,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 10,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop": {
 "repo": "tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop",
@@ -4359,7 +4359,7 @@
 "repo": "HKUDS/DeepTutor",
 "url": "https://github.com/HKUDS/DeepTutor",
 "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-"stars": 52758.0,
+"stars": 52879.0,
 "spd": 240.0,
 "score": 1.26,
 "fit": 0.74,
@@ -4368,8 +4368,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-24T03:56:39Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 21,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 22,
 "in_tg": true,
 "status": "active"
 },
@@ -4395,7 +4395,7 @@
 "repo": "google/elephant-goldfish-model",
 "url": "https://github.com/google/elephant-goldfish-model",
 "description": "Open-source skills for designing and reviewing software with AI agents",
-"stars": 7647.0,
+"stars": 7858.0,
 "spd": 74.4,
 "score": 3.05,
 "fit": 0.96,
@@ -4404,8 +4404,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-24T08:47:32Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 16,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 17,
 "in_tg": true,
 "status": "active"
 },
@@ -5061,7 +5061,7 @@
 "repo": "Nutlope/hallmark",
 "url": "https://github.com/Nutlope/hallmark",
 "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-"stars": 42950.0,
+"stars": 43976.0,
 "spd": 144.0,
 "score": 0.86,
 "fit": 0.52,
@@ -5070,8 +5070,8 @@
 "license": "MIT",
 "language": "CSS",
 "first_seen": "2026-10-24T21:46:28Z",
-"last_seen": "2026-10-30T23:38:41Z",
-"hits": 25,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 26,
 "in_tg": false,
 "status": "active"
 },
@@ -8265,19 +8265,19 @@
 "repo": "CopilotKit/OpenBot",
 "url": "https://github.com/CopilotKit/OpenBot",
 "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-"stars": 8175,
-"spd": 20.6,
-"score": 0.95,
+"stars": 9150.0,
+"spd": 50.2,
+"score": 1.05,
 "fit": 0.74,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-30T01:41:03Z",
-"last_seen": "2026-10-30T01:41:03Z",
-"hits": 1,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 2,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "ColossusStage39/SeedPhraseGenerator": {
 "repo": "ColossusStage39/SeedPhraseGenerator",
@@ -8301,7 +8301,7 @@
 "repo": "Djihads80/Eglantine",
 "url": "https://github.com/Djihads80/Eglantine",
 "description": "VERY experimental Nintendo Switch 2 emulator",
-"stars": 1202.0,
+"stars": 1320.0,
 "spd": 71.7,
 "score": 0.65,
 "fit": 0.0,
@@ -8310,8 +8310,8 @@
 "license": "GPL-3.0",
 "language": "C++",
 "first_seen": "2026-10-30T01:41:03Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 5,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 6,
 "in_tg": false,
 "status": "active"
 },
@@ -8355,17 +8355,17 @@
 "repo": "microsoft/TokenEconomizer",
 "url": "https://github.com/microsoft/TokenEconomizer",
 "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
-"stars": 2596.0,
+"stars": 3126.0,
 "spd": 65.7,
 "score": 1.29,
-"fit": 0.52,
+"fit": 0.76,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-30T08:16:17Z",
-"last_seen": "2026-10-31T13:44:46Z",
-"hits": 4,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 5,
 "in_tg": true,
 "status": "active"
 },
@@ -8475,7 +8475,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "SoapmakerShout44/Cinema-4d": {
 "repo": "SoapmakerShout44/Cinema-4d",
@@ -8607,7 +8607,7 @@
 "repo": "heydamir/unslop",
 "url": "https://github.com/heydamir/unslop",
 "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-"stars": 3384.0,
+"stars": 3577.0,
 "spd": 247.1,
 "score": 1.21,
 "fit": 0.5,
@@ -8616,8 +8616,8 @@
 "license": "CC-BY-4.0",
 "language": "JavaScript",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 9,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 10,
 "in_tg": true,
 "status": "active"
 },
@@ -8679,17 +8679,17 @@
 "repo": "ccch1mneyyy/dsh-Go",
 "url": "https://github.com/ccch1mneyyy/dsh-Go",
 "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-"stars": 3565.0,
-"spd": 56.8,
-"score": 1.0,
+"stars": 3663.0,
+"spd": 97.4,
+"score": 1.04,
 "fit": 0.74,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "AGPL-3.0",
 "language": "Dart",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-10-31T22:36:57Z",
-"hits": 5,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 6,
 "in_tg": false,
 "status": "active"
 },
@@ -9033,13 +9033,13 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "valentderah/totk-pc-recomp": {
 "repo": "valentderah/totk-pc-recomp",
 "url": "https://github.com/valentderah/totk-pc-recomp",
 "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
-"stars": 2541.0,
+"stars": 2657.0,
 "spd": 85.3,
 "score": 0.44,
 "fit": 0.0,
@@ -9048,8 +9048,8 @@
 "license": "MIT",
 "language": "C",
 "first_seen": "2026-10-30T20:00:11Z",
-"last_seen": "2026-10-31T22:36:57Z",
-"hits": 6,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 7,
 "in_tg": false,
 "status": "active"
 },
@@ -9069,7 +9069,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Cometzublaze/Clion": {
 "repo": "Cometzublaze/Clion",
@@ -9087,7 +9087,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WeaveHelperCrucible/Quant-Trading-Bot": {
 "repo": "WeaveHelperCrucible/Quant-Trading-Bot",
@@ -9105,7 +9105,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "boardshogunfluctuate/Capri-AI": {
 "repo": "boardshogunfluctuate/Capri-AI",
@@ -9123,7 +9123,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Shadowmunode20/ON1-Photo-RAW-MAX": {
 "repo": "Shadowmunode20/ON1-Photo-RAW-MAX",
@@ -9141,7 +9141,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SquadElectromancer/PAYDAY-3-Cheat": {
 "repo": "SquadElectromancer/PAYDAY-3-Cheat",
@@ -9159,7 +9159,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ClipTerrapin48/RX-11-Audio-Editor": {
 "repo": "ClipTerrapin48/RX-11-Audio-Editor",
@@ -9177,7 +9177,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "LogoLieutenantDitch/Honeypot-Detector": {
 "repo": "LogoLieutenantDitch/Honeypot-Detector",
@@ -9195,7 +9195,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "NailTrackStill/LossLess-Scaling": {
 "repo": "NailTrackStill/LossLess-Scaling",
@@ -9213,7 +9213,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "KindTechnician/Sylenth-1": {
 "repo": "KindTechnician/Sylenth-1",
@@ -9231,7 +9231,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ProtectorDestroy6/WinUtilits": {
 "repo": "ProtectorDestroy6/WinUtilits",
@@ -9249,7 +9249,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SpaceSummoner/Patreon-Viewer": {
 "repo": "SpaceSummoner/Patreon-Viewer",
@@ -9267,7 +9267,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "weldmitelaud/Quicken-Deluxe": {
 "repo": "weldmitelaud/Quicken-Deluxe",
@@ -9285,7 +9285,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "GlazeElephant/SolidWorks-CAD": {
 "repo": "GlazeElephant/SolidWorks-CAD",
@@ -9303,7 +9303,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "fuchsiazebraspot/Discord-Server-Cloner": {
 "repo": "fuchsiazebraspot/Discord-Server-Cloner",
@@ -9321,7 +9321,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "holefencercall/Fishing-Planet-Cheat": {
 "repo": "holefencercall/Fishing-Planet-Cheat",
@@ -9339,7 +9339,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "knitorioleflare/Genesis-Miner": {
 "repo": "knitorioleflare/Genesis-Miner",
@@ -9357,7 +9357,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "MacroDeerForceps/Hwid-Spoofer": {
 "repo": "MacroDeerForceps/Hwid-Spoofer",
@@ -9375,7 +9375,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "manemayorstronghold/IBM-SPSS": {
 "repo": "manemayorstronghold/IBM-SPSS",
@@ -9393,7 +9393,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "meetshipperamp/Instagram-Liker-Bot": {
 "repo": "meetshipperamp/Instagram-Liker-Bot",
@@ -9411,7 +9411,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Mixedbrovacuum/LANDR-Plugin-Bundle": {
 "repo": "Mixedbrovacuum/LANDR-Plugin-Bundle",
@@ -9429,7 +9429,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026": {
 "repo": "QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026",
@@ -9447,7 +9447,7 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "RewindOrdinary/Wise-Care": {
 "repo": "RewindOrdinary/Wise-Care",
@@ -9465,13 +9465,13 @@
 "last_seen": "2026-10-30T23:38:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "vercel-labs/agent-desktop": {
 "repo": "vercel-labs/agent-desktop",
 "url": "https://github.com/vercel-labs/agent-desktop",
 "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions s",
-"stars": 4198.0,
+"stars": 4423.0,
 "spd": 113.9,
 "score": 2.16,
 "fit": 0.74,
@@ -9480,8 +9480,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-31T04:39:38Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 6,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 7,
 "in_tg": true,
 "status": "new"
 },
@@ -10299,7 +10299,7 @@
 "repo": "deepseek-ai/dsh-superagent-prototype",
 "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
 "description": "Towards a More Autonomous Agent System",
-"stars": 2131.0,
+"stars": 2857.0,
 "spd": 195.7,
 "score": 1.01,
 "fit": 0.74,
@@ -10308,8 +10308,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-31T15:58:26Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 3,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 4,
 "in_tg": false,
 "status": "new"
 },
@@ -10425,7 +10425,7 @@
 "repo": "islandmed/SculptForge",
 "url": "https://github.com/islandmed/SculptForge",
 "description": "The free, open-source alternative to ZBrush. Sculpting for Linux, macOS and Windows with free built-in AI (image/text to 3D), Send to Unreal, game-ready LODs, Gaussian splats and OpenUSD.",
-"stars": 128.0,
+"stars": 173.0,
 "spd": 85.7,
 "score": 2.88,
 "fit": 0.74,
@@ -10434,8 +10434,8 @@
 "license": "GPL-3.0",
 "language": "C++",
 "first_seen": "2026-10-31T22:36:57Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 2,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 3,
 "in_tg": true,
 "status": "new"
 },
@@ -10461,7 +10461,7 @@
 "repo": "patchy631/ai-engineering-hub",
 "url": "https://github.com/patchy631/ai-engineering-hub",
 "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-"stars": 39022.0,
+"stars": 39265.0,
 "spd": 54.5,
 "score": 1.34,
 "fit": 1.0,
@@ -10470,8 +10470,8 @@
 "license": "MIT",
 "language": "Jupyter Notebook",
 "first_seen": "2026-10-31T22:36:57Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 2,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 3,
 "in_tg": true,
 "status": "new"
 },
@@ -10479,8 +10479,8 @@
 "repo": "yetone/alma-relay",
 "url": "https://github.com/yetone/alma-relay",
 "description": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers.",
-"stars": 58.0,
-"spd": 36.2,
+"stars": 165.0,
+"spd": 80.5,
 "score": 1.23,
 "fit": 0.83,
 "risk": 0.0,
@@ -10488,8 +10488,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-31T22:36:57Z",
-"last_seen": "2026-10-31T23:10:22Z",
-"hits": 2,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 3,
 "in_tg": true,
 "status": "new"
 },
@@ -10569,17 +10569,17 @@
 "repo": "physicsdolphin/nv-uefi-unlocker",
 "url": "https://github.com/physicsdolphin/nv-uefi-unlocker",
 "description": "UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verifie",
-"stars": 599,
-"spd": 53.6,
-"score": 0.73,
+"stars": 670.0,
+"spd": 64.3,
+"score": 0.77,
 "fit": 0.0,
 "risk": 0.0,
 "ps": "PS-unknown",
 "license": "GPL-2.0",
 "language": "Rust",
 "first_seen": "2026-10-31T22:36:57Z",
-"last_seen": "2026-10-31T22:36:57Z",
-"hits": 1,
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -10597,6 +10597,96 @@
 "language": "",
 "first_seen": "2026-10-31T23:10:22Z",
 "last_seen": "2026-10-31T23:10:22Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"hlhczkubcboa/.github": {
+"repo": "hlhczkubcboa/.github",
+"url": "https://github.com/hlhczkubcboa/.github",
+"description": "wallet-copytrade-bot-pc-desktop",
+"stars": 13,
+"spd": 144.0,
+"score": 4.5,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-sec",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-01T02:21:26Z",
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"CNCKitchen/ScanRuler": {
+"repo": "CNCKitchen/ScanRuler",
+"url": "https://github.com/CNCKitchen/ScanRuler",
+"description": "",
+"stars": 317,
+"spd": 104.1,
+"score": 2.44,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-sec",
+"license": "AGPL-3.0",
+"language": "TypeScript",
+"first_seen": "2026-11-01T02:21:26Z",
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"bregman-arie/devops-exercises": {
+"repo": "bregman-arie/devops-exercises",
+"url": "https://github.com/bregman-arie/devops-exercises",
+"description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+"stars": 86023,
+"spd": 25.0,
+"score": 1.16,
+"fit": 1.0,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": "NOASSERTION",
+"language": "Python",
+"first_seen": "2026-11-01T02:21:26Z",
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"golang/go": {
+"repo": "golang/go",
+"url": "https://github.com/golang/go",
+"description": "The Go programming language",
+"stars": 139598,
+"spd": 128.9,
+"score": 1.11,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "BSD-3-Clause",
+"language": "Go",
+"first_seen": "2026-11-01T02:21:26Z",
+"last_seen": "2026-11-01T02:21:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"haydenschmitty/floorplan": {
+"repo": "haydenschmitty/floorplan",
+"url": "https://github.com/haydenschmitty/floorplan",
+"description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+"stars": 893,
+"spd": 26.5,
+"score": 0.94,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "JavaScript",
+"first_seen": "2026-11-01T02:21:26Z",
+"last_seen": "2026-11-01T02:21:26Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
