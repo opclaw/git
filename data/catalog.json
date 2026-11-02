@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 418358.0,
+"stars": 418725.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-01T20:59:20Z",
-"hits": 90,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 91,
 "in_tg": false,
 "status": "active"
 },
@@ -339,7 +339,7 @@
 "last_seen": "2026-10-31T22:36:57Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "mattpocock/skills": {
 "repo": "mattpocock/skills",
@@ -357,7 +357,7 @@
 "last_seen": "2026-10-31T23:10:22Z",
 "hits": 21,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "VictorTaelin/uniichat": {
 "repo": "VictorTaelin/uniichat",
@@ -1011,17 +1011,17 @@
 "repo": "Leonxlnx/taste-skill",
 "url": "https://github.com/Leonxlnx/taste-skill",
 "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-"stars": 106995.0,
-"spd": 91.2,
-"score": 0.93,
+"stars": 107778.0,
+"spd": 144.0,
+"score": 0.99,
 "fit": 0.83,
 "risk": 0.0,
 "ps": "PS-web",
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-31T22:36:57Z",
-"hits": 7,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 8,
 "in_tg": false,
 "status": "active"
 },
@@ -1047,7 +1047,7 @@
 "repo": "tashfeenahmed/freellmapi",
 "url": "https://github.com/tashfeenahmed/freellmapi",
 "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key",
-"stars": 44572.0,
+"stars": 45720.0,
 "spd": 176.6,
 "score": 1.01,
 "fit": 0.7,
@@ -1056,10 +1056,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-30T20:00:11Z",
-"hits": 18,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 19,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "Imbad0202/academic-research-skills": {
 "repo": "Imbad0202/academic-research-skills",
@@ -1281,7 +1281,7 @@
 "repo": "debpalash/VoiceStudio",
 "url": "https://github.com/debpalash/VoiceStudio",
 "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-"stars": 97770.0,
+"stars": 97907.0,
 "spd": 376.8,
 "score": 1.22,
 "fit": 0.89,
@@ -1290,8 +1290,8 @@
 "license": "AGPL-3.0",
 "language": "Python",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-01T20:59:20Z",
-"hits": 52,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 53,
 "in_tg": false,
 "status": "active"
 },
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 111999.0,
+"stars": 112511.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-01T09:37:54Z",
-"hits": 30,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 31,
 "in_tg": false,
 "status": "active"
 },
@@ -2973,7 +2973,7 @@
 "repo": "blader/humanizer",
 "url": "https://github.com/blader/humanizer",
 "description": "Agent skill that removes signs of AI-generated writing from text",
-"stars": 59740.0,
+"stars": 63475.0,
 "spd": 38.5,
 "score": 1.04,
 "fit": 1.0,
@@ -2982,10 +2982,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-22T05:13:54Z",
-"last_seen": "2026-10-23T07:09:06Z",
-"hits": 3,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 4,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "K-Dense-AI/scientific-agent-skills": {
 "repo": "K-Dense-AI/scientific-agent-skills",
@@ -4017,7 +4017,7 @@
 "repo": "obra/superpowers",
 "url": "https://github.com/obra/superpowers",
 "description": "An agentic skills framework & software development methodology that works.",
-"stars": 310283.0,
+"stars": 310633.0,
 "spd": 720.0,
 "score": 0.81,
 "fit": 0.52,
@@ -4026,8 +4026,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-01T09:37:54Z",
-"hits": 10,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 11,
 "in_tg": false,
 "status": "active"
 },
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "",
-"stars": 37589.0,
+"stars": 37975.0,
 "spd": 139.1,
 "score": 0.6,
 "fit": 0.0,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-01T20:59:20Z",
-"hits": 14,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 15,
 "in_tg": false,
 "status": "active"
 },
@@ -4533,7 +4533,7 @@
 "last_seen": "2026-10-31T23:10:22Z",
 "hits": 25,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "awesome-dsh-plugin/awesome-dsh-plugin": {
 "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -4749,7 +4749,7 @@
 "last_seen": "2026-10-31T23:10:22Z",
 "hits": 12,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "SoMarkAI/OXR": {
 "repo": "SoMarkAI/OXR",
@@ -5991,7 +5991,7 @@
 "last_seen": "2026-10-31T22:36:57Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "t3dotgg/tstack": {
 "repo": "t3dotgg/tstack",
@@ -6171,7 +6171,7 @@
 "last_seen": "2026-10-31T23:10:22Z",
 "hits": 8,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "togg53192-cmd/jailbreaks": {
 "repo": "togg53192-cmd/jailbreaks",
@@ -6213,7 +6213,7 @@
 "repo": "beenuar/AiSOC",
 "url": "https://github.com/beenuar/AiSOC",
 "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT ",
-"stars": 6129.0,
+"stars": 6213.0,
 "spd": 75.5,
 "score": 1.78,
 "fit": 0.96,
@@ -6222,8 +6222,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-27T10:15:54Z",
-"last_seen": "2026-11-01T20:59:20Z",
-"hits": 2,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 3,
 "in_tg": true,
 "status": "active"
 },
@@ -6249,7 +6249,7 @@
 "repo": "thedotmack/claude-mem",
 "url": "https://github.com/thedotmack/claude-mem",
 "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla",
-"stars": 109047.0,
+"stars": 109256.0,
 "spd": 105.5,
 "score": 1.11,
 "fit": 0.96,
@@ -6258,8 +6258,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-27T10:15:54Z",
-"last_seen": "2026-11-01T20:59:20Z",
-"hits": 11,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 12,
 "in_tg": true,
 "status": "active"
 },
@@ -6819,7 +6819,7 @@
 "last_seen": "2026-10-31T22:36:57Z",
 "hits": 6,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Developer-Y/cs-video-courses": {
 "repo": "Developer-Y/cs-video-courses",
@@ -8265,17 +8265,17 @@
 "repo": "CopilotKit/OpenBot",
 "url": "https://github.com/CopilotKit/OpenBot",
 "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-"stars": 9150.0,
-"spd": 50.2,
-"score": 1.05,
+"stars": 9515.0,
+"spd": 129.7,
+"score": 1.25,
 "fit": 0.74,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-30T01:41:03Z",
-"last_seen": "2026-11-01T02:28:48Z",
-"hits": 3,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 4,
 "in_tg": false,
 "status": "active"
 },
@@ -8301,7 +8301,7 @@
 "repo": "Djihads80/Eglantine",
 "url": "https://github.com/Djihads80/Eglantine",
 "description": "VERY experimental Nintendo Switch 2 emulator",
-"stars": 1752.0,
+"stars": 1989.0,
 "spd": 71.7,
 "score": 0.65,
 "fit": 0.0,
@@ -8310,8 +8310,8 @@
 "license": "GPL-3.0",
 "language": "C++",
 "first_seen": "2026-10-30T01:41:03Z",
-"last_seen": "2026-11-01T16:38:01Z",
-"hits": 8,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 9,
 "in_tg": false,
 "status": "active"
 },
@@ -9471,7 +9471,7 @@
 "repo": "vercel-labs/agent-desktop",
 "url": "https://github.com/vercel-labs/agent-desktop",
 "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions s",
-"stars": 6596.0,
+"stars": 6844.0,
 "spd": 113.9,
 "score": 2.16,
 "fit": 0.74,
@@ -9480,8 +9480,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-31T04:39:38Z",
-"last_seen": "2026-11-01T20:59:20Z",
-"hits": 12,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 13,
 "in_tg": true,
 "status": "active"
 },
@@ -10299,7 +10299,7 @@
 "repo": "deepseek-ai/dsh-superagent-prototype",
 "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
 "description": "Towards a More Autonomous Agent System",
-"stars": 6905.0,
+"stars": 7264.0,
 "spd": 195.7,
 "score": 1.01,
 "fit": 0.74,
@@ -10308,8 +10308,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-31T15:58:26Z",
-"last_seen": "2026-11-01T20:59:20Z",
-"hits": 9,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 10,
 "in_tg": false,
 "status": "active"
 },
@@ -10419,7 +10419,7 @@
 "last_seen": "2026-10-31T22:36:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "islandmed/SculptForge": {
 "repo": "islandmed/SculptForge",
@@ -10437,7 +10437,7 @@
 "last_seen": "2026-11-01T02:28:48Z",
 "hits": 4,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "ShineStormEnhance/Capri-AI": {
 "repo": "ShineStormEnhance/Capri-AI",
@@ -10455,7 +10455,7 @@
 "last_seen": "2026-11-01T09:37:54Z",
 "hits": 4,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "patchy631/ai-engineering-hub": {
 "repo": "patchy631/ai-engineering-hub",
@@ -10473,7 +10473,7 @@
 "last_seen": "2026-11-01T20:59:20Z",
 "hits": 6,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "yetone/alma-relay": {
 "repo": "yetone/alma-relay",
@@ -10491,7 +10491,7 @@
 "last_seen": "2026-11-01T02:28:48Z",
 "hits": 4,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "magentaechoenchant/glyph-dota2": {
 "repo": "magentaechoenchant/glyph-dota2",
@@ -10509,7 +10509,7 @@
 "last_seen": "2026-10-31T22:36:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "open-jarvis/OpenJarvis": {
 "repo": "open-jarvis/OpenJarvis",
@@ -10527,7 +10527,7 @@
 "last_seen": "2026-10-31T23:10:22Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "NiazMorshed2007/reanimate": {
 "repo": "NiazMorshed2007/reanimate",
@@ -10545,25 +10545,25 @@
 "last_seen": "2026-10-31T23:10:22Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "cjpais/Handy": {
 "repo": "cjpais/Handy",
 "url": "https://github.com/cjpais/Handy",
 "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-"stars": 36253.0,
-"spd": 29.8,
-"score": 0.8,
+"stars": 36537.0,
+"spd": 38.0,
+"score": 0.85,
 "fit": 0.5,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-10-31T22:36:57Z",
-"last_seen": "2026-11-01T16:38:01Z",
-"hits": 3,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 4,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "physicsdolphin/nv-uefi-unlocker": {
 "repo": "physicsdolphin/nv-uefi-unlocker",
@@ -10581,7 +10581,7 @@
 "last_seen": "2026-11-01T02:28:48Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "FencerEngage/courier-dota2": {
 "repo": "FencerEngage/courier-dota2",
@@ -10599,7 +10599,7 @@
 "last_seen": "2026-10-31T23:10:22Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "hlhczkubcboa/.github": {
 "repo": "hlhczkubcboa/.github",
@@ -10677,7 +10677,7 @@
 "repo": "haydenschmitty/floorplan",
 "url": "https://github.com/haydenschmitty/floorplan",
 "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-"stars": 1537.0,
+"stars": 1769.0,
 "spd": 72.0,
 "score": 1.04,
 "fit": 0.61,
@@ -10686,8 +10686,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-11-01T02:21:26Z",
-"last_seen": "2026-11-01T20:59:20Z",
-"hits": 4,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 5,
 "in_tg": false,
 "status": "new"
 },
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 307.0,
+"stars": 1060.0,
 "spd": 52.6,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-01T09:37:54Z",
-"hits": 2,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 3,
 "in_tg": false,
 "status": "new"
 },
@@ -10911,7 +10911,7 @@
 "repo": "l0ng-ai/openidea",
 "url": "https://github.com/l0ng-ai/openidea",
 "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+",
-"stars": 3276.0,
+"stars": 3461.0,
 "spd": 76.7,
 "score": 1.33,
 "fit": 1.0,
@@ -10920,8 +10920,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-01T16:38:01Z",
-"last_seen": "2026-11-01T20:59:20Z",
-"hits": 2,
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 3,
 "in_tg": false,
 "status": "new"
 },
@@ -11191,6 +11191,150 @@
 "language": "JavaScript",
 "first_seen": "2026-11-01T20:59:20Z",
 "last_seen": "2026-11-01T20:59:20Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Gozkybrain/Hello-World-Config": {
+"repo": "Gozkybrain/Hello-World-Config",
+"url": "https://github.com/Gozkybrain/Hello-World-Config",
+"description": "This repository contains the local control panel and agent wiring for running Hello World Jobs on your own machine. Your laptop is the server. No cloud hosting is required.",
+"stars": 34,
+"spd": 96.9,
+"score": 4.63,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": null,
+"language": "JavaScript",
+"first_seen": "2026-11-02T00:33:55Z",
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"maxx-abrt/A2E-Suite": {
+"repo": "maxx-abrt/A2E-Suite",
+"url": "https://github.com/maxx-abrt/A2E-Suite",
+"description": "The all in one suite alternative to paid apps : Notes, Finance handling, Projects, Tasks, Agenda, Files storage, etc...",
+"stars": 108,
+"spd": 69.1,
+"score": 3.9,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "NOASSERTION",
+"language": "TypeScript",
+"first_seen": "2026-11-02T00:33:55Z",
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"ivankovic/omnidiff": {
+"repo": "ivankovic/omnidiff",
+"url": "https://github.com/ivankovic/omnidiff",
+"description": "Fast, robust, accurate diffing ",
+"stars": 311,
+"spd": 67.1,
+"score": 2.93,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "NOASSERTION",
+"language": "Rust",
+"first_seen": "2026-11-02T00:33:55Z",
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"xiaomi-research/Xiaomi-OCR-0": {
+"repo": "xiaomi-research/Xiaomi-OCR-0",
+"url": "https://github.com/xiaomi-research/Xiaomi-OCR-0",
+"description": "Xiaomi-OCR-0",
+"stars": 596,
+"spd": 144.0,
+"score": 2.79,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "Python",
+"first_seen": "2026-11-02T00:33:55Z",
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"BEFORE-GPU-ENGINEERING/BEFORE-GPU-ENGINEERING": {
+"repo": "BEFORE-GPU-ENGINEERING/BEFORE-GPU-ENGINEERING",
+"url": "https://github.com/BEFORE-GPU-ENGINEERING/BEFORE-GPU-ENGINEERING",
+"description": "A first-principles climb from the absolute bottom of hardware to the top of GPU architecture.",
+"stars": 269,
+"spd": 25.0,
+"score": 2.04,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": "MIT",
+"language": "HTML",
+"first_seen": "2026-11-02T00:33:55Z",
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"huaxialucaicaizi/ai-startup-skills": {
+"repo": "huaxialucaicaizi/ai-startup-skills",
+"url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
+"description": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。",
+"stars": 905,
+"spd": 144.0,
+"score": 1.64,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-02T00:33:55Z",
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"modelflare-ai/AnyModelBot": {
+"repo": "modelflare-ai/AnyModelBot",
+"url": "https://github.com/modelflare-ai/AnyModelBot",
+"description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. ",
+"stars": 432,
+"spd": 46.3,
+"score": 1.51,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-02T00:33:55Z",
+"last_seen": "2026-11-02T00:33:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"CheetahEstimate/KMS-Pico": {
+"repo": "CheetahEstimate/KMS-Pico",
+"url": "https://github.com/CheetahEstimate/KMS-Pico",
+"description": "Kms Pico Free 2026 - Complete standalone setup with full working installer, ready to run on your desktop.",
+"stars": 401,
+"spd": 144.0,
+"score": 0.53,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-02T00:33:55Z",
+"last_seen": "2026-11-02T00:33:55Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
