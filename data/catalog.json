@@ -129,7 +129,7 @@
 "repo": "DietrichGebert/ponytail",
 "url": "https://github.com/DietrichGebert/ponytail",
 "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-"stars": 183648.0,
+"stars": 183749.0,
 "spd": 332.2,
 "score": 1.07,
 "fit": 0.96,
@@ -138,8 +138,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-03T20:49:22Z",
-"hits": 39,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 40,
 "in_tg": true,
 "status": "active"
 },
@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 426934.0,
+"stars": 427117.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 100,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 101,
 "in_tg": false,
 "status": "active"
 },
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 311147.0,
+"stars": 311472.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,8 +354,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-03T17:55:22Z",
-"hits": 23,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 24,
 "in_tg": false,
 "status": "active"
 },
@@ -417,7 +417,7 @@
 "repo": "Gathin23/cleanyourtv",
 "url": "https://github.com/Gathin23/cleanyourtv",
 "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-"stars": 51322.0,
+"stars": 51375.0,
 "spd": 533.5,
 "score": 0.45,
 "fit": 0.0,
@@ -426,8 +426,8 @@
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 82,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 83,
 "in_tg": false,
 "status": "active"
 },
@@ -903,7 +903,7 @@
 "repo": "Niko1221/Strata",
 "url": "https://github.com/Niko1221/Strata",
 "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-"stars": 39274.0,
+"stars": 39311.0,
 "spd": 144.0,
 "score": 1.04,
 "fit": 0.74,
@@ -912,8 +912,8 @@
 "license": "MIT",
 "language": "C++",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 22,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 23,
 "in_tg": true,
 "status": "active"
 },
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 114489.0,
+"stars": 114528.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 32,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 33,
 "in_tg": false,
 "status": "active"
 },
@@ -1857,7 +1857,7 @@
 "repo": "heygen-com/hyperframes",
 "url": "https://github.com/heygen-com/hyperframes",
 "description": "Write HTML. Render video. Built for agents.",
-"stars": 78348.0,
+"stars": 78376.0,
 "spd": 912.0,
 "score": 1.58,
 "fit": 0.96,
@@ -1866,8 +1866,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-21T01:28:35Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 17,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 18,
 "in_tg": true,
 "status": "active"
 },
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "",
-"stars": 44304.0,
+"stars": 44416.0,
 "spd": 139.1,
 "score": 0.6,
 "fit": 0.0,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 24,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 25,
 "in_tg": false,
 "status": "active"
 },
@@ -4335,7 +4335,7 @@
 "last_seen": "2026-11-02T23:59:46Z",
 "hits": 11,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop": {
 "repo": "tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop",
@@ -4521,7 +4521,7 @@
 "repo": "Zagitta/gpu-unlock",
 "url": "https://github.com/Zagitta/gpu-unlock",
 "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
-"stars": 15615.0,
+"stars": 15666.0,
 "spd": 117.3,
 "score": 0.72,
 "fit": 0.5,
@@ -4530,8 +4530,8 @@
 "license": null,
 "language": "C",
 "first_seen": "2026-10-24T08:47:32Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 28,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 29,
 "in_tg": false,
 "status": "active"
 },
@@ -5511,7 +5511,7 @@
 "repo": "HarnessRouter/harnessrouter",
 "url": "https://github.com/HarnessRouter/harnessrouter",
 "description": "HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, str",
-"stars": 3621,
+"stars": 4026.0,
 "spd": 102.5,
 "score": 1.48,
 "fit": 0.74,
@@ -5520,10 +5520,10 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-25T18:14:10Z",
-"last_seen": "2026-10-25T18:14:10Z",
-"hits": 1,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 2,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "JetBrains/thinkrail": {
 "repo": "JetBrains/thinkrail",
@@ -8313,7 +8313,7 @@
 "last_seen": "2026-11-02T23:59:46Z",
 "hits": 10,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Basaltsalock/Exodus-Balance-Flasher": {
 "repo": "Basaltsalock/Exodus-Balance-Flasher",
@@ -8607,7 +8607,7 @@
 "repo": "heydamir/unslop",
 "url": "https://github.com/heydamir/unslop",
 "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-"stars": 6562.0,
+"stars": 7543.0,
 "spd": 247.1,
 "score": 1.21,
 "fit": 0.5,
@@ -8616,8 +8616,8 @@
 "license": "CC-BY-4.0",
 "language": "JavaScript",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-03T06:32:40Z",
-"hits": 16,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 17,
 "in_tg": true,
 "status": "active"
 },
@@ -8985,7 +8985,7 @@
 "repo": "D4Vinci/Scrapling",
 "url": "https://github.com/D4Vinci/Scrapling",
 "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks",
-"stars": 94737.0,
+"stars": 94868.0,
 "spd": 95.4,
 "score": 1.0,
 "fit": 0.65,
@@ -8994,8 +8994,8 @@
 "license": "BSD-3-Clause",
 "language": "Python",
 "first_seen": "2026-10-30T20:00:11Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 6,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 7,
 "in_tg": false,
 "status": "active"
 },
@@ -9471,7 +9471,7 @@
 "repo": "vercel-labs/agent-desktop",
 "url": "https://github.com/vercel-labs/agent-desktop",
 "description": "Computer use CLI for AI agents",
-"stars": 12619.0,
+"stars": 12779.0,
 "spd": 113.9,
 "score": 2.16,
 "fit": 0.74,
@@ -9480,8 +9480,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-31T04:39:38Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 22,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 23,
 "in_tg": true,
 "status": "active"
 },
@@ -10299,7 +10299,7 @@
 "repo": "deepseek-ai/dsh-superagent-prototype",
 "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
 "description": "Towards a More Autonomous Agent System",
-"stars": 16647.0,
+"stars": 16782.0,
 "spd": 195.7,
 "score": 1.01,
 "fit": 0.74,
@@ -10308,8 +10308,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-31T15:58:26Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 19,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 20,
 "in_tg": false,
 "status": "active"
 },
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 8236.0,
+"stars": 8438.0,
 "spd": 107.5,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 11,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 12,
 "in_tg": false,
 "status": "active"
 },
@@ -11379,7 +11379,7 @@
 "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
 "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
 "description": "",
-"stars": 5295.0,
+"stars": 5403.0,
 "spd": 91.4,
 "score": 1.66,
 "fit": 0.52,
@@ -11388,8 +11388,8 @@
 "license": "GPL-3.0",
 "language": "C#",
 "first_seen": "2026-11-02T07:26:23Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 9,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 10,
 "in_tg": true,
 "status": "active"
 },
@@ -11949,7 +11949,7 @@
 "last_seen": "2026-11-02T23:59:46Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SteamDerrick/mwanrytl": {
 "repo": "SteamDerrick/mwanrytl",
@@ -11967,7 +11967,7 @@
 "last_seen": "2026-11-02T23:59:46Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "aaitor/skill-video-studio": {
 "repo": "aaitor/skill-video-studio",
@@ -11985,7 +11985,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "RikiyaT/lm_understand-logs": {
 "repo": "RikiyaT/lm_understand-logs",
@@ -12003,7 +12003,7 @@
 "last_seen": "2026-11-02T23:59:46Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "rerun-build/rerun": {
 "repo": "rerun-build/rerun",
@@ -12021,7 +12021,7 @@
 "last_seen": "2026-11-02T23:59:46Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "p-e-w/heretic": {
 "repo": "p-e-w/heretic",
@@ -12039,7 +12039,7 @@
 "last_seen": "2026-11-03T20:49:22Z",
 "hits": 4,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "InukaAsith/TwinDesk": {
 "repo": "InukaAsith/TwinDesk",
@@ -12057,7 +12057,7 @@
 "last_seen": "2026-11-02T23:59:46Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Crosstalk-Solutions/project-nomad": {
 "repo": "Crosstalk-Solutions/project-nomad",
@@ -12075,7 +12075,7 @@
 "last_seen": "2026-11-02T23:59:46Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SplendorHornbill/windows-animated-wallpapers": {
 "repo": "SplendorHornbill/windows-animated-wallpapers",
@@ -12093,7 +12093,7 @@
 "last_seen": "2026-11-02T23:59:46Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ByungjunKim/Mujeong": {
 "repo": "ByungjunKim/Mujeong",
@@ -12117,7 +12117,7 @@
 "repo": "NVIDIA/auto-ontology",
 "url": "https://github.com/NVIDIA/auto-ontology",
 "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
-"stars": 2819.0,
+"stars": 2935.0,
 "spd": 101.3,
 "score": 2.41,
 "fit": 0.74,
@@ -12126,8 +12126,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-03T06:32:40Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 3,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 4,
 "in_tg": true,
 "status": "new"
 },
@@ -12442,16 +12442,16 @@
 "url": "https://github.com/Nucleusanwish/microsoft-office",
 "description": "Complete standalone setup for Microsoft Office 2026, featuring full pre-activation and all essential components ready to run.",
 "stars": 393.0,
-"spd": 197.1,
-"score": 0.78,
+"spd": 288.0,
+"score": 0.85,
 "fit": 0.65,
 "risk": 0.0,
 "ps": "PS-web",
 "license": null,
 "language": "",
 "first_seen": "2026-11-03T14:54:27Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 2,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 3,
 "in_tg": false,
 "status": "new"
 },
@@ -12585,7 +12585,7 @@
 "repo": "OpenSelena/omniget",
 "url": "https://github.com/OpenSelena/omniget",
 "description": "Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Built with Tauri 2.0, Rust & Svelte.",
-"stars": 1263.0,
+"stars": 1429.0,
 "spd": 97.3,
 "score": 2.14,
 "fit": 0.65,
@@ -12594,8 +12594,8 @@
 "license": "GPL-3.0",
 "language": "Rust",
 "first_seen": "2026-11-03T20:49:22Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 2,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 3,
 "in_tg": true,
 "status": "new"
 },
@@ -12639,7 +12639,7 @@
 "repo": "Goncafer47/Stablecoin-Payment-Gateway",
 "url": "https://github.com/Goncafer47/Stablecoin-Payment-Gateway",
 "description": "Self-hosted, non-custodial stablecoin payment gateway with x402 and invoice checkout. Accepts USDC, USDT, PYUSD and DAI across 8 networks with QR payments, payment links, settlement tracking and signe",
-"stars": 296,
+"stars": 326.0,
 "spd": 86.5,
 "score": 3.1,
 "fit": 0.52,
@@ -12648,8 +12648,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-03T23:30:27Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 1,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 2,
 "in_tg": true,
 "status": "new"
 },
@@ -12675,8 +12675,8 @@
 "repo": "tembo/voxl",
 "url": "https://github.com/tembo/voxl",
 "description": "extremely fast web remote desktop streaming",
-"stars": 407,
-"spd": 63.5,
+"stars": 498.0,
+"spd": 75.7,
 "score": 2.35,
 "fit": 0.52,
 "risk": 0.0,
@@ -12684,8 +12684,8 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-11-03T23:30:27Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 1,
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 2,
 "in_tg": true,
 "status": "new"
 },
@@ -12693,7 +12693,7 @@
 "repo": "floci-io/floci",
 "url": "https://github.com/floci-io/floci",
 "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-"stars": 28722,
+"stars": 28788.0,
 "spd": 87.6,
 "score": 1.16,
 "fit": 0.83,
@@ -12702,7 +12702,43 @@
 "license": "MIT",
 "language": "Java",
 "first_seen": "2026-11-03T23:30:27Z",
-"last_seen": "2026-11-03T23:30:27Z",
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 2,
+"in_tg": false,
+"status": "new"
+},
+"uiverse-io/galaxy": {
+"repo": "uiverse-io/galaxy",
+"url": "https://github.com/uiverse-io/galaxy",
+"description": "The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.",
+"stars": 14789,
+"spd": 35.5,
+"score": 1.32,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "MIT",
+"language": "HTML",
+"first_seen": "2026-11-04T01:06:14Z",
+"last_seen": "2026-11-04T01:06:14Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"govijr/terminal-mac": {
+"repo": "govijr/terminal-mac",
+"url": "https://github.com/govijr/terminal-mac",
+"description": "",
+"stars": 301,
+"spd": 57.7,
+"score": 0.85,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Swift",
+"first_seen": "2026-11-04T01:06:14Z",
+"last_seen": "2026-11-04T01:06:14Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
