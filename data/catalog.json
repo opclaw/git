@@ -105,7 +105,7 @@
 "last_seen": "2026-11-03T17:55:22Z",
 "hits": 27,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Leonxlnx/earshot": {
 "repo": "Leonxlnx/earshot",
@@ -123,7 +123,7 @@
 "last_seen": "2026-11-03T17:55:22Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "DietrichGebert/ponytail": {
 "repo": "DietrichGebert/ponytail",
@@ -159,13 +159,13 @@
 "last_seen": "2026-11-03T20:49:22Z",
 "hits": 7,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "morluto/rea": {
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 429802.0,
+"stars": 430597.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-04T16:01:34Z",
-"hits": 105,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 106,
 "in_tg": false,
 "status": "active"
 },
@@ -987,7 +987,7 @@
 "last_seen": "2026-11-03T20:49:22Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "dsh-market/dsh-market": {
 "repo": "dsh-market/dsh-market",
@@ -1029,7 +1029,7 @@
 "repo": "cloudflare/security-audit-skill",
 "url": "https://github.com/cloudflare/security-audit-skill",
 "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-"stars": 58374.0,
+"stars": 59150.0,
 "spd": 279.1,
 "score": 0.98,
 "fit": 0.7,
@@ -1038,8 +1038,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-04T06:42:59Z",
-"hits": 58,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 59,
 "in_tg": false,
 "status": "active"
 },
@@ -1047,7 +1047,7 @@
 "repo": "tashfeenahmed/freellmapi",
 "url": "https://github.com/tashfeenahmed/freellmapi",
 "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key",
-"stars": 45720.0,
+"stars": 47519.0,
 "spd": 176.6,
 "score": 1.01,
 "fit": 0.7,
@@ -1056,10 +1056,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-02T00:33:55Z",
-"hits": 19,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 20,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "Imbad0202/academic-research-skills": {
 "repo": "Imbad0202/academic-research-skills",
@@ -1388,8 +1388,8 @@
 "stablyai/orca": {
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
-"description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 114528.0,
+"description": "Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.",
+"stars": 115384.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-04T01:06:14Z",
-"hits": 33,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 34,
 "in_tg": false,
 "status": "active"
 },
@@ -1497,7 +1497,7 @@
 "repo": "pbakaus/impeccable",
 "url": "https://github.com/pbakaus/impeccable",
 "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-"stars": 101780.0,
+"stars": 102713.0,
 "spd": 1008.0,
 "score": 1.3,
 "fit": 0.52,
@@ -1506,8 +1506,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-04T06:42:59Z",
-"hits": 43,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 44,
 "in_tg": false,
 "status": "active"
 },
@@ -1635,7 +1635,7 @@
 "last_seen": "2026-11-03T20:49:22Z",
 "hits": 9,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "addyosmani/agent-skills": {
 "repo": "addyosmani/agent-skills",
@@ -2739,7 +2739,7 @@
 "repo": "ai-job-search-dev/ai-job-search",
 "url": "https://github.com/ai-job-search-dev/ai-job-search",
 "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-"stars": 67008.0,
+"stars": 69599.0,
 "spd": 144.0,
 "score": 0.93,
 "fit": 0.65,
@@ -2748,10 +2748,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-21T21:29:58Z",
-"last_seen": "2026-10-28T13:23:29Z",
-"hits": 10,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 11,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "Louis-CFM/coucou": {
 "repo": "Louis-CFM/coucou",
@@ -3453,7 +3453,7 @@
 "last_seen": "2026-11-03T17:55:22Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "dnshe/DNSHE-FreeDomains": {
 "repo": "dnshe/DNSHE-FreeDomains",
@@ -3507,7 +3507,7 @@
 "last_seen": "2026-11-03T20:49:22Z",
 "hits": 3,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "rust-tools-new/.github": {
 "repo": "rust-tools-new/.github",
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "",
-"stars": 45874.0,
+"stars": 46438.0,
 "spd": 139.1,
 "score": 0.6,
 "fit": 0.0,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-04T16:01:34Z",
-"hits": 29,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 30,
 "in_tg": false,
 "status": "active"
 },
@@ -4407,7 +4407,7 @@
 "last_seen": "2026-11-03T17:55:22Z",
 "hits": 23,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "yozander2009-stack/Metroid-Dread-Recomp": {
 "repo": "yozander2009-stack/Metroid-Dread-Recomp",
@@ -4983,7 +4983,7 @@
 "last_seen": "2026-11-03T20:49:22Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "3b1b/manim": {
 "repo": "3b1b/manim",
@@ -5163,7 +5163,7 @@
 "last_seen": "2026-11-03T20:49:22Z",
 "hits": 5,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "jouaaaaaa/mcd-self-butler": {
 "repo": "jouaaaaaa/mcd-self-butler",
@@ -8679,7 +8679,7 @@
 "repo": "ccch1mneyyy/dsh-Go",
 "url": "https://github.com/ccch1mneyyy/dsh-Go",
 "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-"stars": 9142.0,
+"stars": 9365.0,
 "spd": 97.4,
 "score": 1.04,
 "fit": 0.74,
@@ -8688,8 +8688,8 @@
 "license": "AGPL-3.0",
 "language": "Dart",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-04T16:01:34Z",
-"hits": 19,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 20,
 "in_tg": false,
 "status": "active"
 },
@@ -8727,7 +8727,7 @@
 "last_seen": "2026-11-03T17:55:22Z",
 "hits": 7,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026": {
 "repo": "mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
@@ -8985,7 +8985,7 @@
 "repo": "D4Vinci/Scrapling",
 "url": "https://github.com/D4Vinci/Scrapling",
 "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks",
-"stars": 96055.0,
+"stars": 96408.0,
 "spd": 95.4,
 "score": 1.0,
 "fit": 0.65,
@@ -8994,8 +8994,8 @@
 "license": "BSD-3-Clause",
 "language": "Python",
 "first_seen": "2026-10-30T20:00:11Z",
-"last_seen": "2026-11-04T16:01:34Z",
-"hits": 11,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 12,
 "in_tg": false,
 "status": "active"
 },
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 10538.0,
+"stars": 11388.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-04T16:01:34Z",
-"hits": 16,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 17,
 "in_tg": false,
 "status": "active"
 },
@@ -11379,8 +11379,8 @@
 "repo": "JiaFeiMiao-K-Cat/DiscImageStudio",
 "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
 "description": "",
-"stars": 5779.0,
-"spd": 91.4,
+"stars": 6499.0,
+"spd": 99.3,
 "score": 1.66,
 "fit": 0.52,
 "risk": 0.0,
@@ -11388,8 +11388,8 @@
 "license": "GPL-3.0",
 "language": "C#",
 "first_seen": "2026-11-02T07:26:23Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 12,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 13,
 "in_tg": true,
 "status": "active"
 },
@@ -12117,7 +12117,7 @@
 "repo": "NVIDIA/auto-ontology",
 "url": "https://github.com/NVIDIA/auto-ontology",
 "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
-"stars": 4219.0,
+"stars": 4728.0,
 "spd": 101.3,
 "score": 2.41,
 "fit": 0.74,
@@ -12126,8 +12126,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-03T06:32:40Z",
-"last_seen": "2026-11-04T16:01:34Z",
-"hits": 8,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 9,
 "in_tg": true,
 "status": "active"
 },
@@ -12237,7 +12237,7 @@
 "last_seen": "2026-11-03T20:49:22Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "JustVugg/colibri": {
 "repo": "JustVugg/colibri",
@@ -12273,7 +12273,7 @@
 "last_seen": "2026-11-03T20:49:22Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "KardDev/dsh-plugins": {
 "repo": "KardDev/dsh-plugins",
@@ -12471,7 +12471,7 @@
 "last_seen": "2026-11-03T17:55:22Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "MarineBrace36/discord-quest-completer": {
 "repo": "MarineBrace36/discord-quest-completer",
@@ -12507,7 +12507,7 @@
 "last_seen": "2026-11-03T17:55:22Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "lionrealone/find-the-needle-multiplayer": {
 "repo": "lionrealone/find-the-needle-multiplayer",
@@ -12525,7 +12525,7 @@
 "last_seen": "2026-11-03T17:55:22Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "lionrealone/lionrealone": {
 "repo": "lionrealone/lionrealone",
@@ -12543,7 +12543,7 @@
 "last_seen": "2026-11-03T17:55:22Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "anothaDev/luci-theme-vantage": {
 "repo": "anothaDev/luci-theme-vantage",
@@ -12561,7 +12561,7 @@
 "last_seen": "2026-11-03T17:55:22Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "chadandyou/jrames": {
 "repo": "chadandyou/jrames",
@@ -12579,13 +12579,13 @@
 "last_seen": "2026-11-03T17:55:22Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "OpenSelena/omniget": {
 "repo": "OpenSelena/omniget",
 "url": "https://github.com/OpenSelena/omniget",
 "description": "Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Built with Tauri 2.0, Rust & Svelte.",
-"stars": 2791.0,
+"stars": 3078.0,
 "spd": 115.8,
 "score": 2.14,
 "fit": 0.65,
@@ -12594,10 +12594,10 @@
 "license": "GPL-3.0",
 "language": "Rust",
 "first_seen": "2026-11-03T20:49:22Z",
-"last_seen": "2026-11-04T16:01:34Z",
-"hits": 7,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 8,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "MiniPresident/Microsoft-Activation-Script": {
 "repo": "MiniPresident/Microsoft-Activation-Script",
@@ -12615,7 +12615,7 @@
 "last_seen": "2026-11-03T23:30:27Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "phone-harness/mcp": {
 "repo": "phone-harness/mcp",
@@ -12633,7 +12633,7 @@
 "last_seen": "2026-11-03T20:49:22Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Goncafer47/Stablecoin-Payment-Gateway": {
 "repo": "Goncafer47/Stablecoin-Payment-Gateway",
@@ -12729,7 +12729,7 @@
 "repo": "govijr/terminal-mac",
 "url": "https://github.com/govijr/terminal-mac",
 "description": "Entire MacOS running in your terminal.",
-"stars": 1183.0,
+"stars": 1446.0,
 "spd": 144.0,
 "score": 1.04,
 "fit": 0.61,
@@ -12738,8 +12738,8 @@
 "license": "MIT",
 "language": "Swift",
 "first_seen": "2026-11-04T01:06:14Z",
-"last_seen": "2026-11-04T16:01:34Z",
-"hits": 5,
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 6,
 "in_tg": false,
 "status": "new"
 },
@@ -13315,6 +13315,60 @@
 "language": "",
 "first_seen": "2026-11-04T16:01:34Z",
 "last_seen": "2026-11-04T16:01:34Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Balanov/equal": {
+"repo": "Balanov/equal",
+"url": "https://github.com/Balanov/equal",
+"description": "Turn real API traffic into a local sandbox and OpenAPI. Tiny static Go binary, any HTTP SDK, offline development, MIT.",
+"stars": 122,
+"spd": 144.0,
+"score": 1.21,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Go",
+"first_seen": "2026-11-04T21:59:29Z",
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Balanov/latch": {
+"repo": "Balanov/latch",
+"url": "https://github.com/Balanov/latch",
+"description": "One tiny HTTPS contract between any agent and any service. Quote, approve, commit, receipt. Zero dependencies. MIT.",
+"stars": 129,
+"spd": 85.7,
+"score": 0.99,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "JavaScript",
+"first_seen": "2026-11-04T21:59:29Z",
+"last_seen": "2026-11-04T21:59:29Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"HunYiSage/dsh-purge": {
+"repo": "HunYiSage/dsh-purge",
+"url": "https://github.com/HunYiSage/dsh-purge",
+"description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+"stars": 18037,
+"spd": 27.3,
+"score": 0.9,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "JavaScript",
+"first_seen": "2026-11-04T21:59:29Z",
+"last_seen": "2026-11-04T21:59:29Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
