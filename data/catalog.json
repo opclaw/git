@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 428327.0,
+"stars": 429722.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 103,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 104,
 "in_tg": false,
 "status": "active"
 },
@@ -417,7 +417,7 @@
 "repo": "Gathin23/cleanyourtv",
 "url": "https://github.com/Gathin23/cleanyourtv",
 "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-"stars": 51375.0,
+"stars": 51819.0,
 "spd": 533.5,
 "score": 0.45,
 "fit": 0.0,
@@ -426,8 +426,8 @@
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-04T01:06:14Z",
-"hits": 83,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 84,
 "in_tg": false,
 "status": "active"
 },
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 59699.0,
+"stars": 60430.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 74,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 75,
 "in_tg": true,
 "status": "active"
 },
@@ -1425,7 +1425,7 @@
 "repo": "deepseek-ai/deepseek-harness",
 "url": "https://github.com/deepseek-ai/deepseek-harness",
 "description": "DeepSeek Harness: Everything is a Plugin.",
-"stars": 271675.0,
+"stars": 272214.0,
 "spd": 1152.0,
 "score": 0.82,
 "fit": 0.52,
@@ -1434,8 +1434,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 32,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 33,
 "in_tg": false,
 "status": "active"
 },
@@ -1545,7 +1545,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 17,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ly05010419/MacNativeGames": {
 "repo": "ly05010419/MacNativeGames",
@@ -1659,17 +1659,17 @@
 "repo": "sindresorhus/awesome",
 "url": "https://github.com/sindresorhus/awesome",
 "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-"stars": 530188.0,
-"spd": 82.3,
-"score": 0.39,
+"stars": 530746.0,
+"spd": 85.0,
+"score": 0.4,
 "fit": 0.0,
 "risk": 0.0,
 "ps": "PS-unknown",
 "license": "CC0-1.0",
 "language": "",
 "first_seen": "2026-10-20T19:30:26Z",
-"last_seen": "2026-11-03T17:55:22Z",
-"hits": 11,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 12,
 "in_tg": false,
 "status": "active"
 },
@@ -2355,7 +2355,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "bobeff/open-source-games": {
 "repo": "bobeff/open-source-games",
@@ -2937,7 +2937,7 @@
 "repo": "Renhuai123/ziwei-doushu",
 "url": "https://github.com/Renhuai123/ziwei-doushu",
 "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-"stars": 15380.0,
+"stars": 15665.0,
 "spd": 72.0,
 "score": 1.24,
 "fit": 0.5,
@@ -2946,8 +2946,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-22T05:13:54Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 22,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 23,
 "in_tg": true,
 "status": "active"
 },
@@ -3111,7 +3111,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 12,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "lexmount/moli": {
 "repo": "lexmount/moli",
@@ -3201,7 +3201,7 @@
 "last_seen": "2026-11-03T14:54:27Z",
 "hits": 7,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "op7418/guizang-ppt-skill": {
 "repo": "op7418/guizang-ppt-skill",
@@ -3561,7 +3561,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 7,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "NVIDIA/OpenShell": {
 "repo": "NVIDIA/OpenShell",
@@ -4029,13 +4029,13 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 12,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "pingdotgg/t3code": {
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "",
-"stars": 45010.0,
+"stars": 45830.0,
 "spd": 139.1,
 "score": 0.6,
 "fit": 0.0,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 27,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 28,
 "in_tg": false,
 "status": "active"
 },
@@ -4767,7 +4767,7 @@
 "last_seen": "2026-11-03T14:54:27Z",
 "hits": 7,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "apify/apify-mcp-server": {
 "repo": "apify/apify-mcp-server",
@@ -5061,7 +5061,7 @@
 "repo": "Nutlope/hallmark",
 "url": "https://github.com/Nutlope/hallmark",
 "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-"stars": 45223.0,
+"stars": 47612.0,
 "spd": 144.0,
 "score": 0.86,
 "fit": 0.52,
@@ -5070,10 +5070,10 @@
 "license": "MIT",
 "language": "CSS",
 "first_seen": "2026-10-24T21:46:28Z",
-"last_seen": "2026-11-02T07:26:23Z",
-"hits": 29,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 30,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "Portbencomply/Qobuz-Turbo": {
 "repo": "Portbencomply/Qobuz-Turbo",
@@ -5649,7 +5649,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 8,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "rddmwmddr/android-ad-cleaner": {
 "repo": "rddmwmddr/android-ad-cleaner",
@@ -5997,19 +5997,19 @@
 "repo": "t3dotgg/tstack",
 "url": "https://github.com/t3dotgg/tstack",
 "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-"stars": 1955.0,
-"spd": 48.1,
-"score": 0.83,
+"stars": 2874.0,
+"spd": 144.0,
+"score": 1.16,
 "fit": 0.52,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-27T00:00:08Z",
-"last_seen": "2026-10-27T20:35:58Z",
-"hits": 4,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 5,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "AhmadHassan-BTed/EQAI": {
 "repo": "AhmadHassan-BTed/EQAI",
@@ -6099,7 +6099,7 @@
 "last_seen": "2026-11-03T14:54:27Z",
 "hits": 3,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "NVIDIA/SkillSpector": {
 "repo": "NVIDIA/SkillSpector",
@@ -6261,7 +6261,7 @@
 "last_seen": "2026-11-03T14:54:27Z",
 "hits": 16,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "decolua/9router": {
 "repo": "decolua/9router",
@@ -6675,7 +6675,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 6,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Jonny-Marcos/PlanMilT": {
 "repo": "Jonny-Marcos/PlanMilT",
@@ -6729,7 +6729,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 9,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "LNPANDY/NX2Apple": {
 "repo": "LNPANDY/NX2Apple",
@@ -6783,7 +6783,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 4,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "MindIntensify/HitFilm": {
 "repo": "MindIntensify/HitFilm",
@@ -8607,7 +8607,7 @@
 "repo": "heydamir/unslop",
 "url": "https://github.com/heydamir/unslop",
 "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-"stars": 7543.0,
+"stars": 8239.0,
 "spd": 247.1,
 "score": 1.21,
 "fit": 0.5,
@@ -8616,8 +8616,8 @@
 "license": "CC-BY-4.0",
 "language": "JavaScript",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-04T01:06:14Z",
-"hits": 17,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 18,
 "in_tg": true,
 "status": "active"
 },
@@ -8679,7 +8679,7 @@
 "repo": "ccch1mneyyy/dsh-Go",
 "url": "https://github.com/ccch1mneyyy/dsh-Go",
 "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-"stars": 8383.0,
+"stars": 9102.0,
 "spd": 97.4,
 "score": 1.04,
 "fit": 0.74,
@@ -8688,8 +8688,8 @@
 "license": "AGPL-3.0",
 "language": "Dart",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 17,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 18,
 "in_tg": false,
 "status": "active"
 },
@@ -8799,7 +8799,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "jamixm4-crypto/natbypass": {
 "repo": "jamixm4-crypto/natbypass",
@@ -8979,13 +8979,13 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 8,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "D4Vinci/Scrapling": {
 "repo": "D4Vinci/Scrapling",
 "url": "https://github.com/D4Vinci/Scrapling",
 "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks",
-"stars": 95396.0,
+"stars": 96019.0,
 "spd": 95.4,
 "score": 1.0,
 "fit": 0.65,
@@ -8994,8 +8994,8 @@
 "license": "BSD-3-Clause",
 "language": "Python",
 "first_seen": "2026-10-30T20:00:11Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 9,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 10,
 "in_tg": false,
 "status": "active"
 },
@@ -9471,7 +9471,7 @@
 "repo": "vercel-labs/agent-desktop",
 "url": "https://github.com/vercel-labs/agent-desktop",
 "description": "Computer use CLI for AI agents",
-"stars": 13523.0,
+"stars": 14361.0,
 "spd": 113.9,
 "score": 2.16,
 "fit": 0.74,
@@ -9480,8 +9480,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-31T04:39:38Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 25,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 26,
 "in_tg": true,
 "status": "active"
 },
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 9374.0,
+"stars": 10446.0,
 "spd": 107.5,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 14,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 15,
 "in_tg": false,
 "status": "active"
 },
@@ -10923,7 +10923,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 6,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "nikita-s-x2001x7/photo-converter": {
 "repo": "nikita-s-x2001x7/photo-converter",
@@ -11307,17 +11307,17 @@
 "repo": "modelflare-ai/AnyModelBot",
 "url": "https://github.com/modelflare-ai/AnyModelBot",
 "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. ",
-"stars": 2002.0,
+"stars": 2696.0,
 "spd": 115.7,
 "score": 1.56,
 "fit": 0.96,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
-"language": "TypeScript",
+"language": "Python",
 "first_seen": "2026-11-02T00:33:55Z",
-"last_seen": "2026-11-03T09:43:35Z",
-"hits": 3,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 4,
 "in_tg": true,
 "status": "active"
 },
@@ -11427,7 +11427,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "wideeyededi/uncensored-nsfw-ai-video-api": {
 "repo": "wideeyededi/uncensored-nsfw-ai-video-api",
@@ -11985,7 +11985,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "RikiyaT/lm_understand-logs": {
 "repo": "RikiyaT/lm_understand-logs",
@@ -12117,7 +12117,7 @@
 "repo": "NVIDIA/auto-ontology",
 "url": "https://github.com/NVIDIA/auto-ontology",
 "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
-"stars": 3412.0,
+"stars": 4164.0,
 "spd": 101.3,
 "score": 2.41,
 "fit": 0.74,
@@ -12126,8 +12126,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-03T06:32:40Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 6,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 7,
 "in_tg": true,
 "status": "active"
 },
@@ -12147,7 +12147,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "wquguru/shisei": {
 "repo": "wquguru/shisei",
@@ -12309,7 +12309,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "agentscope-ai/agentscope": {
 "repo": "agentscope-ai/agentscope",
@@ -12327,7 +12327,7 @@
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Timon2306/mimic-discord": {
 "repo": "Timon2306/mimic-discord",
@@ -12345,7 +12345,7 @@
 "last_seen": "2026-11-03T14:54:27Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "MediatorCraft/borisfx": {
 "repo": "MediatorCraft/borisfx",
@@ -12363,7 +12363,7 @@
 "last_seen": "2026-11-03T14:54:27Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "NautilusUncover/easeus-partition-master": {
 "repo": "NautilusUncover/easeus-partition-master",
@@ -12381,7 +12381,7 @@
 "last_seen": "2026-11-03T14:54:27Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Midnightclitug/iobit-driver-booster": {
 "repo": "Midnightclitug/iobit-driver-booster",
@@ -12399,7 +12399,7 @@
 "last_seen": "2026-11-03T14:54:27Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "MiniFormerCompress12/kms-pico": {
 "repo": "MiniFormerCompress12/kms-pico",
@@ -12417,7 +12417,7 @@
 "last_seen": "2026-11-03T14:54:27Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "RidgeArmorerHatchet/anyunlock": {
 "repo": "RidgeArmorerHatchet/anyunlock",
@@ -12435,7 +12435,7 @@
 "last_seen": "2026-11-03T14:54:27Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Nucleusanwish/microsoft-office": {
 "repo": "Nucleusanwish/microsoft-office",
@@ -12453,7 +12453,7 @@
 "last_seen": "2026-11-04T01:06:14Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "CommercialKink/startall-back": {
 "repo": "CommercialKink/startall-back",
@@ -12471,7 +12471,7 @@
 "last_seen": "2026-11-03T17:55:22Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "MarineBrace36/discord-quest-completer": {
 "repo": "MarineBrace36/discord-quest-completer",
@@ -12489,7 +12489,7 @@
 "last_seen": "2026-11-03T14:54:27Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "kouhxp/yapsnap": {
 "repo": "kouhxp/yapsnap",
@@ -12585,7 +12585,7 @@
 "repo": "OpenSelena/omniget",
 "url": "https://github.com/OpenSelena/omniget",
 "description": "Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Built with Tauri 2.0, Rust & Svelte.",
-"stars": 1932.0,
+"stars": 2751.0,
 "spd": 115.8,
 "score": 2.14,
 "fit": 0.65,
@@ -12594,8 +12594,8 @@
 "license": "GPL-3.0",
 "language": "Rust",
 "first_seen": "2026-11-03T20:49:22Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 5,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 6,
 "in_tg": true,
 "status": "new"
 },
@@ -12693,7 +12693,7 @@
 "repo": "floci-io/floci",
 "url": "https://github.com/floci-io/floci",
 "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-"stars": 29041.0,
+"stars": 29348.0,
 "spd": 178.3,
 "score": 1.36,
 "fit": 0.83,
@@ -12702,8 +12702,8 @@
 "license": "MIT",
 "language": "Java",
 "first_seen": "2026-11-03T23:30:27Z",
-"last_seen": "2026-11-04T06:42:59Z",
-"hits": 3,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 4,
 "in_tg": true,
 "status": "new"
 },
@@ -12729,7 +12729,7 @@
 "repo": "govijr/terminal-mac",
 "url": "https://github.com/govijr/terminal-mac",
 "description": "Entire MacOS running in your terminal.",
-"stars": 692.0,
+"stars": 1159.0,
 "spd": 144.0,
 "score": 1.04,
 "fit": 0.61,
@@ -12738,8 +12738,8 @@
 "license": "MIT",
 "language": "Swift",
 "first_seen": "2026-11-04T01:06:14Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 3,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 4,
 "in_tg": false,
 "status": "new"
 },
@@ -12909,7 +12909,7 @@
 "repo": "Minireel/HGhub",
 "url": "https://github.com/Minireel/HGhub",
 "description": "YellowFruit third-party client",
-"stars": 271,
+"stars": 584.0,
 "spd": 144.0,
 "score": 1.04,
 "fit": 0.48,
@@ -12918,8 +12918,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-11-04T07:52:38Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 1,
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -12955,6 +12955,330 @@
 "language": "TypeScript",
 "first_seen": "2026-11-04T07:52:38Z",
 "last_seen": "2026-11-04T07:52:38Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ColorsCodeView78/AI-Token-Saver-2026---Cut-Token-Costs-by-75-Cloud-Code-Optimization-Tool": {
+"repo": "ColorsCodeView78/AI-Token-Saver-2026---Cut-Token-Costs-by-75-Cloud-Code-Optimization-Tool",
+"url": "https://github.com/ColorsCodeView78/AI-Token-Saver-2026---Cut-Token-Costs-by-75-Cloud-Code-Optimization-Tool",
+"description": "Professional AI token optimization software that reduces token usage by up to 75% for developers and teams. Boost efficiency and lower AI expenses in 2026.",
+"stars": 302,
+"spd": 144.0,
+"score": 2.6,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": null,
+"language": "Python",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"jiuhunwl/short_videos": {
+"repo": "jiuhunwl/short_videos",
+"url": "https://github.com/jiuhunwl/short_videos",
+"description": "支持平台:网易云，抖音，快手，小红书，汽水音乐，微博，bilibili，皮皮虾，皮皮搞笑等，支持短视频图集去水印",
+"stars": 928,
+"spd": 65.8,
+"score": 2.59,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "PHP",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"adtexterry-lgtm/unigit-ecosystem": {
+"repo": "adtexterry-lgtm/unigit-ecosystem",
+"url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
+"description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
+"stars": 1934,
+"spd": 88.3,
+"score": 1.45,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "JavaScript",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"ChannelDivinerCast/VSCode-Extension-Helper": {
+"repo": "ChannelDivinerCast/VSCode-Extension-Helper",
+"url": "https://github.com/ChannelDivinerCast/VSCode-Extension-Helper",
+"description": "Lightweight desktop tool for Visual Studio Code users. Smart extension management, performance optimization, recommendation system and productivity helpers. Clean interface, regularly updated",
+"stars": 163,
+"spd": 144.0,
+"score": 1.38,
+"fit": 0.92,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"s1dashu/quiet-md": {
+"repo": "s1dashu/quiet-md",
+"url": "https://github.com/s1dashu/quiet-md",
+"description": "⚡ Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。",
+"stars": 236,
+"spd": 53.8,
+"score": 1.22,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"DreamSwimmer/windows-optimizer": {
+"repo": "DreamSwimmer/windows-optimizer",
+"url": "https://github.com/DreamSwimmer/windows-optimizer",
+"description": "Windows Optimizer 2026, a comprehensive tool for system cleanup and performance enhancement. Full working installer ready to run.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"BlizzardShaper/musicmakerunlimited": {
+"repo": "BlizzardShaper/musicmakerunlimited",
+"url": "https://github.com/BlizzardShaper/musicmakerunlimited",
+"description": "Musicmakerunlimited 2026 full working installer, complete standalone setup with all features unlocked and ready to run.",
+"stars": 100,
+"spd": 144.0,
+"score": 0.99,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"UnitWarlordScrew/lossless-scaling": {
+"repo": "UnitWarlordScrew/lossless-scaling",
+"url": "https://github.com/UnitWarlordScrew/lossless-scaling",
+"description": "Lossless Scaling Utility 2026: Full working installer with advanced image processing tools ready to run.",
+"stars": 102,
+"spd": 144.0,
+"score": 0.98,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"EnergySensei/on1-photo-raw-max": {
+"repo": "EnergySensei/on1-photo-raw-max",
+"url": "https://github.com/EnergySensei/on1-photo-raw-max",
+"description": "Enhanced On1 Photo Raw Max 2026 full working installer, ready to run with all features unlocked.",
+"stars": 101,
+"spd": 144.0,
+"score": 0.98,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"PolishStormChamber/directory-opus": {
+"repo": "PolishStormChamber/directory-opus",
+"url": "https://github.com/PolishStormChamber/directory-opus",
+"description": "Directory Opus 2026: Complete standalone setup with all features unlocked and ready to run.",
+"stars": 101,
+"spd": 144.0,
+"score": 0.98,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Chipwithinflash/watson-AI-osint-all-in-one": {
+"repo": "Chipwithinflash/watson-AI-osint-all-in-one",
+"url": "https://github.com/Chipwithinflash/watson-AI-osint-all-in-one",
+"description": "Free OSINT search tool for Windows. 3100+ sources, one field, no terminal.",
+"stars": 542,
+"spd": 51.6,
+"score": 0.9,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Trackbrotally/hitfilm": {
+"repo": "Trackbrotally/hitfilm",
+"url": "https://github.com/Trackbrotally/hitfilm",
+"description": "Hitfilm Pro 2026: Complete standalone setup with all tools and effects pre-installed, ready to run on your desktop.",
+"stars": 130,
+"spd": 74.5,
+"score": 0.84,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"SorcererPucker/studioonepro7": {
+"repo": "SorcererPucker/studioonepro7",
+"url": "https://github.com/SorcererPucker/studioonepro7",
+"description": "Studioonepro7 2026 complete standalone setup, fully functional and ready to run.",
+"stars": 130,
+"spd": 87.3,
+"score": 0.76,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"PolishBitTweezers/serato-dj-pro": {
+"repo": "PolishBitTweezers/serato-dj-pro",
+"url": "https://github.com/PolishBitTweezers/serato-dj-pro",
+"description": "Serato Dj Pro 2026 complete standalone setup. Ready-to-run, fully activated installation with all features included.",
+"stars": 130,
+"spd": 70.8,
+"score": 0.71,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"SpyIllusionistRank/frp-unlock-tool": {
+"repo": "SpyIllusionistRank/frp-unlock-tool",
+"url": "https://github.com/SpyIllusionistRank/frp-unlock-tool",
+"description": "Complete Frp Unlock Tool 2023 ready-to-run desktop installation build with all features unlocked.",
+"stars": 130,
+"spd": 67.2,
+"score": 0.7,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"PassManufacturing/burning-studio": {
+"repo": "PassManufacturing/burning-studio",
+"url": "https://github.com/PassManufacturing/burning-studio",
+"description": "Burning Studio 2026: Complete standalone setup with all tools pre-activated, ready to run on your desktop.",
+"stars": 130,
+"spd": 60.4,
+"score": 0.69,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Baychicaptivate/daemon-pro": {
+"repo": "Baychicaptivate/daemon-pro",
+"url": "https://github.com/Baychicaptivate/daemon-pro",
+"description": "Daemon Pro 2026: Full working installer with enhanced system utilities and optimizations.",
+"stars": 114,
+"spd": 47.0,
+"score": 0.67,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"beigegullminaret/wise-care": {
+"repo": "beigegullminaret/wise-care",
+"url": "https://github.com/beigegullminaret/wise-care",
+"description": "Complete standalone setup of Wise Care 2026. Full working installer with all features activated, ready to run.",
+"stars": 130,
+"spd": 70.7,
+"score": 0.65,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": null,
+"language": "",
+"first_seen": "2026-11-04T15:34:40Z",
+"last_seen": "2026-11-04T15:34:40Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
