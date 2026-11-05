@@ -75,7 +75,7 @@
 "repo": "KnifeLemon/Filee",
 "url": "https://github.com/KnifeLemon/Filee",
 "description": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
-"stars": 22323.0,
+"stars": 22522.0,
 "spd": 119.7,
 "score": 1.31,
 "fit": 0.96,
@@ -84,8 +84,8 @@
 "license": "MIT",
 "language": "C#",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-05T10:29:28Z",
-"hits": 29,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 30,
 "in_tg": true,
 "status": "active"
 },
@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 432519.0,
+"stars": 433728.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-05T10:29:28Z",
-"hits": 110,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 111,
 "in_tg": false,
 "status": "active"
 },
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 314008.0,
+"stars": 314793.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,8 +354,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-05T10:29:28Z",
-"hits": 27,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 28,
 "in_tg": false,
 "status": "active"
 },
@@ -429,7 +429,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 85,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "emilkowalski/skills": {
 "repo": "emilkowalski/skills",
@@ -1029,7 +1029,7 @@
 "repo": "cloudflare/security-audit-skill",
 "url": "https://github.com/cloudflare/security-audit-skill",
 "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-"stars": 59543.0,
+"stars": 60968.0,
 "spd": 279.1,
 "score": 0.98,
 "fit": 0.7,
@@ -1038,8 +1038,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-05T02:42:04Z",
-"hits": 62,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 63,
 "in_tg": false,
 "status": "active"
 },
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 115388.0,
+"stars": 116477.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-04T22:09:57Z",
-"hits": 35,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 36,
 "in_tg": false,
 "status": "active"
 },
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "",
-"stars": 46450.0,
+"stars": 47917.0,
 "spd": 139.1,
 "score": 0.6,
 "fit": 0.0,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-04T22:09:57Z",
-"hits": 31,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 32,
 "in_tg": false,
 "status": "active"
 },
@@ -5073,7 +5073,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 31,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Portbencomply/Qobuz-Turbo": {
 "repo": "Portbencomply/Qobuz-Turbo",
@@ -5457,19 +5457,19 @@
 "repo": "donnemartin/system-design-primer",
 "url": "https://github.com/donnemartin/system-design-primer",
 "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-"stars": 375542.0,
-"spd": 32.5,
-"score": 0.61,
+"stars": 376953.0,
+"spd": 81.3,
+"score": 0.77,
 "fit": 0.48,
 "risk": 0.0,
 "ps": "PS-web",
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-25T14:27:40Z",
-"last_seen": "2026-10-25T14:30:25Z",
-"hits": 2,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 3,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "liquidslr/leetcode-company-wise-problems": {
 "repo": "liquidslr/leetcode-company-wise-problems",
@@ -6009,7 +6009,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 6,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/EQAI": {
 "repo": "AhmadHassan-BTed/EQAI",
@@ -6087,7 +6087,7 @@
 "repo": "nightly-labs/openbot",
 "url": "https://github.com/nightly-labs/openbot",
 "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-"stars": 5155.0,
+"stars": 5764.0,
 "spd": 111.0,
 "score": 1.29,
 "fit": 0.52,
@@ -6096,10 +6096,10 @@
 "license": "NOASSERTION",
 "language": "TypeScript",
 "first_seen": "2026-10-27T04:51:59Z",
-"last_seen": "2026-11-03T14:54:27Z",
-"hits": 3,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 4,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "NVIDIA/SkillSpector": {
 "repo": "NVIDIA/SkillSpector",
@@ -6500,8 +6500,8 @@
 "AienTech/dossier": {
 "repo": "AienTech/dossier",
 "url": "https://github.com/AienTech/dossier",
-"description": "A self-hosted job search app that writes tailored resumes and cover letters from your profile.",
-"stars": 2656.0,
+"description": "A self-hosted job search and resume builder app that writes tailored resumes and cover letters from your profile.",
+"stars": 4532.0,
 "spd": 101.6,
 "score": 1.73,
 "fit": 0.65,
@@ -6510,10 +6510,10 @@
 "license": "AGPL-3.0",
 "language": "TypeScript",
 "first_seen": "2026-10-27T19:29:45Z",
-"last_seen": "2026-10-28T19:00:02Z",
-"hits": 6,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 7,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "Appllama/appllama-skills": {
 "repo": "Appllama/appllama-skills",
@@ -8607,7 +8607,7 @@
 "repo": "heydamir/unslop",
 "url": "https://github.com/heydamir/unslop",
 "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-"stars": 8239.0,
+"stars": 9582.0,
 "spd": 247.1,
 "score": 1.21,
 "fit": 0.5,
@@ -8616,8 +8616,8 @@
 "license": "CC-BY-4.0",
 "language": "JavaScript",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-04T15:34:40Z",
-"hits": 18,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 19,
 "in_tg": true,
 "status": "active"
 },
@@ -8679,7 +8679,7 @@
 "repo": "ccch1mneyyy/dsh-Go",
 "url": "https://github.com/ccch1mneyyy/dsh-Go",
 "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-"stars": 10626.0,
+"stars": 11294.0,
 "spd": 97.4,
 "score": 1.04,
 "fit": 0.74,
@@ -8688,8 +8688,8 @@
 "license": "AGPL-3.0",
 "language": "Dart",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-05T10:29:28Z",
-"hits": 21,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 22,
 "in_tg": false,
 "status": "active"
 },
@@ -9471,7 +9471,7 @@
 "repo": "vercel-labs/agent-desktop",
 "url": "https://github.com/vercel-labs/agent-desktop",
 "description": "Computer use CLI for AI agents",
-"stars": 16025.0,
+"stars": 16551.0,
 "spd": 113.9,
 "score": 2.16,
 "fit": 0.74,
@@ -9480,8 +9480,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-31T04:39:38Z",
-"last_seen": "2026-11-05T10:29:28Z",
-"hits": 28,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 29,
 "in_tg": true,
 "status": "active"
 },
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 13603.0,
+"stars": 14504.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-05T10:29:28Z",
-"hits": 21,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 22,
 "in_tg": false,
 "status": "active"
 },
@@ -11319,7 +11319,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 5,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "CheetahEstimate/KMS-Pico": {
 "repo": "CheetahEstimate/KMS-Pico",
@@ -11541,7 +11541,7 @@
 "repo": "Verlintas/NOIR",
 "url": "https://github.com/Verlintas/NOIR",
 "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-"stars": 1164,
+"stars": 2427.0,
 "spd": 29.5,
 "score": 1.1,
 "fit": 0.92,
@@ -11550,10 +11550,10 @@
 "license": "MIT",
 "language": "Kotlin",
 "first_seen": "2026-11-02T17:22:21Z",
-"last_seen": "2026-11-02T17:22:21Z",
-"hits": 1,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 2,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "AssemblyDrain/sonyvegas": {
 "repo": "AssemblyDrain/sonyvegas",
@@ -12117,7 +12117,7 @@
 "repo": "NVIDIA/auto-ontology",
 "url": "https://github.com/NVIDIA/auto-ontology",
 "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
-"stars": 6176.0,
+"stars": 6914.0,
 "spd": 101.3,
 "score": 2.41,
 "fit": 0.74,
@@ -12126,8 +12126,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-03T06:32:40Z",
-"last_seen": "2026-11-05T10:29:28Z",
-"hits": 13,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 14,
 "in_tg": true,
 "status": "active"
 },
@@ -12243,19 +12243,19 @@
 "repo": "JustVugg/colibri",
 "url": "https://github.com/JustVugg/colibri",
 "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-"stars": 47223.0,
-"spd": 44.7,
-"score": 0.87,
+"stars": 48093.0,
+"spd": 91.8,
+"score": 0.93,
 "fit": 0.7,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "Apache-2.0",
 "language": "C",
 "first_seen": "2026-11-03T06:32:40Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 4,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 5,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "BryceYuuu/RUN": {
 "repo": "BryceYuuu/RUN",
@@ -12693,7 +12693,7 @@
 "repo": "floci-io/floci",
 "url": "https://github.com/floci-io/floci",
 "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-"stars": 29684.0,
+"stars": 30224.0,
 "spd": 178.3,
 "score": 1.36,
 "fit": 0.83,
@@ -12702,8 +12702,8 @@
 "license": "MIT",
 "language": "Java",
 "first_seen": "2026-11-03T23:30:27Z",
-"last_seen": "2026-11-05T02:42:04Z",
-"hits": 7,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 8,
 "in_tg": true,
 "status": "active"
 },
@@ -12782,8 +12782,8 @@
 "JuneYaooo/rea-video": {
 "repo": "JuneYaooo/rea-video",
 "url": "https://github.com/JuneYaooo/rea-video",
-"description": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
-"stars": 1137.0,
+"description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
+"stars": 1938.0,
 "spd": 38.8,
 "score": 1.27,
 "fit": 0.96,
@@ -12792,8 +12792,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-04T06:42:59Z",
-"last_seen": "2026-11-05T02:42:04Z",
-"hits": 3,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 4,
 "in_tg": true,
 "status": "active"
 },
@@ -12975,7 +12975,7 @@
 "last_seen": "2026-11-04T15:34:40Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "jiuhunwl/short_videos": {
 "repo": "jiuhunwl/short_videos",
@@ -12993,7 +12993,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "adtexterry-lgtm/unigit-ecosystem": {
 "repo": "adtexterry-lgtm/unigit-ecosystem",
@@ -13011,7 +13011,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "ChannelDivinerCast/VSCode-Extension-Helper": {
 "repo": "ChannelDivinerCast/VSCode-Extension-Helper",
@@ -13029,7 +13029,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "s1dashu/quiet-md": {
 "repo": "s1dashu/quiet-md",
@@ -13047,7 +13047,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "DreamSwimmer/windows-optimizer": {
 "repo": "DreamSwimmer/windows-optimizer",
@@ -13065,7 +13065,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "BlizzardShaper/musicmakerunlimited": {
 "repo": "BlizzardShaper/musicmakerunlimited",
@@ -13083,7 +13083,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "UnitWarlordScrew/lossless-scaling": {
 "repo": "UnitWarlordScrew/lossless-scaling",
@@ -13101,7 +13101,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "EnergySensei/on1-photo-raw-max": {
 "repo": "EnergySensei/on1-photo-raw-max",
@@ -13119,7 +13119,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "PolishStormChamber/directory-opus": {
 "repo": "PolishStormChamber/directory-opus",
@@ -13137,7 +13137,7 @@
 "last_seen": "2026-11-04T15:34:40Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Chipwithinflash/watson-AI-osint-all-in-one": {
 "repo": "Chipwithinflash/watson-AI-osint-all-in-one",
@@ -13155,7 +13155,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Trackbrotally/hitfilm": {
 "repo": "Trackbrotally/hitfilm",
@@ -13173,7 +13173,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SorcererPucker/studioonepro7": {
 "repo": "SorcererPucker/studioonepro7",
@@ -13191,7 +13191,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "PolishBitTweezers/serato-dj-pro": {
 "repo": "PolishBitTweezers/serato-dj-pro",
@@ -13209,7 +13209,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SpyIllusionistRank/frp-unlock-tool": {
 "repo": "SpyIllusionistRank/frp-unlock-tool",
@@ -13227,7 +13227,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "PassManufacturing/burning-studio": {
 "repo": "PassManufacturing/burning-studio",
@@ -13245,7 +13245,7 @@
 "last_seen": "2026-11-04T15:34:40Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Baychicaptivate/daemon-pro": {
 "repo": "Baychicaptivate/daemon-pro",
@@ -13263,7 +13263,7 @@
 "last_seen": "2026-11-04T15:34:40Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "beigegullminaret/wise-care": {
 "repo": "beigegullminaret/wise-care",
@@ -13281,7 +13281,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "UncensoredLabs/uncensored-ai-api": {
 "repo": "UncensoredLabs/uncensored-ai-api",
@@ -13299,7 +13299,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ToneCommanderWave/fabfilter-pro": {
 "repo": "ToneCommanderWave/fabfilter-pro",
@@ -13317,7 +13317,7 @@
 "last_seen": "2026-11-04T16:01:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Balanov/equal": {
 "repo": "Balanov/equal",
@@ -13359,7 +13359,7 @@
 "repo": "HunYiSage/dsh-purge",
 "url": "https://github.com/HunYiSage/dsh-purge",
 "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
-"stars": 18040.0,
+"stars": 19043.0,
 "spd": 27.3,
 "score": 0.9,
 "fit": 0.74,
@@ -13368,8 +13368,8 @@
 "license": "Apache-2.0",
 "language": "JavaScript",
 "first_seen": "2026-11-04T21:59:29Z",
-"last_seen": "2026-11-04T22:09:57Z",
-"hits": 2,
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 3,
 "in_tg": false,
 "status": "new"
 },
@@ -14061,7 +14061,7 @@
 "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
 "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
 "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-"stars": 1408,
+"stars": 2102.0,
 "spd": 90.1,
 "score": 0.49,
 "fit": 0.5,
@@ -14070,7 +14070,241 @@
 "license": null,
 "language": "Python",
 "first_seen": "2026-11-05T10:29:28Z",
-"last_seen": "2026-11-05T10:29:28Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 2,
+"in_tg": false,
+"status": "new"
+},
+"xianyu121995/xianyu": {
+"repo": "xianyu121995/xianyu",
+"url": "https://github.com/xianyu121995/xianyu",
+"description": "ziyong",
+"stars": 105,
+"spd": 133.2,
+"score": 2.9,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": null,
+"language": "Python",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"zalwlf/yolov8-track": {
+"repo": "zalwlf/yolov8-track",
+"url": "https://github.com/zalwlf/yolov8-track",
+"description": "基于opencv+yolov8实现目标追踪及驻留时长统计",
+"stars": 66,
+"spd": 107.1,
+"score": 2.71,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": null,
+"language": "Python",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"DianaWordsworth/project-zcv8m5qq": {
+"repo": "DianaWordsworth/project-zcv8m5qq",
+"url": "https://github.com/DianaWordsworth/project-zcv8m5qq",
+"description": "",
+"stars": 112,
+"spd": 144.0,
+"score": 2.28,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": null,
+"language": "",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"namannn04/Veronica": {
+"repo": "namannn04/Veronica",
+"url": "https://github.com/namannn04/Veronica",
+"description": "Native Ubuntu control center for agent usage, system utilities, media, clipboard, emoji and GNOME integration.",
+"stars": 815,
+"spd": 54.2,
+"score": 1.72,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "GPL-3.0",
+"language": "Rust",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"woshimaniubi8/CVE-2026-43499-root-KernelSU": {
+"repo": "woshimaniubi8/CVE-2026-43499-root-KernelSU",
+"url": "https://github.com/woshimaniubi8/CVE-2026-43499-root-KernelSU",
+"description": "基于内核漏洞CVE-2026-43499的本地提权适配，集成嵌入式 KernelSU.CVE-2026-43499+KernelSU越狱模式 ",
+"stars": 336,
+"spd": 49.0,
+"score": 1.68,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "GPL-3.0",
+"language": "C",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"sherlock-project/sherlock": {
+"repo": "sherlock-project/sherlock",
+"url": "https://github.com/sherlock-project/sherlock",
+"description": "Hunt down social media accounts by username across social networks",
+"stars": 96438,
+"spd": 88.7,
+"score": 1.49,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"aldegad/sprite-gen": {
+"repo": "aldegad/sprite-gen",
+"url": "https://github.com/aldegad/sprite-gen",
+"description": "Generate clean 2D game sprites & animation atlases — component-row pipeline: state rows, alpha cleanup, frame extraction, runtime atlases. Codex/Claude skill.",
+"stars": 3443,
+"spd": 42.3,
+"score": 1.28,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Python",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"larashero3-dotcom/lieflat-less-ai-tone": {
+"repo": "larashero3-dotcom/lieflat-less-ai-tone",
+"url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+"description": "一个基于 520 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 5.2-million-character corpus study",
+"stars": 5189,
+"spd": 105.5,
+"score": 1.17,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "Python",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"DawnShaperFrost90/slideshow-video-maker": {
+"repo": "DawnShaperFrost90/slideshow-video-maker",
+"url": "https://github.com/DawnShaperFrost90/slideshow-video-maker",
+"description": "Slideshow Video Maker 2026: Complete standalone setup with all features unlocked and ready to run.",
+"stars": 400,
+"spd": 240.0,
+"score": 1.16,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Surfacevicanopy/ifunbox": {
+"repo": "Surfacevicanopy/ifunbox",
+"url": "https://github.com/Surfacevicanopy/ifunbox",
+"description": "Complete standalone setup for Ifunbox 2026. Ready-to-run desktop installation with all features pre-activated.",
+"stars": 330,
+"spd": 192.0,
+"score": 1.03,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"microsoft/VibeVoice": {
+"repo": "microsoft/VibeVoice",
+"url": "https://github.com/microsoft/VibeVoice",
+"description": "Open-Source Frontier Voice AI",
+"stars": 55649,
+"spd": 40.7,
+"score": 0.71,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Nebularotunnel/Token-Sniper": {
+"repo": "Nebularotunnel/Token-Sniper",
+"url": "https://github.com/Nebularotunnel/Token-Sniper",
+"description": "Advanced desktop analyzer for DEX activity. Monitors new liquidity pair creation, applies smart filters to detect potential scam and rugpull patterns, and provides real-time alerts. Clean interface, r",
+"stars": 391,
+"spd": 240.0,
+"score": 0.68,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-sec",
+"license": null,
+"language": "Python",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"zortos293/Lichii": {
+"repo": "zortos293/Lichii",
+"url": "https://github.com/zortos293/Lichii",
+"description": "VERY experimental Nintendo Switch 2 emulator",
+"stars": 1847,
+"spd": 76.9,
+"score": 0.54,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "GPL-3.0",
+"language": "C++",
+"first_seen": "2026-11-05T18:15:01Z",
+"last_seen": "2026-11-05T18:15:01Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
