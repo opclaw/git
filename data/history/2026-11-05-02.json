@@ -1,6 +1,6 @@
 {
  "schema": "radar/leads.v1",
- "generated_at": "2026-11-05T02:35:32Z",
+ "generated_at": "2026-11-05T02:41:48Z",
  "window": {
   "hours": 4,
   "from": "2026-11-04-22",
@@ -17,7 +17,7 @@
    "lead_id": "L-20261105-09",
    "repo": "kepethengpet-a11y/power-director",
    "url": "https://github.com/kepethengpet-a11y/power-director",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -41,7 +41,7 @@
     "stars_in_window": 5,
     "window_h": 0.9,
     "stars_per_day_recent": 128.0,
-    "lifetime_stars_per_day": 91.26,
+    "lifetime_stars_per_day": 91.07,
     "acceleration": 1.4,
     "self_star_share": 0.0,
     "ring_share": 0.2
@@ -51,7 +51,7 @@
    "manipulation_risk": 0.11,
    "lead_score": 1.27,
    "score_explain": [
-    "V=0.88: хвост 128.0 зв/сут против штатных 91.3 (x1)",
+    "V=0.88: хвост 128.0 зв/сут против штатных 91.1 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.76 -> PS-dev",
@@ -60,7 +60,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -73,9 +73,9 @@
    "lead_id": "L-20261105-19",
    "repo": "JuneYaooo/rea-video",
    "url": "https://github.com/JuneYaooo/rea-video",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
-   "stars": 1124,
+   "stars": 1137,
    "forks": 166,
    "open_issues": 0,
    "language": "Python",
@@ -97,7 +97,7 @@
     "stars_in_window": 5,
     "window_h": 3.1,
     "stars_per_day_recent": 38.8,
-    "lifetime_stars_per_day": 174.78,
+    "lifetime_stars_per_day": 176.68,
     "acceleration": 0.2,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -105,9 +105,9 @@
    "fit_internal": 0.96,
    "problem_statement": "PS-infer",
    "manipulation_risk": 0.0,
-   "lead_score": 1.27,
+   "lead_score": 1.26,
    "score_explain": [
-    "V=0.20: хвост 38.8 зв/сут против штатных 174.8 (x0)",
+    "V=0.20: хвост 38.8 зв/сут против штатных 176.7 (x0)",
     "N=1.0: репо 6 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.96 -> PS-infer",
@@ -116,7 +116,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -129,10 +129,10 @@
    "lead_id": "L-20261105-20",
    "repo": "NVIDIA/auto-ontology",
    "url": "https://github.com/NVIDIA/auto-ontology",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
-   "stars": 5250,
-   "forks": 411,
+   "stars": 5261,
+   "forks": 413,
    "open_issues": 43,
    "language": "Python",
    "license": "Apache-2.0",
@@ -146,7 +146,7 @@
     "stars_in_window": 5,
     "window_h": 3.1,
     "stars_per_day_recent": 38.2,
-    "lifetime_stars_per_day": 27.46,
+    "lifetime_stars_per_day": 27.51,
     "acceleration": 1.4,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -165,7 +165,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -178,7 +178,7 @@
    "lead_id": "L-20261105-03",
    "repo": "franciscokonect/phantom-blade-zero-enhancement",
    "url": "https://github.com/franciscokonect/phantom-blade-zero-enhancement",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -202,7 +202,7 @@
     "stars_in_window": 6,
     "window_h": 1.5,
     "stars_per_day_recent": 95.4,
-    "lifetime_stars_per_day": 91.09,
+    "lifetime_stars_per_day": 90.9,
     "acceleration": 1.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -212,7 +212,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 1.21,
    "score_explain": [
-    "V=0.72: хвост 95.4 зв/сут против штатных 91.1 (x1)",
+    "V=0.72: хвост 95.4 зв/сут против штатных 90.9 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.7 -> PS-ml",
@@ -221,7 +221,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -234,7 +234,7 @@
    "lead_id": "L-20261105-10",
    "repo": "NisarOg7/capcut-windows-media-tool",
    "url": "https://github.com/NisarOg7/capcut-windows-media-tool",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -258,7 +258,7 @@
     "stars_in_window": 5,
     "window_h": 1.3,
     "stars_per_day_recent": 94.6,
-    "lifetime_stars_per_day": 89.73,
+    "lifetime_stars_per_day": 89.55,
     "acceleration": 1.1,
     "self_star_share": 0.0,
     "ring_share": 0.2
@@ -268,7 +268,7 @@
    "manipulation_risk": 0.11,
    "lead_score": 1.13,
    "score_explain": [
-    "V=0.72: хвост 94.6 зв/сут против штатных 89.7 (x1)",
+    "V=0.72: хвост 94.6 зв/сут против штатных 89.5 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.76 -> PS-dev",
@@ -277,7 +277,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -290,7 +290,7 @@
    "lead_id": "L-20261105-08",
    "repo": "rkhushi8d-tech/uttorent-desktop",
    "url": "https://github.com/rkhushi8d-tech/uttorent-desktop",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -314,7 +314,7 @@
     "stars_in_window": 6,
     "window_h": 2.2,
     "stars_per_day_recent": 65.6,
-    "lifetime_stars_per_day": 91.68,
+    "lifetime_stars_per_day": 91.49,
     "acceleration": 0.7,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -324,7 +324,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 1.1,
    "score_explain": [
-    "V=0.54: хвост 65.6 зв/сут против штатных 91.7 (x1)",
+    "V=0.54: хвост 65.6 зв/сут против штатных 91.5 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.76 -> PS-dev",
@@ -333,7 +333,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -346,7 +346,7 @@
    "lead_id": "L-20261105-12",
    "repo": "Tahirhayyat/frp-unlock-tool-desktop",
    "url": "https://github.com/Tahirhayyat/frp-unlock-tool-desktop",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -370,7 +370,7 @@
     "stars_in_window": 5,
     "window_h": 1.4,
     "stars_per_day_recent": 86.0,
-    "lifetime_stars_per_day": 90.42,
+    "lifetime_stars_per_day": 90.24,
     "acceleration": 1.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -380,7 +380,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 1.1,
    "score_explain": [
-    "V=0.67: хвост 86.0 зв/сут против штатных 90.4 (x1)",
+    "V=0.67: хвост 86.0 зв/сут против штатных 90.2 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -389,7 +389,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -402,7 +402,7 @@
    "lead_id": "L-20261105-05",
    "repo": "crnt99/alt-access-tool",
    "url": "https://github.com/crnt99/alt-access-tool",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -426,7 +426,7 @@
     "stars_in_window": 6,
     "window_h": 1.8,
     "stars_per_day_recent": 80.6,
-    "lifetime_stars_per_day": 89.37,
+    "lifetime_stars_per_day": 89.19,
     "acceleration": 0.9,
     "self_star_share": 0.0,
     "ring_share": 0.17
@@ -436,7 +436,7 @@
    "manipulation_risk": 0.09,
    "lead_score": 1.08,
    "score_explain": [
-    "V=0.64: хвост 80.6 зв/сут против штатных 89.4 (x1)",
+    "V=0.64: хвост 80.6 зв/сут против штатных 89.2 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.76 -> PS-dev",
@@ -445,7 +445,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -458,7 +458,7 @@
    "lead_id": "L-20261105-07",
    "repo": "HarishPrajapat6260/phantom-blade-zero-runtime-toolkit",
    "url": "https://github.com/HarishPrajapat6260/phantom-blade-zero-runtime-toolkit",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -482,7 +482,7 @@
     "stars_in_window": 6,
     "window_h": 2.1,
     "stars_per_day_recent": 67.7,
-    "lifetime_stars_per_day": 91.11,
+    "lifetime_stars_per_day": 90.93,
     "acceleration": 0.7,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -492,7 +492,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 1.07,
    "score_explain": [
-    "V=0.56: хвост 67.7 зв/сут против штатных 91.1 (x1)",
+    "V=0.56: хвост 67.7 зв/сут против штатных 90.9 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.7 -> PS-ml",
@@ -501,7 +501,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -514,7 +514,7 @@
    "lead_id": "L-20261105-14",
    "repo": "marth508a-web/honeypot-detector",
    "url": "https://github.com/marth508a-web/honeypot-detector",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -538,7 +538,7 @@
     "stars_in_window": 5,
     "window_h": 1.8,
     "stars_per_day_recent": 68.2,
-    "lifetime_stars_per_day": 90.5,
+    "lifetime_stars_per_day": 90.32,
     "acceleration": 0.8,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -548,7 +548,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 1.07,
    "score_explain": [
-    "V=0.56: хвост 68.2 зв/сут против штатных 90.5 (x1)",
+    "V=0.56: хвост 68.2 зв/сут против штатных 90.3 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.7 -> PS-sec",
@@ -557,7 +557,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -570,7 +570,7 @@
    "lead_id": "L-20261105-22",
    "repo": "fakhryeiskandar/cellebrite-ufed-installer",
    "url": "https://github.com/fakhryeiskandar/cellebrite-ufed-installer",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -589,12 +589,12 @@
     "cellebrite-setup"
    ],
    "signals": {
-    "age_days": 2.1,
+    "age_days": 2.2,
     "last_push_days_ago": 0,
     "stars_in_window": 4,
     "window_h": 0.9,
     "stars_per_day_recent": 112.4,
-    "lifetime_stars_per_day": 89.79,
+    "lifetime_stars_per_day": 89.61,
     "acceleration": 1.3,
     "self_star_share": 0.0,
     "ring_share": 0.25
@@ -604,7 +604,7 @@
    "manipulation_risk": 0.14,
    "lead_score": 1.06,
    "score_explain": [
-    "V=0.81: хвост 112.4 зв/сут против штатных 89.8 (x1)",
+    "V=0.81: хвост 112.4 зв/сут против штатных 89.6 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -613,7 +613,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -626,9 +626,9 @@
    "lead_id": "L-20261105-27",
    "repo": "ifixai-ai/iFixAi",
    "url": "https://github.com/ifixai-ai/iFixAi",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
-   "stars": 43518,
+   "stars": 43523,
    "forks": 1783,
    "open_issues": 5,
    "language": "Python",
@@ -650,7 +650,7 @@
     "stars_in_window": 4,
     "window_h": 1.6,
     "stars_per_day_recent": 61.4,
-    "lifetime_stars_per_day": 227.17,
+    "lifetime_stars_per_day": 227.19,
     "acceleration": 0.3,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -669,7 +669,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -682,9 +682,9 @@
    "lead_id": "L-20261105-23",
    "repo": "Panniantong/Agent-Reach",
    "url": "https://github.com/Panniantong/Agent-Reach",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
-   "stars": 108855,
+   "stars": 108857,
    "forks": 9723,
    "open_issues": 275,
    "language": "Python",
@@ -725,7 +725,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -738,11 +738,11 @@
    "lead_id": "L-20261105-38",
    "repo": "floci-io/floci",
    "url": "https://github.com/floci-io/floci",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
-   "stars": 29680,
+   "stars": 29684,
    "forks": 3282,
-   "open_issues": 180,
+   "open_issues": 179,
    "language": "Java",
    "license": "MIT",
    "archived": false,
@@ -762,7 +762,7 @@
     "stars_in_window": 4,
     "window_h": 2.5,
     "stars_per_day_recent": 38.5,
-    "lifetime_stars_per_day": 114.15,
+    "lifetime_stars_per_day": 114.17,
     "acceleration": 0.3,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -781,7 +781,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -794,7 +794,7 @@
    "lead_id": "L-20261105-24",
    "repo": "Raptor21g/autodesk-3ds-max-standalone",
    "url": "https://github.com/Raptor21g/autodesk-3ds-max-standalone",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -818,7 +818,7 @@
     "stars_in_window": 4,
     "window_h": 1.3,
     "stars_per_day_recent": 73.0,
-    "lifetime_stars_per_day": 89.53,
+    "lifetime_stars_per_day": 89.35,
     "acceleration": 0.8,
     "self_star_share": 0.0,
     "ring_share": 0.25
@@ -828,7 +828,7 @@
    "manipulation_risk": 0.14,
    "lead_score": 0.98,
    "score_explain": [
-    "V=0.60: хвост 73.0 зв/сут против штатных 89.5 (x1)",
+    "V=0.60: хвост 73.0 зв/сут против штатных 89.4 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.76 -> PS-dev",
@@ -837,7 +837,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -850,7 +850,7 @@
    "lead_id": "L-20261105-33",
    "repo": "lab-sudo/discord-server-raider",
    "url": "https://github.com/lab-sudo/discord-server-raider",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -874,7 +874,7 @@
     "stars_in_window": 4,
     "window_h": 2.1,
     "stars_per_day_recent": 46.4,
-    "lifetime_stars_per_day": 90.11,
+    "lifetime_stars_per_day": 89.92,
     "acceleration": 0.5,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -884,7 +884,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.98,
    "score_explain": [
-    "V=0.42: хвост 46.4 зв/сут против штатных 90.1 (x1)",
+    "V=0.42: хвост 46.4 зв/сут против штатных 89.9 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.76 -> PS-dev",
@@ -893,7 +893,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -906,9 +906,9 @@
    "lead_id": "L-20261105-13",
    "repo": "Ebony-Vinyl/dsh-our-free-model",
    "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
-   "stars": 60875,
+   "stars": 60885,
    "forks": 1649,
    "open_issues": 123,
    "language": "JavaScript",
@@ -930,7 +930,7 @@
     "stars_in_window": 5,
     "window_h": 1.5,
     "stars_per_day_recent": 79.9,
-    "lifetime_stars_per_day": 1469.37,
+    "lifetime_stars_per_day": 1469.46,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -940,7 +940,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.96,
    "score_explain": [
-    "V=0.05: хвост 79.9 зв/сут против штатных 1469.4 (x0)",
+    "V=0.05: хвост 79.9 зв/сут против штатных 1469.5 (x0)",
     "N=1.0: репо 41 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.76 -> PS-dev",
@@ -949,7 +949,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -962,7 +962,7 @@
    "lead_id": "L-20261105-11",
    "repo": "dv26ang/aion-2-prompt-engineering-suite",
    "url": "https://github.com/dv26ang/aion-2-prompt-engineering-suite",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -986,7 +986,7 @@
     "stars_in_window": 5,
     "window_h": 1.4,
     "stars_per_day_recent": 88.4,
-    "lifetime_stars_per_day": 89.35,
+    "lifetime_stars_per_day": 89.17,
     "acceleration": 1.0,
     "self_star_share": 0.0,
     "ring_share": 0.4
@@ -996,7 +996,7 @@
    "manipulation_risk": 0.22,
    "lead_score": 0.92,
    "score_explain": [
-    "V=0.69: хвост 88.4 зв/сут против штатных 89.3 (x1)",
+    "V=0.69: хвост 88.4 зв/сут против штатных 89.2 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.7 -> PS-ml",
@@ -1005,7 +1005,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1018,7 +1018,7 @@
    "lead_id": "L-20261105-16",
    "repo": "odudumkpong-hue/secure-seed-vault",
    "url": "https://github.com/odudumkpong-hue/secure-seed-vault",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1042,7 +1042,7 @@
     "stars_in_window": 5,
     "window_h": 2.3,
     "stars_per_day_recent": 53.1,
-    "lifetime_stars_per_day": 91.43,
+    "lifetime_stars_per_day": 91.25,
     "acceleration": 0.6,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1052,7 +1052,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.91,
    "score_explain": [
-    "V=0.46: хвост 53.1 зв/сут против штатных 91.4 (x1)",
+    "V=0.46: хвост 53.1 зв/сут против штатных 91.2 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -1061,7 +1061,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1074,7 +1074,7 @@
    "lead_id": "L-20261105-17",
    "repo": "manishlifeyou-ux/robux-generator-enhancer",
    "url": "https://github.com/manishlifeyou-ux/robux-generator-enhancer",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1098,7 +1098,7 @@
     "stars_in_window": 5,
     "window_h": 2.3,
     "stars_per_day_recent": 52.1,
-    "lifetime_stars_per_day": 91.33,
+    "lifetime_stars_per_day": 91.14,
     "acceleration": 0.6,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1108,7 +1108,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.9,
    "score_explain": [
-    "V=0.45: хвост 52.1 зв/сут против штатных 91.3 (x1)",
+    "V=0.45: хвост 52.1 зв/сут против штатных 91.1 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -1117,7 +1117,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1130,7 +1130,7 @@
    "lead_id": "L-20261105-26",
    "repo": "foursixity001-hub/aion-2-enhancement-suite",
    "url": "https://github.com/foursixity001-hub/aion-2-enhancement-suite",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1154,7 +1154,7 @@
     "stars_in_window": 4,
     "window_h": 1.4,
     "stars_per_day_recent": 66.7,
-    "lifetime_stars_per_day": 89.39,
+    "lifetime_stars_per_day": 89.21,
     "acceleration": 0.7,
     "self_star_share": 0.0,
     "ring_share": 0.25
@@ -1164,7 +1164,7 @@
    "manipulation_risk": 0.14,
    "lead_score": 0.9,
    "score_explain": [
-    "V=0.56: хвост 66.7 зв/сут против штатных 89.4 (x1)",
+    "V=0.56: хвост 66.7 зв/сут против штатных 89.2 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.7 -> PS-ml",
@@ -1173,7 +1173,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1186,7 +1186,7 @@
    "lead_id": "L-20261105-28",
    "repo": "Anil-nlp/ph-downloader-desktop",
    "url": "https://github.com/Anil-nlp/ph-downloader-desktop",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1210,7 +1210,7 @@
     "stars_in_window": 4,
     "window_h": 1.6,
     "stars_per_day_recent": 60.4,
-    "lifetime_stars_per_day": 91.06,
+    "lifetime_stars_per_day": 90.87,
     "acceleration": 0.7,
     "self_star_share": 0.0,
     "ring_share": 0.25
@@ -1220,7 +1220,7 @@
    "manipulation_risk": 0.14,
    "lead_score": 0.9,
    "score_explain": [
-    "V=0.51: хвост 60.4 зв/сут против штатных 91.1 (x1)",
+    "V=0.51: хвост 60.4 зв/сут против штатных 90.9 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.76 -> PS-dev",
@@ -1229,7 +1229,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1242,7 +1242,7 @@
    "lead_id": "L-20261105-31",
    "repo": "LampvertOriginal/designcenter-nx-desktop",
    "url": "https://github.com/LampvertOriginal/designcenter-nx-desktop",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1266,7 +1266,7 @@
     "stars_in_window": 4,
     "window_h": 1.9,
     "stars_per_day_recent": 50.5,
-    "lifetime_stars_per_day": 90.07,
+    "lifetime_stars_per_day": 89.89,
     "acceleration": 0.6,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1276,7 +1276,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.9,
    "score_explain": [
-    "V=0.45: хвост 50.5 зв/сут против штатных 90.1 (x1)",
+    "V=0.45: хвост 50.5 зв/сут против штатных 89.9 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -1285,7 +1285,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1298,7 +1298,7 @@
    "lead_id": "L-20261105-04",
    "repo": "joels200514-create/portfolio-rebalancer",
    "url": "https://github.com/joels200514-create/portfolio-rebalancer",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1322,7 +1322,7 @@
     "stars_in_window": 6,
     "window_h": 1.6,
     "stars_per_day_recent": 88.8,
-    "lifetime_stars_per_day": 91.21,
+    "lifetime_stars_per_day": 91.03,
     "acceleration": 1.0,
     "self_star_share": 0.0,
     "ring_share": 0.33
@@ -1332,7 +1332,7 @@
    "manipulation_risk": 0.18,
    "lead_score": 0.89,
    "score_explain": [
-    "V=0.68: хвост 88.8 зв/сут против штатных 91.2 (x1)",
+    "V=0.68: хвост 88.8 зв/сут против штатных 91.0 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -1341,7 +1341,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1354,10 +1354,10 @@
    "lead_id": "L-20261105-21",
    "repo": "harry0703/MoneyPrinterTurbo",
    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
-   "stars": 139079,
-   "forks": 22188,
+   "stars": 139085,
+   "forks": 22191,
    "open_issues": 71,
    "language": "Python",
    "license": "MIT",
@@ -1378,7 +1378,7 @@
     "stars_in_window": 5,
     "window_h": 3.3,
     "stars_per_day_recent": 36.2,
-    "lifetime_stars_per_day": 143.53,
+    "lifetime_stars_per_day": 143.54,
     "acceleration": 0.3,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1397,7 +1397,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1410,7 +1410,7 @@
    "lead_id": "L-20261105-34",
    "repo": "kabs255/autodesk-cfd-desktop",
    "url": "https://github.com/kabs255/autodesk-cfd-desktop",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1434,7 +1434,7 @@
     "stars_in_window": 4,
     "window_h": 2.1,
     "stars_per_day_recent": 46.4,
-    "lifetime_stars_per_day": 89.54,
+    "lifetime_stars_per_day": 89.36,
     "acceleration": 0.5,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1444,7 +1444,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.87,
    "score_explain": [
-    "V=0.42: хвост 46.4 зв/сут против штатных 89.5 (x1)",
+    "V=0.42: хвост 46.4 зв/сут против штатных 89.4 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -1453,7 +1453,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1466,7 +1466,7 @@
    "lead_id": "L-20261105-25",
    "repo": "imaniruddha3345/php-storm-desktop-edition",
    "url": "https://github.com/imaniruddha3345/php-storm-desktop-edition",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1490,7 +1490,7 @@
     "stars_in_window": 4,
     "window_h": 1.4,
     "stars_per_day_recent": 71.1,
-    "lifetime_stars_per_day": 91.16,
+    "lifetime_stars_per_day": 90.97,
     "acceleration": 0.8,
     "self_star_share": 0.0,
     "ring_share": 0.25
@@ -1500,7 +1500,7 @@
    "manipulation_risk": 0.14,
    "lead_score": 0.85,
    "score_explain": [
-    "V=0.58: хвост 71.1 зв/сут против штатных 91.2 (x1)",
+    "V=0.58: хвост 71.1 зв/сут против штатных 91.0 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -1509,7 +1509,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1522,7 +1522,7 @@
    "lead_id": "L-20261105-30",
    "repo": "Dikoks/acrobat-pro-master-pdf-2026",
    "url": "https://github.com/Dikoks/acrobat-pro-master-pdf-2026",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1546,7 +1546,7 @@
     "stars_in_window": 4,
     "window_h": 1.9,
     "stars_per_day_recent": 50.5,
-    "lifetime_stars_per_day": 89.23,
+    "lifetime_stars_per_day": 89.05,
     "acceleration": 0.6,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1556,7 +1556,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.83,
    "score_explain": [
-    "V=0.45: хвост 50.5 зв/сут против штатных 89.2 (x1)",
+    "V=0.45: хвост 50.5 зв/сут против штатных 89.1 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.52 -> PS-infer",
@@ -1565,7 +1565,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1578,7 +1578,7 @@
    "lead_id": "L-20261105-37",
    "repo": "littleeinsteinacademy/quicken-deluxe-desktop-installer",
    "url": "https://github.com/littleeinsteinacademy/quicken-deluxe-desktop-installer",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1602,7 +1602,7 @@
     "stars_in_window": 4,
     "window_h": 2.4,
     "stars_per_day_recent": 40.7,
-    "lifetime_stars_per_day": 91.29,
+    "lifetime_stars_per_day": 91.1,
     "acceleration": 0.4,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1612,7 +1612,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.83,
    "score_explain": [
-    "V=0.37: хвост 40.7 зв/сут против штатных 91.3 (x0)",
+    "V=0.37: хвост 40.7 зв/сут против штатных 91.1 (x0)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -1621,7 +1621,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1634,7 +1634,7 @@
    "lead_id": "L-20261105-29",
    "repo": "soguttu-lgtm/aiseesoft-unlocker",
    "url": "https://github.com/soguttu-lgtm/aiseesoft-unlocker",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1658,7 +1658,7 @@
     "stars_in_window": 4,
     "window_h": 1.7,
     "stars_per_day_recent": 57.8,
-    "lifetime_stars_per_day": 158.23,
+    "lifetime_stars_per_day": 157.67,
     "acceleration": 0.4,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1668,7 +1668,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.81,
    "score_explain": [
-    "V=0.31: хвост 57.8 зв/сут против штатных 158.2 (x0)",
+    "V=0.31: хвост 57.8 зв/сут против штатных 157.7 (x0)",
     "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.65 -> PS-infra",
@@ -1677,7 +1677,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1690,7 +1690,7 @@
    "lead_id": "L-20261105-40",
    "repo": "Hye-Georgina/substance-3d-studio-installer",
    "url": "https://github.com/Hye-Georgina/substance-3d-studio-installer",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1714,7 +1714,7 @@
     "stars_in_window": 4,
     "window_h": 2.6,
     "stars_per_day_recent": 37.0,
-    "lifetime_stars_per_day": 91.57,
+    "lifetime_stars_per_day": 91.38,
     "acceleration": 0.4,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1724,7 +1724,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.8,
    "score_explain": [
-    "V=0.34: хвост 37.0 зв/сут против штатных 91.6 (x0)",
+    "V=0.34: хвост 37.0 зв/сут против штатных 91.4 (x0)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -1733,7 +1733,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1746,7 +1746,7 @@
    "lead_id": "L-20261105-06",
    "repo": "Bcamile/ashampoo-uninstaller-desktop",
    "url": "https://github.com/Bcamile/ashampoo-uninstaller-desktop",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1770,7 +1770,7 @@
     "stars_in_window": 6,
     "window_h": 2.1,
     "stars_per_day_recent": 68.2,
-    "lifetime_stars_per_day": 89.43,
+    "lifetime_stars_per_day": 89.25,
     "acceleration": 0.8,
     "self_star_share": 0.0,
     "ring_share": 0.33
@@ -1780,7 +1780,7 @@
    "manipulation_risk": 0.18,
    "lead_score": 0.79,
    "score_explain": [
-    "V=0.57: хвост 68.2 зв/сут против штатных 89.4 (x1)",
+    "V=0.57: хвост 68.2 зв/сут против штатных 89.3 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -1789,7 +1789,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1802,10 +1802,10 @@
    "lead_id": "L-20261105-01",
    "repo": "morluto/rea",
    "url": "https://github.com/morluto/rea",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
-   "stars": 431184,
-   "forks": 107166,
+   "stars": 431204,
+   "forks": 107168,
    "open_issues": 1648,
    "language": "TypeScript",
    "license": "MIT",
@@ -1826,7 +1826,7 @@
     "stars_in_window": 11,
     "window_h": 4.0,
     "stars_per_day_recent": 66.6,
-    "lifetime_stars_per_day": 2102.6,
+    "lifetime_stars_per_day": 2102.65,
     "acceleration": 0.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1845,7 +1845,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1858,7 +1858,7 @@
    "lead_id": "L-20261105-18",
    "repo": "satriowijaksono56-commits/fonetrans-desktop",
    "url": "https://github.com/satriowijaksono56-commits/fonetrans-desktop",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 192,
    "forks": 0,
@@ -1882,7 +1882,7 @@
     "stars_in_window": 5,
     "window_h": 2.3,
     "stars_per_day_recent": 51.9,
-    "lifetime_stars_per_day": 89.91,
+    "lifetime_stars_per_day": 89.73,
     "acceleration": 0.6,
     "self_star_share": 0.0,
     "ring_share": 0.2
@@ -1892,7 +1892,7 @@
    "manipulation_risk": 0.11,
    "lead_score": 0.78,
    "score_explain": [
-    "V=0.46: хвост 51.9 зв/сут против штатных 89.9 (x1)",
+    "V=0.46: хвост 51.9 зв/сут против штатных 89.7 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -1901,7 +1901,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1914,9 +1914,9 @@
    "lead_id": "L-20261105-35",
    "repo": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
-   "stars": 59530,
+   "stars": 59543,
    "forks": 3872,
    "open_issues": 114,
    "language": "JavaScript",
@@ -1931,7 +1931,7 @@
     "stars_in_window": 4,
     "window_h": 2.1,
     "stars_per_day_recent": 45.7,
-    "lifetime_stars_per_day": 426.68,
+    "lifetime_stars_per_day": 426.76,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1941,7 +1941,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.78,
    "score_explain": [
-    "V=0.06: хвост 45.7 зв/сут против штатных 426.7 (x0)",
+    "V=0.06: хвост 45.7 зв/сут против штатных 426.8 (x0)",
     "N=0.6: репо 140 дн от роду",
     "C=0.0: пуш 51 дн назад",
     "fit=0.7 -> PS-sec",
@@ -1950,7 +1950,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1963,7 +1963,7 @@
    "lead_id": "L-20261105-15",
    "repo": "talk2niko/balena-etcher-usb-flash-install-guide",
    "url": "https://github.com/talk2niko/balena-etcher-usb-flash-install-guide",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -1987,7 +1987,7 @@
     "stars_in_window": 5,
     "window_h": 2.1,
     "stars_per_day_recent": 57.6,
-    "lifetime_stars_per_day": 89.66,
+    "lifetime_stars_per_day": 89.48,
     "acceleration": 0.6,
     "self_star_share": 0.0,
     "ring_share": 0.2
@@ -1995,9 +1995,9 @@
    "fit_internal": 0.52,
    "problem_statement": "PS-infer",
    "manipulation_risk": 0.11,
-   "lead_score": 0.74,
+   "lead_score": 0.75,
    "score_explain": [
-    "V=0.50: хвост 57.6 зв/сут против штатных 89.7 (x1)",
+    "V=0.50: хвост 57.6 зв/сут против штатных 89.5 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.52 -> PS-infer",
@@ -2006,7 +2006,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -2019,7 +2019,7 @@
    "lead_id": "L-20261105-32",
    "repo": "johanpaguada66-dot/discord-server-cloner",
    "url": "https://github.com/johanpaguada66-dot/discord-server-cloner",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -2043,7 +2043,7 @@
     "stars_in_window": 4,
     "window_h": 1.9,
     "stars_per_day_recent": 49.4,
-    "lifetime_stars_per_day": 90.11,
+    "lifetime_stars_per_day": 89.92,
     "acceleration": 0.5,
     "self_star_share": 0.0,
     "ring_share": 0.25
@@ -2053,7 +2053,7 @@
    "manipulation_risk": 0.14,
    "lead_score": 0.72,
    "score_explain": [
-    "V=0.44: хвост 49.4 зв/сут против штатных 90.1 (x1)",
+    "V=0.44: хвост 49.4 зв/сут против штатных 89.9 (x1)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -2062,7 +2062,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -2075,10 +2075,10 @@
    "lead_id": "L-20261105-36",
    "repo": "deepseek-ai/deepseek-harness",
    "url": "https://github.com/deepseek-ai/deepseek-harness",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
-   "stars": 272692,
-   "forks": 33213,
+   "stars": 272707,
+   "forks": 33216,
    "open_issues": 0,
    "language": "TypeScript",
    "license": "MIT",
@@ -2097,7 +2097,7 @@
     "stars_in_window": 4,
     "window_h": 2.1,
     "stars_per_day_recent": 45.4,
-    "lifetime_stars_per_day": 3261.46,
+    "lifetime_stars_per_day": 3261.47,
     "acceleration": 0.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -2116,7 +2116,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -2129,7 +2129,7 @@
    "lead_id": "L-20261105-39",
    "repo": "jacopolaptop-cmyk/pia-vpn-security-suite",
    "url": "https://github.com/jacopolaptop-cmyk/pia-vpn-security-suite",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
    "stars": 193,
    "forks": 0,
@@ -2153,7 +2153,7 @@
     "stars_in_window": 4,
     "window_h": 2.5,
     "stars_per_day_recent": 38.1,
-    "lifetime_stars_per_day": 91.2,
+    "lifetime_stars_per_day": 91.01,
     "acceleration": 0.4,
     "self_star_share": 0.0,
     "ring_share": 0.25
@@ -2163,7 +2163,7 @@
    "manipulation_risk": 0.14,
    "lead_score": 0.56,
    "score_explain": [
-    "V=0.35: хвост 38.1 зв/сут против штатных 91.2 (x0)",
+    "V=0.35: хвост 38.1 зв/сут против штатных 91.0 (x0)",
     "N=1.0: репо 2 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.5 -> PS-sec",
@@ -2172,7 +2172,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -2185,10 +2185,10 @@
    "lead_id": "L-20261105-02",
    "repo": "storytold/craft-anything",
    "url": "https://github.com/storytold/craft-anything",
-   "first_seen_at": "2026-11-05T02:35:32Z",
+   "first_seen_at": "2026-11-05T02:41:48Z",
    "channel": "gh_archive_watch",
-   "stars": 12119,
-   "forks": 2022,
+   "stars": 12144,
+   "forks": 2028,
    "open_issues": 206,
    "language": "Rust",
    "license": "Apache-2.0",
@@ -2202,7 +2202,7 @@
     "stars_in_window": 8,
     "window_h": 3.1,
     "stars_per_day_recent": 61.1,
-    "lifetime_stars_per_day": 2699.13,
+    "lifetime_stars_per_day": 2702.08,
     "acceleration": 0.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -2212,7 +2212,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.41,
    "score_explain": [
-    "V=0.02: хвост 61.1 зв/сут против штатных 2699.1 (x0)",
+    "V=0.02: хвост 61.1 зв/сут против штатных 2702.1 (x0)",
     "N=1.0: репо 4 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -2221,7 +2221,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-05T06:35:32Z",
+    "sla_deadline": "2026-11-05T06:41:48Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
