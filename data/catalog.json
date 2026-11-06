@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 435153.0,
+"stars": 436533.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-06T05:40:17Z",
-"hits": 112,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 113,
 "in_tg": false,
 "status": "active"
 },
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 314793.0,
+"stars": 316215.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,8 +354,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-05T18:15:01Z",
-"hits": 28,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 29,
 "in_tg": false,
 "status": "active"
 },
@@ -417,7 +417,7 @@
 "repo": "Gathin23/cleanyourtv",
 "url": "https://github.com/Gathin23/cleanyourtv",
 "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-"stars": 51835.0,
+"stars": 53047.0,
 "spd": 533.5,
 "score": 0.45,
 "fit": 0.0,
@@ -426,10 +426,10 @@
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-04T16:01:34Z",
-"hits": 85,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 86,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "emilkowalski/skills": {
 "repo": "emilkowalski/skills",
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 61639.0,
+"stars": 63504.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-05T10:29:28Z",
-"hits": 79,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 80,
 "in_tg": true,
 "status": "active"
 },
@@ -915,7 +915,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 26,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "storytold/photocraft": {
 "repo": "storytold/photocraft",
@@ -987,7 +987,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 7,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "dsh-market/dsh-market": {
 "repo": "dsh-market/dsh-market",
@@ -1023,7 +1023,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 14,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "cloudflare/security-audit-skill": {
 "repo": "cloudflare/security-audit-skill",
@@ -1149,7 +1149,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 8,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/SilentSniffer": {
 "repo": "AhmadHassan-BTed/SilentSniffer",
@@ -1293,13 +1293,13 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 57,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "affaan-m/ECC": {
 "repo": "affaan-m/ECC",
 "url": "https://github.com/affaan-m/ECC",
 "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-"stars": 296535.0,
+"stars": 298272.0,
 "spd": 199.1,
 "score": 0.97,
 "fit": 0.96,
@@ -1308,10 +1308,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-03T23:30:27Z",
-"hits": 28,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 29,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "openai/codex": {
 "repo": "openai/codex",
@@ -1388,8 +1388,8 @@
 "stablyai/orca": {
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
-"description": "Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 116477.0,
+"description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+"stars": 117367.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-05T18:15:01Z",
-"hits": 36,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 37,
 "in_tg": false,
 "status": "active"
 },
@@ -1425,7 +1425,7 @@
 "repo": "deepseek-ai/deepseek-harness",
 "url": "https://github.com/deepseek-ai/deepseek-harness",
 "description": "DeepSeek Harness: Everything is a Plugin.",
-"stars": 274093.0,
+"stars": 274605.0,
 "spd": 1152.0,
 "score": 0.82,
 "fit": 0.52,
@@ -1434,8 +1434,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-06T05:40:17Z",
-"hits": 37,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 38,
 "in_tg": false,
 "status": "active"
 },
@@ -1491,7 +1491,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 16,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "pbakaus/impeccable": {
 "repo": "pbakaus/impeccable",
@@ -1509,7 +1509,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 46,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "lock-tool/.github": {
 "repo": "lock-tool/.github",
@@ -1635,7 +1635,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 10,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "addyosmani/agent-skills": {
 "repo": "addyosmani/agent-skills",
@@ -1671,7 +1671,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 13,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/NaSuno": {
 "repo": "AhmadHassan-BTed/NaSuno",
@@ -1839,7 +1839,7 @@
 "repo": "Graphify-Labs/graphify",
 "url": "https://github.com/Graphify-Labs/graphify",
 "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-"stars": 142671.0,
+"stars": 143301.0,
 "spd": 816.0,
 "score": 1.29,
 "fit": 1.0,
@@ -1848,8 +1848,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-21T01:28:35Z",
-"last_seen": "2026-11-05T10:29:28Z",
-"hits": 19,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 20,
 "in_tg": true,
 "status": "active"
 },
@@ -2937,7 +2937,7 @@
 "repo": "Renhuai123/ziwei-doushu",
 "url": "https://github.com/Renhuai123/ziwei-doushu",
 "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-"stars": 16317.0,
+"stars": 16444.0,
 "spd": 74.0,
 "score": 1.24,
 "fit": 0.5,
@@ -2946,8 +2946,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-22T05:13:54Z",
-"last_seen": "2026-11-06T05:40:17Z",
-"hits": 26,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 27,
 "in_tg": true,
 "status": "active"
 },
@@ -3111,7 +3111,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 13,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "lexmount/moli": {
 "repo": "lexmount/moli",
@@ -3153,7 +3153,7 @@
 "repo": "vectorize-io/hindsight",
 "url": "https://github.com/vectorize-io/hindsight",
 "description": "Hindsight: Agent Memory That Learns",
-"stars": 57673.0,
+"stars": 59322.0,
 "spd": 91.0,
 "score": 0.86,
 "fit": 0.52,
@@ -3162,10 +3162,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-22T07:45:11Z",
-"last_seen": "2026-11-01T20:59:20Z",
-"hits": 9,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 10,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "cheaper-inference/OmniRoute": {
 "repo": "cheaper-inference/OmniRoute",
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "",
-"stars": 47917.0,
+"stars": 49076.0,
 "spd": 139.1,
 "score": 0.6,
 "fit": 0.0,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-05T18:15:01Z",
-"hits": 32,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 33,
 "in_tg": false,
 "status": "active"
 },
@@ -4395,7 +4395,7 @@
 "repo": "google/elephant-goldfish-model",
 "url": "https://github.com/google/elephant-goldfish-model",
 "description": "Open-source skills for designing and reviewing software with AI agents",
-"stars": 12046.0,
+"stars": 12831.0,
 "spd": 91.7,
 "score": 3.05,
 "fit": 0.96,
@@ -4404,8 +4404,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-24T08:47:32Z",
-"last_seen": "2026-11-05T10:29:28Z",
-"hits": 24,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 25,
 "in_tg": true,
 "status": "active"
 },
@@ -4533,7 +4533,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 33,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "awesome-dsh-plugin/awesome-dsh-plugin": {
 "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -4593,7 +4593,7 @@
 "repo": "firecrawl/firecrawl",
 "url": "https://github.com/firecrawl/firecrawl",
 "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-"stars": 197164.0,
+"stars": 199129.0,
 "spd": 65.2,
 "score": 0.99,
 "fit": 0.83,
@@ -4602,10 +4602,10 @@
 "license": "AGPL-3.0",
 "language": "TypeScript",
 "first_seen": "2026-10-24T11:17:52Z",
-"last_seen": "2026-10-31T04:39:38Z",
-"hits": 5,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 6,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "NanmiCoder/MediaCrawler": {
 "repo": "NanmiCoder/MediaCrawler",
@@ -4749,7 +4749,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 13,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "SoMarkAI/OXR": {
 "repo": "SoMarkAI/OXR",
@@ -6807,19 +6807,19 @@
 "repo": "horizon-rust/horizon",
 "url": "https://github.com/horizon-rust/horizon",
 "description": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
-"stars": 5355.0,
-"spd": 46.5,
-"score": 1.03,
+"stars": 7141.0,
+"spd": 85.9,
+"score": 1.07,
 "fit": 0.5,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-10-28T13:14:37Z",
-"last_seen": "2026-10-31T22:36:57Z",
-"hits": 6,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 7,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "Developer-Y/cs-video-courses": {
 "repo": "Developer-Y/cs-video-courses",
@@ -8313,7 +8313,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 11,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Basaltsalock/Exodus-Balance-Flasher": {
 "repo": "Basaltsalock/Exodus-Balance-Flasher",
@@ -10311,7 +10311,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 23,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "pro-tools-workspace/Canva-Pro": {
 "repo": "pro-tools-workspace/Canva-Pro",
@@ -10527,7 +10527,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "NiazMorshed2007/reanimate": {
 "repo": "NiazMorshed2007/reanimate",
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 15752.0,
+"stars": 16863.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-06T05:40:17Z",
-"hits": 23,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 24,
 "in_tg": false,
 "status": "active"
 },
@@ -10911,7 +10911,7 @@
 "repo": "l0ng-ai/openidea",
 "url": "https://github.com/l0ng-ai/openidea",
 "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+",
-"stars": 5372.0,
+"stars": 7328.0,
 "spd": 76.7,
 "score": 1.33,
 "fit": 1.0,
@@ -10920,10 +10920,10 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-01T16:38:01Z",
-"last_seen": "2026-11-03T09:43:35Z",
-"hits": 6,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 7,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "nikita-s-x2001x7/photo-converter": {
 "repo": "nikita-s-x2001x7/photo-converter",
@@ -11391,7 +11391,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 15,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "davidlopez-x05x8/minecraft-aim-assist": {
 "repo": "davidlopez-x05x8/minecraft-aim-assist",
@@ -12117,7 +12117,7 @@
 "repo": "NVIDIA/auto-ontology",
 "url": "https://github.com/NVIDIA/auto-ontology",
 "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
-"stars": 7753.0,
+"stars": 8425.0,
 "spd": 101.3,
 "score": 2.41,
 "fit": 0.74,
@@ -12126,8 +12126,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-03T06:32:40Z",
-"last_seen": "2026-11-06T05:40:17Z",
-"hits": 15,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 16,
 "in_tg": true,
 "status": "active"
 },
@@ -12597,7 +12597,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 9,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "MiniPresident/Microsoft-Activation-Script": {
 "repo": "MiniPresident/Microsoft-Activation-Script",
@@ -12921,7 +12921,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Badgenyamultiplexer/pc-game-fps-doctor": {
 "repo": "Badgenyamultiplexer/pc-game-fps-doctor",
@@ -13929,7 +13929,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "ChatAndBuild/chatchat-skills": {
 "repo": "ChatAndBuild/chatchat-skills",
@@ -13947,7 +13947,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "fqscfqj/Y2A-Auto": {
 "repo": "fqscfqj/Y2A-Auto",
@@ -13965,7 +13965,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "hamnurger0501/binance-agentic-sniper": {
 "repo": "hamnurger0501/binance-agentic-sniper",
@@ -13983,7 +13983,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "MichaelCade/90DaysOfDevOps": {
 "repo": "MichaelCade/90DaysOfDevOps",
@@ -14001,7 +14001,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "TagPhaseArcade/tiktok-uploader": {
 "repo": "TagPhaseArcade/tiktok-uploader",
@@ -14019,7 +14019,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "wquguru/cicada": {
 "repo": "wquguru/cicada",
@@ -14037,7 +14037,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "MythicHokageRepel/steam-inventory-value-desktop": {
 "repo": "MythicHokageRepel/steam-inventory-value-desktop",
@@ -14055,7 +14055,7 @@
 "last_seen": "2026-11-05T10:29:28Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto": {
 "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
@@ -14073,7 +14073,7 @@
 "last_seen": "2026-11-05T18:15:01Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "xianyu121995/xianyu": {
 "repo": "xianyu121995/xianyu",
@@ -14169,7 +14169,7 @@
 "repo": "sherlock-project/sherlock",
 "url": "https://github.com/sherlock-project/sherlock",
 "description": "Hunt down social media accounts by username across social networks",
-"stars": 96438,
+"stars": 97806.0,
 "spd": 88.7,
 "score": 1.49,
 "fit": 0.76,
@@ -14178,8 +14178,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-05T18:15:01Z",
-"last_seen": "2026-11-05T18:15:01Z",
-"hits": 1,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 2,
 "in_tg": true,
 "status": "new"
 },
@@ -14205,7 +14205,7 @@
 "repo": "larashero3-dotcom/lieflat-less-ai-tone",
 "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
 "description": "一个基于 520 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 5.2-million-character corpus study",
-"stars": 5825.0,
+"stars": 6257.0,
 "spd": 105.5,
 "score": 1.17,
 "fit": 0.5,
@@ -14214,8 +14214,8 @@
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-11-05T18:15:01Z",
-"last_seen": "2026-11-06T05:40:17Z",
-"hits": 2,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 3,
 "in_tg": false,
 "status": "new"
 },
@@ -14295,8 +14295,8 @@
 "repo": "zortos293/Lichii",
 "url": "https://github.com/zortos293/Lichii",
 "description": "VERY experimental Nintendo Switch 2 emulator",
-"stars": 1847,
-"spd": 76.9,
+"stars": 3171.0,
+"spd": 78.4,
 "score": 0.54,
 "fit": 0.0,
 "risk": 0.0,
@@ -14304,8 +14304,8 @@
 "license": "GPL-3.0",
 "language": "C++",
 "first_seen": "2026-11-05T18:15:01Z",
-"last_seen": "2026-11-05T18:15:01Z",
-"hits": 1,
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -14809,6 +14809,222 @@
 "language": "HTML",
 "first_seen": "2026-11-06T05:40:17Z",
 "last_seen": "2026-11-06T05:40:17Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ppmpreetham/BUI": {
+"repo": "ppmpreetham/BUI",
+"url": "https://github.com/ppmpreetham/BUI",
+"description": "Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI",
+"stars": 626,
+"spd": 31.3,
+"score": 1.57,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "GPL-3.0",
+"language": "C++",
+"first_seen": "2026-11-06T13:55:00Z",
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"vAPI-Network/vapi-network": {
+"repo": "vAPI-Network/vapi-network",
+"url": "https://github.com/vAPI-Network/vapi-network",
+"description": "Buyer-controlled client for x402 API payments in USDC on Base.",
+"stars": 1933,
+"spd": 41.6,
+"score": 1.42,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "TypeScript",
+"first_seen": "2026-11-06T13:55:00Z",
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"DuelistCapture/ultra-edit": {
+"repo": "DuelistCapture/ultra-edit",
+"url": "https://github.com/DuelistCapture/ultra-edit",
+"description": "Ultra Edit 2026 pre-configured environment for seamless desktop software utility deployment on isolated local workstations.",
+"stars": 50,
+"spd": 144.0,
+"score": 1.37,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-11-06T13:55:00Z",
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"stackryze/FreeDomains": {
+"repo": "stackryze/FreeDomains",
+"url": "https://github.com/stackryze/FreeDomains",
+"description": "Stackryze Domains: Free Domain for Everyone, Claim yours today.",
+"stars": 14063,
+"spd": 107.4,
+"score": 1.33,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "AGPL-3.0",
+"language": "JavaScript",
+"first_seen": "2026-11-06T13:55:00Z",
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"anomalyco/rune": {
+"repo": "anomalyco/rune",
+"url": "https://github.com/anomalyco/rune",
+"description": "Rune: Native UI framework",
+"stars": 1654,
+"spd": 44.8,
+"score": 1.16,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-06T13:55:00Z",
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"phaseboulderfetter/discord-quest-completer": {
+"repo": "phaseboulderfetter/discord-quest-completer",
+"url": "https://github.com/phaseboulderfetter/discord-quest-completer",
+"description": "Auto-complete Discord Quests without installing games. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source",
+"stars": 425,
+"spd": 288.0,
+"score": 1.09,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-06T13:55:00Z",
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"AstralEchoDay/aion-2-trainer-tool": {
+"repo": "AstralEchoDay/aion-2-trainer-tool",
+"url": "https://github.com/AstralEchoDay/aion-2-trainer-tool",
+"description": "Aion 2, an AI-driven prompt engineering resource, offers a pre-configured environment for advanced language model operations, ensuring...",
+"stars": 200,
+"spd": 212.8,
+"score": 1.09,
+"fit": 0.89,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-11-06T13:55:00Z",
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Lowbetweentrim/crypto-portfolio-tracker": {
+"repo": "Lowbetweentrim/crypto-portfolio-tracker",
+"url": "https://github.com/Lowbetweentrim/crypto-portfolio-tracker",
+"description": "Self-hosted, privacy-first crypto portfolio tracker. Import transactions via CSV, track real-time PnL, and manage your assets locally. No cloud, no subscriptions. Open-source",
+"stars": 425,
+"spd": 240.0,
+"score": 1.08,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-06T13:55:00Z",
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"feelingmediatorpace/autodesk-revit": {
+"repo": "feelingmediatorpace/autodesk-revit",
+"url": "https://github.com/feelingmediatorpace/autodesk-revit",
+"description": "Autodesk Revit 2026 pre-configured environment for streamlined desktop software utility deployment.",
+"stars": 200,
+"spd": 212.1,
+"score": 0.95,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-11-06T13:55:00Z",
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"NadirActivist/flash-crypto-generator": {
+"repo": "NadirActivist/flash-crypto-generator",
+"url": "https://github.com/NadirActivist/flash-crypto-generator",
+"description": "Flash Crypto Generator 2026 automated deployment pipeline with pre-configured environment for secure desktop software execution.",
+"stars": 200,
+"spd": 177.1,
+"score": 0.94,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-06T13:55:00Z",
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"livliv-dev/player": {
+"repo": "livliv-dev/player",
+"url": "https://github.com/livliv-dev/player",
+"description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+"stars": 836,
+"spd": 23.0,
+"score": 0.8,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "Apache-2.0",
+"language": "TypeScript",
+"first_seen": "2026-11-06T13:55:00Z",
+"last_seen": "2026-11-06T13:55:00Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"colbymchenry/codegraph": {
+"repo": "colbymchenry/codegraph",
+"url": "https://github.com/colbymchenry/codegraph",
+"description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca",
+"stars": 76891,
+"spd": 23.6,
+"score": 0.64,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-06T13:55:00Z",
+"last_seen": "2026-11-06T13:55:00Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
