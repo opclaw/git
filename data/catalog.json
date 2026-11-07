@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 439646.0,
+"stars": 440824.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 118,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 119,
 "in_tg": false,
 "status": "active"
 },
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 317230.0,
+"stars": 317614.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,8 +354,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 31,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 32,
 "in_tg": false,
 "status": "active"
 },
@@ -429,7 +429,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 86,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "emilkowalski/skills": {
 "repo": "emilkowalski/skills",
@@ -1029,7 +1029,7 @@
 "repo": "cloudflare/security-audit-skill",
 "url": "https://github.com/cloudflare/security-audit-skill",
 "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-"stars": 64908.0,
+"stars": 65574.0,
 "spd": 279.1,
 "score": 0.98,
 "fit": 0.7,
@@ -1038,8 +1038,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 66,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 67,
 "in_tg": false,
 "status": "active"
 },
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 118240.0,
+"stars": 118541.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 40,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 41,
 "in_tg": false,
 "status": "active"
 },
@@ -1455,7 +1455,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "val-tools-c/.github": {
 "repo": "val-tools-c/.github",
@@ -1497,7 +1497,7 @@
 "repo": "pbakaus/impeccable",
 "url": "https://github.com/pbakaus/impeccable",
 "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-"stars": 104799.0,
+"stars": 105468.0,
 "spd": 1008.0,
 "score": 1.3,
 "fit": 0.52,
@@ -1506,8 +1506,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-07T00:13:25Z",
-"hits": 47,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 48,
 "in_tg": false,
 "status": "active"
 },
@@ -1851,7 +1851,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 20,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "heygen-com/hyperframes": {
 "repo": "heygen-com/hyperframes",
@@ -2949,7 +2949,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 27,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "N4darae/shrt": {
 "repo": "N4darae/shrt",
@@ -3363,7 +3363,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 10,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/SoulMatrix": {
 "repo": "AhmadHassan-BTed/SoulMatrix",
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "",
-"stars": 50545.0,
+"stars": 51145.0,
 "spd": 139.1,
 "score": 0.6,
 "fit": 0.0,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 37,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 38,
 "in_tg": false,
 "status": "active"
 },
@@ -4394,8 +4394,8 @@
 "google/elephant-goldfish-model": {
 "repo": "google/elephant-goldfish-model",
 "url": "https://github.com/google/elephant-goldfish-model",
-"description": "Open-source skills for designing and reviewing software with AI agents",
-"stars": 12831.0,
+"description": "Open-source plugin for designing and reviewing software with agents",
+"stars": 13787.0,
 "spd": 91.7,
 "score": 3.05,
 "fit": 0.96,
@@ -4404,8 +4404,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-24T08:47:32Z",
-"last_seen": "2026-11-06T13:55:00Z",
-"hits": 25,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 26,
 "in_tg": true,
 "status": "active"
 },
@@ -4605,7 +4605,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 6,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "NanmiCoder/MediaCrawler": {
 "repo": "NanmiCoder/MediaCrawler",
@@ -6819,7 +6819,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 7,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Developer-Y/cs-video-courses": {
 "repo": "Developer-Y/cs-video-courses",
@@ -6969,7 +6969,7 @@
 "repo": "milind-soni/OpenMausBot",
 "url": "https://github.com/milind-soni/OpenMausBot",
 "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-"stars": 16313.0,
+"stars": 16882.0,
 "spd": 99.5,
 "score": 1.14,
 "fit": 0.65,
@@ -6978,8 +6978,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-28T23:07:35Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 18,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 19,
 "in_tg": true,
 "status": "active"
 },
@@ -8679,7 +8679,7 @@
 "repo": "ccch1mneyyy/dsh-Go",
 "url": "https://github.com/ccch1mneyyy/dsh-Go",
 "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-"stars": 13729.0,
+"stars": 14297.0,
 "spd": 108.7,
 "score": 1.04,
 "fit": 0.74,
@@ -8688,8 +8688,8 @@
 "license": "AGPL-3.0",
 "language": "Dart",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 25,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 26,
 "in_tg": false,
 "status": "active"
 },
@@ -8985,7 +8985,7 @@
 "repo": "D4Vinci/Scrapling",
 "url": "https://github.com/D4Vinci/Scrapling",
 "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks",
-"stars": 99005.0,
+"stars": 99292.0,
 "spd": 95.4,
 "score": 1.0,
 "fit": 0.65,
@@ -8994,8 +8994,8 @@
 "license": "BSD-3-Clause",
 "language": "Python",
 "first_seen": "2026-10-30T20:00:11Z",
-"last_seen": "2026-11-07T08:57:12Z",
-"hits": 15,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 16,
 "in_tg": false,
 "status": "active"
 },
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 19573.0,
+"stars": 20441.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 28,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 29,
 "in_tg": false,
 "status": "active"
 },
@@ -10923,7 +10923,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 7,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "nikita-s-x2001x7/photo-converter": {
 "repo": "nikita-s-x2001x7/photo-converter",
@@ -14169,7 +14169,7 @@
 "repo": "sherlock-project/sherlock",
 "url": "https://github.com/sherlock-project/sherlock",
 "description": "Hunt down social media accounts by username across social networks",
-"stars": 99545.0,
+"stars": 100324.0,
 "spd": 88.7,
 "score": 1.49,
 "fit": 0.76,
@@ -14178,8 +14178,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-05T18:15:01Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 6,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 7,
 "in_tg": true,
 "status": "active"
 },
@@ -14217,7 +14217,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "DawnShaperFrost90/slideshow-video-maker": {
 "repo": "DawnShaperFrost90/slideshow-video-maker",
@@ -14295,7 +14295,7 @@
 "repo": "zortos293/Lichii",
 "url": "https://github.com/zortos293/Lichii",
 "description": "VERY experimental Nintendo Switch 2 emulator",
-"stars": 4669.0,
+"stars": 5425.0,
 "spd": 78.4,
 "score": 0.54,
 "fit": 0.0,
@@ -14304,8 +14304,8 @@
 "license": "GPL-3.0",
 "language": "C++",
 "first_seen": "2026-11-05T18:15:01Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 6,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 7,
 "in_tg": false,
 "status": "active"
 },
@@ -14829,7 +14829,7 @@
 "last_seen": "2026-11-07T00:13:25Z",
 "hits": 3,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "vAPI-Network/vapi-network": {
 "repo": "vAPI-Network/vapi-network",
@@ -14847,7 +14847,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "DuelistCapture/ultra-edit": {
 "repo": "DuelistCapture/ultra-edit",
@@ -14865,7 +14865,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "stackryze/FreeDomains": {
 "repo": "stackryze/FreeDomains",
@@ -14883,7 +14883,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "anomalyco/rune": {
 "repo": "anomalyco/rune",
@@ -14901,7 +14901,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 5,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "phaseboulderfetter/discord-quest-completer": {
 "repo": "phaseboulderfetter/discord-quest-completer",
@@ -14919,7 +14919,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "AstralEchoDay/aion-2-trainer-tool": {
 "repo": "AstralEchoDay/aion-2-trainer-tool",
@@ -14937,7 +14937,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Lowbetweentrim/crypto-portfolio-tracker": {
 "repo": "Lowbetweentrim/crypto-portfolio-tracker",
@@ -14955,7 +14955,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "feelingmediatorpace/autodesk-revit": {
 "repo": "feelingmediatorpace/autodesk-revit",
@@ -14973,7 +14973,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "NadirActivist/flash-crypto-generator": {
 "repo": "NadirActivist/flash-crypto-generator",
@@ -14991,7 +14991,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "livliv-dev/player": {
 "repo": "livliv-dev/player",
@@ -15009,7 +15009,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "colbymchenry/codegraph": {
 "repo": "colbymchenry/codegraph",
@@ -15027,7 +15027,7 @@
 "last_seen": "2026-11-06T13:55:00Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "cyclopsbreathswitch/PC-FPS-Optimizer-2026": {
 "repo": "cyclopsbreathswitch/PC-FPS-Optimizer-2026",
@@ -15045,7 +15045,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "LakePotterFind/marvel-rivals-trainer-tool": {
 "repo": "LakePotterFind/marvel-rivals-trainer-tool",
@@ -15063,7 +15063,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Markyoassess/ph-downloader": {
 "repo": "Markyoassess/ph-downloader",
@@ -15081,7 +15081,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "KrakenVisionBless/kontakt-8": {
 "repo": "KrakenVisionBless/kontakt-8",
@@ -15099,7 +15099,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "gravitygovernorhinge/clion": {
 "repo": "gravitygovernorhinge/clion",
@@ -15117,7 +15117,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "anitalali9889/dummy": {
 "repo": "anitalali9889/dummy",
@@ -15135,7 +15135,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "microempressblade/sonyvegas": {
 "repo": "microempressblade/sonyvegas",
@@ -15153,7 +15153,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "melodykhanfoster/roshade-for-roblox": {
 "repo": "melodykhanfoster/roshade-for-roblox",
@@ -15171,7 +15171,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Flockcleplank/aion-2-trainer-tool": {
 "repo": "Flockcleplank/aion-2-trainer-tool",
@@ -15189,7 +15189,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "HectoDetectiveHex/exitlag": {
 "repo": "HectoDetectiveHex/exitlag",
@@ -15207,7 +15207,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "NeoSwordJerk/voicemod": {
 "repo": "NeoSwordJerk/voicemod",
@@ -15225,7 +15225,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "LostJumperMap/patreon-viewer": {
 "repo": "LostJumperMap/patreon-viewer",
@@ -15243,7 +15243,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "LakeBisonLure/melodyne-5": {
 "repo": "LakeBisonLure/melodyne-5",
@@ -15261,7 +15261,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "megaoriolesound/robux-generator": {
 "repo": "megaoriolesound/robux-generator",
@@ -15279,7 +15279,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Hairanfollow/discord-quest-completer": {
 "repo": "Hairanfollow/discord-quest-completer",
@@ -15297,7 +15297,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "FrequencyPython/autodesk-revit": {
 "repo": "FrequencyPython/autodesk-revit",
@@ -15315,7 +15315,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "HighwayPythonPace/foneazy-mobile": {
 "repo": "HighwayPythonPace/foneazy-mobile",
@@ -15333,7 +15333,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "forwardadvisorpick/autodesk-cfd": {
 "repo": "forwardadvisorpick/autodesk-cfd",
@@ -15351,7 +15351,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "FreewayPyromancer/autodesk-inventor": {
 "repo": "FreewayPyromancer/autodesk-inventor",
@@ -15369,7 +15369,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Fuelflominaret/axie-infinity-bot": {
 "repo": "Fuelflominaret/axie-infinity-bot",
@@ -15387,7 +15387,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "HarborConductor/easy-worship": {
 "repo": "HarborConductor/easy-worship",
@@ -15405,7 +15405,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "GryphonZoneDolmen/dft-pro": {
 "repo": "GryphonZoneDolmen/dft-pro",
@@ -15423,7 +15423,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "naturemidwifedream/uttorent": {
 "repo": "naturemidwifedream/uttorent",
@@ -15441,7 +15441,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "MetalHairdresser/slideshow-video-maker": {
 "repo": "MetalHairdresser/slideshow-video-maker",
@@ -15459,7 +15459,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "innerdaimyopush/iobit-driver-booster": {
 "repo": "innerdaimyopush/iobit-driver-booster",
@@ -15477,7 +15477,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "LevelKnightDisengage/microstation-2026": {
 "repo": "LevelKnightDisengage/microstation-2026",
@@ -15495,7 +15495,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "lavagunsmithmystery/metatrader-5-bot": {
 "repo": "lavagunsmithmystery/metatrader-5-bot",
@@ -15513,7 +15513,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "MinisterRoute/sp-flash-tool": {
 "repo": "MinisterRoute/sp-flash-tool",
@@ -15531,7 +15531,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Leviathanzyatie/monero-miner": {
 "repo": "Leviathanzyatie/monero-miner",
@@ -15549,7 +15549,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "roadboltspire/fl-studio": {
 "repo": "roadboltspire/fl-studio",
@@ -15567,7 +15567,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Neutronsomotor/windows-optimizer": {
 "repo": "Neutronsomotor/windows-optimizer",
@@ -15585,7 +15585,7 @@
 "last_seen": "2026-11-06T20:17:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "arnold117/iOS-NOIR": {
 "repo": "arnold117/iOS-NOIR",
@@ -15807,17 +15807,17 @@
 "repo": "NotRexed/Hookshot",
 "url": "https://github.com/NotRexed/Hookshot",
 "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-"stars": 989.0,
+"stars": 1661.0,
 "spd": 102.1,
 "score": 0.6,
 "fit": 0.0,
 "risk": 0.0,
 "ps": "PS-unknown",
-"license": "NOASSERTION",
+"license": "GPL-3.0",
 "language": "C++",
 "first_seen": "2026-11-07T06:26:20Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 3,
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 4,
 "in_tg": false,
 "status": "new"
 },
@@ -16051,6 +16051,96 @@
 "language": "HTML",
 "first_seen": "2026-11-07T13:27:16Z",
 "last_seen": "2026-11-07T13:27:16Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"shalevicepersonify/Ai-Driver-Manager": {
+"repo": "shalevicepersonify/Ai-Driver-Manager",
+"url": "https://github.com/shalevicepersonify/Ai-Driver-Manager",
+"description": "🔄️️ Smart AI-powered driver updater for Intel & AMD on Windows 10/11.",
+"stars": 251,
+"spd": 144.0,
+"score": 2.6,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-07T22:12:20Z",
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"snap-stanford/memorilla": {
+"repo": "snap-stanford/memorilla",
+"url": "https://github.com/snap-stanford/memorilla",
+"description": "🦍 Memorilla: Latent Semantic Memory for LLMs",
+"stars": 489,
+"spd": 82.2,
+"score": 2.41,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "Python",
+"first_seen": "2026-11-07T22:12:20Z",
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"fjordostrichhose/Steam-Points-Tools-2026": {
+"repo": "fjordostrichhose/Steam-Points-Tools-2026",
+"url": "https://github.com/fjordostrichhose/Steam-Points-Tools-2026",
+"description": "Professional desktop application for Steam users. Smart tools for points management, community engagement, activity tracking and profile optimization. Clean interface, regularly updated.",
+"stars": 426,
+"spd": 432.0,
+"score": 2.01,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-07T22:12:20Z",
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"sentinelsoldierprize/Minecraft-AFK-Bot": {
+"repo": "sentinelsoldierprize/Minecraft-AFK-Bot",
+"url": "https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot",
+"description": "Lightweight Minecraft Anti-AFK bot with a web dashboard. Keeps your account online 24/7, simulates activity to avoid kicks, and supports auto-reconnect. Perfect for Aternos and survival servers.",
+"stars": 425,
+"spd": 336.0,
+"score": 1.02,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-07T22:12:20Z",
+"last_seen": "2026-11-07T22:12:20Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Poltergeistlunagrid/Steam-Idler": {
+"repo": "Poltergeistlunagrid/Steam-Idler",
+"url": "https://github.com/Poltergeistlunagrid/Steam-Idler",
+"description": "Steam Idler, Card Farmer & Playtime Booster. Idle multiple games to farm trading cards, boost playtime hours, and manage multiple accounts. Lightweight, open-source, and easy to use.",
+"stars": 425,
+"spd": 336.0,
+"score": 1.0,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-07T22:12:20Z",
+"last_seen": "2026-11-07T22:12:20Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
