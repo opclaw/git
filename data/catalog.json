@@ -141,7 +141,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 43,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "awesome-selfhosted/awesome-selfhosted": {
 "repo": "awesome-selfhosted/awesome-selfhosted",
@@ -159,13 +159,13 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 8,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "morluto/rea": {
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 441899.0,
+"stars": 442494.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-08T08:42:59Z",
-"hits": 121,
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 122,
 "in_tg": false,
 "status": "active"
 },
@@ -417,7 +417,7 @@
 "repo": "Gathin23/cleanyourtv",
 "url": "https://github.com/Gathin23/cleanyourtv",
 "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-"stars": 53047.0,
+"stars": 54330.0,
 "spd": 533.5,
 "score": 0.45,
 "fit": 0.0,
@@ -426,10 +426,10 @@
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-06T13:55:00Z",
-"hits": 86,
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 87,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "emilkowalski/skills": {
 "repo": "emilkowalski/skills",
@@ -663,7 +663,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 14,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "openclaw/openclaw": {
 "repo": "openclaw/openclaw",
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 65825.0,
+"stars": 65987.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-08T08:42:59Z",
-"hits": 85,
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 86,
 "in_tg": true,
 "status": "active"
 },
@@ -915,7 +915,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 27,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "storytold/photocraft": {
 "repo": "storytold/photocraft",
@@ -1059,7 +1059,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 22,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Imbad0202/academic-research-skills": {
 "repo": "Imbad0202/academic-research-skills",
@@ -1257,7 +1257,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 13,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Comfy-Org/ComfyUI": {
 "repo": "Comfy-Org/ComfyUI",
@@ -1293,7 +1293,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 59,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "affaan-m/ECC": {
 "repo": "affaan-m/ECC",
@@ -1437,7 +1437,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 40,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "microsoft/vscode": {
 "repo": "microsoft/vscode",
@@ -1635,7 +1635,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 11,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "addyosmani/agent-skills": {
 "repo": "addyosmani/agent-skills",
@@ -1671,7 +1671,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 15,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/NaSuno": {
 "repo": "AhmadHassan-BTed/NaSuno",
@@ -2697,7 +2697,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 7,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "zheco68-collab/kece": {
 "repo": "zheco68-collab/kece",
@@ -3147,7 +3147,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "vectorize-io/hindsight": {
 "repo": "vectorize-io/hindsight",
@@ -3201,7 +3201,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 9,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "op7418/guizang-ppt-skill": {
 "repo": "op7418/guizang-ppt-skill",
@@ -3741,7 +3741,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 25,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Yoan98/Ncurator": {
 "repo": "Yoan98/Ncurator",
@@ -4371,7 +4371,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 28,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "chuiziyao/maimen-certification": {
 "repo": "chuiziyao/maimen-certification",
@@ -4587,7 +4587,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 9,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "firecrawl/firecrawl": {
 "repo": "firecrawl/firecrawl",
@@ -5073,7 +5073,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 33,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Portbencomply/Qobuz-Turbo": {
 "repo": "Portbencomply/Qobuz-Turbo",
@@ -5307,7 +5307,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 18,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "anywhere-labs/dsh-desktop": {
 "repo": "anywhere-labs/dsh-desktop",
@@ -5649,7 +5649,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 9,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "rddmwmddr/android-ad-cleaner": {
 "repo": "rddmwmddr/android-ad-cleaner",
@@ -6189,7 +6189,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 15,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "TheAlgorithms/Java": {
 "repo": "TheAlgorithms/Java",
@@ -6747,7 +6747,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "morganlinton/BeautifulRust": {
 "repo": "morganlinton/BeautifulRust",
@@ -6963,7 +6963,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 5,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "milind-soni/OpenMausBot": {
 "repo": "milind-soni/OpenMausBot",
@@ -8679,7 +8679,7 @@
 "repo": "ccch1mneyyy/dsh-Go",
 "url": "https://github.com/ccch1mneyyy/dsh-Go",
 "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-"stars": 15071.0,
+"stars": 15548.0,
 "spd": 108.7,
 "score": 1.04,
 "fit": 0.74,
@@ -8688,8 +8688,8 @@
 "license": "AGPL-3.0",
 "language": "Dart",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-08T08:42:59Z",
-"hits": 28,
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 29,
 "in_tg": false,
 "status": "active"
 },
@@ -8799,7 +8799,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 6,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "jamixm4-crypto/natbypass": {
 "repo": "jamixm4-crypto/natbypass",
@@ -9051,7 +9051,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 9,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "EntranceStarfish/VoiceStudioV2": {
 "repo": "EntranceStarfish/VoiceStudioV2",
@@ -10707,7 +10707,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 6,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "SaboteurImplode/Canva-Pro": {
 "repo": "SaboteurImplode/Canva-Pro",
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 21414.0,
+"stars": 21887.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-08T08:42:59Z",
-"hits": 31,
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 32,
 "in_tg": false,
 "status": "active"
 },
@@ -11553,7 +11553,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 3,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "AssemblyDrain/sonyvegas": {
 "repo": "AssemblyDrain/sonyvegas",
@@ -12129,7 +12129,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 18,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "sqlpxc/airhand": {
 "repo": "sqlpxc/airhand",
@@ -13371,7 +13371,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "shaongitbd/doory": {
 "repo": "shaongitbd/doory",
@@ -14169,7 +14169,7 @@
 "repo": "sherlock-project/sherlock",
 "url": "https://github.com/sherlock-project/sherlock",
 "description": "Hunt down social media accounts by username across social networks",
-"stars": 101323.0,
+"stars": 102004.0,
 "spd": 88.7,
 "score": 1.49,
 "fit": 0.76,
@@ -14178,8 +14178,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-05T18:15:01Z",
-"last_seen": "2026-11-08T08:42:59Z",
-"hits": 9,
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 10,
 "in_tg": true,
 "status": "active"
 },
@@ -14847,7 +14847,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "DuelistCapture/ultra-edit": {
 "repo": "DuelistCapture/ultra-edit",
@@ -15603,7 +15603,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "tldraw/tldraw": {
 "repo": "tldraw/tldraw",
@@ -15693,7 +15693,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "solongate/agent-security": {
 "repo": "solongate/agent-security",
@@ -15729,7 +15729,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Lee-xeo/Claude-Cage": {
 "repo": "Lee-xeo/Claude-Cage",
@@ -15801,7 +15801,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "NotRexed/Hookshot": {
 "repo": "NotRexed/Hookshot",
@@ -15837,7 +15837,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "QingYunA/answer-me-with-html": {
 "repo": "QingYunA/answer-me-with-html",
@@ -15855,7 +15855,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Leviidev/Henge": {
 "repo": "Leviidev/Henge",
@@ -15873,7 +15873,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "vercel-labs/json-render": {
 "repo": "vercel-labs/json-render",
@@ -15891,7 +15891,7 @@
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "kevinyvv/qwen-3-1.7b-finetune-proj": {
 "repo": "kevinyvv/qwen-3-1.7b-finetune-proj",
@@ -15909,7 +15909,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "SeasX/SeasAGI": {
 "repo": "SeasX/SeasAGI",
@@ -15927,7 +15927,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "kaan123434/cart-abandonment-rti": {
 "repo": "kaan123434/cart-abandonment-rti",
@@ -15945,7 +15945,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "induwarapivindu-art/facite": {
 "repo": "induwarapivindu-art/facite",
@@ -15963,7 +15963,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "every-app/open-seo": {
 "repo": "every-app/open-seo",
@@ -15981,7 +15981,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "herdrdev/herdr": {
 "repo": "herdrdev/herdr",
@@ -15999,7 +15999,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "oscarcreatess/airpointer": {
 "repo": "oscarcreatess/airpointer",
@@ -16017,7 +16017,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mnfst/awesome-free-llm-apis": {
 "repo": "mnfst/awesome-free-llm-apis",
@@ -16035,7 +16035,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "raygullcrease/axiom-launch-replay": {
 "repo": "raygullcrease/axiom-launch-replay",
@@ -16053,7 +16053,7 @@
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "shalevicepersonify/Ai-Driver-Manager": {
 "repo": "shalevicepersonify/Ai-Driver-Manager",
@@ -16771,6 +16771,564 @@
 "language": "HTML",
 "first_seen": "2026-11-08T08:42:59Z",
 "last_seen": "2026-11-08T08:42:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"SectionJumper/filmora-15": {
+"repo": "SectionJumper/filmora-15",
+"url": "https://github.com/SectionJumper/filmora-15",
+"description": "Filmora 15 automated deployment pipeline with pre-configured environment for seamless desktop software utility installation in 2026.",
+"stars": 299,
+"spd": 240.0,
+"score": 1.03,
+"fit": 0.92,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Ratioclahovel/directory-opus": {
+"repo": "Ratioclahovel/directory-opus",
+"url": "https://github.com/Ratioclahovel/directory-opus",
+"description": "Directory Opus 15.0 automated deployment pipeline for enterprise desktop software utility configuration, ensuring seamless workstation...",
+"stars": 300,
+"spd": 246.7,
+"score": 0.92,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"TreasurerRepresent/rx-11-audio-editor": {
+"repo": "TreasurerRepresent/rx-11-audio-editor",
+"url": "https://github.com/TreasurerRepresent/rx-11-audio-editor",
+"description": "Rx 11 Audio Editor 2023 pre-configured environment for seamless local workstation deployment.",
+"stars": 300,
+"spd": 241.6,
+"score": 0.91,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"VirtualEchoWorkshop/ultra-iso": {
+"repo": "VirtualEchoWorkshop/ultra-iso",
+"url": "https://github.com/VirtualEchoWorkshop/ultra-iso",
+"description": "Ultra Iso 3.5, a robust disk imaging utility, offers pre-configured environment for seamless local workstation deployment in enterprise settings.",
+"stars": 300,
+"spd": 198.0,
+"score": 0.87,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Tagacrossacclaim/patreon-viewer": {
+"repo": "Tagacrossacclaim/patreon-viewer",
+"url": "https://github.com/Tagacrossacclaim/patreon-viewer",
+"description": "Patreon Viewer 2026 pre-configured environment for secure desktop software utility configuration and automated deployment pipeline.",
+"stars": 300,
+"spd": 205.4,
+"score": 0.87,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"RewindSensei/drfoneunlock": {
+"repo": "RewindSensei/drfoneunlock",
+"url": "https://github.com/RewindSensei/drfoneunlock",
+"description": "Drfoneunlock 2026 automated deployment pipeline for secure, efficient desktop software utility configuration.",
+"stars": 299,
+"spd": 192.0,
+"score": 0.86,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"WebTsuchikage/wondshare-recoverit": {
+"repo": "WebTsuchikage/wondshare-recoverit",
+"url": "https://github.com/WebTsuchikage/wondshare-recoverit",
+"description": "Wondshare Recoverit 13.5 pre-configured environment for enterprise desktop software utility, ensuring optimal recovery solutions in a...",
+"stars": 300,
+"spd": 192.0,
+"score": 0.86,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"PyromancerThink/coreldraw": {
+"repo": "PyromancerThink/coreldraw",
+"url": "https://github.com/PyromancerThink/coreldraw",
+"description": "Coreldraw Configuration Folder 2026 - pre-configured environment for seamless desktop software utility deployment.",
+"stars": 299,
+"spd": 178.9,
+"score": 0.85,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"resonancemouserescue/discord-server-raider": {
+"repo": "resonancemouserescue/discord-server-raider",
+"url": "https://github.com/resonancemouserescue/discord-server-raider",
+"description": "Discord Server Raider 2023 automated deployment pipeline for efficient local workstation setup, ensuring optimal performance and compatibility.",
+"stars": 300,
+"spd": 176.0,
+"score": 0.84,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"sandcooperhonor/easeus-partition-master": {
+"repo": "sandcooperhonor/easeus-partition-master",
+"url": "https://github.com/sandcooperhonor/easeus-partition-master",
+"description": "Easeus Partition Master 13.5 pre-configured environment ready for automated deployment pipeline on professional desktop workstations.",
+"stars": 299,
+"spd": 170.1,
+"score": 0.84,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"SupporterPalace91/nero-platinum": {
+"repo": "SupporterPalace91/nero-platinum",
+"url": "https://github.com/SupporterPalace91/nero-platinum",
+"description": "Nero Platinum 2023 pre-configured environment for seamless desktop software utility deployment on isolated workstations.",
+"stars": 297,
+"spd": 201.6,
+"score": 0.83,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"sheenhunterdeflate/hitfilm": {
+"repo": "sheenhunterdeflate/hitfilm",
+"url": "https://github.com/sheenhunterdeflate/hitfilm",
+"description": "Hitfilm 2026 pre-configured environment for seamless desktop software utility deployment on professional workstations.",
+"stars": 300,
+"spd": 164.0,
+"score": 0.83,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"RockProtectorGraph/dxo-photolab-10": {
+"repo": "RockProtectorGraph/dxo-photolab-10",
+"url": "https://github.com/RockProtectorGraph/dxo-photolab-10",
+"description": "DXO Photolab 10 pre-configured environment for seamless local workstation deployment in 2026.",
+"stars": 299,
+"spd": 153.4,
+"score": 0.82,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ViceroyPersist/touch-copy": {
+"repo": "ViceroyPersist/touch-copy",
+"url": "https://github.com/ViceroyPersist/touch-copy",
+"description": "Touch Copy 2026 pre-configured environment for seamless desktop utility deployment and integration.",
+"stars": 300,
+"spd": 126.1,
+"score": 0.78,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"snatchportername/ios-unlocker": {
+"repo": "snatchportername/ios-unlocker",
+"url": "https://github.com/snatchportername/ios-unlocker",
+"description": "iOS Unlocker 1.3.5 - Local workstation deployment package for iOS device management and diagnostics, pre-configured environment ready for...",
+"stars": 298,
+"spd": 125.4,
+"score": 0.78,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"WayBuilderDeliver/windows-optimizer": {
+"repo": "WayBuilderDeliver/windows-optimizer",
+"url": "https://github.com/WayBuilderDeliver/windows-optimizer",
+"description": "Windows Optimizer 2026 automated deployment pipeline for efficient, pre-configured environment setup on enterprise desktops.",
+"stars": 300,
+"spd": 192.0,
+"score": 0.78,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"RescuerPatch9/discord-server-cloner": {
+"repo": "RescuerPatch9/discord-server-cloner",
+"url": "https://github.com/RescuerPatch9/discord-server-cloner",
+"description": "Discord Server Cloner 2023 automated deployment pipeline for efficient local environment setup and server replication.",
+"stars": 300,
+"spd": 119.2,
+"score": 0.77,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"picoviceroybraid/auto-withdraw-bot": {
+"repo": "picoviceroybraid/auto-withdraw-bot",
+"url": "https://github.com/picoviceroybraid/auto-withdraw-bot",
+"description": "Auto Withdraw Bot 2023 automated deployment pipeline for secure, efficient desktop software utility configuration.",
+"stars": 299,
+"spd": 118.5,
+"score": 0.77,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"soulsparrowmove/kontakt-8": {
+"repo": "soulsparrowmove/kontakt-8",
+"url": "https://github.com/soulsparrowmove/kontakt-8",
+"description": "Kontakt 8 pre-configured environment for professional desktop software utility configuration, ready for automated deployment pipeline...",
+"stars": 298,
+"spd": 110.4,
+"score": 0.76,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"OnyxAmbassador/actual-multiplie-monitors": {
+"repo": "OnyxAmbassador/actual-multiplie-monitors",
+"url": "https://github.com/OnyxAmbassador/actual-multiplie-monitors",
+"description": "Actual Multiple Monitors 2026 pre-configured environment for seamless desktop software utility deployment on professional workstations.",
+"stars": 301,
+"spd": 109.9,
+"score": 0.76,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"PerfumerExcite/ashampoo-winoptimizer": {
+"repo": "PerfumerExcite/ashampoo-winoptimizer",
+"url": "https://github.com/PerfumerExcite/ashampoo-winoptimizer",
+"description": "Ashampoo Winoptimizer 17.0 pre-configured environment for streamlined desktop utility setup in 2023.",
+"stars": 300,
+"spd": 109.6,
+"score": 0.76,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"villagefrogconverter/unlockgo": {
+"repo": "villagefrogconverter/unlockgo",
+"url": "https://github.com/villagefrogconverter/unlockgo",
+"description": "Unlockgo 1.3.7 - Local workstation deployment package for streamlined enterprise software catalog management in 2026.",
+"stars": 300,
+"spd": 109.4,
+"score": 0.76,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"WalrusMomentum/voicemod": {
+"repo": "WalrusMomentum/voicemod",
+"url": "https://github.com/WalrusMomentum/voicemod",
+"description": "Voicemod configuration folder for enterprise desktop utility, prepared with pre-configured environment and optimized package deployment,...",
+"stars": 298,
+"spd": 108.6,
+"score": 0.76,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"shoregladiatormesh/ifunbox": {
+"repo": "shoregladiatormesh/ifunbox",
+"url": "https://github.com/shoregladiatormesh/ifunbox",
+"description": "Ifunbox 2023 pre-configured environment for seamless desktop software utility configuration and deployment.",
+"stars": 300,
+"spd": 105.3,
+"score": 0.76,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Trianglenacrypt/rust-external-trainer-tool": {
+"repo": "Trianglenacrypt/rust-external-trainer-tool",
+"url": "https://github.com/Trianglenacrypt/rust-external-trainer-tool",
+"description": "Rust External 1.53.0 automated deployment pipeline for secure, efficient desktop software utility configuration in professional development...",
+"stars": 300,
+"spd": 105.2,
+"score": 0.76,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"PortionPebble/burning-studio": {
+"repo": "PortionPebble/burning-studio",
+"url": "https://github.com/PortionPebble/burning-studio",
+"description": "Burning Studio 2026 pre-configured environment for efficient local workstation deployment, ensuring seamless software utility management.",
+"stars": 300,
+"spd": 172.5,
+"score": 0.75,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"phantomsociallook/auslogics": {
+"repo": "phantomsociallook/auslogics",
+"url": "https://github.com/phantomsociallook/auslogics",
+"description": "Digital Audio Workstation Suite 2026 pre-configured environment, ready for seamless local workstation deployment with optimized audio...",
+"stars": 300,
+"spd": 108.1,
+"score": 0.71,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"PlanetCraneInterface/autodesk-revit": {
+"repo": "PlanetCraneInterface/autodesk-revit",
+"url": "https://github.com/PlanetCraneInterface/autodesk-revit",
+"description": "Autodesk Revit 2026 automated deployment pipeline pre-configured environment ready for immediate workstation setup.",
+"stars": 299,
+"spd": 118.4,
+"score": 0.69,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Ultimateamattock/sketchup-pro": {
+"repo": "Ultimateamattock/sketchup-pro",
+"url": "https://github.com/Ultimateamattock/sketchup-pro",
+"description": "Sketchup Pro 2026 automated deployment pipeline ready for immediate enterprise desktop workstation setup.",
+"stars": 299,
+"spd": 105.2,
+"score": 0.64,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"VillageExecutive/ultra-edit": {
+"repo": "VillageExecutive/ultra-edit",
+"url": "https://github.com/VillageExecutive/ultra-edit",
+"description": "Ultra Edit 2026 pre-configured environment for rapid desktop software utility deployment.",
+"stars": 300,
+"spd": 132.6,
+"score": 0.59,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"VelocityTreasurer/tenorshare-4ukey": {
+"repo": "VelocityTreasurer/tenorshare-4ukey",
+"url": "https://github.com/VelocityTreasurer/tenorshare-4ukey",
+"description": "Tenorshare 4Ukey 2023 pre-configured environment for secure, offline desktop utility management.",
+"stars": 300,
+"spd": 105.2,
+"score": 0.55,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": null,
+"language": "",
+"first_seen": "2026-11-08T13:41:45Z",
+"last_seen": "2026-11-08T13:41:45Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
