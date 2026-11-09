@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 446755.0,
+"stars": 446855.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-09T22:32:21Z",
-"hits": 130,
+"last_seen": "2026-11-09T23:30:44Z",
+"hits": 131,
 "in_tg": false,
 "status": "active"
 },
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 319667.0,
+"stars": 319697.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,8 +354,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-09T22:32:21Z",
-"hits": 38,
+"last_seen": "2026-11-09T23:30:44Z",
+"hits": 39,
 "in_tg": false,
 "status": "active"
 },
@@ -1671,7 +1671,7 @@
 "last_seen": "2026-11-08T22:57:48Z",
 "hits": 17,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/NaSuno": {
 "repo": "AhmadHassan-BTed/NaSuno",
@@ -4605,7 +4605,7 @@
 "last_seen": "2026-11-08T22:57:48Z",
 "hits": 7,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "NanmiCoder/MediaCrawler": {
 "repo": "NanmiCoder/MediaCrawler",
@@ -17256,8 +17256,8 @@
 "license": null,
 "language": "",
 "first_seen": "2026-11-08T13:41:45Z",
-"last_seen": "2026-11-09T22:32:21Z",
-"hits": 2,
+"last_seen": "2026-11-09T23:30:44Z",
+"hits": 3,
 "in_tg": false,
 "status": "active"
 },
@@ -17274,8 +17274,8 @@
 "license": null,
 "language": "",
 "first_seen": "2026-11-08T13:41:45Z",
-"last_seen": "2026-11-09T22:32:21Z",
-"hits": 3,
+"last_seen": "2026-11-09T23:30:44Z",
+"hits": 4,
 "in_tg": false,
 "status": "active"
 },
@@ -17337,7 +17337,7 @@
 "repo": "meta/astryx",
 "url": "https://github.com/meta/astryx",
 "description": "An open source design system that's fully customizable and agent ready",
-"stars": 19806.0,
+"stars": 19898.0,
 "spd": 84.8,
 "score": 1.14,
 "fit": 0.52,
@@ -17346,8 +17346,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-11-08T15:50:48Z",
-"last_seen": "2026-11-09T22:32:21Z",
-"hits": 9,
+"last_seen": "2026-11-09T23:30:44Z",
+"hits": 10,
 "in_tg": true,
 "status": "active"
 },
@@ -17565,7 +17565,7 @@
 "last_seen": "2026-11-08T22:57:48Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "synchopate/llama-modchip": {
 "repo": "synchopate/llama-modchip",
@@ -17655,7 +17655,7 @@
 "last_seen": "2026-11-08T22:57:48Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "sergeyb-code2096g0/Cursor-Quota-Unlimited-2026": {
 "repo": "sergeyb-code2096g0/Cursor-Quota-Unlimited-2026",
@@ -17691,7 +17691,7 @@
 "last_seen": "2026-11-08T22:57:48Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Manaclenodisconnect/Lichii-Enhanced": {
 "repo": "Manaclenodisconnect/Lichii-Enhanced",
@@ -17709,7 +17709,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "PsycheGradeSpeak/chief-architect-premier": {
 "repo": "PsycheGradeSpeak/chief-architect-premier",
@@ -17727,7 +17727,7 @@
 "last_seen": "2026-11-09T22:32:21Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "sajiddevoloper-bd/studioonepro7-desktop": {
 "repo": "sajiddevoloper-bd/studioonepro7-desktop",
@@ -17745,7 +17745,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Perceptionzyavalue/ashampoo-uninstaller": {
 "repo": "Perceptionzyavalue/ashampoo-uninstaller",
@@ -17763,7 +17763,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "coasthorsereckon/autodesk-3ds-max": {
 "repo": "coasthorsereckon/autodesk-3ds-max",
@@ -17781,7 +17781,7 @@
 "last_seen": "2026-11-09T22:32:21Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "elunboundfiremail/LiveWall---Live-Wallpaper-For-Desktop": {
 "repo": "elunboundfiremail/LiveWall---Live-Wallpaper-For-Desktop",
@@ -17799,7 +17799,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "solidaxemarch/kms-pico": {
 "repo": "solidaxemarch/kms-pico",
@@ -17817,7 +17817,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "abdulmannanmalik13-wq/adobe-substance-3d-studio": {
 "repo": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
@@ -17835,7 +17835,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "PedroVicenty1999/discord-quest-helper": {
 "repo": "PedroVicenty1999/discord-quest-helper",
@@ -17853,7 +17853,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Quartzreaura/cubase": {
 "repo": "Quartzreaura/cubase",
@@ -17871,7 +17871,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "bipro45/actual-multi-display-configurator": {
 "repo": "bipro45/actual-multi-display-configurator",
@@ -17889,7 +17889,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Sakshimodi14/fonepaw-unlocker-setup": {
 "repo": "Sakshimodi14/fonepaw-unlocker-setup",
@@ -17907,7 +17907,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "toxik-play/fishing-planet-enhancement": {
 "repo": "toxik-play/fishing-planet-enhancement",
@@ -17925,7 +17925,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Malik-825/sketchup-pro-desktop": {
 "repo": "Malik-825/sketchup-pro-desktop",
@@ -18201,7 +18201,7 @@
 "repo": "QuakeAdmiral/crash-plan",
 "url": "https://github.com/QuakeAdmiral/crash-plan",
 "description": "Crash Plan 1.5.3 automated deployment pipeline for enterprise desktop software utility, ensuring robust backup solutions in isolated environments.",
-"stars": 70,
+"stars": 76.0,
 "spd": 125.2,
 "score": 1.64,
 "fit": 0.61,
@@ -18210,8 +18210,8 @@
 "license": null,
 "language": "",
 "first_seen": "2026-11-09T22:32:21Z",
-"last_seen": "2026-11-09T22:32:21Z",
-"hits": 1,
+"last_seen": "2026-11-09T23:30:44Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -18219,17 +18219,17 @@
 "repo": "SaravPatel1086/sp-flash-tool-dotfiles",
 "url": "https://github.com/SaravPatel1086/sp-flash-tool-dotfiles",
 "description": "sp-flash-tool: complete standalone setup, all tools pre-installed and ready to run",
-"stars": 479,
+"stars": 479.0,
 "spd": 144.0,
-"score": 1.38,
+"score": 1.39,
 "fit": 0.61,
 "risk": 0.0,
 "ps": "PS-dev",
 "license": "MIT",
 "language": "HTML",
 "first_seen": "2026-11-09T22:32:21Z",
-"last_seen": "2026-11-09T22:32:21Z",
-"hits": 1,
+"last_seen": "2026-11-09T23:30:44Z",
+"hits": 2,
 "in_tg": true,
 "status": "new"
 },
@@ -18255,7 +18255,7 @@
 "repo": "platooncaptainmarket/better-discord",
 "url": "https://github.com/platooncaptainmarket/better-discord",
 "description": "Better Discord 1.7.5 automated deployment pipeline for enhanced desktop utility in professional software catalog, ensuring seamless user...",
-"stars": 93,
+"stars": 93.0,
 "spd": 64.2,
 "score": 1.23,
 "fit": 0.7,
@@ -18264,8 +18264,8 @@
 "license": null,
 "language": "",
 "first_seen": "2026-11-09T22:32:21Z",
-"last_seen": "2026-11-09T22:32:21Z",
-"hits": 1,
+"last_seen": "2026-11-09T23:30:44Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -18273,17 +18273,17 @@
 "repo": "Omegaofidolize/ableton-live-12",
 "url": "https://github.com/Omegaofidolize/ableton-live-12",
 "description": "Ableton Live 12 pre-configured environment for professional audio workstation deployment in isolated local studio setup.",
-"stars": 121,
+"stars": 121.0,
 "spd": 80.8,
-"score": 1.15,
+"score": 1.18,
 "fit": 0.61,
 "risk": 0.0,
 "ps": "PS-dev",
 "license": null,
 "language": "",
 "first_seen": "2026-11-09T22:32:21Z",
-"last_seen": "2026-11-09T22:32:21Z",
-"hits": 1,
+"last_seen": "2026-11-09T23:30:44Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -18291,17 +18291,17 @@
 "repo": "thiagoaureliomartins-programador/chief-architect-premier",
 "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
 "description": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
-"stars": 480,
-"spd": 75.7,
-"score": 1.15,
+"stars": 480.0,
+"spd": 144.0,
+"score": 1.39,
 "fit": 0.61,
 "risk": 0.0,
 "ps": "PS-dev",
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-11-09T22:32:21Z",
-"last_seen": "2026-11-09T22:32:21Z",
-"hits": 1,
+"last_seen": "2026-11-09T23:30:44Z",
+"hits": 2,
 "in_tg": true,
 "status": "new"
 },
@@ -18417,7 +18417,7 @@
 "repo": "shadcn/improve",
 "url": "https://github.com/shadcn/improve",
 "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-"stars": 9693,
+"stars": 9729.0,
 "spd": 75.5,
 "score": 0.96,
 "fit": 0.5,
@@ -18426,8 +18426,8 @@
 "license": "MIT",
 "language": "",
 "first_seen": "2026-11-09T22:32:21Z",
-"last_seen": "2026-11-09T22:32:21Z",
-"hits": 1,
+"last_seen": "2026-11-09T23:30:44Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -18625,6 +18625,42 @@
 "language": "",
 "first_seen": "2026-11-09T22:32:21Z",
 "last_seen": "2026-11-09T22:32:21Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"shinyobjectz/raea": {
+"repo": "shinyobjectz/raea",
+"url": "https://github.com/shinyobjectz/raea",
+"description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
+"stars": 1553,
+"spd": 28.2,
+"score": 1.23,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "NOASSERTION",
+"language": "Rust",
+"first_seen": "2026-11-09T23:30:44Z",
+"last_seen": "2026-11-09T23:30:44Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Pointyodemolish/bloxshade-for-roblox": {
+"repo": "Pointyodemolish/bloxshade-for-roblox",
+"url": "https://github.com/Pointyodemolish/bloxshade-for-roblox",
+"description": "Bloxshade For Roblox 2026 pre-configured environment for seamless desktop software utility deployment.",
+"stars": 95,
+"spd": 35.1,
+"score": 0.75,
+"fit": 0.61,
+"risk": 0.14,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-09T23:30:44Z",
+"last_seen": "2026-11-09T23:30:44Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
