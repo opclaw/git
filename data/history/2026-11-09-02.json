@@ -1,0 +1,875 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-09T02:45:09Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-11-08-22",
+  "to": "2026-11-09-1",
+  "watch_events": 683,
+  "repos": 606,
+  "actors": 614,
+  "ring_accounts": 4,
+  "api_calls": 16,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261109-09",
+   "repo": "isriram/pg-restic",
+   "url": "https://github.com/isriram/pg-restic",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 2,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Shell",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 35,
+   "description": "Back up Postgres to S3, B2 or any S3-compatible storage with restic. Encrypted, deduplicated snapshots in one Docker container.",
+   "topics": [
+    "backblaze",
+    "backblaze-b2",
+    "backup",
+    "docker",
+    "postgres",
+    "postgresql"
+   ],
+   "signals": {
+    "age_days": 10.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.4,
+    "stars_per_day_recent": 52.9,
+    "lifetime_stars_per_day": 0.2,
+    "acceleration": 105.8,
+    "self_star_share": 0.67,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.3,
+   "lead_score": 4.67,
+   "score_explain": [
+    "V=4.67: хвост 52.9 зв/сут против штатных 0.2 (x106)",
+    "N=1.0: репо 10 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.65 -> PS-infra",
+    "M=0.3: self-star 0.67, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-10",
+   "repo": "Ketchup3D/app",
+   "url": "https://github.com/Ketchup3D/app",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 143,
+   "forks": 5,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 4234,
+   "description": "Free, open-source 3D modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded, only the finest slop, with great emphase on rendering speed and UI/UX.",
+   "topics": [
+    "3d-modeling",
+    "cad",
+    "furniture-design",
+    "open-source",
+    "rust",
+    "sketchup"
+   ],
+   "signals": {
+    "age_days": 16.6,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.0,
+    "stars_per_day_recent": 36.2,
+    "lifetime_stars_per_day": 8.59,
+    "acceleration": 4.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.33,
+   "score_explain": [
+    "V=1.65: хвост 36.2 зв/сут против штатных 8.6 (x4)",
+    "N=1.0: репо 17 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-07",
+   "repo": "janestreet/agent_skills",
+   "url": "https://github.com/janestreet/agent_skills",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 357,
+   "forks": 28,
+   "open_issues": 0,
+   "language": null,
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 6,
+   "description": "Agent skills",
+   "topics": [],
+   "signals": {
+    "age_days": 5.4,
+    "last_push_days_ago": 5,
+    "stars_in_window": 3,
+    "window_h": 1.1,
+    "stars_per_day_recent": 63.3,
+    "lifetime_stars_per_day": 65.95,
+    "acceleration": 1.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.38,
+   "score_explain": [
+    "V=0.67: хвост 63.3 зв/сут против штатных 66.0 (x1)",
+    "N=1.0: репо 5 дн от роду",
+    "C=1.0: пуш 5 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-02",
+   "repo": "sherlock-project/sherlock",
+   "url": "https://github.com/sherlock-project/sherlock",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 103968,
+   "forks": 12155,
+   "open_issues": 382,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 19101,
+   "description": "Hunt down social media accounts by username across social networks",
+   "topics": [
+    "cli",
+    "cti",
+    "cybersecurity",
+    "forensics",
+    "hacktoberfest",
+    "information-gathering"
+   ],
+   "signals": {
+    "age_days": 2876.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.5,
+    "stars_per_day_recent": 63.1,
+    "lifetime_stars_per_day": 36.14,
+    "acceleration": 1.7,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.34,
+   "score_explain": [
+    "V=0.61: хвост 63.1 зв/сут против штатных 36.1 (x2)",
+    "N=0.2: репо 2877 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-04",
+   "repo": "anefzaoui/misterdownloadmanager",
+   "url": "https://github.com/anefzaoui/misterdownloadmanager",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 1757,
+   "forks": 108,
+   "open_issues": 74,
+   "language": "Rust",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 400308,
+   "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+   "topics": [
+    "bittorrent-client",
+    "debrid",
+    "download-accelerator",
+    "download-manager",
+    "downloadmanager",
+    "egui"
+   ],
+   "signals": {
+    "age_days": 11.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 3.1,
+    "stars_per_day_recent": 30.5,
+    "lifetime_stars_per_day": 158.93,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.98,
+   "score_explain": [
+    "V=0.18: хвост 30.5 зв/сут против штатных 158.9 (x0)",
+    "N=1.0: репо 11 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-06",
+   "repo": "debpalash/VoiceStudio",
+   "url": "https://github.com/debpalash/VoiceStudio",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 105114,
+   "forks": 11683,
+   "open_issues": 106,
+   "language": "Python",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "size_kb": 203146,
+   "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+   "topics": [
+    "ai",
+    "audiobook",
+    "cuda",
+    "dubbing",
+    "elevenlabs-alternative",
+    "huggingface"
+   ],
+   "signals": {
+    "age_days": 213.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.8,
+    "stars_per_day_recent": 95.8,
+    "lifetime_stars_per_day": 493.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.89,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.97,
+   "score_explain": [
+    "V=0.11: хвост 95.8 зв/сут против штатных 493.0 (x0)",
+    "N=0.2: репо 213 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.89 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-12",
+   "repo": "trimstray/the-book-of-secret-knowledge",
+   "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 256974,
+   "forks": 14830,
+   "open_issues": 179,
+   "language": null,
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 1748,
+   "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "bsd",
+    "cheatsheets",
+    "devops",
+    "guidelines"
+   ],
+   "signals": {
+    "age_days": 3060.7,
+    "last_push_days_ago": 719,
+    "stars_in_window": 3,
+    "window_h": 2.2,
+    "stars_per_day_recent": 32.4,
+    "lifetime_stars_per_day": 83.96,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.92,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.97,
+   "score_explain": [
+    "V=0.20: хвост 32.4 зв/сут против штатных 84.0 (x0)",
+    "N=0.2: репо 3061 дн от роду",
+    "C=0.0: пуш 719 дн назад",
+    "fit=0.92 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-01",
+   "repo": "jhaizhou-ops/S2Arm",
+   "url": "https://github.com/jhaizhou-ops/S2Arm",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 551,
+   "forks": 135,
+   "open_issues": 34,
+   "language": "C#",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 32502,
+   "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+   "topics": [
+    "apple-silicon",
+    "arm64",
+    "game-porting",
+    "ios",
+    "ipados",
+    "macos"
+   ],
+   "signals": {
+    "age_days": 0.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.6,
+    "stars_per_day_recent": 166.9,
+    "lifetime_stars_per_day": 632.02,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.95,
+   "score_explain": [
+    "V=0.23: хвост 166.9 зв/сут против штатных 632.0 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-03",
+   "repo": "meta/astryx",
+   "url": "https://github.com/meta/astryx",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 17088,
+   "forks": 1350,
+   "open_issues": 656,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 1260554,
+   "description": "An open source design system that's fully customizable and agent ready",
+   "topics": [],
+   "signals": {
+    "age_days": 303.4,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 2.5,
+    "stars_per_day_recent": 39.0,
+    "lifetime_stars_per_day": 56.32,
+    "acceleration": 0.7,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.9,
+   "score_explain": [
+    "V=0.32: хвост 39.0 зв/сут против штатных 56.3 (x1)",
+    "N=0.2: репо 303 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-15",
+   "repo": "shanselman/gputaskman",
+   "url": "https://github.com/shanselman/gputaskman",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 1079,
+   "forks": 56,
+   "open_issues": 12,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 1480,
+   "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+   "topics": [],
+   "signals": {
+    "age_days": 6.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.8,
+    "stars_per_day_recent": 25.4,
+    "lifetime_stars_per_day": 177.46,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.88,
+   "score_explain": [
+    "V=0.13: хвост 25.4 зв/сут против штатных 177.5 (x0)",
+    "N=1.0: репо 6 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-11",
+   "repo": "milind-soni/OpenMausBot",
+   "url": "https://github.com/milind-soni/OpenMausBot",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 18425,
+   "forks": 2549,
+   "open_issues": 834,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 483829,
+   "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+   "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "computer-use",
+    "docker",
+    "electron"
+   ],
+   "signals": {
+    "age_days": 89.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.0,
+    "stars_per_day_recent": 36.0,
+    "lifetime_stars_per_day": 206.27,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.86,
+   "score_explain": [
+    "V=0.10: хвост 36.0 зв/сут против штатных 206.3 (x0)",
+    "N=0.6: репо 89 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.65 -> PS-infra",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-05",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 444068,
+   "forks": 109688,
+   "open_issues": 1684,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 145451,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "android",
+    "claude-code",
+    "cli",
+    "cpp"
+   ],
+   "signals": {
+    "age_days": 209.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 3.5,
+    "stars_per_day_recent": 27.1,
+    "lifetime_stars_per_day": 2123.93,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.77,
+   "score_explain": [
+    "V=0.01: хвост 27.1 зв/сут против штатных 2123.9 (x0)",
+    "N=0.2: репо 209 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-13",
+   "repo": "vercel-labs/agent-browser",
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 47714,
+   "forks": 3266,
+   "open_issues": 526,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 31766,
+   "description": "Browser automation CLI for AI agents",
+   "topics": [],
+   "signals": {
+    "age_days": 301.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.3,
+    "stars_per_day_recent": 31.6,
+    "lifetime_stars_per_day": 158.06,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.71,
+   "score_explain": [
+    "V=0.11: хвост 31.6 зв/сут против штатных 158.1 (x0)",
+    "N=0.2: репо 302 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-16",
+   "repo": "deepseek-ai/deepseek-harness",
+   "url": "https://github.com/deepseek-ai/deepseek-harness",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 276599,
+   "forks": 33875,
+   "open_issues": 0,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 360269,
+   "description": "DeepSeek Harness: Everything is a Plugin.",
+   "topics": [
+    "ai-agents",
+    "cordis",
+    "dsh",
+    "dsh-plugin"
+   ],
+   "signals": {
+    "age_days": 87.6,
+    "last_push_days_ago": 4,
+    "stars_in_window": 3,
+    "window_h": 3.5,
+    "stars_per_day_recent": 20.9,
+    "lifetime_stars_per_day": 3156.91,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.7,
+   "score_explain": [
+    "V=0.00: хвост 20.9 зв/сут против штатных 3156.9 (x0)",
+    "N=0.6: репо 88 дн от роду",
+    "C=1.0: пуш 4 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-14",
+   "repo": "Goldoire/fefw-recomp",
+   "url": "https://github.com/Goldoire/fefw-recomp",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 133,
+   "forks": 4,
+   "open_issues": 19,
+   "language": "C++",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 5948,
+   "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
+   "topics": [
+    "pc-port",
+    "recompilation",
+    "static-recompilation",
+    "vulkan",
+    "windows"
+   ],
+   "signals": {
+    "age_days": 1.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.5,
+    "stars_per_day_recent": 28.8,
+    "lifetime_stars_per_day": 110.89,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.55,
+   "score_explain": [
+    "V=0.23: хвост 28.8 зв/сут против штатных 110.9 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261109-08",
+   "repo": "NotRexed/Hookshot",
+   "url": "https://github.com/NotRexed/Hookshot",
+   "first_seen_at": "2026-11-09T02:45:09Z",
+   "channel": "gh_archive_watch",
+   "stars": 3220,
+   "forks": 307,
+   "open_issues": 391,
+   "language": "C++",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 4006,
+   "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+   "topics": [],
+   "signals": {
+    "age_days": 3.6,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.1,
+    "stars_per_day_recent": 63.3,
+    "lifetime_stars_per_day": 894.07,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.43,
+   "score_explain": [
+    "V=0.07: хвост 63.3 зв/сут против штатных 894.1 (x0)",
+    "N=1.0: репо 4 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-09T06:45:09Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}
