@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 444371.0,
+"stars": 445390.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 128,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 129,
 "in_tg": false,
 "status": "active"
 },
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 318408.0,
+"stars": 319123.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,8 +354,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-08T20:16:34Z",
-"hits": 36,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 37,
 "in_tg": false,
 "status": "active"
 },
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 66411.0,
+"stars": 66932.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 90,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 91,
 "in_tg": true,
 "status": "active"
 },
@@ -1011,7 +1011,7 @@
 "repo": "Leonxlnx/taste-skill",
 "url": "https://github.com/Leonxlnx/taste-skill",
 "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-"stars": 111304.0,
+"stars": 112282.0,
 "spd": 144.0,
 "score": 0.99,
 "fit": 0.83,
@@ -1020,10 +1020,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-07T06:26:20Z",
-"hits": 15,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 16,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "cloudflare/security-audit-skill": {
 "repo": "cloudflare/security-audit-skill",
@@ -1041,7 +1041,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 69,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "tashfeenahmed/freellmapi": {
 "repo": "tashfeenahmed/freellmapi",
@@ -1311,7 +1311,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 32,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "openai/codex": {
 "repo": "openai/codex",
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 119273.0,
+"stars": 119864.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-08T23:55:09Z",
-"hits": 42,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 43,
 "in_tg": false,
 "status": "active"
 },
@@ -1425,7 +1425,7 @@
 "repo": "deepseek-ai/deepseek-harness",
 "url": "https://github.com/deepseek-ai/deepseek-harness",
 "description": "DeepSeek Harness: Everything is a Plugin.",
-"stars": 276728.0,
+"stars": 277105.0,
 "spd": 1152.0,
 "score": 0.82,
 "fit": 0.52,
@@ -1434,8 +1434,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 43,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 44,
 "in_tg": false,
 "status": "active"
 },
@@ -2073,8 +2073,8 @@
 "repo": "vxcontrol/pentagi",
 "url": "https://github.com/vxcontrol/pentagi",
 "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-"stars": 31957.0,
-"spd": 50.7,
+"stars": 33760.0,
+"spd": 54.8,
 "score": 1.17,
 "fit": 0.74,
 "risk": 0.0,
@@ -2082,10 +2082,10 @@
 "license": "MIT",
 "language": "Go",
 "first_seen": "2026-10-21T07:49:44Z",
-"last_seen": "2026-10-22T13:55:51Z",
-"hits": 2,
-"in_tg": false,
-"status": "cooled"
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 3,
+"in_tg": true,
+"status": "active"
 },
 "AhmadHassan-BTed/Jantt": {
 "repo": "AhmadHassan-BTed/Jantt",
@@ -2175,7 +2175,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 10,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "bowenliang123/dsh-context": {
 "repo": "bowenliang123/dsh-context",
@@ -2553,7 +2553,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 7,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ikow/php2shell-poc": {
 "repo": "ikow/php2shell-poc",
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "",
-"stars": 52758.0,
+"stars": 53236.0,
 "spd": 139.1,
 "score": 0.6,
 "fit": 0.0,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 43,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 44,
 "in_tg": false,
 "status": "active"
 },
@@ -4395,7 +4395,7 @@
 "repo": "google/elephant-goldfish-model",
 "url": "https://github.com/google/elephant-goldfish-model",
 "description": "Open-source plugin for designing and reviewing software with agents",
-"stars": 15407.0,
+"stars": 15840.0,
 "spd": 91.7,
 "score": 3.05,
 "fit": 0.96,
@@ -4404,8 +4404,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-24T08:47:32Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 27,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 28,
 "in_tg": true,
 "status": "active"
 },
@@ -8727,7 +8727,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 8,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026": {
 "repo": "mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
@@ -8787,7 +8787,7 @@
 "repo": "anthropics/skills",
 "url": "https://github.com/anthropics/skills",
 "description": "Public repository for Agent Skills",
-"stars": 188386.0,
+"stars": 190129.0,
 "spd": 79.3,
 "score": 0.4,
 "fit": 0.52,
@@ -8796,10 +8796,10 @@
 "license": null,
 "language": "Python",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 6,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 7,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "jamixm4-crypto/natbypass": {
 "repo": "jamixm4-crypto/natbypass",
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 23112.0,
+"stars": 23708.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 36,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 37,
 "in_tg": false,
 "status": "active"
 },
@@ -12237,7 +12237,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "JustVugg/colibri": {
 "repo": "JustVugg/colibri",
@@ -12795,7 +12795,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 9,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Lostuaexpand/windows-animated-wallpapers": {
 "repo": "Lostuaexpand/windows-animated-wallpapers",
@@ -12909,7 +12909,7 @@
 "repo": "Minireel/HGhub",
 "url": "https://github.com/Minireel/HGhub",
 "description": "YellowFruit third-party client",
-"stars": 3813.0,
+"stars": 4739.0,
 "spd": 144.0,
 "score": 1.04,
 "fit": 0.65,
@@ -12918,8 +12918,8 @@
 "license": "NOASSERTION",
 "language": "TypeScript",
 "first_seen": "2026-11-04T07:52:38Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 7,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 8,
 "in_tg": false,
 "status": "active"
 },
@@ -14169,7 +14169,7 @@
 "repo": "sherlock-project/sherlock",
 "url": "https://github.com/sherlock-project/sherlock",
 "description": "Hunt down social media accounts by username across social networks",
-"stars": 104482.0,
+"stars": 105872.0,
 "spd": 144.0,
 "score": 1.66,
 "fit": 0.76,
@@ -14178,8 +14178,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-05T18:15:01Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 17,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 18,
 "in_tg": true,
 "status": "active"
 },
@@ -14613,7 +14613,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "hashimthaci-beep/honkai-star-rail-enhancement-suite": {
 "repo": "hashimthaci-beep/honkai-star-rail-enhancement-suite",
@@ -14901,7 +14901,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 7,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "phaseboulderfetter/discord-quest-completer": {
 "repo": "phaseboulderfetter/discord-quest-completer",
@@ -15807,7 +15807,7 @@
 "repo": "NotRexed/Hookshot",
 "url": "https://github.com/NotRexed/Hookshot",
 "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-"stars": 3332.0,
+"stars": 3737.0,
 "spd": 144.0,
 "score": 0.6,
 "fit": 0.0,
@@ -15816,8 +15816,8 @@
 "license": "GPL-3.0",
 "language": "C++",
 "first_seen": "2026-11-07T06:26:20Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 8,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 9,
 "in_tg": false,
 "status": "active"
 },
@@ -16161,7 +16161,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "reacher-z/Awesome-REA": {
 "repo": "reacher-z/Awesome-REA",
@@ -16179,7 +16179,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 3,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "Arda313131882/aion-2-trainer-tool": {
 "repo": "Arda313131882/aion-2-trainer-tool",
@@ -16197,7 +16197,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "hembramneeraj3-create/aida-64-extreme": {
 "repo": "hembramneeraj3-create/aida-64-extreme",
@@ -16215,7 +16215,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sarpstar/cinecode": {
 "repo": "sarpstar/cinecode",
@@ -16233,7 +16233,7 @@
 "last_seen": "2026-11-08T18:53:53Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "SirBonney/scrcpy-mirror-control": {
 "repo": "SirBonney/scrcpy-mirror-control",
@@ -16251,7 +16251,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Frizti/Fritchii": {
 "repo": "Frizti/Fritchii",
@@ -16269,7 +16269,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "muddinenilakshmilalithaksh-create/sp-flash-tool": {
 "repo": "muddinenilakshmilalithaksh-create/sp-flash-tool",
@@ -16287,7 +16287,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "bhaviammu06-collab/adobe-air-desktop-tool": {
 "repo": "bhaviammu06-collab/adobe-air-desktop-tool",
@@ -16305,7 +16305,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "harikumar35626-hash/wondshare-recoverit": {
 "repo": "harikumar35626-hash/wondshare-recoverit",
@@ -16323,7 +16323,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "marcoscarrillo26/audio-workbench-desktop": {
 "repo": "marcoscarrillo26/audio-workbench-desktop",
@@ -16341,7 +16341,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SK-Dev666/rust-external-trainer-tool": {
 "repo": "SK-Dev666/rust-external-trainer-tool",
@@ -16359,7 +16359,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "nsfwmnsfw-cyber/canva-pro-desktop-installer": {
 "repo": "nsfwmnsfw-cyber/canva-pro-desktop-installer",
@@ -16377,7 +16377,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "anas7757/android-unlocker-desktop": {
 "repo": "anas7757/android-unlocker-desktop",
@@ -16395,7 +16395,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "PHISHER420/autodesk-inventor-desktop-config": {
 "repo": "PHISHER420/autodesk-inventor-desktop-config",
@@ -16413,7 +16413,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "FarhanNaem/startall-back": {
 "repo": "FarhanNaem/startall-back",
@@ -16431,7 +16431,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "angelonyn/chimera-desktop-suite": {
 "repo": "angelonyn/chimera-desktop-suite",
@@ -16449,7 +16449,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Tomyom15/microsoft-office-2026-desktop": {
 "repo": "Tomyom15/microsoft-office-2026-desktop",
@@ -16467,7 +16467,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "tangerineturtle1/NX2navi": {
 "repo": "tangerineturtle1/NX2navi",
@@ -16485,7 +16485,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 4,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "MrsanjayYT/cellebrite-ufed-forensic-suite": {
 "repo": "MrsanjayYT/cellebrite-ufed-forensic-suite",
@@ -16503,7 +16503,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ayanprob/coreldraw-desktop-installer": {
 "repo": "ayanprob/coreldraw-desktop-installer",
@@ -16521,7 +16521,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Luk177Master/easy-worship-desktop": {
 "repo": "Luk177Master/easy-worship-desktop",
@@ -16539,7 +16539,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "amarisdzy/acronis-desktop-installer": {
 "repo": "amarisdzy/acronis-desktop-installer",
@@ -16557,7 +16557,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "krishnasaim762-boop/melodyne-5-desktop-installer": {
 "repo": "krishnasaim762-boop/melodyne-5-desktop-installer",
@@ -16575,7 +16575,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "BEJAIA13/catia-cad-desktop-setup": {
 "repo": "BEJAIA13/catia-cad-desktop-setup",
@@ -16593,7 +16593,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Eriazeri/on1-photo-raw-max-config": {
 "repo": "Eriazeri/on1-photo-raw-max-config",
@@ -16611,7 +16611,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "bavaliyapruthil2610-lgtm/media-toolkit-desktop": {
 "repo": "bavaliyapruthil2610-lgtm/media-toolkit-desktop",
@@ -16629,7 +16629,7 @@
 "last_seen": "2026-11-08T06:20:43Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "menloresearch/asimov-1": {
 "repo": "menloresearch/asimov-1",
@@ -16647,7 +16647,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Ebony-Vinyl/EAC-design-world": {
 "repo": "Ebony-Vinyl/EAC-design-world",
@@ -16665,7 +16665,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "daimon3332/address": {
 "repo": "daimon3332/address",
@@ -16683,7 +16683,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "MuseumCassowaryCarve/twitch-drops-miner": {
 "repo": "MuseumCassowaryCarve/twitch-drops-miner",
@@ -16701,7 +16701,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "tester-army/e2e": {
 "repo": "tester-army/e2e",
@@ -16719,7 +16719,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "google/skills": {
 "repo": "google/skills",
@@ -16737,7 +16737,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Th0rgal/satmux": {
 "repo": "Th0rgal/satmux",
@@ -16755,7 +16755,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sahilge/honeypot-detector": {
 "repo": "sahilge/honeypot-detector",
@@ -16773,7 +16773,7 @@
 "last_seen": "2026-11-08T08:42:59Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SectionJumper/filmora-15": {
 "repo": "SectionJumper/filmora-15",
@@ -17337,7 +17337,7 @@
 "repo": "meta/astryx",
 "url": "https://github.com/meta/astryx",
 "description": "An open source design system that's fully customizable and agent ready",
-"stars": 17428.0,
+"stars": 18292.0,
 "spd": 84.8,
 "score": 1.14,
 "fit": 0.52,
@@ -17346,8 +17346,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-11-08T15:50:48Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 7,
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 8,
 "in_tg": true,
 "status": "new"
 },
@@ -18159,6 +18159,24 @@
 "last_seen": "2026-11-09T05:15:46Z",
 "hits": 1,
 "in_tg": false,
+"status": "new"
+},
+"OpenBMB/VoxCPM": {
+"repo": "OpenBMB/VoxCPM",
+"url": "https://github.com/OpenBMB/VoxCPM",
+"description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+"stars": 42015,
+"spd": 122.0,
+"score": 1.18,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Python",
+"first_seen": "2026-11-09T11:51:39Z",
+"last_seen": "2026-11-09T11:51:39Z",
+"hits": 1,
+"in_tg": true,
 "status": "new"
 }
 }
