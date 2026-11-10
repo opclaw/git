@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 446855.0,
+"stars": 447493.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-09T23:30:44Z",
-"hits": 131,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 132,
 "in_tg": false,
 "status": "active"
 },
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 319697.0,
+"stars": 319924.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,8 +354,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-09T23:30:44Z",
-"hits": 39,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 40,
 "in_tg": false,
 "status": "active"
 },
@@ -867,7 +867,7 @@
 "repo": "yetone/magpie",
 "url": "https://github.com/yetone/magpie",
 "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-"stars": 29353.0,
+"stars": 33294.0,
 "spd": 133.6,
 "score": 1.08,
 "fit": 0.74,
@@ -876,10 +876,10 @@
 "license": "MIT",
 "language": "Go",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 26,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 27,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "Ebony-Vinyl/dsh-our-free-model": {
 "repo": "Ebony-Vinyl/dsh-our-free-model",
@@ -1293,7 +1293,7 @@
 "last_seen": "2026-11-09T02:45:17Z",
 "hits": 61,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "affaan-m/ECC": {
 "repo": "affaan-m/ECC",
@@ -1605,7 +1605,7 @@
 "repo": "ifixai-ai/iFixAi",
 "url": "https://github.com/ifixai-ai/iFixAi",
 "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th",
-"stars": 43523.0,
+"stars": 44497.0,
 "spd": 163.0,
 "score": 1.31,
 "fit": 0.96,
@@ -1614,10 +1614,10 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-20T19:30:26Z",
-"last_seen": "2026-11-05T02:42:04Z",
-"hits": 35,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 36,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "github/spec-kit": {
 "repo": "github/spec-kit",
@@ -1857,7 +1857,7 @@
 "repo": "heygen-com/hyperframes",
 "url": "https://github.com/heygen-com/hyperframes",
 "description": "Write HTML. Render video. Built for agents.",
-"stars": 78536.0,
+"stars": 81796.0,
 "spd": 912.0,
 "score": 1.58,
 "fit": 0.96,
@@ -1866,10 +1866,10 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-21T01:28:35Z",
-"last_seen": "2026-11-04T07:52:38Z",
-"hits": 20,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 21,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "dataelement/dsh-desktop": {
 "repo": "dataelement/dsh-desktop",
@@ -2145,19 +2145,19 @@
 "repo": "KKKKhazix/AIHOT",
 "url": "https://github.com/KKKKhazix/AIHOT",
 "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-"stars": 8291,
+"stars": 10128.0,
 "spd": 69.1,
-"score": 1.07,
+"score": 1.11,
 "fit": 0.74,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-21T07:49:44Z",
-"last_seen": "2026-10-21T07:49:44Z",
-"hits": 1,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 2,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "yihui-dev/awesome-opus5-5-videos": {
 "repo": "yihui-dev/awesome-opus5-5-videos",
@@ -3603,19 +3603,19 @@
 "repo": "Alishahryar1/free-claude-code",
 "url": "https://github.com/Alishahryar1/free-claude-code",
 "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser ",
-"stars": 63810.0,
-"spd": 30.4,
-"score": 0.73,
+"stars": 67710.0,
+"spd": 35.0,
+"score": 0.74,
 "fit": 0.61,
 "risk": 0.0,
 "ps": "PS-dev",
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-22T19:48:59Z",
-"last_seen": "2026-10-27T04:51:59Z",
-"hits": 3,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 4,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "opentrap/opentrap": {
 "repo": "opentrap/opentrap",
@@ -3993,7 +3993,7 @@
 "last_seen": "2026-11-09T02:45:17Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AAA-EE/mcd-budget-planner": {
 "repo": "AAA-EE/mcd-budget-planner",
@@ -4017,7 +4017,7 @@
 "repo": "obra/superpowers",
 "url": "https://github.com/obra/superpowers",
 "description": "An agentic skills framework & software development methodology that works.",
-"stars": 311468.0,
+"stars": 315248.0,
 "spd": 720.0,
 "score": 0.81,
 "fit": 0.52,
@@ -4026,16 +4026,16 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-03T09:43:35Z",
-"hits": 12,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 13,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "pingdotgg/t3code": {
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "",
-"stars": 53236.0,
+"stars": 54402.0,
 "spd": 139.1,
 "score": 0.6,
 "fit": 0.0,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-09T11:51:39Z",
-"hits": 44,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 45,
 "in_tg": false,
 "status": "active"
 },
@@ -6969,7 +6969,7 @@
 "repo": "milind-soni/OpenMausBot",
 "url": "https://github.com/milind-soni/OpenMausBot",
 "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-"stars": 18425.0,
+"stars": 19945.0,
 "spd": 99.5,
 "score": 1.14,
 "fit": 0.65,
@@ -6978,8 +6978,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-28T23:07:35Z",
-"last_seen": "2026-11-09T02:45:17Z",
-"hits": 25,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 26,
 "in_tg": true,
 "status": "active"
 },
@@ -7545,7 +7545,7 @@
 "repo": "qybaihe/bla",
 "url": "https://github.com/qybaihe/bla",
 "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> H",
-"stars": 3621.0,
+"stars": 4495.0,
 "spd": 80.7,
 "score": 1.4,
 "fit": 0.96,
@@ -7554,10 +7554,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-29T16:43:14Z",
-"last_seen": "2026-11-08T18:53:53Z",
-"hits": 6,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 7,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "shirai91/nx2android": {
 "repo": "shirai91/nx2android",
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 23708.0,
+"stars": 24875.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-09T11:51:39Z",
-"hits": 37,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 38,
 "in_tg": false,
 "status": "active"
 },
@@ -12747,7 +12747,7 @@
 "repo": "anefzaoui/misterdownloadmanager",
 "url": "https://github.com/anefzaoui/misterdownloadmanager",
 "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
-"stars": 2088.0,
+"stars": 4334.0,
 "spd": 192.0,
 "score": 2.16,
 "fit": 0.61,
@@ -12756,8 +12756,8 @@
 "license": "GPL-3.0",
 "language": "Rust",
 "first_seen": "2026-11-04T06:42:59Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 7,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 8,
 "in_tg": true,
 "status": "active"
 },
@@ -12909,8 +12909,8 @@
 "repo": "Minireel/HGhub",
 "url": "https://github.com/Minireel/HGhub",
 "description": "YellowFruit third-party client",
-"stars": 4739.0,
-"spd": 144.0,
+"stars": 6820.0,
+"spd": 165.2,
 "score": 1.04,
 "fit": 0.65,
 "risk": 0.0,
@@ -12918,8 +12918,8 @@
 "license": "NOASSERTION",
 "language": "TypeScript",
 "first_seen": "2026-11-04T07:52:38Z",
-"last_seen": "2026-11-09T11:51:39Z",
-"hits": 8,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 9,
 "in_tg": false,
 "status": "active"
 },
@@ -14169,7 +14169,7 @@
 "repo": "sherlock-project/sherlock",
 "url": "https://github.com/sherlock-project/sherlock",
 "description": "Hunt down social media accounts by username across social networks",
-"stars": 105872.0,
+"stars": 107502.0,
 "spd": 144.0,
 "score": 1.66,
 "fit": 0.76,
@@ -14178,8 +14178,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-05T18:15:01Z",
-"last_seen": "2026-11-09T11:51:39Z",
-"hits": 18,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 19,
 "in_tg": true,
 "status": "active"
 },
@@ -14847,7 +14847,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 4,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "DuelistCapture/ultra-edit": {
 "repo": "DuelistCapture/ultra-edit",
@@ -15807,7 +15807,7 @@
 "repo": "NotRexed/Hookshot",
 "url": "https://github.com/NotRexed/Hookshot",
 "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-"stars": 3737.0,
+"stars": 5322.0,
 "spd": 144.0,
 "score": 0.6,
 "fit": 0.0,
@@ -15816,8 +15816,8 @@
 "license": "GPL-3.0",
 "language": "C++",
 "first_seen": "2026-11-07T06:26:20Z",
-"last_seen": "2026-11-09T11:51:39Z",
-"hits": 9,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 10,
 "in_tg": false,
 "status": "active"
 },
@@ -16179,7 +16179,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 3,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Arda313131882/aion-2-trainer-tool": {
 "repo": "Arda313131882/aion-2-trainer-tool",
@@ -16377,7 +16377,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "anas7757/android-unlocker-desktop": {
 "repo": "anas7757/android-unlocker-desktop",
@@ -16485,7 +16485,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "MrsanjayYT/cellebrite-ufed-forensic-suite": {
 "repo": "MrsanjayYT/cellebrite-ufed-forensic-suite",
@@ -17043,7 +17043,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "WayBuilderDeliver/windows-optimizer": {
 "repo": "WayBuilderDeliver/windows-optimizer",
@@ -17205,7 +17205,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Trianglenacrypt/rust-external-trainer-tool": {
 "repo": "Trianglenacrypt/rust-external-trainer-tool",
@@ -17337,7 +17337,7 @@
 "repo": "meta/astryx",
 "url": "https://github.com/meta/astryx",
 "description": "An open source design system that's fully customizable and agent ready",
-"stars": 19898.0,
+"stars": 20594.0,
 "spd": 84.8,
 "score": 1.14,
 "fit": 0.52,
@@ -17346,8 +17346,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-11-08T15:50:48Z",
-"last_seen": "2026-11-09T23:30:44Z",
-"hits": 10,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 11,
 "in_tg": true,
 "status": "active"
 },
@@ -17673,7 +17673,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "changhaoting1998-star/manufacturing-wechat-miniapp-starter": {
 "repo": "changhaoting1998-star/manufacturing-wechat-miniapp-starter",
@@ -17709,7 +17709,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "PsycheGradeSpeak/chief-architect-premier": {
 "repo": "PsycheGradeSpeak/chief-architect-premier",
@@ -17745,7 +17745,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Perceptionzyavalue/ashampoo-uninstaller": {
 "repo": "Perceptionzyavalue/ashampoo-uninstaller",
@@ -17763,7 +17763,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "coasthorsereckon/autodesk-3ds-max": {
 "repo": "coasthorsereckon/autodesk-3ds-max",
@@ -17799,7 +17799,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "solidaxemarch/kms-pico": {
 "repo": "solidaxemarch/kms-pico",
@@ -17817,7 +17817,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "abdulmannanmalik13-wq/adobe-substance-3d-studio": {
 "repo": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
@@ -17835,7 +17835,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "PedroVicenty1999/discord-quest-helper": {
 "repo": "PedroVicenty1999/discord-quest-helper",
@@ -17853,7 +17853,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Quartzreaura/cubase": {
 "repo": "Quartzreaura/cubase",
@@ -17871,7 +17871,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "bipro45/actual-multi-display-configurator": {
 "repo": "bipro45/actual-multi-display-configurator",
@@ -17889,7 +17889,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Sakshimodi14/fonepaw-unlocker-setup": {
 "repo": "Sakshimodi14/fonepaw-unlocker-setup",
@@ -17907,7 +17907,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "toxik-play/fishing-planet-enhancement": {
 "repo": "toxik-play/fishing-planet-enhancement",
@@ -17925,7 +17925,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Malik-825/sketchup-pro-desktop": {
 "repo": "Malik-825/sketchup-pro-desktop",
@@ -17943,7 +17943,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "janitoff0/ninjatrader-bot": {
 "repo": "janitoff0/ninjatrader-bot",
@@ -17961,7 +17961,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "xavier442/pump-fun-desktop": {
 "repo": "xavier442/pump-fun-desktop",
@@ -17979,14 +17979,14 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "jamesondh/chimera-vocal-synth": {
 "repo": "jamesondh/chimera-vocal-synth",
 "url": "https://github.com/jamesondh/chimera-vocal-synth",
 "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-"stars": 758.0,
-"spd": 42.4,
+"stars": 1289.0,
+"spd": 44.1,
 "score": 0.55,
 "fit": 0.0,
 "risk": 0.0,
@@ -17994,10 +17994,10 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-11-08T23:55:09Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 2,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "AronnyoC/adobe-indesign-installer": {
 "repo": "AronnyoC/adobe-indesign-installer",
@@ -18015,7 +18015,7 @@
 "last_seen": "2026-11-08T23:55:09Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "isriram/pg-restic": {
 "repo": "isriram/pg-restic",
@@ -18033,7 +18033,7 @@
 "last_seen": "2026-11-09T02:45:17Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Ketchup3D/app": {
 "repo": "Ketchup3D/app",
@@ -18051,13 +18051,13 @@
 "last_seen": "2026-11-09T05:15:46Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "janestreet/agent_skills": {
 "repo": "janestreet/agent_skills",
 "url": "https://github.com/janestreet/agent_skills",
 "description": "Agent skills",
-"stars": 357,
+"stars": 2360.0,
 "spd": 63.3,
 "score": 1.38,
 "fit": 0.52,
@@ -18066,10 +18066,10 @@
 "license": "MIT",
 "language": "",
 "first_seen": "2026-11-09T02:45:17Z",
-"last_seen": "2026-11-09T02:45:17Z",
-"hits": 1,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "jhaizhou-ops/S2Arm": {
 "repo": "jhaizhou-ops/S2Arm",
@@ -18087,7 +18087,7 @@
 "last_seen": "2026-11-09T02:45:17Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Goldoire/fefw-recomp": {
 "repo": "Goldoire/fefw-recomp",
@@ -18105,7 +18105,7 @@
 "last_seen": "2026-11-09T02:45:17Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "kubai087/kubai-icons": {
 "repo": "kubai087/kubai-icons",
@@ -18633,8 +18633,8 @@
 "repo": "shinyobjectz/raea",
 "url": "https://github.com/shinyobjectz/raea",
 "description": "Render Anything Engine: tell your AI what to make. Videos, motion graphics, 3D and games as React and TypeScript, rendered on your own GPU. Rust + Bevy, macOS, Linux and Windows.",
-"stars": 1553,
-"spd": 28.2,
+"stars": 1680.0,
+"spd": 31.0,
 "score": 1.23,
 "fit": 0.74,
 "risk": 0.0,
@@ -18642,8 +18642,8 @@
 "license": "NOASSERTION",
 "language": "Rust",
 "first_seen": "2026-11-09T23:30:44Z",
-"last_seen": "2026-11-09T23:30:44Z",
-"hits": 1,
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 2,
 "in_tg": true,
 "status": "new"
 },
@@ -18661,6 +18661,240 @@
 "language": "",
 "first_seen": "2026-11-09T23:30:44Z",
 "last_seen": "2026-11-09T23:30:44Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"AntiFox-AI/antifox": {
+"repo": "AntiFox-AI/antifox",
+"url": "https://github.com/AntiFox-AI/antifox",
+"description": "AI 自主渗透测试平台 · 多智能体自主渗透测试（二次开发自 ARTEX）",
+"stars": 201,
+"spd": 60.7,
+"score": 2.82,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "AGPL-3.0",
+"language": "Go",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"codepawl/67.js": {
+"repo": "codepawl/67.js",
+"url": "https://github.com/codepawl/67.js",
+"description": "3D engine that AI agents drive",
+"stars": 367,
+"spd": 31.8,
+"score": 2.14,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "NOASSERTION",
+"language": "JavaScript",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"adventists-ai/sophon-realtime": {
+"repo": "adventists-ai/sophon-realtime",
+"url": "https://github.com/adventists-ai/sophon-realtime",
+"description": "Sophon-Realtime v1: open full-duplex voice models that hear your tone and speak with one. Tag and Flash run on one GPU with vLLM-Omni; E2E in preview.",
+"stars": 106,
+"spd": 22.2,
+"score": 1.77,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "Python",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"tang1693/KIKUmap": {
+"repo": "tang1693/KIKUmap",
+"url": "https://github.com/tang1693/KIKUmap",
+"description": "A mind map for your Claude/ChatGPT chats — macOS menu-bar app",
+"stars": 974,
+"spd": 138.8,
+"score": 1.7,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "Swift",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"kokoc30/Auto-Stitch": {
+"repo": "kokoc30/Auto-Stitch",
+"url": "https://github.com/kokoc30/Auto-Stitch",
+"description": "AI-powered video editing platform for transforming long-form content into short, engaging videos. Public product showcase.",
+"stars": 49,
+"spd": 62.2,
+"score": 1.67,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": null,
+"language": "",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"dream-num/univer": {
+"repo": "dream-num/univer",
+"url": "https://github.com/dream-num/univer",
+"description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+"stars": 23028,
+"spd": 75.0,
+"score": 1.64,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "Apache-2.0",
+"language": "TypeScript",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"opensandbox-group/OpenSandbox": {
+"repo": "opensandbox-group/OpenSandbox",
+"url": "https://github.com/opensandbox-group/OpenSandbox",
+"description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+"stars": 16981,
+"spd": 47.5,
+"score": 0.97,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "Python",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"harshsinghsv/swiftdl": {
+"repo": "harshsinghsv/swiftdl",
+"url": "https://github.com/harshsinghsv/swiftdl",
+"description": "Fast, resumable download manager with a browser extension. Many connections per file, instant resume, IDM-style download windows. Rust + Tauri.",
+"stars": 328,
+"spd": 27.8,
+"score": 0.96,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"FluentRead/FluentRead": {
+"repo": "FluentRead/FluentRead",
+"url": "https://github.com/FluentRead/FluentRead",
+"description": "An open-source browser extension for bilingual translation. 一款开源的浏览器双语翻译插件。",
+"stars": 9849,
+"spd": 25.1,
+"score": 0.93,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "GPL-3.0",
+"language": "TypeScript",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ruvnet/RuView": {
+"repo": "ruvnet/RuView",
+"url": "https://github.com/ruvnet/RuView",
+"description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+"stars": 103593,
+"spd": 38.3,
+"score": 0.86,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ZhuLinsen/daily_stock_analysis": {
+"repo": "ZhuLinsen/daily_stock_analysis",
+"url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+"description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f",
+"stars": 69108,
+"spd": 30.5,
+"score": 0.83,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"huamidev/GestaltX": {
+"repo": "huamidev/GestaltX",
+"url": "https://github.com/huamidev/GestaltX",
+"description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+"stars": 2532,
+"spd": 79.2,
+"score": 0.73,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "GPL-3.0",
+"language": "Swift",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"expo/exact": {
+"repo": "expo/exact",
+"url": "https://github.com/expo/exact",
+"description": "",
+"stars": 1173,
+"spd": 66.3,
+"score": 0.7,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-10T04:41:01Z",
+"last_seen": "2026-11-10T04:41:01Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
