@@ -1,6 +1,6 @@
 {
  "schema": "radar/leads.v1",
- "generated_at": "2026-11-11T01:18:41Z",
+ "generated_at": "2026-11-11T01:23:38Z",
  "window": {
   "hours": 4,
   "from": "2026-11-10-21",
@@ -17,7 +17,7 @@
    "lead_id": "L-20261111-27",
    "repo": "johnstephenalbert/Visio-DataFlow-Builder",
    "url": "https://github.com/johnstephenalbert/Visio-DataFlow-Builder",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 407,
    "forks": 0,
@@ -60,7 +60,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -73,9 +73,9 @@
    "lead_id": "L-20261111-01",
    "repo": "GoogleChrome/modern-web-guidance",
    "url": "https://github.com/GoogleChrome/modern-web-guidance",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
-   "stars": 3231,
+   "stars": 3239,
    "forks": 114,
    "open_issues": 1,
    "language": null,
@@ -90,7 +90,7 @@
     "stars_in_window": 8,
     "window_h": 2.5,
     "stars_per_day_recent": 76.3,
-    "lifetime_stars_per_day": 13.91,
+    "lifetime_stars_per_day": 13.94,
     "acceleration": 5.5,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -109,7 +109,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -122,9 +122,9 @@
    "lead_id": "L-20261111-14",
    "repo": "microsoft/Procexp-Mac",
    "url": "https://github.com/microsoft/Procexp-Mac",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
-   "stars": 263,
+   "stars": 264,
    "forks": 10,
    "open_issues": 6,
    "language": "Swift",
@@ -134,13 +134,13 @@
    "description": "Process Explorer for MacOS",
    "topics": [],
    "signals": {
-    "age_days": 127.1,
+    "age_days": 127.2,
     "last_push_days_ago": 0,
     "stars_in_window": 5,
     "window_h": 2.5,
     "stars_per_day_recent": 47.2,
-    "lifetime_stars_per_day": 2.07,
-    "acceleration": 22.8,
+    "lifetime_stars_per_day": 2.08,
+    "acceleration": 22.7,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
@@ -158,7 +158,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -171,9 +171,9 @@
    "lead_id": "L-20261111-40",
    "repo": "AIScientists-Dev/academic-humanizer",
    "url": "https://github.com/AIScientists-Dev/academic-humanizer",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
-   "stars": 4121,
+   "stars": 4125,
    "forks": 306,
    "open_issues": 5,
    "language": null,
@@ -195,7 +195,7 @@
     "stars_in_window": 3,
     "window_h": 0.8,
     "stars_per_day_recent": 94.7,
-    "lifetime_stars_per_day": 28.72,
+    "lifetime_stars_per_day": 28.75,
     "acceleration": 3.3,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -214,7 +214,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -227,7 +227,7 @@
    "lead_id": "L-20261111-26",
    "repo": "wdcpclover/ai4paper",
    "url": "https://github.com/wdcpclover/ai4paper",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 4671,
    "forks": 48,
@@ -270,7 +270,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -283,7 +283,7 @@
    "lead_id": "L-20261111-28",
    "repo": "App-MonicaWEB/auslogics-audio-studio-desktop",
    "url": "https://github.com/App-MonicaWEB/auslogics-audio-studio-desktop",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 773,
    "forks": 0,
@@ -307,7 +307,7 @@
     "stars_in_window": 3,
     "window_h": 0.0,
     "stars_per_day_recent": 144.0,
-    "lifetime_stars_per_day": 184.24,
+    "lifetime_stars_per_day": 184.09,
     "acceleration": 0.8,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -317,7 +317,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 1.32,
    "score_explain": [
-    "V=0.58: хвост 144.0 зв/сут против штатных 184.2 (x1)",
+    "V=0.58: хвост 144.0 зв/сут против штатных 184.1 (x1)",
     "N=1.0: репо 4 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -326,7 +326,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -339,9 +339,9 @@
    "lead_id": "L-20261111-24",
    "repo": "google-deepmind/mujoco",
    "url": "https://github.com/google-deepmind/mujoco",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
-   "stars": 17365,
+   "stars": 17371,
    "forks": 2148,
    "open_issues": 333,
    "language": "C++",
@@ -360,7 +360,7 @@
     "stars_in_window": 4,
     "window_h": 2.7,
     "stars_per_day_recent": 35.2,
-    "lifetime_stars_per_day": 9.13,
+    "lifetime_stars_per_day": 9.14,
     "acceleration": 3.9,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -379,7 +379,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -392,7 +392,7 @@
    "lead_id": "L-20261111-29",
    "repo": "theonlyoneexocctical-beep/cellebrite-ufed-setup",
    "url": "https://github.com/theonlyoneexocctical-beep/cellebrite-ufed-setup",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 773,
    "forks": 0,
@@ -416,7 +416,7 @@
     "stars_in_window": 3,
     "window_h": 0.0,
     "stars_per_day_recent": 144.0,
-    "lifetime_stars_per_day": 184.47,
+    "lifetime_stars_per_day": 184.32,
     "acceleration": 0.8,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -426,7 +426,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 1.02,
    "score_explain": [
-    "V=0.58: хвост 144.0 зв/сут против штатных 184.5 (x1)",
+    "V=0.58: хвост 144.0 зв/сут против штатных 184.3 (x1)",
     "N=1.0: репо 4 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -435,7 +435,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -448,7 +448,7 @@
    "lead_id": "L-20261111-03",
    "repo": "urbanfogcatalog52/catia-cad",
    "url": "https://github.com/urbanfogcatalog52/catia-cad",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 300,
    "forks": 0,
@@ -491,7 +491,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -504,7 +504,7 @@
    "lead_id": "L-20261111-04",
    "repo": "WalrusUncouple/discord-server-raider",
    "url": "https://github.com/WalrusUncouple/discord-server-raider",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 298,
    "forks": 0,
@@ -547,7 +547,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -560,7 +560,7 @@
    "lead_id": "L-20261111-05",
    "repo": "CpuCoreChant/total-commander",
    "url": "https://github.com/CpuCoreChant/total-commander",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 560,
    "forks": 0,
@@ -603,7 +603,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -616,7 +616,7 @@
    "lead_id": "L-20261111-30",
    "repo": "Towerclicorridor/anydesk",
    "url": "https://github.com/Towerclicorridor/anydesk",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 300,
    "forks": 0,
@@ -659,7 +659,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -672,7 +672,7 @@
    "lead_id": "L-20261111-08",
    "repo": "Typhooninknot/axie-infinity-bot",
    "url": "https://github.com/Typhooninknot/axie-infinity-bot",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 300,
    "forks": 0,
@@ -715,7 +715,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -728,7 +728,7 @@
    "lead_id": "L-20261111-09",
    "repo": "VanquisherPurge/cinema-4d",
    "url": "https://github.com/VanquisherPurge/cinema-4d",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 301,
    "forks": 0,
@@ -771,7 +771,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -784,7 +784,7 @@
    "lead_id": "L-20261111-10",
    "repo": "VisiblePrefectSense/dft-pro",
    "url": "https://github.com/VisiblePrefectSense/dft-pro",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 298,
    "forks": 0,
@@ -827,7 +827,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -840,7 +840,7 @@
    "lead_id": "L-20261111-11",
    "repo": "Apparitionkyoextol/imobie-anytrans",
    "url": "https://github.com/Apparitionkyoextol/imobie-anytrans",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 305,
    "forks": 0,
@@ -883,7 +883,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -896,11 +896,11 @@
    "lead_id": "L-20261111-13",
    "repo": "meta/astryx",
    "url": "https://github.com/meta/astryx",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
-   "stars": 22891,
-   "forks": 1823,
-   "open_issues": 686,
+   "stars": 22898,
+   "forks": 1824,
+   "open_issues": 688,
    "language": "TypeScript",
    "license": "MIT",
    "archived": false,
@@ -913,7 +913,7 @@
     "stars_in_window": 5,
     "window_h": 2.2,
     "stars_per_day_recent": 54.9,
-    "lifetime_stars_per_day": 74.96,
+    "lifetime_stars_per_day": 74.98,
     "acceleration": 0.7,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -932,7 +932,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -945,7 +945,7 @@
    "lead_id": "L-20261111-06",
    "repo": "AssuranceJetty/kms-pico",
    "url": "https://github.com/AssuranceJetty/kms-pico",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 314,
    "forks": 0,
@@ -988,7 +988,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1001,7 +1001,7 @@
    "lead_id": "L-20261111-07",
    "repo": "TideSpiderJournal45/androidunlocker",
    "url": "https://github.com/TideSpiderJournal45/androidunlocker",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 366,
    "forks": 0,
@@ -1044,7 +1044,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1057,7 +1057,7 @@
    "lead_id": "L-20261111-17",
    "repo": "Watchpechange/drfoneunlock",
    "url": "https://github.com/Watchpechange/drfoneunlock",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 298,
    "forks": 0,
@@ -1100,7 +1100,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1113,7 +1113,7 @@
    "lead_id": "L-20261111-18",
    "repo": "WinnerChefJam/flash-crypto-generator",
    "url": "https://github.com/WinnerChefJam/flash-crypto-generator",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 295,
    "forks": 0,
@@ -1156,7 +1156,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1169,7 +1169,7 @@
    "lead_id": "L-20261111-02",
    "repo": "Tremorfualembic30/whale-tracker",
    "url": "https://github.com/Tremorfualembic30/whale-tracker",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 560,
    "forks": 0,
@@ -1212,7 +1212,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1225,7 +1225,7 @@
    "lead_id": "L-20261111-21",
    "repo": "armspheasantfurnace/ios-unlocker",
    "url": "https://github.com/armspheasantfurnace/ios-unlocker",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 309,
    "forks": 0,
@@ -1268,7 +1268,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1281,7 +1281,7 @@
    "lead_id": "L-20261111-12",
    "repo": "brinkscholarstove/nero-platinum",
    "url": "https://github.com/brinkscholarstove/nero-platinum",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 329,
    "forks": 0,
@@ -1324,7 +1324,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1337,7 +1337,7 @@
    "lead_id": "L-20261111-19",
    "repo": "ChainDistributor/photo-commander",
    "url": "https://github.com/ChainDistributor/photo-commander",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 336,
    "forks": 0,
@@ -1380,7 +1380,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1393,7 +1393,7 @@
    "lead_id": "L-20261111-34",
    "repo": "TrapConquerorTassel/auto-withdraw-bot",
    "url": "https://github.com/TrapConquerorTassel/auto-withdraw-bot",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 300,
    "forks": 0,
@@ -1436,7 +1436,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1449,7 +1449,7 @@
    "lead_id": "L-20261111-36",
    "repo": "Astralglifill/keyshot-pro",
    "url": "https://github.com/Astralglifill/keyshot-pro",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 306,
    "forks": 0,
@@ -1492,7 +1492,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1505,7 +1505,7 @@
    "lead_id": "L-20261111-38",
    "repo": "unitedeanwarehouse/avid-media-composer",
    "url": "https://github.com/unitedeanwarehouse/avid-media-composer",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 300,
    "forks": 0,
@@ -1548,7 +1548,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1561,7 +1561,7 @@
    "lead_id": "L-20261111-39",
    "repo": "Urbankruplug/autodesk-cfd",
    "url": "https://github.com/Urbankruplug/autodesk-cfd",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 298,
    "forks": 0,
@@ -1604,7 +1604,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1617,9 +1617,9 @@
    "lead_id": "L-20261111-22",
    "repo": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
-   "stars": 69353,
+   "stars": 69358,
    "forks": 4580,
    "open_issues": 123,
    "language": "JavaScript",
@@ -1634,7 +1634,7 @@
     "stars_in_window": 4,
     "window_h": 1.6,
     "stars_per_day_recent": 60.1,
-    "lifetime_stars_per_day": 476.77,
+    "lifetime_stars_per_day": 476.79,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1653,7 +1653,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1666,7 +1666,7 @@
    "lead_id": "L-20261111-32",
    "repo": "braveemperorcreate/movavi-effects",
    "url": "https://github.com/braveemperorcreate/movavi-effects",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 335,
    "forks": 0,
@@ -1709,7 +1709,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1722,7 +1722,7 @@
    "lead_id": "L-20261111-33",
    "repo": "Ceilingyaportico/ph-downloader",
    "url": "https://github.com/Ceilingyaportico/ph-downloader",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 332,
    "forks": 0,
@@ -1765,7 +1765,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1778,7 +1778,7 @@
    "lead_id": "L-20261111-16",
    "repo": "Urbanvumarch/ccleaner-pro",
    "url": "https://github.com/Urbanvumarch/ccleaner-pro",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 300,
    "forks": 0,
@@ -1821,7 +1821,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1834,7 +1834,7 @@
    "lead_id": "L-20261111-20",
    "repo": "crewbookkeepercastle/trx-drainer-bot",
    "url": "https://github.com/crewbookkeepercastle/trx-drainer-bot",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 564,
    "forks": 0,
@@ -1877,7 +1877,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1890,7 +1890,7 @@
    "lead_id": "L-20261111-31",
    "repo": "WireCanary95/foneazy-mobile",
    "url": "https://github.com/WireCanary95/foneazy-mobile",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 303,
    "forks": 0,
@@ -1933,7 +1933,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1946,7 +1946,7 @@
    "lead_id": "L-20261111-35",
    "repo": "CpuMizukageFaucet/touch-copy",
    "url": "https://github.com/CpuMizukageFaucet/touch-copy",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 562,
    "forks": 0,
@@ -1989,7 +1989,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -2002,9 +2002,9 @@
    "lead_id": "L-20261111-15",
    "repo": "we-promise/sure",
    "url": "https://github.com/we-promise/sure",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
-   "stars": 11972,
+   "stars": 11978,
    "forks": 891,
    "open_issues": 896,
    "language": "Ruby",
@@ -2019,7 +2019,7 @@
     "stars_in_window": 5,
     "window_h": 3.3,
     "stars_per_day_recent": 35.9,
-    "lifetime_stars_per_day": 25.16,
+    "lifetime_stars_per_day": 25.17,
     "acceleration": 1.4,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -2038,7 +2038,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -2051,7 +2051,7 @@
    "lead_id": "L-20261111-37",
    "repo": "BasaltCongressman/wise-registrity",
    "url": "https://github.com/BasaltCongressman/wise-registrity",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
    "stars": 561,
    "forks": 0,
@@ -2094,7 +2094,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -2107,11 +2107,11 @@
    "lead_id": "L-20261111-23",
    "repo": "tangerineturtle1/NX2navi",
    "url": "https://github.com/tangerineturtle1/NX2navi",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
-   "stars": 2888,
+   "stars": 2892,
    "forks": 192,
-   "open_issues": 411,
+   "open_issues": 412,
    "language": "C",
    "license": "MIT",
    "archived": false,
@@ -2124,7 +2124,7 @@
     "stars_in_window": 4,
     "window_h": 2.0,
     "stars_per_day_recent": 49.0,
-    "lifetime_stars_per_day": 794.06,
+    "lifetime_stars_per_day": 794.41,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -2134,7 +2134,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.42,
    "score_explain": [
-    "V=0.06: хвост 49.0 зв/сут против штатных 794.1 (x0)",
+    "V=0.06: хвост 49.0 зв/сут против штатных 794.4 (x0)",
     "N=1.0: репо 4 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -2143,7 +2143,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -2156,11 +2156,11 @@
    "lead_id": "L-20261111-25",
    "repo": "pingdotgg/t3code",
    "url": "https://github.com/pingdotgg/t3code",
-   "first_seen_at": "2026-11-11T01:18:41Z",
+   "first_seen_at": "2026-11-11T01:23:38Z",
    "channel": "gh_archive_watch",
-   "stars": 55764,
+   "stars": 55767,
    "forks": 10354,
-   "open_issues": 5699,
+   "open_issues": 5700,
    "language": "TypeScript",
    "license": "MIT",
    "archived": false,
@@ -2173,7 +2173,7 @@
     "stars_in_window": 4,
     "window_h": 3.1,
     "stars_per_day_recent": 31.3,
-    "lifetime_stars_per_day": 202.73,
+    "lifetime_stars_per_day": 202.74,
     "acceleration": 0.2,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -2192,7 +2192,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T05:18:41Z",
+    "sla_deadline": "2026-11-11T05:23:38Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
