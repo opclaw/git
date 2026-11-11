@@ -1,0 +1,985 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-11T22:52:02Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-11-11-18",
+  "to": "2026-11-11-21",
+  "watch_events": 1039,
+  "repos": 896,
+  "actors": 858,
+  "ring_accounts": 33,
+  "api_calls": 18,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261111-06",
+   "repo": "mapglazierkiln/YouTube-Content-Accelerator-2026",
+   "url": "https://github.com/mapglazierkiln/YouTube-Content-Accelerator-2026",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 120,
+   "forks": 112,
+   "open_issues": 0,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "size_kb": 5,
+   "description": "Professional Windows desktop application for YouTube creators. Smart views optimization, engagement tools, trend analysis and channel growth management. Fast, stable, regularly updated with clean modern interface and real-time statistics.",
+   "topics": [
+    "analytics",
+    "creator-tools",
+    "engagement",
+    "growth",
+    "trend-detection",
+    "video-tools"
+   ],
+   "signals": {
+    "age_days": 119.3,
+    "last_push_days_ago": 119,
+    "stars_in_window": 3,
+    "window_h": 0.2,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 1.01,
+    "acceleration": 143.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 3.03,
+   "score_explain": [
+    "V=2.98: хвост 144.0 зв/сут против штатных 1.0 (x143)",
+    "N=0.6: репо 119 дн от роду",
+    "C=0.0: пуш 119 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-01",
+   "repo": "aws/aws-emulator",
+   "url": "https://github.com/aws/aws-emulator",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 1348,
+   "forks": 19,
+   "open_issues": 19,
+   "language": "Rust",
+   "license": "CC0-1.0",
+   "archived": false,
+   "size_kb": 1348231,
+   "description": "AWS Emulator is a local emulator of the AWS APIs.",
+   "topics": [],
+   "signals": {
+    "age_days": 61.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 18,
+    "window_h": 3.6,
+    "stars_per_day_recent": 120.6,
+    "lifetime_stars_per_day": 22.04,
+    "acceleration": 5.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.29,
+   "score_explain": [
+    "V=1.12: хвост 120.6 зв/сут против штатных 22.0 (x5)",
+    "N=0.6: репо 61 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-02",
+   "repo": "GoogleChrome/modern-web-guidance",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 4949,
+   "forks": 158,
+   "open_issues": 1,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 1726,
+   "description": "Keep your coding agent up to date with the latest web best practices",
+   "topics": [],
+   "signals": {
+    "age_days": 233.2,
+    "last_push_days_ago": 1,
+    "stars_in_window": 4,
+    "window_h": 2.5,
+    "stars_per_day_recent": 38.4,
+    "lifetime_stars_per_day": 21.22,
+    "acceleration": 1.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.25,
+   "score_explain": [
+    "V=0.62: хвост 38.4 зв/сут против штатных 21.2 (x2)",
+    "N=0.2: репо 233 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-14",
+   "repo": "KnifeLemon/Filee",
+   "url": "https://github.com/KnifeLemon/Filee",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 25952,
+   "forks": 1484,
+   "open_issues": 115,
+   "language": "C#",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 43052,
+   "description": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+   "topics": [
+    "audio-converter",
+    "avalonia",
+    "batch-conversion",
+    "converter",
+    "csharp",
+    "document-converter"
+   ],
+   "signals": {
+    "age_days": 43.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.4,
+    "stars_per_day_recent": 29.4,
+    "lifetime_stars_per_day": 601.91,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.13,
+   "score_explain": [
+    "V=0.05: хвост 29.4 зв/сут против штатных 601.9 (x0)",
+    "N=1.0: репо 43 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-08",
+   "repo": "anefzaoui/misterdownloadmanager",
+   "url": "https://github.com/anefzaoui/misterdownloadmanager",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 6775,
+   "forks": 519,
+   "open_issues": 203,
+   "language": "Rust",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 474665,
+   "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+   "topics": [
+    "bittorrent-client",
+    "debrid",
+    "download-accelerator",
+    "download-manager",
+    "downloadmanager",
+    "egui"
+   ],
+   "signals": {
+    "age_days": 13.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.9,
+    "stars_per_day_recent": 84.5,
+    "lifetime_stars_per_day": 487.64,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.97,
+   "score_explain": [
+    "V=0.16: хвост 84.5 зв/сут против штатных 487.6 (x0)",
+    "N=1.0: репо 14 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-16",
+   "repo": "siyahandloom/jv16-powertools-desktop",
+   "url": "https://github.com/siyahandloom/jv16-powertools-desktop",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 63,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 143,
+   "description": "Jv16 PowerTools Full Version: Windows Registry Cleaning and System Optimization Suite",
+   "topics": [
+    "cleaning-and-optimization",
+    "download-jv16-power-tools",
+    "jv16-power-tools-free",
+    "jv16-power-tools-latest-version",
+    "jv16-power-tools-windows",
+    "pc-optimization"
+   ],
+   "signals": {
+    "age_days": 1.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.6,
+    "stars_per_day_recent": 27.5,
+    "lifetime_stars_per_day": 55.69,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.18,
+   "lead_score": 0.94,
+   "score_explain": [
+    "V=0.40: хвост 27.5 зв/сут против штатных 55.7 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-09",
+   "repo": "shadcn/improve",
+   "url": "https://github.com/shadcn/improve",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 10805,
+   "forks": 440,
+   "open_issues": 18,
+   "language": null,
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 17,
+   "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+   "topics": [],
+   "signals": {
+    "age_days": 154.5,
+    "last_push_days_ago": 60,
+    "stars_in_window": 3,
+    "window_h": 1.1,
+    "stars_per_day_recent": 64.7,
+    "lifetime_stars_per_day": 69.94,
+    "acceleration": 0.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.89,
+   "score_explain": [
+    "V=0.39: хвост 64.7 зв/сут против штатных 69.9 (x1)",
+    "N=0.6: репо 154 дн от роду",
+    "C=0.0: пуш 60 дн назад",
+    "fit=0.5 -> PS-sec",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-03",
+   "repo": "Leonxlnx/taste-skill",
+   "url": "https://github.com/Leonxlnx/taste-skill",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 113533,
+   "forks": 7641,
+   "open_issues": 6,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 104213,
+   "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "anti-slop",
+    "claude-code",
+    "codex",
+    "cursor"
+   ],
+   "signals": {
+    "age_days": 265.0,
+    "last_push_days_ago": 3,
+    "stars_in_window": 4,
+    "window_h": 2.7,
+    "stars_per_day_recent": 36.0,
+    "lifetime_stars_per_day": 428.35,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.83,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.87,
+   "score_explain": [
+    "V=0.05: хвост 36.0 зв/сут против штатных 428.4 (x0)",
+    "N=0.2: репо 265 дн от роду",
+    "C=1.0: пуш 3 дн назад",
+    "fit=0.83 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-17",
+   "repo": "FrigadeHQ/yogurt",
+   "url": "https://github.com/FrigadeHQ/yogurt",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 335,
+   "forks": 7,
+   "open_issues": 6,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 6588,
+   "description": "Private AI meeting notes. Free and open source.",
+   "topics": [
+    "electron",
+    "linux",
+    "llama-cpp",
+    "local-ai",
+    "macos",
+    "mcp"
+   ],
+   "signals": {
+    "age_days": 1.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.7,
+    "stars_per_day_recent": 26.2,
+    "lifetime_stars_per_day": 299.44,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.83,
+   "score_explain": [
+    "V=0.08: хвост 26.2 зв/сут против штатных 299.4 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-05",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 452591,
+   "forks": 111275,
+   "open_issues": 1701,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 156612,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "android",
+    "claude-code",
+    "cli",
+    "cpp"
+   ],
+   "signals": {
+    "age_days": 211.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 3.0,
+    "stars_per_day_recent": 31.9,
+    "lifetime_stars_per_day": 2135.7,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.77,
+   "score_explain": [
+    "V=0.01: хвост 31.9 зв/сут против штатных 2135.7 (x0)",
+    "N=0.2: репо 212 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-04",
+   "repo": "ahmddhani659-cmyk/motionbuilder-desktop",
+   "url": "https://github.com/ahmddhani659-cmyk/motionbuilder-desktop",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 62,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 117,
+   "description": "MotionBuilder: Real-Time 3D Animation and Keyframe Editing for Windows",
+   "topics": [
+    "3d-animation-software",
+    "3d-modeling-software",
+    "cinema-animation",
+    "motionbuilder",
+    "motionbuilder-download",
+    "motionbuilder-setup"
+   ],
+   "signals": {
+    "age_days": 1.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 2.9,
+    "stars_per_day_recent": 33.0,
+    "lifetime_stars_per_day": 55.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.75
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.41,
+   "lead_score": 0.65,
+   "score_explain": [
+    "V=0.47: хвост 33.0 зв/сут против штатных 55.0 (x1)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.41: self-star 0.0, кольца 0.75"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-10",
+   "repo": "doy676/hirecorder-audio-capture",
+   "url": "https://github.com/doy676/hirecorder-audio-capture",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 63,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 188,
+   "description": "Hirecorder: Streamlined Audio Capture for Visual Workflows",
+   "topics": [
+    "audio-recorder",
+    "hirecorder-setup",
+    "hirecorder-windows",
+    "music-recording",
+    "real-time-recording",
+    "trial-version"
+   ],
+   "signals": {
+    "age_days": 1.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.2,
+    "stars_per_day_recent": 60.2,
+    "lifetime_stars_per_day": 55.55,
+    "acceleration": 1.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.67
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.37,
+   "lead_score": 0.63,
+   "score_explain": [
+    "V=0.73: хвост 60.2 зв/сут против штатных 55.5 (x1)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.37: self-star 0.0, кольца 0.67"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-18",
+   "repo": "addyosmani/agent-skills",
+   "url": "https://github.com/addyosmani/agent-skills",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 115888,
+   "forks": 12155,
+   "open_issues": 136,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 1943,
+   "description": "Production-grade engineering skills for AI coding agents.",
+   "topics": [
+    "agent-skills",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "cursor",
+    "skills"
+   ],
+   "signals": {
+    "age_days": 269.1,
+    "last_push_days_ago": 10,
+    "stars_in_window": 3,
+    "window_h": 2.9,
+    "stars_per_day_recent": 25.1,
+    "lifetime_stars_per_day": 430.64,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.58,
+   "score_explain": [
+    "V=0.03: хвост 25.1 зв/сут против штатных 430.6 (x0)",
+    "N=0.2: репо 269 дн от роду",
+    "C=0.5: пуш 10 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-07",
+   "repo": "anthropics/skills",
+   "url": "https://github.com/anthropics/skills",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 193096,
+   "forks": 22728,
+   "open_issues": 1519,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "size_kb": 5502,
+   "description": "Public repository for Agent Skills",
+   "topics": [
+    "agent-skills"
+   ],
+   "signals": {
+    "age_days": 415.3,
+    "last_push_days_ago": 5,
+    "stars_in_window": 3,
+    "window_h": 0.2,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 464.97,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.46,
+   "score_explain": [
+    "V=0.16: хвост 144.0 зв/сут против штатных 465.0 (x0)",
+    "N=0.2: репо 415 дн от роду",
+    "C=1.0: пуш 5 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-15",
+   "repo": "NotRexed/Hookshot",
+   "url": "https://github.com/NotRexed/Hookshot",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 7696,
+   "forks": 688,
+   "open_issues": 180,
+   "language": "C++",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 17546,
+   "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+   "topics": [],
+   "signals": {
+    "age_days": 6.4,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.5,
+    "stars_per_day_recent": 29.0,
+    "lifetime_stars_per_day": 1195.1,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.39,
+   "score_explain": [
+    "V=0.02: хвост 29.0 зв/сут против штатных 1195.1 (x0)",
+    "N=1.0: репо 6 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-12",
+   "repo": "pingdotgg/t3code",
+   "url": "https://github.com/pingdotgg/t3code",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 56934,
+   "forks": 10511,
+   "open_issues": 5498,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 803529,
+   "description": null,
+   "topics": [],
+   "signals": {
+    "age_days": 276.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.9,
+    "stars_per_day_recent": 37.4,
+    "lifetime_stars_per_day": 206.31,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.31,
+   "score_explain": [
+    "V=0.10: хвост 37.4 зв/сут против штатных 206.3 (x0)",
+    "N=0.2: репо 276 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-11",
+   "repo": "siru4u4u-boop/empire-earth-3-strategy",
+   "url": "https://github.com/siru4u4u-boop/empire-earth-3-strategy",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 59,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 140,
+   "description": "Empire Earth 3: Multi-Faction RTS with Five Historical Eras for Windows",
+   "topics": [
+    "download-empire-earth-3",
+    "empire-earth-3-setup",
+    "games",
+    "skirmish-maps",
+    "strategy-game",
+    "trial-version"
+   ],
+   "signals": {
+    "age_days": 1.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.8,
+    "stars_per_day_recent": 40.7,
+    "lifetime_stars_per_day": 51.79,
+    "acceleration": 0.8,
+    "self_star_share": 0.0,
+    "ring_share": 1.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.55,
+   "lead_score": 0.2,
+   "score_explain": [
+    "V=0.58: хвост 40.7 зв/сут против штатных 51.8 (x1)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.55: self-star 0.0, кольца 1.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-13",
+   "repo": "ghost414-pro/wizard-land-game-enhancement",
+   "url": "https://github.com/ghost414-pro/wizard-land-game-enhancement",
+   "first_seen_at": "2026-11-11T22:52:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 61,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "TypeScript",
+   "license": null,
+   "archived": false,
+   "size_kb": 146,
+   "description": "Wizard-Land: Puzzle Adventure for Windows",
+   "topics": [
+    "complete-puzzles",
+    "puzzle-games",
+    "trial-version",
+    "wizard-land",
+    "wizard-land-download",
+    "wizard-land-installer"
+   ],
+   "signals": {
+    "age_days": 1.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.3,
+    "stars_per_day_recent": 31.1,
+    "lifetime_stars_per_day": 54.86,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 1.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.55,
+   "lead_score": 0.0,
+   "score_explain": [
+    "V=0.45: хвост 31.1 зв/сут против штатных 54.9 (x1)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.55: self-star 0.0, кольца 1.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-12T02:52:02Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}

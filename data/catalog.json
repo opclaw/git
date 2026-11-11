@@ -75,7 +75,7 @@
 "repo": "KnifeLemon/Filee",
 "url": "https://github.com/KnifeLemon/Filee",
 "description": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
-"stars": 22522.0,
+"stars": 25952.0,
 "spd": 119.7,
 "score": 1.31,
 "fit": 0.96,
@@ -84,10 +84,10 @@
 "license": "MIT",
 "language": "C#",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-05T18:15:01Z",
-"hits": 30,
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 31,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "YuJunZhiXue/dsh-purge": {
 "repo": "YuJunZhiXue/dsh-purge",
@@ -159,13 +159,13 @@
 "last_seen": "2026-11-10T20:54:55Z",
 "hits": 11,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "morluto/rea": {
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 451997.0,
+"stars": 452591.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-11T16:29:00Z",
-"hits": 139,
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 140,
 "in_tg": false,
 "status": "active"
 },
@@ -879,7 +879,7 @@
 "last_seen": "2026-11-10T20:54:55Z",
 "hits": 30,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Ebony-Vinyl/dsh-our-free-model": {
 "repo": "Ebony-Vinyl/dsh-our-free-model",
@@ -1011,7 +1011,7 @@
 "repo": "Leonxlnx/taste-skill",
 "url": "https://github.com/Leonxlnx/taste-skill",
 "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-"stars": 112282.0,
+"stars": 113533.0,
 "spd": 144.0,
 "score": 0.99,
 "fit": 0.83,
@@ -1020,10 +1020,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-09T11:51:39Z",
-"hits": 16,
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 17,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "cloudflare/security-audit-skill": {
 "repo": "cloudflare/security-audit-skill",
@@ -1641,7 +1641,7 @@
 "repo": "addyosmani/agent-skills",
 "url": "https://github.com/addyosmani/agent-skills",
 "description": "Production-grade engineering skills for AI coding agents.",
-"stars": 111025.0,
+"stars": 115888.0,
 "spd": 144.0,
 "score": 0.7,
 "fit": 0.52,
@@ -1650,10 +1650,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T19:30:26Z",
-"last_seen": "2026-10-27T15:58:41Z",
-"hits": 4,
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 5,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "sindresorhus/awesome": {
 "repo": "sindresorhus/awesome",
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "",
-"stars": 56101.0,
+"stars": 56934.0,
 "spd": 139.1,
 "score": 0.6,
 "fit": 0.0,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-11T07:50:25Z",
-"hits": 50,
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 51,
 "in_tg": false,
 "status": "active"
 },
@@ -8787,19 +8787,19 @@
 "repo": "anthropics/skills",
 "url": "https://github.com/anthropics/skills",
 "description": "Public repository for Agent Skills",
-"stars": 191364.0,
-"spd": 79.3,
-"score": 0.4,
+"stars": 193096.0,
+"spd": 144.0,
+"score": 0.46,
 "fit": 0.52,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": null,
 "language": "Python",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-10T06:29:26Z",
-"hits": 9,
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 10,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "jamixm4-crypto/natbypass": {
 "repo": "jamixm4-crypto/natbypass",
@@ -12747,7 +12747,7 @@
 "repo": "anefzaoui/misterdownloadmanager",
 "url": "https://github.com/anefzaoui/misterdownloadmanager",
 "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
-"stars": 6011.0,
+"stars": 6775.0,
 "spd": 192.0,
 "score": 2.16,
 "fit": 0.61,
@@ -12756,8 +12756,8 @@
 "license": "GPL-3.0",
 "language": "Rust",
 "first_seen": "2026-11-04T06:42:59Z",
-"last_seen": "2026-11-11T08:08:06Z",
-"hits": 13,
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 14,
 "in_tg": true,
 "status": "active"
 },
@@ -15807,7 +15807,7 @@
 "repo": "NotRexed/Hookshot",
 "url": "https://github.com/NotRexed/Hookshot",
 "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-"stars": 6065.0,
+"stars": 7696.0,
 "spd": 144.0,
 "score": 0.6,
 "fit": 0.0,
@@ -15816,10 +15816,10 @@
 "license": "GPL-3.0",
 "language": "C++",
 "first_seen": "2026-11-07T06:26:20Z",
-"last_seen": "2026-11-10T15:11:02Z",
-"hits": 13,
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 14,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "JenkinWoo/sheeridVerify": {
 "repo": "JenkinWoo/sheeridVerify",
@@ -16359,7 +16359,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "nsfwmnsfw-cyber/canva-pro-desktop-installer": {
 "repo": "nsfwmnsfw-cyber/canva-pro-desktop-installer",
@@ -16557,7 +16557,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "krishnasaim762-boop/melodyne-5-desktop-installer": {
 "repo": "krishnasaim762-boop/melodyne-5-desktop-installer",
@@ -16611,7 +16611,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "bavaliyapruthil2610-lgtm/media-toolkit-desktop": {
 "repo": "bavaliyapruthil2610-lgtm/media-toolkit-desktop",
@@ -17961,7 +17961,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "xavier442/pump-fun-desktop": {
 "repo": "xavier442/pump-fun-desktop",
@@ -18069,7 +18069,7 @@
 "last_seen": "2026-11-10T20:54:55Z",
 "hits": 5,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "jhaizhou-ops/S2Arm": {
 "repo": "jhaizhou-ops/S2Arm",
@@ -18417,7 +18417,7 @@
 "repo": "shadcn/improve",
 "url": "https://github.com/shadcn/improve",
 "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-"stars": 9729.0,
+"stars": 10805.0,
 "spd": 75.5,
 "score": 0.96,
 "fit": 0.5,
@@ -18426,10 +18426,10 @@
 "license": "MIT",
 "language": "",
 "first_seen": "2026-11-09T22:32:21Z",
-"last_seen": "2026-11-09T23:30:44Z",
-"hits": 2,
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 3,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "PackGiraffeFaucet86/adobe-indesign": {
 "repo": "PackGiraffeFaucet86/adobe-indesign",
@@ -19095,7 +19095,7 @@
 "last_seen": "2026-11-10T20:54:55Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "wdcpclover/ai4paper": {
 "repo": "wdcpclover/ai4paper",
@@ -19113,13 +19113,13 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "GoogleChrome/modern-web-guidance": {
 "repo": "GoogleChrome/modern-web-guidance",
 "url": "https://github.com/GoogleChrome/modern-web-guidance",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 3239.0,
+"stars": 4949.0,
 "spd": 76.3,
 "score": 1.7,
 "fit": 0.65,
@@ -19128,10 +19128,10 @@
 "license": "Apache-2.0",
 "language": "",
 "first_seen": "2026-11-10T20:54:55Z",
-"last_seen": "2026-11-11T01:23:52Z",
-"hits": 4,
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 5,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "freeCodeCamp/freeCodeCamp": {
 "repo": "freeCodeCamp/freeCodeCamp",
@@ -19149,7 +19149,7 @@
 "last_seen": "2026-11-10T20:54:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "luau/UniversalSynSaveInstance": {
 "repo": "luau/UniversalSynSaveInstance",
@@ -19167,7 +19167,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "markterence/discord-quest-completer": {
 "repo": "markterence/discord-quest-completer",
@@ -19185,7 +19185,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "johnstephenalbert/Visio-DataFlow-Builder": {
 "repo": "johnstephenalbert/Visio-DataFlow-Builder",
@@ -19203,7 +19203,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "manjushree-iyer/soundpad-audio-suite": {
 "repo": "manjushree-iyer/soundpad-audio-suite",
@@ -19221,7 +19221,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "CodeSouvik/clion-standalone-enhancement": {
 "repo": "CodeSouvik/clion-standalone-enhancement",
@@ -19239,7 +19239,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "radim-hossain94/abbyy-finereader-pdf": {
 "repo": "radim-hossain94/abbyy-finereader-pdf",
@@ -19257,7 +19257,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Elegantic/designcenter-nx-desktop": {
 "repo": "Elegantic/designcenter-nx-desktop",
@@ -19275,7 +19275,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "shayannazar84-hero/honkai-star-rail-companion-suite": {
 "repo": "shayannazar84-hero/honkai-star-rail-companion-suite",
@@ -19293,7 +19293,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ethangangasingh-crypto/musicmakerunlimited": {
 "repo": "ethangangasingh-crypto/musicmakerunlimited",
@@ -19311,7 +19311,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "sajawal-12/cubase-studio-desktop": {
 "repo": "sajawal-12/cubase-studio-desktop",
@@ -19329,7 +19329,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "tianjanahary05-source/reason-14-installer": {
 "repo": "tianjanahary05-source/reason-14-installer",
@@ -19347,7 +19347,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "daiphu2708-crypto/melodyne-5-desktop-setup": {
 "repo": "daiphu2708-crypto/melodyne-5-desktop-setup",
@@ -19365,7 +19365,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "marorateb/burning-studio-desktop": {
 "repo": "marorateb/burning-studio-desktop",
@@ -19383,7 +19383,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Sanidhya0510/dvd-creator-game-enhancement": {
 "repo": "Sanidhya0510/dvd-creator-game-enhancement",
@@ -19401,7 +19401,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "parthkshirsagar2456-blip/voicemod-desktop-edition": {
 "repo": "parthkshirsagar2456-blip/voicemod-desktop-edition",
@@ -19419,7 +19419,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "blockacc12345/music-maker-unlimited": {
 "repo": "blockacc12345/music-maker-unlimited",
@@ -19437,7 +19437,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Forgavin/ultra-iso-desktop-setup": {
 "repo": "Forgavin/ultra-iso-desktop-setup",
@@ -19455,7 +19455,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "uchihamx999-beep/imei-repair-toolkit": {
 "repo": "uchihamx999-beep/imei-repair-toolkit",
@@ -19473,7 +19473,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "utkarshryanite25-a11y/sony-vegas-pro-desktop": {
 "repo": "utkarshryanite25-a11y/sony-vegas-pro-desktop",
@@ -19491,7 +19491,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Leno27-Adr/autodesk-revit-2026-standalone": {
 "repo": "Leno27-Adr/autodesk-revit-2026-standalone",
@@ -19509,7 +19509,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "robertsjunior/fonetrans-desktop-setup": {
 "repo": "robertsjunior/fonetrans-desktop-setup",
@@ -19527,7 +19527,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "farhatullah0006-art/rx-11-audio-editor-config": {
 "repo": "farhatullah0006-art/rx-11-audio-editor-config",
@@ -19545,7 +19545,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "hayfa1234/honkai-star-rail-enhancement-suite": {
 "repo": "hayfa1234/honkai-star-rail-enhancement-suite",
@@ -19563,7 +19563,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "CpuCoreChant/total-commander": {
 "repo": "CpuCoreChant/total-commander",
@@ -19581,7 +19581,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "ZenithGeneralAmend/wondshare-recoverit": {
 "repo": "ZenithGeneralAmend/wondshare-recoverit",
@@ -19599,7 +19599,7 @@
 "last_seen": "2026-11-11T08:08:06Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "CpuMizukageFaucet/touch-copy": {
 "repo": "CpuMizukageFaucet/touch-copy",
@@ -19617,7 +19617,7 @@
 "last_seen": "2026-11-11T08:08:06Z",
 "hits": 4,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "AngleCentipede/ifunbox": {
 "repo": "AngleCentipede/ifunbox",
@@ -19635,7 +19635,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "BasaltCongressman/wise-registrity": {
 "repo": "BasaltCongressman/wise-registrity",
@@ -19653,7 +19653,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "chainpenguinentrance/power-director": {
 "repo": "chainpenguinentrance/power-director",
@@ -19671,7 +19671,7 @@
 "last_seen": "2026-11-11T08:08:06Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Tremorfualembic30/whale-tracker": {
 "repo": "Tremorfualembic30/whale-tracker",
@@ -19689,7 +19689,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Cordkushelter78/tenorshare-4ukey": {
 "repo": "Cordkushelter78/tenorshare-4ukey",
@@ -19707,7 +19707,7 @@
 "last_seen": "2026-11-10T21:23:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "microsoft/Procexp-Mac": {
 "repo": "microsoft/Procexp-Mac",
@@ -21200,6 +21200,150 @@
 "first_seen": "2026-11-11T16:21:09Z",
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
+"in_tg": false,
+"status": "new"
+},
+"mapglazierkiln/YouTube-Content-Accelerator-2026": {
+"repo": "mapglazierkiln/YouTube-Content-Accelerator-2026",
+"url": "https://github.com/mapglazierkiln/YouTube-Content-Accelerator-2026",
+"description": "Professional Windows desktop application for YouTube creators. Smart views optimization, engagement tools, trend analysis and channel growth management. Fast, stable, regularly updated with clean mode",
+"stars": 120,
+"spd": 144.0,
+"score": 3.03,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "Python",
+"first_seen": "2026-11-11T22:52:10Z",
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"aws/aws-emulator": {
+"repo": "aws/aws-emulator",
+"url": "https://github.com/aws/aws-emulator",
+"description": "AWS Emulator is a local emulator of the AWS APIs.",
+"stars": 1348,
+"spd": 120.6,
+"score": 1.29,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "CC0-1.0",
+"language": "Rust",
+"first_seen": "2026-11-11T22:52:10Z",
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"siyahandloom/jv16-powertools-desktop": {
+"repo": "siyahandloom/jv16-powertools-desktop",
+"url": "https://github.com/siyahandloom/jv16-powertools-desktop",
+"description": "Jv16 PowerTools Full Version: Windows Registry Cleaning and System Optimization Suite",
+"stars": 63,
+"spd": 27.5,
+"score": 0.94,
+"fit": 0.61,
+"risk": 0.18,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-11T22:52:10Z",
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"FrigadeHQ/yogurt": {
+"repo": "FrigadeHQ/yogurt",
+"url": "https://github.com/FrigadeHQ/yogurt",
+"description": "Private AI meeting notes. Free and open source.",
+"stars": 335,
+"spd": 26.2,
+"score": 0.83,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-11T22:52:10Z",
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ahmddhani659-cmyk/motionbuilder-desktop": {
+"repo": "ahmddhani659-cmyk/motionbuilder-desktop",
+"url": "https://github.com/ahmddhani659-cmyk/motionbuilder-desktop",
+"description": "MotionBuilder: Real-Time 3D Animation and Keyframe Editing for Windows",
+"stars": 62,
+"spd": 33.0,
+"score": 0.65,
+"fit": 0.5,
+"risk": 0.41,
+"ps": "PS-ml",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-11T22:52:10Z",
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"doy676/hirecorder-audio-capture": {
+"repo": "doy676/hirecorder-audio-capture",
+"url": "https://github.com/doy676/hirecorder-audio-capture",
+"description": "Hirecorder: Streamlined Audio Capture for Visual Workflows",
+"stars": 63,
+"spd": 60.2,
+"score": 0.63,
+"fit": 0.5,
+"risk": 0.37,
+"ps": "PS-ml",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-11T22:52:10Z",
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"siru4u4u-boop/empire-earth-3-strategy": {
+"repo": "siru4u4u-boop/empire-earth-3-strategy",
+"url": "https://github.com/siru4u4u-boop/empire-earth-3-strategy",
+"description": "Empire Earth 3: Multi-Faction RTS with Five Historical Eras for Windows",
+"stars": 59,
+"spd": 40.7,
+"score": 0.2,
+"fit": 0.0,
+"risk": 0.55,
+"ps": "PS-unknown",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-11T22:52:10Z",
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ghost414-pro/wizard-land-game-enhancement": {
+"repo": "ghost414-pro/wizard-land-game-enhancement",
+"url": "https://github.com/ghost414-pro/wizard-land-game-enhancement",
+"description": "Wizard-Land: Puzzle Adventure for Windows",
+"stars": 61,
+"spd": 31.1,
+"score": 0.0,
+"fit": 0.0,
+"risk": 0.55,
+"ps": "PS-unknown",
+"license": null,
+"language": "TypeScript",
+"first_seen": "2026-11-11T22:52:10Z",
+"last_seen": "2026-11-11T22:52:10Z",
+"hits": 1,
 "in_tg": false,
 "status": "new"
 }
