@@ -1,6 +1,6 @@
 {
  "schema": "radar/leads.v1",
- "generated_at": "2026-11-11T22:52:02Z",
+ "generated_at": "2026-11-11T22:57:46Z",
  "window": {
   "hours": 4,
   "from": "2026-11-11-18",
@@ -17,7 +17,7 @@
    "lead_id": "L-20261111-06",
    "repo": "mapglazierkiln/YouTube-Content-Accelerator-2026",
    "url": "https://github.com/mapglazierkiln/YouTube-Content-Accelerator-2026",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
    "stars": 120,
    "forks": 112,
@@ -60,7 +60,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -73,9 +73,9 @@
    "lead_id": "L-20261111-01",
    "repo": "aws/aws-emulator",
    "url": "https://github.com/aws/aws-emulator",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 1348,
+   "stars": 1366,
    "forks": 19,
    "open_issues": 19,
    "language": "Rust",
@@ -90,17 +90,17 @@
     "stars_in_window": 18,
     "window_h": 3.6,
     "stars_per_day_recent": 120.6,
-    "lifetime_stars_per_day": 22.04,
-    "acceleration": 5.5,
+    "lifetime_stars_per_day": 22.33,
+    "acceleration": 5.4,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
    "fit_internal": 0.0,
    "problem_statement": "PS-unknown",
    "manipulation_risk": 0.0,
-   "lead_score": 1.29,
+   "lead_score": 1.28,
    "score_explain": [
-    "V=1.12: хвост 120.6 зв/сут против штатных 22.0 (x5)",
+    "V=1.11: хвост 120.6 зв/сут против штатных 22.3 (x5)",
     "N=0.6: репо 61 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -109,7 +109,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -122,9 +122,9 @@
    "lead_id": "L-20261111-02",
    "repo": "GoogleChrome/modern-web-guidance",
    "url": "https://github.com/GoogleChrome/modern-web-guidance",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 4949,
+   "stars": 4954,
    "forks": 158,
    "open_issues": 1,
    "language": null,
@@ -139,7 +139,7 @@
     "stars_in_window": 4,
     "window_h": 2.5,
     "stars_per_day_recent": 38.4,
-    "lifetime_stars_per_day": 21.22,
+    "lifetime_stars_per_day": 21.24,
     "acceleration": 1.8,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -147,7 +147,7 @@
    "fit_internal": 0.65,
    "problem_statement": "PS-web",
    "manipulation_risk": 0.0,
-   "lead_score": 1.25,
+   "lead_score": 1.24,
    "score_explain": [
     "V=0.62: хвост 38.4 зв/сут против штатных 21.2 (x2)",
     "N=0.2: репо 233 дн от роду",
@@ -158,7 +158,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -171,9 +171,9 @@
    "lead_id": "L-20261111-14",
    "repo": "KnifeLemon/Filee",
    "url": "https://github.com/KnifeLemon/Filee",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 25952,
+   "stars": 25953,
    "forks": 1484,
    "open_issues": 115,
    "language": "C#",
@@ -195,7 +195,7 @@
     "stars_in_window": 3,
     "window_h": 2.4,
     "stars_per_day_recent": 29.4,
-    "lifetime_stars_per_day": 601.91,
+    "lifetime_stars_per_day": 601.88,
     "acceleration": 0.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -214,7 +214,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -227,11 +227,11 @@
    "lead_id": "L-20261111-08",
    "repo": "anefzaoui/misterdownloadmanager",
    "url": "https://github.com/anefzaoui/misterdownloadmanager",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 6775,
+   "stars": 6778,
    "forks": 519,
-   "open_issues": 203,
+   "open_issues": 204,
    "language": "Rust",
    "license": "GPL-3.0",
    "archived": false,
@@ -251,7 +251,7 @@
     "stars_in_window": 3,
     "window_h": 0.9,
     "stars_per_day_recent": 84.5,
-    "lifetime_stars_per_day": 487.64,
+    "lifetime_stars_per_day": 487.71,
     "acceleration": 0.2,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -261,7 +261,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.97,
    "score_explain": [
-    "V=0.16: хвост 84.5 зв/сут против штатных 487.6 (x0)",
+    "V=0.16: хвост 84.5 зв/сут против штатных 487.7 (x0)",
     "N=1.0: репо 14 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -270,7 +270,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -283,7 +283,7 @@
    "lead_id": "L-20261111-16",
    "repo": "siyahandloom/jv16-powertools-desktop",
    "url": "https://github.com/siyahandloom/jv16-powertools-desktop",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
    "stars": 63,
    "forks": 0,
@@ -307,7 +307,7 @@
     "stars_in_window": 3,
     "window_h": 2.6,
     "stars_per_day_recent": 27.5,
-    "lifetime_stars_per_day": 55.69,
+    "lifetime_stars_per_day": 55.49,
     "acceleration": 0.5,
     "self_star_share": 0.0,
     "ring_share": 0.33
@@ -317,7 +317,7 @@
    "manipulation_risk": 0.18,
    "lead_score": 0.94,
    "score_explain": [
-    "V=0.40: хвост 27.5 зв/сут против штатных 55.7 (x0)",
+    "V=0.40: хвост 27.5 зв/сут против штатных 55.5 (x0)",
     "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.61 -> PS-dev",
@@ -326,7 +326,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -339,9 +339,9 @@
    "lead_id": "L-20261111-09",
    "repo": "shadcn/improve",
    "url": "https://github.com/shadcn/improve",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 10805,
+   "stars": 10808,
    "forks": 440,
    "open_issues": 18,
    "language": null,
@@ -356,7 +356,7 @@
     "stars_in_window": 3,
     "window_h": 1.1,
     "stars_per_day_recent": 64.7,
-    "lifetime_stars_per_day": 69.94,
+    "lifetime_stars_per_day": 69.96,
     "acceleration": 0.9,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -366,7 +366,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.89,
    "score_explain": [
-    "V=0.39: хвост 64.7 зв/сут против штатных 69.9 (x1)",
+    "V=0.39: хвост 64.7 зв/сут против штатных 70.0 (x1)",
     "N=0.6: репо 154 дн от роду",
     "C=0.0: пуш 60 дн назад",
     "fit=0.5 -> PS-sec",
@@ -375,7 +375,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -388,9 +388,9 @@
    "lead_id": "L-20261111-03",
    "repo": "Leonxlnx/taste-skill",
    "url": "https://github.com/Leonxlnx/taste-skill",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 113533,
+   "stars": 113534,
    "forks": 7641,
    "open_issues": 6,
    "language": "JavaScript",
@@ -407,7 +407,7 @@
     "cursor"
    ],
    "signals": {
-    "age_days": 265.0,
+    "age_days": 265.1,
     "last_push_days_ago": 3,
     "stars_in_window": 4,
     "window_h": 2.7,
@@ -422,7 +422,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.87,
    "score_explain": [
-    "V=0.05: хвост 36.0 зв/сут против штатных 428.4 (x0)",
+    "V=0.05: хвост 36.0 зв/сут против штатных 428.3 (x0)",
     "N=0.2: репо 265 дн от роду",
     "C=1.0: пуш 3 дн назад",
     "fit=0.83 -> PS-web",
@@ -431,7 +431,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -444,9 +444,9 @@
    "lead_id": "L-20261111-17",
    "repo": "FrigadeHQ/yogurt",
    "url": "https://github.com/FrigadeHQ/yogurt",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 335,
+   "stars": 339,
    "forks": 7,
    "open_issues": 6,
    "language": "TypeScript",
@@ -468,7 +468,7 @@
     "stars_in_window": 3,
     "window_h": 2.7,
     "stars_per_day_recent": 26.2,
-    "lifetime_stars_per_day": 299.44,
+    "lifetime_stars_per_day": 301.94,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -476,9 +476,9 @@
    "fit_internal": 0.52,
    "problem_statement": "PS-infer",
    "manipulation_risk": 0.0,
-   "lead_score": 0.83,
+   "lead_score": 0.82,
    "score_explain": [
-    "V=0.08: хвост 26.2 зв/сут против штатных 299.4 (x0)",
+    "V=0.08: хвост 26.2 зв/сут против штатных 301.9 (x0)",
     "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.52 -> PS-infer",
@@ -487,7 +487,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -500,11 +500,11 @@
    "lead_id": "L-20261111-05",
    "repo": "morluto/rea",
    "url": "https://github.com/morluto/rea",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 452591,
-   "forks": 111275,
-   "open_issues": 1701,
+   "stars": 452600,
+   "forks": 111278,
+   "open_issues": 1697,
    "language": "TypeScript",
    "license": "MIT",
    "archived": false,
@@ -543,7 +543,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -556,7 +556,7 @@
    "lead_id": "L-20261111-04",
    "repo": "ahmddhani659-cmyk/motionbuilder-desktop",
    "url": "https://github.com/ahmddhani659-cmyk/motionbuilder-desktop",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
    "stars": 62,
    "forks": 0,
@@ -580,7 +580,7 @@
     "stars_in_window": 4,
     "window_h": 2.9,
     "stars_per_day_recent": 33.0,
-    "lifetime_stars_per_day": 55.0,
+    "lifetime_stars_per_day": 54.81,
     "acceleration": 0.6,
     "self_star_share": 0.0,
     "ring_share": 0.75
@@ -590,7 +590,7 @@
    "manipulation_risk": 0.41,
    "lead_score": 0.65,
    "score_explain": [
-    "V=0.47: хвост 33.0 зв/сут против штатных 55.0 (x1)",
+    "V=0.47: хвост 33.0 зв/сут против штатных 54.8 (x1)",
     "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.5 -> PS-ml",
@@ -599,7 +599,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -612,9 +612,9 @@
    "lead_id": "L-20261111-10",
    "repo": "doy676/hirecorder-audio-capture",
    "url": "https://github.com/doy676/hirecorder-audio-capture",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 63,
+   "stars": 64,
    "forks": 0,
    "open_issues": 0,
    "language": "HTML",
@@ -636,7 +636,7 @@
     "stars_in_window": 3,
     "window_h": 1.2,
     "stars_per_day_recent": 60.2,
-    "lifetime_stars_per_day": 55.55,
+    "lifetime_stars_per_day": 56.23,
     "acceleration": 1.1,
     "self_star_share": 0.0,
     "ring_share": 0.67
@@ -646,7 +646,7 @@
    "manipulation_risk": 0.37,
    "lead_score": 0.63,
    "score_explain": [
-    "V=0.73: хвост 60.2 зв/сут против штатных 55.5 (x1)",
+    "V=0.73: хвост 60.2 зв/сут против штатных 56.2 (x1)",
     "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.5 -> PS-ml",
@@ -655,7 +655,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -668,9 +668,9 @@
    "lead_id": "L-20261111-18",
    "repo": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 115888,
+   "stars": 115892,
    "forks": 12155,
    "open_issues": 136,
    "language": "JavaScript",
@@ -692,7 +692,7 @@
     "stars_in_window": 3,
     "window_h": 2.9,
     "stars_per_day_recent": 25.1,
-    "lifetime_stars_per_day": 430.64,
+    "lifetime_stars_per_day": 430.65,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -702,7 +702,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.58,
    "score_explain": [
-    "V=0.03: хвост 25.1 зв/сут против штатных 430.6 (x0)",
+    "V=0.03: хвост 25.1 зв/сут против штатных 430.7 (x0)",
     "N=0.2: репо 269 дн от роду",
     "C=0.5: пуш 10 дн назад",
     "fit=0.52 -> PS-infer",
@@ -711,7 +711,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -724,9 +724,9 @@
    "lead_id": "L-20261111-07",
    "repo": "anthropics/skills",
    "url": "https://github.com/anthropics/skills",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 193096,
+   "stars": 193097,
    "forks": 22728,
    "open_issues": 1519,
    "language": "Python",
@@ -743,7 +743,7 @@
     "stars_in_window": 3,
     "window_h": 0.2,
     "stars_per_day_recent": 144.0,
-    "lifetime_stars_per_day": 464.97,
+    "lifetime_stars_per_day": 464.96,
     "acceleration": 0.3,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -762,7 +762,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -775,11 +775,11 @@
    "lead_id": "L-20261111-15",
    "repo": "NotRexed/Hookshot",
    "url": "https://github.com/NotRexed/Hookshot",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 7696,
+   "stars": 7704,
    "forks": 688,
-   "open_issues": 180,
+   "open_issues": 182,
    "language": "C++",
    "license": "GPL-3.0",
    "archived": false,
@@ -792,7 +792,7 @@
     "stars_in_window": 3,
     "window_h": 2.5,
     "stars_per_day_recent": 29.0,
-    "lifetime_stars_per_day": 1195.1,
+    "lifetime_stars_per_day": 1195.6,
     "acceleration": 0.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -802,7 +802,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.39,
    "score_explain": [
-    "V=0.02: хвост 29.0 зв/сут против штатных 1195.1 (x0)",
+    "V=0.02: хвост 29.0 зв/сут против штатных 1195.6 (x0)",
     "N=1.0: репо 6 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -811,7 +811,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -824,11 +824,11 @@
    "lead_id": "L-20261111-12",
    "repo": "pingdotgg/t3code",
    "url": "https://github.com/pingdotgg/t3code",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 56934,
+   "stars": 56941,
    "forks": 10511,
-   "open_issues": 5498,
+   "open_issues": 5499,
    "language": "TypeScript",
    "license": "MIT",
    "archived": false,
@@ -841,7 +841,7 @@
     "stars_in_window": 3,
     "window_h": 1.9,
     "stars_per_day_recent": 37.4,
-    "lifetime_stars_per_day": 206.31,
+    "lifetime_stars_per_day": 206.33,
     "acceleration": 0.2,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -860,7 +860,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -873,9 +873,9 @@
    "lead_id": "L-20261111-11",
    "repo": "siru4u4u-boop/empire-earth-3-strategy",
    "url": "https://github.com/siru4u4u-boop/empire-earth-3-strategy",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 59,
+   "stars": 61,
    "forks": 0,
    "open_issues": 0,
    "language": "TypeScript",
@@ -897,7 +897,7 @@
     "stars_in_window": 3,
     "window_h": 1.8,
     "stars_per_day_recent": 40.7,
-    "lifetime_stars_per_day": 51.79,
+    "lifetime_stars_per_day": 53.35,
     "acceleration": 0.8,
     "self_star_share": 0.0,
     "ring_share": 1.0
@@ -905,9 +905,9 @@
    "fit_internal": 0.0,
    "problem_statement": "PS-unknown",
    "manipulation_risk": 0.55,
-   "lead_score": 0.2,
+   "lead_score": 0.19,
    "score_explain": [
-    "V=0.58: хвост 40.7 зв/сут против штатных 51.8 (x1)",
+    "V=0.57: хвост 40.7 зв/сут против штатных 53.4 (x1)",
     "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -916,7 +916,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -929,9 +929,9 @@
    "lead_id": "L-20261111-13",
    "repo": "ghost414-pro/wizard-land-game-enhancement",
    "url": "https://github.com/ghost414-pro/wizard-land-game-enhancement",
-   "first_seen_at": "2026-11-11T22:52:02Z",
+   "first_seen_at": "2026-11-11T22:57:46Z",
    "channel": "gh_archive_watch",
-   "stars": 61,
+   "stars": 62,
    "forks": 0,
    "open_issues": 0,
    "language": "TypeScript",
@@ -953,7 +953,7 @@
     "stars_in_window": 3,
     "window_h": 2.3,
     "stars_per_day_recent": 31.1,
-    "lifetime_stars_per_day": 54.86,
+    "lifetime_stars_per_day": 55.56,
     "acceleration": 0.6,
     "self_star_share": 0.0,
     "ring_share": 1.0
@@ -963,7 +963,7 @@
    "manipulation_risk": 0.55,
    "lead_score": 0.0,
    "score_explain": [
-    "V=0.45: хвост 31.1 зв/сут против штатных 54.9 (x1)",
+    "V=0.44: хвост 31.1 зв/сут против штатных 55.6 (x1)",
     "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -972,7 +972,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-12T02:52:02Z",
+    "sla_deadline": "2026-11-12T02:57:46Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
