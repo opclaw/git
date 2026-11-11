@@ -1,32 +1,32 @@
 {
  "schema": "radar/leads.v1",
- "generated_at": "2026-11-11T07:50:13Z",
+ "generated_at": "2026-11-11T08:07:47Z",
  "window": {
   "hours": 4,
-  "from": "2026-11-11-3",
-  "to": "2026-11-11-6",
-  "watch_events": 1115,
-  "repos": 952,
-  "actors": 1045,
-  "ring_accounts": 7,
-  "api_calls": 31,
+  "from": "2026-11-11-4",
+  "to": "2026-11-11-7",
+  "watch_events": 1317,
+  "repos": 945,
+  "actors": 1130,
+  "ring_accounts": 10,
+  "api_calls": 40,
   "authenticated": true
  },
  "leads": [
   {
-   "lead_id": "L-20261111-11",
+   "lead_id": "L-20261111-24",
    "repo": "Straniero44/wenai",
    "url": "https://github.com/Straniero44/wenai",
-   "first_seen_at": "2026-11-11T07:50:13Z",
+   "first_seen_at": "2026-11-11T08:07:47Z",
    "channel": "gh_archive_watch",
-   "stars": 355,
-   "forks": 96,
+   "stars": 361,
+   "forks": 97,
    "open_issues": 0,
    "language": null,
    "license": null,
    "archived": false,
    "size_kb": 140,
-   "description": "An intimate AI companion skill for OpenClaw — fall in love with your AI girlfriend, with a Pony V6 XL powered visual workflow.",
+   "description": "An intimate AI companion skill for OpenClaw — fall in love with your AI girlfriend, with static / dynamic visual and vocal workflows.",
    "topics": [],
    "signals": {
     "age_days": 78.2,
@@ -34,8 +34,8 @@
     "stars_in_window": 4,
     "window_h": 0.4,
     "stars_per_day_recent": 192.0,
-    "lifetime_stars_per_day": 4.54,
-    "acceleration": 42.3,
+    "lifetime_stars_per_day": 4.62,
+    "acceleration": 41.6,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
@@ -44,7 +44,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 2.39,
    "score_explain": [
-    "V=2.26: хвост 192.0 зв/сут против штатных 4.5 (x42)",
+    "V=2.25: хвост 192.0 зв/сут против штатных 4.6 (x42)",
     "N=0.6: репо 78 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.5 -> PS-ml",
@@ -53,7 +53,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
+    "sla_deadline": "2026-11-11T12:07:47Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -63,441 +63,12 @@
    }
   },
   {
-   "lead_id": "L-20261111-26",
-   "repo": "yarrick/pingfs",
-   "url": "https://github.com/yarrick/pingfs",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 3760,
-   "forks": 141,
-   "open_issues": 4,
-   "language": "C",
-   "license": "ISC",
-   "archived": false,
-   "size_kb": 66,
-   "description": "Stores your data in ICMP ping packets",
-   "topics": [],
-   "signals": {
-    "age_days": 4478.4,
-    "last_push_days_ago": 1193,
-    "stars_in_window": 3,
-    "window_h": 2.0,
-    "stars_per_day_recent": 35.7,
-    "lifetime_stars_per_day": 0.84,
-    "acceleration": 42.5,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.0,
-   "problem_statement": "PS-unknown",
-   "manipulation_risk": 0.0,
-   "lead_score": 2.12,
-   "score_explain": [
-    "V=2.26: хвост 35.7 зв/сут против штатных 0.8 (x43)",
-    "N=0.2: репо 4478 дн от роду",
-    "C=0.0: пуш 1193 дн назад",
-    "fit=0.0 -> PS-unknown",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-23",
-   "repo": "wzdnzd/aggregator",
-   "url": "https://github.com/wzdnzd/aggregator",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 6969,
-   "forks": 5477,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "archived": false,
-   "size_kb": 1192880,
-   "description": "One-stop Proxies Crawling and Aggregation Platform",
-   "topics": [
-    "proxypool"
-   ],
-   "signals": {
-    "age_days": 2711.1,
-    "last_push_days_ago": 19,
-    "stars_in_window": 3,
-    "window_h": 1.6,
-    "stars_per_day_recent": 44.7,
-    "lifetime_stars_per_day": 2.57,
-    "acceleration": 17.4,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.48,
-   "problem_statement": "PS-infra",
-   "manipulation_risk": 0.0,
-   "lead_score": 2.09,
-   "score_explain": [
-    "V=1.75: хвост 44.7 зв/сут против штатных 2.6 (x17)",
-    "N=0.2: репо 2711 дн от роду",
-    "C=0.5: пуш 19 дн назад",
-    "fit=0.48 -> PS-infra",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-19",
-   "repo": "superplanehq/superplane",
-   "url": "https://github.com/superplanehq/superplane",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 9897,
-   "forks": 704,
-   "open_issues": 222,
-   "language": "Go",
-   "license": "NOASSERTION",
-   "archived": false,
-   "size_kb": 563802,
-   "description": "Open source factory for one-shot engineering",
-   "topics": [
-    "agent-orchestration",
-    "agentic-workflows",
-    "ai-agents",
-    "ai-coding",
-    "ai-software-engineering",
-    "developer-tools"
-   ],
-   "signals": {
-    "age_days": 552.6,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 0.5,
-    "stars_per_day_recent": 135.7,
-    "lifetime_stars_per_day": 17.91,
-    "acceleration": 7.6,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.61,
-   "problem_statement": "PS-dev",
-   "manipulation_risk": 0.0,
-   "lead_score": 1.84,
-   "score_explain": [
-    "V=1.29: хвост 135.7 зв/сут против штатных 17.9 (x8)",
-    "N=0.2: репо 553 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.61 -> PS-dev",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-20",
-   "repo": "experientiallabs/experiential",
-   "url": "https://github.com/experientiallabs/experiential",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 16390,
-   "forks": 300,
-   "open_issues": 159,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "archived": false,
-   "size_kb": 108439,
-   "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
-   "topics": [],
-   "signals": {
-    "age_days": 139.4,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 0.7,
-    "stars_per_day_recent": 105.2,
-    "lifetime_stars_per_day": 117.59,
-    "acceleration": 0.9,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.89,
-   "problem_statement": "PS-ml",
-   "manipulation_risk": 0.0,
-   "lead_score": 1.29,
-   "score_explain": [
-    "V=0.38: хвост 105.2 зв/сут против штатных 117.6 (x1)",
-    "N=0.6: репо 139 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.89 -> PS-ml",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-07",
-   "repo": "sherlock-project/sherlock",
-   "url": "https://github.com/sherlock-project/sherlock",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 109479,
-   "forks": 12701,
-   "open_issues": 409,
-   "language": "Python",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 19101,
-   "description": "Hunt down social media accounts by username across social networks",
-   "topics": [
-    "cli",
-    "cti",
-    "cybersecurity",
-    "forensics",
-    "hacktoberfest",
-    "information-gathering"
-   ],
-   "signals": {
-    "age_days": 2878.7,
-    "last_push_days_ago": 0,
-    "stars_in_window": 5,
-    "window_h": 2.6,
-    "stars_per_day_recent": 46.5,
-    "lifetime_stars_per_day": 38.03,
-    "acceleration": 1.2,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.76,
-   "problem_statement": "PS-dev",
-   "manipulation_risk": 0.0,
-   "lead_score": 1.23,
-   "score_explain": [
-    "V=0.48: хвост 46.5 зв/сут против штатных 38.0 (x1)",
-    "N=0.2: репо 2879 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.76 -> PS-dev",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-25",
-   "repo": "OpenSelena/omniget",
-   "url": "https://github.com/OpenSelena/omniget",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 5517,
-   "forks": 689,
-   "open_issues": 25,
-   "language": "Rust",
-   "license": "GPL-3.0",
-   "archived": false,
-   "size_kb": 107867,
-   "description": "Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Built with Tauri 2.0, Rust & Svelte.",
-   "topics": [
-    "downloadmanager",
-    "gui",
-    "hacktoberfest",
-    "homebrew",
-    "lightweight",
-    "linux"
-   ],
-   "signals": {
-    "age_days": 126.1,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 1.9,
-    "stars_per_day_recent": 38.3,
-    "lifetime_stars_per_day": 43.76,
-    "acceleration": 0.9,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.65,
-   "problem_statement": "PS-web",
-   "manipulation_risk": 0.0,
-   "lead_score": 1.13,
-   "score_explain": [
-    "V=0.38: хвост 38.3 зв/сут против штатных 43.8 (x1)",
-    "N=0.6: репо 126 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.65 -> PS-web",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-14",
-   "repo": "expo/exact",
-   "url": "https://github.com/expo/exact",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 2429,
-   "forks": 52,
-   "open_issues": 65,
-   "language": "Rust",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 155742,
-   "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
-   "topics": [
-    "ai-agents",
-    "appkit",
-    "coding-agents",
-    "cross-platform",
-    "css",
-    "ios"
-   ],
-   "signals": {
-    "age_days": 9.3,
-    "last_push_days_ago": 0,
-    "stars_in_window": 4,
-    "window_h": 3.1,
-    "stars_per_day_recent": 31.0,
-    "lifetime_stars_per_day": 262.18,
-    "acceleration": 0.1,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.83,
-   "problem_statement": "PS-web",
-   "manipulation_risk": 0.0,
-   "lead_score": 1.08,
-   "score_explain": [
-    "V=0.11: хвост 31.0 зв/сут против штатных 262.2 (x0)",
-    "N=1.0: репо 9 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.83 -> PS-web",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-29",
-   "repo": "hypit-ai/hypit",
-   "url": "https://github.com/hypit-ai/hypit",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 29228,
-   "forks": 3402,
-   "open_issues": 102,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "archived": false,
-   "size_kb": 64103,
-   "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-   "topics": [
-    "agentic-ai",
-    "ai",
-    "ai-agents",
-    "ai-video",
-    "compiler",
-    "dsl"
-   ],
-   "signals": {
-    "age_days": 104.5,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 2.5,
-    "stars_per_day_recent": 28.4,
-    "lifetime_stars_per_day": 279.58,
-    "acceleration": 0.1,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.96,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 1.08,
-   "score_explain": [
-    "V=0.06: хвост 28.4 зв/сут против штатных 279.6 (x0)",
-    "N=0.6: репо 105 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.96 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-18",
+   "lead_id": "L-20261111-04",
    "repo": "capturemousesleeve/ozone-12-advanced",
    "url": "https://github.com/capturemousesleeve/ozone-12-advanced",
-   "first_seen_at": "2026-11-11T07:50:13Z",
+   "first_seen_at": "2026-11-11T08:07:47Z",
    "channel": "gh_archive_watch",
-   "stars": 295,
+   "stars": 395,
    "forks": 0,
    "open_issues": 0,
    "language": null,
@@ -516,20 +87,20 @@
    "signals": {
     "age_days": 0.7,
     "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 0.0,
-    "stars_per_day_recent": 144.0,
-    "lifetime_stars_per_day": 451.93,
-    "acceleration": 0.3,
+    "stars_in_window": 6,
+    "window_h": 0.5,
+    "stars_per_day_recent": 288.0,
+    "lifetime_stars_per_day": 594.02,
+    "acceleration": 0.5,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
    "fit_internal": 0.92,
    "problem_statement": "PS-dev",
    "manipulation_risk": 0.0,
-   "lead_score": 0.98,
+   "lead_score": 1.09,
    "score_explain": [
-    "V=0.28: хвост 144.0 зв/сут против штатных 451.9 (x0)",
+    "V=0.40: хвост 288.0 зв/сут против штатных 594.0 (x0)",
     "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.92 -> PS-dev",
@@ -538,7 +109,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
+    "sla_deadline": "2026-11-11T12:07:47Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -548,55 +119,160 @@
    }
   },
   {
-   "lead_id": "L-20261111-15",
-   "repo": "DietrichGebert/ponytail",
-   "url": "https://github.com/DietrichGebert/ponytail",
-   "first_seen_at": "2026-11-11T07:50:13Z",
+   "lead_id": "L-20261111-19",
+   "repo": "meta/astryx",
+   "url": "https://github.com/meta/astryx",
+   "first_seen_at": "2026-11-11T08:07:47Z",
    "channel": "gh_archive_watch",
-   "stars": 188598,
-   "forks": 10485,
-   "open_issues": 212,
-   "language": "JavaScript",
+   "stars": 23732,
+   "forks": 1864,
+   "open_issues": 665,
+   "language": "TypeScript",
    "license": "MIT",
    "archived": false,
-   "size_kb": 13130,
-   "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "claude",
-    "claude-code",
-    "claude-code-plugin",
-    "cursor-rules"
-   ],
+   "size_kb": 1321200,
+   "description": "An open source design system that's fully customizable and agent ready",
+   "topics": [],
    "signals": {
-    "age_days": 152.3,
-    "last_push_days_ago": 12,
-    "stars_in_window": 4,
-    "window_h": 3.2,
-    "stars_per_day_recent": 30.4,
-    "lifetime_stars_per_day": 1238.41,
-    "acceleration": 0.0,
+    "age_days": 305.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 2.0,
+    "stars_per_day_recent": 60.3,
+    "lifetime_stars_per_day": 77.64,
+    "acceleration": 0.8,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
-   "fit_internal": 0.96,
+   "fit_internal": 0.52,
    "problem_statement": "PS-infer",
    "manipulation_risk": 0.0,
-   "lead_score": 0.97,
+   "lead_score": 0.93,
    "score_explain": [
-    "V=0.01: хвост 30.4 зв/сут против штатных 1238.4 (x0)",
-    "N=0.6: репо 152 дн от роду",
-    "C=0.5: пуш 12 дн назад",
-    "fit=0.96 -> PS-infer",
+    "V=0.34: хвост 60.3 зв/сут против штатных 77.6 (x1)",
+    "N=0.2: репо 306 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
     "M=0.0: self-star 0.0, кольца 0.0"
    ],
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
+    "sla_deadline": "2026-11-11T12:07:47Z",
     "checks": {
      "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-22",
+   "repo": "ccch1mneyyy/dsh-Go",
+   "url": "https://github.com/ccch1mneyyy/dsh-Go",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 19109,
+   "forks": 840,
+   "open_issues": 526,
+   "language": "Dart",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "size_kb": 523459,
+   "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+   "topics": [
+    "ai-agent",
+    "android",
+    "android-app",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness"
+   ],
+   "signals": {
+    "age_days": 17.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 3.0,
+    "stars_per_day_recent": 40.5,
+    "lifetime_stars_per_day": 1124.15,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.93,
+   "score_explain": [
+    "V=0.04: хвост 40.5 зв/сут против штатных 1124.2 (x0)",
+    "N=1.0: репо 17 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-09",
+   "repo": "CthulhuMouse/uttorent",
+   "url": "https://github.com/CthulhuMouse/uttorent",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 386,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Uttorent 2023 pre-configured environment for seamless desktop software utility deployment on enterprise workstations.",
+   "topics": [
+    "automation",
+    "desktop-torrent-application",
+    "developer-tools",
+    "guide-setup-uttorent",
+    "how-to-install-uttorent",
+    "how-to-setup-uttorent"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.3,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 581.4,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.92,
+   "score_explain": [
+    "V=0.35: хвост 240.0 зв/сут против штатных 581.4 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
      "scorecard": "not_run",
      "readme_claims_reproduced": "not_run",
      "sandbox_run": "not_run"
@@ -605,52 +281,52 @@
   },
   {
    "lead_id": "L-20261111-21",
-   "repo": "debpalash/VoiceStudio",
-   "url": "https://github.com/debpalash/VoiceStudio",
-   "first_seen_at": "2026-11-11T07:50:13Z",
+   "repo": "anefzaoui/misterdownloadmanager",
+   "url": "https://github.com/anefzaoui/misterdownloadmanager",
+   "first_seen_at": "2026-11-11T08:07:47Z",
    "channel": "gh_archive_watch",
-   "stars": 107587,
-   "forks": 11916,
-   "open_issues": 32,
-   "language": "Python",
-   "license": "AGPL-3.0",
+   "stars": 6011,
+   "forks": 446,
+   "open_issues": 160,
+   "language": "Rust",
+   "license": "GPL-3.0",
    "archived": false,
-   "size_kb": 207297,
-   "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+   "size_kb": 438250,
+   "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
    "topics": [
-    "ai",
-    "audiobook",
-    "cuda",
-    "dubbing",
-    "elevenlabs-alternative",
-    "huggingface"
+    "bittorrent-client",
+    "debrid",
+    "download-accelerator",
+    "download-manager",
+    "downloadmanager",
+    "egui"
    ],
    "signals": {
-    "age_days": 215.4,
+    "age_days": 13.3,
     "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 1.4,
-    "stars_per_day_recent": 52.8,
-    "lifetime_stars_per_day": 499.42,
+    "stars_in_window": 5,
+    "window_h": 2.4,
+    "stars_per_day_recent": 49.4,
+    "lifetime_stars_per_day": 452.65,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
-   "fit_internal": 0.89,
-   "problem_statement": "PS-ml",
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
    "manipulation_risk": 0.0,
-   "lead_score": 0.93,
+   "lead_score": 0.92,
    "score_explain": [
-    "V=0.06: хвост 52.8 зв/сут против штатных 499.4 (x0)",
-    "N=0.2: репо 215 дн от роду",
+    "V=0.10: хвост 49.4 зв/сут против штатных 452.7 (x0)",
+    "N=1.0: репо 13 дн от роду",
     "C=1.0: пуш 0 дн назад",
-    "fit=0.89 -> PS-ml",
+    "fit=0.61 -> PS-dev",
     "M=0.0: self-star 0.0, кольца 0.0"
    ],
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
+    "sla_deadline": "2026-11-11T12:07:47Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -660,12 +336,12 @@
    }
   },
   {
-   "lead_id": "L-20261111-05",
+   "lead_id": "L-20261111-01",
    "repo": "voidvaporchimney/directory-opus",
    "url": "https://github.com/voidvaporchimney/directory-opus",
-   "first_seen_at": "2026-11-11T07:50:13Z",
+   "first_seen_at": "2026-11-11T08:07:47Z",
    "channel": "gh_archive_watch",
-   "stars": 381,
+   "stars": 455,
    "forks": 0,
    "open_issues": 0,
    "language": null,
@@ -684,20 +360,20 @@
    "signals": {
     "age_days": 0.7,
     "last_push_days_ago": 0,
-    "stars_in_window": 5,
-    "window_h": 0.0,
-    "stars_per_day_recent": 240.0,
-    "lifetime_stars_per_day": 582.19,
-    "acceleration": 0.4,
+    "stars_in_window": 9,
+    "window_h": 0.9,
+    "stars_per_day_recent": 230.5,
+    "lifetime_stars_per_day": 682.54,
+    "acceleration": 0.3,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
    "fit_internal": 0.76,
    "problem_statement": "PS-dev",
    "manipulation_risk": 0.0,
-   "lead_score": 0.92,
+   "lead_score": 0.87,
    "score_explain": [
-    "V=0.35: хвост 240.0 зв/сут против штатных 582.2 (x0)",
+    "V=0.29: хвост 230.5 зв/сут против штатных 682.5 (x0)",
     "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.76 -> PS-dev",
@@ -706,7 +382,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
+    "sla_deadline": "2026-11-11T12:07:47Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -716,318 +392,45 @@
    }
   },
   {
-   "lead_id": "L-20261111-10",
-   "repo": "ccch1mneyyy/dsh-Go",
-   "url": "https://github.com/ccch1mneyyy/dsh-Go",
-   "first_seen_at": "2026-11-11T07:50:13Z",
+   "lead_id": "L-20261111-05",
+   "repo": "darkartisanpersist/lossless-scaling",
+   "url": "https://github.com/darkartisanpersist/lossless-scaling",
+   "first_seen_at": "2026-11-11T08:07:47Z",
    "channel": "gh_archive_watch",
-   "stars": 19088,
-   "forks": 840,
-   "open_issues": 522,
-   "language": "Dart",
-   "license": "AGPL-3.0",
+   "stars": 388,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
    "archived": false,
-   "size_kb": 523459,
-   "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+   "size_kb": 1,
+   "description": "Lossless Scaling 2026 pre-configured environment for seamless automated deployment pipeline in professional desktop software utility.",
    "topics": [
-    "ai-agent",
-    "android",
-    "android-app",
-    "coding-agent",
-    "deepseek",
-    "deepseek-harness"
-   ],
-   "signals": {
-    "age_days": 17.0,
-    "last_push_days_ago": 0,
-    "stars_in_window": 5,
-    "window_h": 3.4,
-    "stars_per_day_recent": 35.2,
-    "lifetime_stars_per_day": 1123.73,
-    "acceleration": 0.0,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.74,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.92,
-   "score_explain": [
-    "V=0.03: хвост 35.2 зв/сут против штатных 1123.7 (x0)",
-    "N=1.0: репо 17 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.74 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-04",
-   "repo": "anefzaoui/misterdownloadmanager",
-   "url": "https://github.com/anefzaoui/misterdownloadmanager",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 5989,
-   "forks": 443,
-   "open_issues": 158,
-   "language": "Rust",
-   "license": "GPL-3.0",
-   "archived": false,
-   "size_kb": 438250,
-   "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
-   "topics": [
-    "bittorrent-client",
-    "debrid",
-    "download-accelerator",
-    "download-manager",
-    "downloadmanager",
-    "egui"
-   ],
-   "signals": {
-    "age_days": 13.3,
-    "last_push_days_ago": 0,
-    "stars_in_window": 6,
-    "window_h": 3.1,
-    "stars_per_day_recent": 47.0,
-    "lifetime_stars_per_day": 451.41,
-    "acceleration": 0.1,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.61,
-   "problem_statement": "PS-dev",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.91,
-   "score_explain": [
-    "V=0.10: хвост 47.0 зв/сут против штатных 451.4 (x0)",
-    "N=1.0: репо 13 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.61 -> PS-dev",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-01",
-   "repo": "meta/astryx",
-   "url": "https://github.com/meta/astryx",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 23706,
-   "forks": 1863,
-   "open_issues": 671,
-   "language": "TypeScript",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 1321200,
-   "description": "An open source design system that's fully customizable and agent ready",
-   "topics": [],
-   "signals": {
-    "age_days": 305.6,
-    "last_push_days_ago": 0,
-    "stars_in_window": 7,
-    "window_h": 3.3,
-    "stars_per_day_recent": 50.7,
-    "lifetime_stars_per_day": 77.56,
-    "acceleration": 0.7,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.52,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.89,
-   "score_explain": [
-    "V=0.30: хвост 50.7 зв/сут против штатных 77.6 (x1)",
-    "N=0.2: репо 306 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.52 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-03",
-   "repo": "milind-soni/OpenMausBot",
-   "url": "https://github.com/milind-soni/OpenMausBot",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 20874,
-   "forks": 2897,
-   "open_issues": 1011,
-   "language": "TypeScript",
-   "license": "Apache-2.0",
-   "archived": false,
-   "size_kb": 517281,
-   "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-   "topics": [
-    "ai-agents",
-    "claude-code",
-    "codex",
-    "computer-use",
-    "docker",
-    "electron"
-   ],
-   "signals": {
-    "age_days": 91.5,
-    "last_push_days_ago": 0,
-    "stars_in_window": 6,
-    "window_h": 2.5,
-    "stars_per_day_recent": 57.0,
-    "lifetime_stars_per_day": 228.04,
-    "acceleration": 0.2,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.65,
-   "problem_statement": "PS-infra",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.89,
-   "score_explain": [
-    "V=0.13: хвост 57.0 зв/сут против штатных 228.0 (x0)",
-    "N=0.6: репо 92 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.65 -> PS-infra",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-27",
-   "repo": "crmne/zapfast",
-   "url": "https://github.com/crmne/zapfast",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 4029,
-   "forks": 390,
-   "open_issues": 219,
-   "language": "Rust",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 53916,
-   "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
-   "topics": [
-    "chat",
-    "desktop-app",
-    "egui",
-    "linux",
-    "macos",
-    "messaging"
-   ],
-   "signals": {
-    "age_days": 73.7,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 2.2,
-    "stars_per_day_recent": 32.0,
-    "lifetime_stars_per_day": 54.69,
-    "acceleration": 0.6,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.48,
-   "problem_statement": "PS-web",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.89,
-   "score_explain": [
-    "V=0.28: хвост 32.0 зв/сут против штатных 54.7 (x1)",
-    "N=0.6: репо 74 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.48 -> PS-web",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-22",
-   "repo": "Ebony-Vinyl/dsh-our-free-model",
-   "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 69218,
-   "forks": 1862,
-   "open_issues": 165,
-   "language": "JavaScript",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 246947,
-   "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-   "topics": [
-    "ai-agents",
-    "deepseek",
-    "deepseek-harness",
+    "auto-lossless-scaling",
+    "automation",
     "developer-tools",
-    "dsh",
-    "dsh-plugin"
+    "guide-setup-lossless-scaling",
+    "how-to-install-lossless-scaling",
+    "how-to-setup-lossless-scaling"
    ],
    "signals": {
-    "age_days": 47.6,
+    "age_days": 0.5,
     "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 1.5,
-    "stars_per_day_recent": 48.3,
-    "lifetime_stars_per_day": 1452.7,
-    "acceleration": 0.0,
+    "stars_in_window": 6,
+    "window_h": 0.6,
+    "stars_per_day_recent": 226.5,
+    "lifetime_stars_per_day": 754.0,
+    "acceleration": 0.3,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
    "fit_internal": 0.76,
    "problem_statement": "PS-dev",
    "manipulation_risk": 0.0,
-   "lead_score": 0.86,
+   "lead_score": 0.85,
    "score_explain": [
-    "V=0.03: хвост 48.3 зв/сут против штатных 1452.7 (x0)",
-    "N=0.6: репо 48 дн от роду",
+    "V=0.26: хвост 226.5 зв/сут против штатных 754.0 (x0)",
+    "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.76 -> PS-dev",
     "M=0.0: self-star 0.0, кольца 0.0"
@@ -1035,212 +438,9 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
+    "sla_deadline": "2026-11-11T12:07:47Z",
     "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-08",
-   "repo": "HybridRobotics/supermimic",
-   "url": "https://github.com/HybridRobotics/supermimic",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 789,
-   "forks": 51,
-   "open_issues": 13,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "archived": false,
-   "size_kb": 880,
-   "description": "Humanoid whole-body motion tracking with one differentiable world model.",
-   "topics": [],
-   "signals": {
-    "age_days": 0.9,
-    "last_push_days_ago": 0,
-    "stars_in_window": 5,
-    "window_h": 3.3,
-    "stars_per_day_recent": 36.7,
-    "lifetime_stars_per_day": 899.36,
-    "acceleration": 0.0,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.5,
-   "problem_statement": "PS-ml",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.8,
-   "score_explain": [
-    "V=0.04: хвост 36.7 зв/сут против штатных 899.4 (x0)",
-    "N=1.0: репо 1 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.5 -> PS-ml",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-16",
-   "repo": "morluto/rea",
-   "url": "https://github.com/morluto/rea",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 450889,
-   "forks": 110958,
-   "open_issues": 1776,
-   "language": "TypeScript",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 154918,
-   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-   "topics": [
-    "agent-skills",
-    "ai",
-    "android",
-    "claude-code",
-    "cli",
-    "cpp"
-   ],
-   "signals": {
-    "age_days": 211.3,
-    "last_push_days_ago": 0,
-    "stars_in_window": 4,
-    "window_h": 3.3,
-    "stars_per_day_recent": 29.5,
-    "lifetime_stars_per_day": 2133.97,
-    "acceleration": 0.0,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.74,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.77,
-   "score_explain": [
-    "V=0.01: хвост 29.5 зв/сут против штатных 2134.0 (x0)",
-    "N=0.2: репо 211 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.74 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-09",
-   "repo": "vercel-labs/agent-browser",
-   "url": "https://github.com/vercel-labs/agent-browser",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 49461,
-   "forks": 3465,
-   "open_issues": 571,
-   "language": "Rust",
-   "license": "Apache-2.0",
-   "archived": false,
-   "size_kb": 33345,
-   "description": "Browser automation CLI for AI agents",
-   "topics": [],
-   "signals": {
-    "age_days": 304.1,
-    "last_push_days_ago": 0,
-    "stars_in_window": 5,
-    "window_h": 3.3,
-    "stars_per_day_recent": 36.1,
-    "lifetime_stars_per_day": 162.65,
-    "acceleration": 0.2,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.52,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.72,
-   "score_explain": [
-    "V=0.12: хвост 36.1 зв/сут против штатных 162.7 (x0)",
-    "N=0.2: репо 304 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.52 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-28",
-   "repo": "huamidev/GestaltX",
-   "url": "https://github.com/huamidev/GestaltX",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 5513,
-   "forks": 2162,
-   "open_issues": 45,
-   "language": "Swift",
-   "license": "GPL-3.0",
-   "archived": false,
-   "size_kb": 1290,
-   "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
-   "topics": [],
-   "signals": {
-    "age_days": 2.1,
-    "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 2.4,
-    "stars_per_day_recent": 29.9,
-    "lifetime_stars_per_day": 2616.22,
-    "acceleration": 0.0,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.45,
-   "problem_statement": "PS-dev",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.71,
-   "score_explain": [
-    "V=0.01: хвост 29.9 зв/сут против штатных 2616.2 (x0)",
-    "N=1.0: репо 2 дн от роду",
-    "C=1.0: пуш 0 дн назад",
-    "fit=0.45 -> PS-dev",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
+     "license": "MISSING->auto-reject",
      "scorecard": "not_run",
      "readme_claims_reproduced": "not_run",
      "sandbox_run": "not_run"
@@ -1249,47 +449,166 @@
   },
   {
    "lead_id": "L-20261111-13",
-   "repo": "Nutlope/hallmark",
-   "url": "https://github.com/Nutlope/hallmark",
-   "first_seen_at": "2026-11-11T07:50:13Z",
+   "repo": "ChipDeerCorrect/rufus",
+   "url": "https://github.com/ChipDeerCorrect/rufus",
+   "first_seen_at": "2026-11-11T08:07:47Z",
    "channel": "gh_archive_watch",
-   "stars": 52854,
-   "forks": 2805,
-   "open_issues": 45,
-   "language": "CSS",
-   "license": "MIT",
+   "stars": 390,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
    "archived": false,
-   "size_kb": 233513,
-   "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-   "topics": [],
+   "size_kb": 1,
+   "description": "Rufus 3.14 - Local workstation deployment package for streamlined OS installation and management.",
+   "topics": [
+    "automation",
+    "bootable-usb-creator",
+    "developer-tools",
+    "guide-setup-rufus",
+    "how-to-install-rufus",
+    "how-to-setup-rufus"
+   ],
    "signals": {
-    "age_days": 197.5,
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.7,
+    "stars_per_day_recent": 182.7,
+    "lifetime_stars_per_day": 586.91,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.85,
+   "score_explain": [
+    "V=0.27: хвост 182.7 зв/сут против штатных 586.9 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-14",
+   "repo": "ColossusDean/sp-flash-tool",
+   "url": "https://github.com/ColossusDean/sp-flash-tool",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 388,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Sp Flash Tool 2026 pre-configured environment for streamlined local workstation deployment, ensuring efficient software catalog management.",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "guide-setup-sp-flash-tool",
+    "how-to-install-sp-flash-tool",
+    "how-to-setup-sp-flash-tool"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.7,
+    "stars_per_day_recent": 161.9,
+    "lifetime_stars_per_day": 584.06,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.83,
+   "score_explain": [
+    "V=0.24: хвост 161.9 зв/сут против штатных 584.1 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-23",
+   "repo": "UrchinHope88/chief-architect-premier",
+   "url": "https://github.com/UrchinHope88/chief-architect-premier",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 474,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Chief Architect Premier 2026 pre-configured environment for seamless automated deployment pipeline in professional desktop software utility.",
+   "topics": [
+    "automation",
+    "chief-architect",
+    "chief-architect-setup-failed-fix",
+    "chief-architect-x16",
+    "chief-architect-x16-not-installing-on-windows-11",
+    "desktop"
+   ],
+   "signals": {
+    "age_days": 0.7,
     "last_push_days_ago": 0,
     "stars_in_window": 4,
-    "window_h": 2.3,
-    "stars_per_day_recent": 41.7,
-    "lifetime_stars_per_day": 267.67,
-    "acceleration": 0.2,
+    "window_h": 0.5,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 710.86,
+    "acceleration": 0.3,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
-   "fit_internal": 0.52,
-   "problem_statement": "PS-infer",
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
    "manipulation_risk": 0.0,
-   "lead_score": 0.67,
+   "lead_score": 0.83,
    "score_explain": [
-    "V=0.09: хвост 41.7 зв/сут против штатных 267.7 (x0)",
-    "N=0.2: репо 197 дн от роду",
+    "V=0.24: хвост 192.0 зв/сут против штатных 710.9 (x0)",
+    "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
-    "fit=0.52 -> PS-infer",
+    "fit=0.76 -> PS-dev",
     "M=0.0: self-star 0.0, кольца 0.0"
    ],
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
+    "sla_deadline": "2026-11-11T12:07:47Z",
     "checks": {
-     "license": "ok",
+     "license": "MISSING->auto-reject",
      "scorecard": "not_run",
      "readme_claims_reproduced": "not_run",
      "sandbox_run": "not_run"
@@ -1297,97 +616,55 @@
    }
   },
   {
-   "lead_id": "L-20261111-31",
-   "repo": "mattpocock/skills",
-   "url": "https://github.com/mattpocock/skills",
-   "first_seen_at": "2026-11-11T07:50:13Z",
+   "lead_id": "L-20261111-25",
+   "repo": "Constraintnatriumph/studioonepro7",
+   "url": "https://github.com/Constraintnatriumph/studioonepro7",
+   "first_seen_at": "2026-11-11T08:07:47Z",
    "channel": "gh_archive_watch",
-   "stars": 321272,
-   "forks": 26935,
-   "open_issues": 233,
-   "language": "Shell",
-   "license": "MIT",
+   "stars": 385,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
    "archived": false,
-   "size_kb": 2269,
-   "description": "Skills for Real Engineers. Straight from my .agents directory.",
-   "topics": [],
-   "signals": {
-    "age_days": 280.9,
-    "last_push_days_ago": 1,
-    "stars_in_window": 3,
-    "window_h": 3.1,
-    "stars_per_day_recent": 23.1,
-    "lifetime_stars_per_day": 1143.9,
-    "acceleration": 0.0,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.52,
-   "problem_statement": "PS-infer",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.61,
-   "score_explain": [
-    "V=0.01: хвост 23.1 зв/сут против штатных 1143.9 (x0)",
-    "N=0.2: репо 281 дн от роду",
-    "C=1.0: пуш 1 дн назад",
-    "fit=0.52 -> PS-infer",
-    "M=0.0: self-star 0.0, кольца 0.0"
+   "size_kb": 1,
+   "description": "Studioonepro7 2026 pre-configured environment for professional desktop software utility, ready for automated deployment pipeline on...",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "guide-setup-studioonepro7",
+    "how-to-install-studioonepro7",
+    "how-to-setup-studioonepro7"
    ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-30",
-   "repo": "we-promise/sure",
-   "url": "https://github.com/we-promise/sure",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 12290,
-   "forks": 909,
-   "open_issues": 885,
-   "language": "Ruby",
-   "license": "AGPL-3.0",
-   "archived": false,
-   "size_kb": 165283,
-   "description": "The personal finance app for everyone (by everyone)",
-   "topics": [],
    "signals": {
-    "age_days": 476.2,
+    "age_days": 0.7,
     "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 2.8,
-    "stars_per_day_recent": 25.5,
-    "lifetime_stars_per_day": 25.81,
-    "acceleration": 1.0,
+    "stars_in_window": 4,
+    "window_h": 0.6,
+    "stars_per_day_recent": 156.0,
+    "lifetime_stars_per_day": 579.64,
+    "acceleration": 0.3,
     "self_star_share": 0.0,
     "ring_share": 0.0
    },
-   "fit_internal": 0.0,
-   "problem_statement": "PS-unknown",
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
    "manipulation_risk": 0.0,
-   "lead_score": 0.6,
+   "lead_score": 0.82,
    "score_explain": [
-    "V=0.41: хвост 25.5 зв/сут против штатных 25.8 (x1)",
-    "N=0.2: репо 476 дн от роду",
+    "V=0.24: хвост 156.0 зв/сут против штатных 579.6 (x0)",
+    "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
-    "fit=0.0 -> PS-unknown",
+    "fit=0.76 -> PS-dev",
     "M=0.0: self-star 0.0, кольца 0.0"
    ],
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
+    "sla_deadline": "2026-11-11T12:07:47Z",
     "checks": {
-     "license": "ok",
+     "license": "MISSING->auto-reject",
      "scorecard": "not_run",
      "readme_claims_reproduced": "not_run",
      "sandbox_run": "not_run"
@@ -1395,12 +672,68 @@
    }
   },
   {
-   "lead_id": "L-20261111-17",
+   "lead_id": "L-20261111-27",
+   "repo": "cinderpugilistshape/rx-11-audio-editor",
+   "url": "https://github.com/cinderpugilistshape/rx-11-audio-editor",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 389,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Rx 11 Audio Editor 2026 pre-configured production build for isolated local environment workstation deployment.",
+   "topics": [
+    "audio-mastering",
+    "audio-restoration",
+    "automation",
+    "descript-pro",
+    "developer-tools",
+    "guide-setup-rx-11-audio-editor"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.6,
+    "stars_per_day_recent": 153.7,
+    "lifetime_stars_per_day": 585.47,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.82,
+   "score_explain": [
+    "V=0.23: хвост 153.7 зв/сут против штатных 585.5 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-03",
    "repo": "Toothkroclamp/aiseesoft-unlocker",
    "url": "https://github.com/Toothkroclamp/aiseesoft-unlocker",
-   "first_seen_at": "2026-11-11T07:50:13Z",
+   "first_seen_at": "2026-11-11T08:07:47Z",
    "channel": "gh_archive_watch",
-   "stars": 395,
+   "stars": 485,
    "forks": 0,
    "open_issues": 0,
    "language": null,
@@ -1419,20 +752,965 @@
    "signals": {
     "age_days": 0.7,
     "last_push_days_ago": 0,
-    "stars_in_window": 3,
-    "window_h": 0.0,
-    "stars_per_day_recent": 144.0,
-    "lifetime_stars_per_day": 602.75,
+    "stars_in_window": 6,
+    "window_h": 0.4,
+    "stars_per_day_recent": 288.0,
+    "lifetime_stars_per_day": 726.56,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.17
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.09,
+   "lead_score": 0.8,
+   "score_explain": [
+    "V=0.33: хвост 288.0 зв/сут против штатных 726.6 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.09: self-star 0.0, кольца 0.17"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-31",
+   "repo": "WorkerCaptivate/genesis-miner",
+   "url": "https://github.com/WorkerCaptivate/genesis-miner",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 405,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Genesis Miner 2023 automated deployment pipeline for efficient desktop software utility configuration.",
+   "topics": [
+    "automation",
+    "bitcoin-mining-tools",
+    "cpu-mining",
+    "cpumining",
+    "cryptominer",
+    "developer-tools"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.7,
+    "stars_per_day_recent": 134.5,
+    "lifetime_stars_per_day": 608.18,
     "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.79,
+   "score_explain": [
+    "V=0.20: хвост 134.5 зв/сут против штатных 608.2 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-17",
+   "repo": "VirtualCicada/delta-executor-for-pc-bypass",
+   "url": "https://github.com/VirtualCicada/delta-executor-for-pc-bypass",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 460,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Delta Executor For Pc 2026 pre-configured environment for streamlined desktop software utility execution.",
+   "topics": [
+    "delta-exec",
+    "delta-executor-26",
+    "delta-executor-exploit",
+    "delta-executor-for-free",
+    "delta-executor-for-pc-2026",
+    "delta-executor-for-win"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.9,
+    "stars_per_day_recent": 127.6,
+    "lifetime_stars_per_day": 689.98,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.76,
+   "score_explain": [
+    "V=0.17: хвост 127.6 зв/сут против штатных 690.0 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-33",
+   "repo": "CyanTannerPortray/voicemod",
+   "url": "https://github.com/CyanTannerPortray/voicemod",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 386,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Voicemod 2026 pre-configured environment for seamless desktop software utility deployment on isolated workstation.",
+   "topics": [
+    "aivoicechanger",
+    "developer-tools",
+    "discord-voice-bot",
+    "gaming-utilities",
+    "guide-setup-voicemod",
+    "how-to-install-voicemod"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.9,
+    "stars_per_day_recent": 105.1,
+    "lifetime_stars_per_day": 581.4,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.76,
+   "score_explain": [
+    "V=0.17: хвост 105.1 зв/сут против штатных 581.4 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-39",
+   "repo": "Chamberwithinplay/pump-fun",
+   "url": "https://github.com/Chamberwithinplay/pump-fun",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 393,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Pump Fun 2023 pre-configured environment for seamless desktop software utility configuration and automated deployment pipeline.",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "guide-setup-pump-fun",
+    "how-to-install-pump-fun",
+    "how-to-setup-pump-fun"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.9,
+    "stars_per_day_recent": 102.4,
+    "lifetime_stars_per_day": 591.25,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.75,
+   "score_explain": [
+    "V=0.16: хвост 102.4 зв/сут против штатных 591.2 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-26",
+   "repo": "ZenithGeneralAmend/wondshare-recoverit",
+   "url": "https://github.com/ZenithGeneralAmend/wondshare-recoverit",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 681,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Wondshare Recoverit 13.5 automated deployment pipeline for enterprise-level data recovery solution, pre-configured environment ensuring...",
+   "topics": [
+    "android-data-recovery-software-fonelab",
+    "automation",
+    "data-recovery",
+    "data-recovery-software",
+    "data-recovery-tool",
+    "developer-tools"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.6,
+    "stars_per_day_recent": 155.4,
+    "lifetime_stars_per_day": 1026.12,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.74,
+   "score_explain": [
+    "V=0.14: хвост 155.4 зв/сут против штатных 1026.1 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-29",
+   "repo": "Zombiekruwatch64/honkai-star-rail-trainer-tool",
+   "url": "https://github.com/Zombiekruwatch64/honkai-star-rail-trainer-tool",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 402,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Honkai Star Rail 2026 pre-configured environment for automated deployment pipeline, ensuring seamless local workstation setup and optimal performance.",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "guide-setup-honkai-star-rail-trainer-tool",
+    "how-to-install-honkai-star-rail-trainer-tool",
+    "how-to-setup-honkai-star-rail-trainer-tool"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.6,
+    "stars_per_day_recent": 152.2,
+    "lifetime_stars_per_day": 603.79,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.89,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.74,
+   "score_explain": [
+    "V=0.22: хвост 152.2 зв/сут против штатных 603.8 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.89 -> PS-ml",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-37",
+   "repo": "WatchStorkGrade/dvd-creator",
+   "url": "https://github.com/WatchStorkGrade/dvd-creator",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 443,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "DVD Creator 2026 automated deployment pipeline for secure, pre-configured desktop software utility environment.",
+   "topics": [
+    "acer-nitro",
+    "ais-data",
+    "aiseesoft-data-recovery-speed-comparison",
+    "aiseesoft-fonelab-for-ios",
+    "aiseesoft-recover-deleted-files",
+    "aiseesoft-video-converter-pc"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.9,
+    "stars_per_day_recent": 103.3,
+    "lifetime_stars_per_day": 664.84,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.74,
+   "score_explain": [
+    "V=0.14: хвост 103.3 зв/сут против штатных 664.8 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-12",
+   "repo": "Chartenshackle/robux-generator",
+   "url": "https://github.com/Chartenshackle/robux-generator",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 392,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Robux Generator 2023 robust automated deployment pipeline pre-configured environment for secure desktop software utility execution.",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "guide-setup-robux-generator",
+    "how-to-install-robux-generator",
+    "how-to-setup-robux-generator"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.6,
+    "stars_per_day_recent": 186.4,
+    "lifetime_stars_per_day": 589.81,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.2
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.11,
+   "lead_score": 0.73,
+   "score_explain": [
+    "V=0.27: хвост 186.4 зв/сут против штатных 589.8 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.11: self-star 0.0, кольца 0.2"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-20",
+   "repo": "huamidev/GestaltX",
+   "url": "https://github.com/huamidev/GestaltX",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 5531,
+   "forks": 2172,
+   "open_issues": 46,
+   "language": "Swift",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 1290,
+   "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+   "topics": [],
+   "signals": {
+    "age_days": 2.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 2.0,
+    "stars_per_day_recent": 59.7,
+    "lifetime_stars_per_day": 2609.65,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.72,
+   "score_explain": [
+    "V=0.02: хвост 59.7 зв/сут против штатных 2609.7 (x0)",
+    "N=1.0: репо 2 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-28",
+   "repo": "Urbankruplug/autodesk-cfd",
+   "url": "https://github.com/Urbankruplug/autodesk-cfd",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 750,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Autodesk Cfd 2026 pre-configured environment for seamless local workstation deployment.",
+   "topics": [
+    "automation",
+    "cfd-simulation",
+    "cfd-toolbox",
+    "cfdtool-toolbox",
+    "developer-tools",
+    "guide-setup-autodesk-cfd"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.6,
+    "stars_per_day_recent": 152.6,
+    "lifetime_stars_per_day": 1124.58,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.72,
+   "score_explain": [
+    "V=0.13: хвост 152.6 зв/сут против штатных 1124.6 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-30",
+   "repo": "Typhooninknot/axie-infinity-bot",
+   "url": "https://github.com/Typhooninknot/axie-infinity-bot",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 781,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Axie Infinity Bot 2026 automated deployment pipeline for efficient desktop software utility configuration and execution.",
+   "topics": [
+    "auto-battle-bot",
+    "axie-auto",
+    "axie-auto-2026",
+    "axie-automation-tool",
+    "axie-bot",
+    "axie-bot-2026"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.6,
+    "stars_per_day_recent": 148.1,
+    "lifetime_stars_per_day": 1170.67,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.72,
+   "score_explain": [
+    "V=0.12: хвост 148.1 зв/сут против штатных 1170.7 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-38",
+   "repo": "WinnerChefJam/flash-crypto-generator",
+   "url": "https://github.com/WinnerChefJam/flash-crypto-generator",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 725,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Flash Crypto Generator 2026 automated deployment pipeline with pre-configured environment, ready for instant execution on professional...",
+   "topics": [
+    "automation",
+    "bitcoin-transaction-tool",
+    "bnb-flash-software-2025",
+    "desktop",
+    "developer-tools",
+    "erc20-generator"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.9,
+    "stars_per_day_recent": 102.7,
+    "lifetime_stars_per_day": 1088.36,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.69,
+   "score_explain": [
+    "V=0.09: хвост 102.7 зв/сут против штатных 1088.4 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-08",
+   "repo": "Vaultforengage/coreldraw",
+   "url": "https://github.com/Vaultforengage/coreldraw",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 472,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "CorelDRAW Graphics Suite 2026 pre-configured environment for professional desktop software utility, ready for automated deployment pipeline...",
+   "topics": [
+    "automation",
+    "coreldraw-docs",
+    "coreldraw-windows-download",
+    "crashplan-app",
+    "crashplan-bypass",
+    "crashplan-for-small-business"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 1.0,
+    "stars_per_day_recent": 148.2,
+    "lifetime_stars_per_day": 707.92,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.17
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.09,
+   "lead_score": 0.67,
+   "score_explain": [
+    "V=0.19: хвост 148.2 зв/сут против штатных 707.9 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.09: self-star 0.0, кольца 0.17"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-16",
+   "repo": "chainpenguinentrance/power-director",
+   "url": "https://github.com/chainpenguinentrance/power-director",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 687,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Power Director Configuration Folder 2026 - Optimized package deployment for seamless desktop software utility environment setup.",
+   "topics": [
+    "cyber-link",
+    "cyberlink-by-powerdirector",
+    "cyberlink-power2go-13-platinum",
+    "cyberlink-powerdirector",
+    "cyberlink-powerdirector-19-download",
+    "cyberlink-powerdirector-2026"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.9,
+    "stars_per_day_recent": 127.7,
+    "lifetime_stars_per_day": 1033.52,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.67,
+   "score_explain": [
+    "V=0.12: хвост 127.7 зв/сут против штатных 1033.5 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-15",
+   "repo": "Constraintbinice15/start11",
+   "url": "https://github.com/Constraintbinice15/start11",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 387,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Start11 2023 pre-configured environment for efficient desktop utility deployment on isolated local workstations.",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "guide-setup-start11",
+    "how-to-install-start11",
+    "how-to-setup-start11"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.9,
+    "stars_per_day_recent": 130.6,
+    "lifetime_stars_per_day": 582.58,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.2
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.11,
+   "lead_score": 0.66,
+   "score_explain": [
+    "V=0.20: хвост 130.6 зв/сут против штатных 582.6 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.11: self-star 0.0, кольца 0.2"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-35",
+   "repo": "YoctoRegentSeparate/grayket",
+   "url": "https://github.com/YoctoRegentSeparate/grayket",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 404,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Grayket 2023 automated deployment pipeline for enterprise desktop software utility configuration.",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python",
+    "scripts"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.9,
+    "stars_per_day_recent": 103.8,
+    "lifetime_stars_per_day": 606.71,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.64,
+   "score_explain": [
+    "V=0.16: хвост 103.8 зв/сут против штатных 606.7 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-06",
+   "repo": "azureczarsecret/melodyne-5",
+   "url": "https://github.com/azureczarsecret/melodyne-5",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 401,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Melodyne 5 automated deployment pipeline for professional desktop software utility, ready for isolated local environment workstation setup.",
+   "topics": [
+    "automation",
+    "celemony",
+    "celemony-melodyne-install-setup-windows-2026",
+    "desktop",
+    "developer-tools",
+    "guide-setup-melodyne-5"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.9,
+    "stars_per_day_recent": 155.2,
+    "lifetime_stars_per_day": 602.62,
+    "acceleration": 0.3,
     "self_star_share": 0.0,
     "ring_share": 0.33
    },
    "fit_internal": 0.76,
    "problem_statement": "PS-dev",
    "manipulation_risk": 0.18,
-   "lead_score": 0.59,
+   "lead_score": 0.6,
    "score_explain": [
-    "V=0.21: хвост 144.0 зв/сут против штатных 602.7 (x0)",
+    "V=0.23: хвост 155.2 зв/сут против штатных 602.6 (x0)",
     "N=1.0: репо 1 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.76 -> PS-dev",
@@ -1441,7 +1719,399 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-07",
+   "repo": "CpuMizukageFaucet/touch-copy",
+   "url": "https://github.com/CpuMizukageFaucet/touch-copy",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 948,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Touch Copy 2026 automated deployment pipeline for secure, efficient desktop software utility configuration.",
+   "topics": [
+    "automation",
+    "content-copy",
+    "copyfail",
+    "developer-tools",
+    "guide-setup-touch-copy",
+    "how-to-install-touch-copy"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 1.0,
+    "stars_per_day_recent": 150.5,
+    "lifetime_stars_per_day": 1427.71,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.17
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.09,
+   "lead_score": 0.59,
+   "score_explain": [
+    "V=0.10: хвост 150.5 зв/сут против штатных 1427.7 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.09: self-star 0.0, кольца 0.17"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-36",
+   "repo": "chaosseekerpartition/reason-14",
+   "url": "https://github.com/chaosseekerpartition/reason-14",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 392,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Reason 14 2026 pre-configured environment for professional desktop software utility automated deployment pipeline.",
+   "topics": [
+    "daw-software",
+    "developer-tools",
+    "guide-setup-reason-14",
+    "how-to-install-reason-14",
+    "how-to-setup-reason-14",
+    "open-source"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.9,
+    "stars_per_day_recent": 103.4,
+    "lifetime_stars_per_day": 589.75,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.59,
+   "score_explain": [
+    "V=0.16: хвост 103.4 зв/сут против штатных 589.8 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-40",
+   "repo": "wantlightrectifier/display-fusion",
+   "url": "https://github.com/wantlightrectifier/display-fusion",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 449,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Display Fusion 1.5.4 automated deployment pipeline for professional desktop software utility configuration, ensuring seamless workstation...",
+   "topics": [
+    "automation",
+    "desktop-tools",
+    "developer-tools",
+    "display-management",
+    "displayfusion",
+    "displayfusion-2026"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.9,
+    "stars_per_day_recent": 101.6,
+    "lifetime_stars_per_day": 673.81,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.57,
+   "score_explain": [
+    "V=0.14: хвост 101.6 зв/сут против штатных 673.8 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-34",
+   "repo": "twilightfiredetach/burning-studio",
+   "url": "https://github.com/twilightfiredetach/burning-studio",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 478,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Burning Studio 2023 pre-configured environment for seamless desktop utility configuration and deployment.",
+   "topics": [
+    "ashampoo-burn-install-setup-windows-2026",
+    "ashampoo-burning-studio",
+    "burning-studio",
+    "burning-studio-2026",
+    "burning-studio-crack",
+    "burning-studio-download"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.9,
+    "stars_per_day_recent": 104.3,
+    "lifetime_stars_per_day": 716.51,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.54,
+   "score_explain": [
+    "V=0.14: хвост 104.3 зв/сут против штатных 716.5 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-32",
+   "repo": "AttoLovebird/landr-plugin-bundle",
+   "url": "https://github.com/AttoLovebird/landr-plugin-bundle",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 715,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Landr Plugin Bundle 2026 automated deployment pipeline for seamless desktop utility integration and rapid production setup.",
+   "topics": [
+    "guide-setup-landr-plugin-bundle",
+    "how-to-install-landr",
+    "how-to-install-landr-mastering",
+    "how-to-install-landr-plugin-bundle",
+    "how-to-setup-landr-plugin-bundle",
+    "landr-desktop-2026"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.8,
+    "stars_per_day_recent": 127.1,
+    "lifetime_stars_per_day": 1074.35,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.5,
+   "score_explain": [
+    "V=0.11: хвост 127.1 зв/сут против штатных 1074.4 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-10",
+   "repo": "Trackerwitharcade84/atas-trading-bot",
+   "url": "https://github.com/Trackerwitharcade84/atas-trading-bot",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 482,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Atas Trading Bot 2024 pre-configured environment for automated deployment pipeline, ensuring seamless local workstation setup.",
+   "topics": [
+    "atas-platform",
+    "atas-pro",
+    "background-process",
+    "dealer-positioning",
+    "es-futures",
+    "how-to-setup-atas-trading-bot"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.6,
+    "stars_per_day_recent": 191.7,
+    "lifetime_stars_per_day": 722.43,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.2
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.11,
+   "lead_score": 0.49,
+   "score_explain": [
+    "V=0.24: хвост 191.7 зв/сут против штатных 722.4 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.11: self-star 0.0, кольца 0.2"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261111-11",
+   "repo": "ArcSergeantMall/imyfone",
+   "url": "https://github.com/ArcSergeantMall/imyfone",
+   "first_seen_at": "2026-11-11T08:07:47Z",
+   "channel": "gh_archive_watch",
+   "stars": 401,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 1,
+   "description": "Imyfone utility suite 2023 pre-configured environment for seamless desktop software catalog integration.",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python",
+    "scripts"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.6,
+    "stars_per_day_recent": 189.8,
+    "lifetime_stars_per_day": 602.36,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.4
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.22,
+   "lead_score": 0.48,
+   "score_explain": [
+    "V=0.27: хвост 189.8 зв/сут против штатных 602.4 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.22: self-star 0.0, кольца 0.4"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-11T12:07:47Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
@@ -1454,24 +2124,24 @@
    "lead_id": "L-20261111-02",
    "repo": "storytold/craft-anything",
    "url": "https://github.com/storytold/craft-anything",
-   "first_seen_at": "2026-11-11T07:50:13Z",
+   "first_seen_at": "2026-11-11T08:07:47Z",
    "channel": "gh_archive_watch",
-   "stars": 27127,
-   "forks": 5508,
+   "stars": 27180,
+   "forks": 5514,
    "open_issues": 305,
    "language": "Rust",
    "license": "Apache-2.0",
    "archived": false,
-   "size_kb": 16278,
+   "size_kb": 16455,
    "description": "Craft Anything: understand how any software works, and craft your own.",
    "topics": [],
    "signals": {
     "age_days": 10.7,
     "last_push_days_ago": 0,
-    "stars_in_window": 7,
-    "window_h": 3.7,
-    "stars_per_day_recent": 45.4,
-    "lifetime_stars_per_day": 2533.22,
+    "stars_in_window": 8,
+    "window_h": 3.8,
+    "stars_per_day_recent": 50.6,
+    "lifetime_stars_per_day": 2535.28,
     "acceleration": 0.0,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1481,7 +2151,7 @@
    "manipulation_risk": 0.0,
    "lead_score": 0.4,
    "score_explain": [
-    "V=0.02: хвост 45.4 зв/сут против штатных 2533.2 (x0)",
+    "V=0.02: хвост 50.6 зв/сут против штатных 2535.3 (x0)",
     "N=1.0: репо 11 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -1490,7 +2160,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
+    "sla_deadline": "2026-11-11T12:07:47Z",
     "checks": {
      "license": "ok",
      "scorecard": "not_run",
@@ -1500,116 +2170,12 @@
    }
   },
   {
-   "lead_id": "L-20261111-24",
-   "repo": "pingdotgg/t3code",
-   "url": "https://github.com/pingdotgg/t3code",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 56101,
-   "forks": 10380,
-   "open_issues": 5641,
-   "language": "TypeScript",
-   "license": "MIT",
-   "archived": false,
-   "size_kb": 800428,
-   "description": null,
-   "topics": [],
-   "signals": {
-    "age_days": 275.3,
-    "last_push_days_ago": -1,
-    "stars_in_window": 3,
-    "window_h": 1.9,
-    "stars_per_day_recent": 38.4,
-    "lifetime_stars_per_day": 203.75,
-    "acceleration": 0.2,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.0,
-   "problem_statement": "PS-unknown",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.32,
-   "score_explain": [
-    "V=0.10: хвост 38.4 зв/сут против штатных 203.8 (x0)",
-    "N=0.2: репо 275 дн от роду",
-    "C=1.0: пуш -1 дн назад",
-    "fit=0.0 -> PS-unknown",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-12",
-   "repo": "sindresorhus/awesome",
-   "url": "https://github.com/sindresorhus/awesome",
-   "first_seen_at": "2026-11-11T07:50:13Z",
-   "channel": "gh_archive_watch",
-   "stars": 535037,
-   "forks": 38301,
-   "open_issues": 103,
-   "language": null,
-   "license": "CC0-1.0",
-   "archived": false,
-   "size_kb": 1566,
-   "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-   "topics": [
-    "awesome",
-    "awesome-list",
-    "lists",
-    "resources",
-    "unicorns"
-   ],
-   "signals": {
-    "age_days": 4505.8,
-    "last_push_days_ago": 70,
-    "stars_in_window": 4,
-    "window_h": 2.0,
-    "stars_per_day_recent": 48.8,
-    "lifetime_stars_per_day": 118.75,
-    "acceleration": 0.4,
-    "self_star_share": 0.0,
-    "ring_share": 0.0
-   },
-   "fit_internal": 0.0,
-   "problem_statement": "PS-unknown",
-   "manipulation_risk": 0.0,
-   "lead_score": 0.29,
-   "score_explain": [
-    "V=0.21: хвост 48.8 зв/сут против штатных 118.7 (x0)",
-    "N=0.2: репо 4506 дн от роду",
-    "C=0.0: пуш 70 дн назад",
-    "fit=0.0 -> PS-unknown",
-    "M=0.0: self-star 0.0, кольца 0.0"
-   ],
-   "triage": {
-    "verdict": "needs_review",
-    "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
-    "checks": {
-     "license": "ok",
-     "scorecard": "not_run",
-     "readme_claims_reproduced": "not_run",
-     "sandbox_run": "not_run"
-    }
-   }
-  },
-  {
-   "lead_id": "L-20261111-06",
+   "lead_id": "L-20261111-18",
    "repo": "l-friedrich64709109/fifa-20",
    "url": "https://github.com/l-friedrich64709109/fifa-20",
-   "first_seen_at": "2026-11-11T07:50:13Z",
+   "first_seen_at": "2026-11-11T08:07:47Z",
    "channel": "gh_archive_watch",
-   "stars": 661,
+   "stars": 683,
    "forks": 0,
    "open_issues": 0,
    "language": null,
@@ -1626,7 +2192,7 @@
     "stars_in_window": 5,
     "window_h": 1.4,
     "stars_per_day_recent": 85.3,
-    "lifetime_stars_per_day": 1322.0,
+    "lifetime_stars_per_day": 1366.0,
     "acceleration": 0.1,
     "self_star_share": 0.0,
     "ring_share": 0.0
@@ -1634,9 +2200,9 @@
    "fit_internal": 0.0,
    "problem_statement": "PS-unknown",
    "manipulation_risk": 0.0,
-   "lead_score": 0.1,
+   "lead_score": 0.09,
    "score_explain": [
-    "V=0.06: хвост 85.3 зв/сут против штатных 1322.0 (x0)",
+    "V=0.06: хвост 85.3 зв/сут против штатных 1366.0 (x0)",
     "N=1.0: репо 0 дн от роду",
     "C=1.0: пуш 0 дн назад",
     "fit=0.0 -> PS-unknown",
@@ -1645,7 +2211,7 @@
    "triage": {
     "verdict": "needs_review",
     "owner": "Т2",
-    "sla_deadline": "2026-11-11T11:50:13Z",
+    "sla_deadline": "2026-11-11T12:07:47Z",
     "checks": {
      "license": "MISSING->auto-reject",
      "scorecard": "not_run",
