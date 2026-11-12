@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 452600.0,
+"stars": 453094.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-11T22:57:55Z",
-"hits": 141,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 142,
 "in_tg": false,
 "status": "active"
 },
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 321272.0,
+"stars": 322152.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,8 +354,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-11T07:50:25Z",
-"hits": 44,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 45,
 "in_tg": false,
 "status": "active"
 },
@@ -920,8 +920,8 @@
 "storytold/photocraft": {
 "repo": "storytold/photocraft",
 "url": "https://github.com/storytold/photocraft",
-"description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-"stars": 75218.0,
+"description": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
+"stars": 78788.0,
 "spd": 816.0,
 "score": 1.11,
 "fit": 0.74,
@@ -930,10 +930,10 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-10-30T23:38:41Z",
-"hits": 10,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 11,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "tangency-labs/solidcraft": {
 "repo": "tangency-labs/solidcraft",
@@ -1011,7 +1011,7 @@
 "repo": "Leonxlnx/taste-skill",
 "url": "https://github.com/Leonxlnx/taste-skill",
 "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-"stars": 113534.0,
+"stars": 113676.0,
 "spd": 144.0,
 "score": 0.99,
 "fit": 0.83,
@@ -1020,8 +1020,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-11T22:57:55Z",
-"hits": 18,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 19,
 "in_tg": false,
 "status": "active"
 },
@@ -1029,7 +1029,7 @@
 "repo": "cloudflare/security-audit-skill",
 "url": "https://github.com/cloudflare/security-audit-skill",
 "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-"stars": 69358.0,
+"stars": 70459.0,
 "spd": 279.1,
 "score": 0.98,
 "fit": 0.7,
@@ -1038,8 +1038,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-11T01:23:52Z",
-"hits": 73,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 74,
 "in_tg": false,
 "status": "active"
 },
@@ -1965,7 +1965,7 @@
 "repo": "kuafuai/andee",
 "url": "https://github.com/kuafuai/andee",
 "description": "Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any model; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆",
-"stars": 4195.0,
+"stars": 4915.0,
 "spd": 108.1,
 "score": 1.89,
 "fit": 0.7,
@@ -1974,10 +1974,10 @@
 "license": "NOASSERTION",
 "language": "Kotlin",
 "first_seen": "2026-10-21T07:49:44Z",
-"last_seen": "2026-11-10T06:29:26Z",
-"hits": 2,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 3,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "ZiChuanLan/pi-purge": {
 "repo": "ZiChuanLan/pi-purge",
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "",
-"stars": 56941.0,
+"stars": 57212.0,
 "spd": 139.1,
 "score": 0.6,
 "fit": 0.0,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-11T22:57:55Z",
-"hits": 52,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 53,
 "in_tg": false,
 "status": "active"
 },
@@ -5691,7 +5691,7 @@
 "repo": "farion1231/cc-switch",
 "url": "https://github.com/farion1231/cc-switch",
 "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
-"stars": 152436.0,
+"stars": 153721.0,
 "spd": 144.0,
 "score": 1.02,
 "fit": 0.83,
@@ -5700,10 +5700,10 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-10-26T06:26:42Z",
-"last_seen": "2026-11-07T06:26:20Z",
-"hits": 4,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 5,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "designfuchen/word-atlas": {
 "repo": "designfuchen/word-atlas",
@@ -6969,7 +6969,7 @@
 "repo": "milind-soni/OpenMausBot",
 "url": "https://github.com/milind-soni/OpenMausBot",
 "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-"stars": 20874.0,
+"stars": 21326.0,
 "spd": 99.5,
 "score": 1.14,
 "fit": 0.65,
@@ -6978,8 +6978,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-28T23:07:35Z",
-"last_seen": "2026-11-11T07:50:25Z",
-"hits": 28,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 29,
 "in_tg": true,
 "status": "active"
 },
@@ -7095,19 +7095,19 @@
 "repo": "Edge0-AI/Edge0",
 "url": "https://github.com/Edge0-AI/Edge0",
 "description": "Run 35B MoE models in ~2.5 GB of RAM. Weights stream from SSD; a trained router predicts loads a step ahead. Mac, iPhone, Android, Windows supported",
-"stars": 8658,
+"stars": 10052.0,
 "spd": 192.5,
 "score": 1.65,
 "fit": 0.89,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "Apache-2.0",
-"language": "Python",
+"language": "C++",
 "first_seen": "2026-10-29T09:34:46Z",
-"last_seen": "2026-10-29T09:34:46Z",
-"hits": 1,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 2,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "Nicovic17/vanish_webcam": {
 "repo": "Nicovic17/vanish_webcam",
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 27180.0,
+"stars": 28670.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-11T08:08:06Z",
-"hits": 42,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 43,
 "in_tg": false,
 "status": "active"
 },
@@ -14889,7 +14889,7 @@
 "repo": "anomalyco/rune",
 "url": "https://github.com/anomalyco/rune",
 "description": "Rune: Native UI framework",
-"stars": 4076.0,
+"stars": 6699.0,
 "spd": 63.1,
 "score": 1.16,
 "fit": 0.65,
@@ -14898,10 +14898,10 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-11-06T13:55:00Z",
-"last_seen": "2026-11-08T08:42:59Z",
-"hits": 7,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 8,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "phaseboulderfetter/discord-quest-completer": {
 "repo": "phaseboulderfetter/discord-quest-completer",
@@ -15735,7 +15735,7 @@
 "repo": "Lee-xeo/Claude-Cage",
 "url": "https://github.com/Lee-xeo/Claude-Cage",
 "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
-"stars": 2869.0,
+"stars": 3588.0,
 "spd": 125.1,
 "score": 1.21,
 "fit": 0.0,
@@ -15744,8 +15744,8 @@
 "license": "MIT",
 "language": "Go",
 "first_seen": "2026-11-07T06:26:20Z",
-"last_seen": "2026-11-11T16:29:00Z",
-"hits": 4,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 5,
 "in_tg": false,
 "status": "active"
 },
@@ -15807,7 +15807,7 @@
 "repo": "NotRexed/Hookshot",
 "url": "https://github.com/NotRexed/Hookshot",
 "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-"stars": 7704.0,
+"stars": 7927.0,
 "spd": 144.0,
 "score": 0.6,
 "fit": 0.0,
@@ -15816,8 +15816,8 @@
 "license": "GPL-3.0",
 "language": "C++",
 "first_seen": "2026-11-07T06:26:20Z",
-"last_seen": "2026-11-11T22:57:55Z",
-"hits": 15,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 16,
 "in_tg": false,
 "status": "active"
 },
@@ -16485,7 +16485,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 6,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "MrsanjayYT/cellebrite-ufed-forensic-suite": {
 "repo": "MrsanjayYT/cellebrite-ufed-forensic-suite",
@@ -18057,7 +18057,7 @@
 "repo": "janestreet/agent_skills",
 "url": "https://github.com/janestreet/agent_skills",
 "description": "Agent skills",
-"stars": 3612.0,
+"stars": 6041.0,
 "spd": 63.3,
 "score": 1.38,
 "fit": 0.52,
@@ -18066,10 +18066,10 @@
 "license": "MIT",
 "language": "",
 "first_seen": "2026-11-09T02:45:17Z",
-"last_seen": "2026-11-10T20:54:55Z",
-"hits": 5,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 6,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "jhaizhou-ops/S2Arm": {
 "repo": "jhaizhou-ops/S2Arm",
@@ -18849,7 +18849,7 @@
 "repo": "ZhuLinsen/daily_stock_analysis",
 "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
 "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f",
-"stars": 69196.0,
+"stars": 70463.0,
 "spd": 45.0,
 "score": 0.86,
 "fit": 0.74,
@@ -18858,16 +18858,16 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-10T04:41:01Z",
-"last_seen": "2026-11-10T06:29:26Z",
-"hits": 2,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 3,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "huamidev/GestaltX": {
 "repo": "huamidev/GestaltX",
 "url": "https://github.com/huamidev/GestaltX",
 "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
-"stars": 6042.0,
+"stars": 6403.0,
 "spd": 96.0,
 "score": 0.73,
 "fit": 0.45,
@@ -18876,8 +18876,8 @@
 "license": "GPL-3.0",
 "language": "Swift",
 "first_seen": "2026-11-10T04:41:01Z",
-"last_seen": "2026-11-11T16:29:00Z",
-"hits": 7,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 8,
 "in_tg": false,
 "status": "active"
 },
@@ -18885,17 +18885,17 @@
 "repo": "expo/exact",
 "url": "https://github.com/expo/exact",
 "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
-"stars": 2429.0,
+"stars": 2980.0,
 "spd": 66.3,
-"score": 1.08,
+"score": 1.1,
 "fit": 0.83,
 "risk": 0.0,
 "ps": "PS-web",
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-11-10T04:41:01Z",
-"last_seen": "2026-11-11T07:50:25Z",
-"hits": 3,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 4,
 "in_tg": false,
 "status": "active"
 },
@@ -19113,13 +19113,13 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "GoogleChrome/modern-web-guidance": {
 "repo": "GoogleChrome/modern-web-guidance",
 "url": "https://github.com/GoogleChrome/modern-web-guidance",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 4954.0,
+"stars": 5254.0,
 "spd": 76.3,
 "score": 1.7,
 "fit": 0.65,
@@ -19128,8 +19128,8 @@
 "license": "Apache-2.0",
 "language": "",
 "first_seen": "2026-11-10T20:54:55Z",
-"last_seen": "2026-11-11T22:57:55Z",
-"hits": 6,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 7,
 "in_tg": true,
 "status": "active"
 },
@@ -19203,7 +19203,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "manjushree-iyer/soundpad-audio-suite": {
 "repo": "manjushree-iyer/soundpad-audio-suite",
@@ -19581,7 +19581,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ZenithGeneralAmend/wondshare-recoverit": {
 "repo": "ZenithGeneralAmend/wondshare-recoverit",
@@ -19653,7 +19653,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "chainpenguinentrance/power-director": {
 "repo": "chainpenguinentrance/power-director",
@@ -19689,7 +19689,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Cordkushelter78/tenorshare-4ukey": {
 "repo": "Cordkushelter78/tenorshare-4ukey",
@@ -19725,7 +19725,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "AIScientists-Dev/academic-humanizer": {
 "repo": "AIScientists-Dev/academic-humanizer",
@@ -19743,7 +19743,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "App-MonicaWEB/auslogics-audio-studio-desktop": {
 "repo": "App-MonicaWEB/auslogics-audio-studio-desktop",
@@ -19761,7 +19761,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 4,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "google-deepmind/mujoco": {
 "repo": "google-deepmind/mujoco",
@@ -19779,7 +19779,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "theonlyoneexocctical-beep/cellebrite-ufed-setup": {
 "repo": "theonlyoneexocctical-beep/cellebrite-ufed-setup",
@@ -19797,7 +19797,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "urbanfogcatalog52/catia-cad": {
 "repo": "urbanfogcatalog52/catia-cad",
@@ -19815,7 +19815,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WalrusUncouple/discord-server-raider": {
 "repo": "WalrusUncouple/discord-server-raider",
@@ -19833,7 +19833,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Towerclicorridor/anydesk": {
 "repo": "Towerclicorridor/anydesk",
@@ -19851,7 +19851,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Typhooninknot/axie-infinity-bot": {
 "repo": "Typhooninknot/axie-infinity-bot",
@@ -19869,7 +19869,7 @@
 "last_seen": "2026-11-11T08:08:06Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "VanquisherPurge/cinema-4d": {
 "repo": "VanquisherPurge/cinema-4d",
@@ -19887,7 +19887,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "VisiblePrefectSense/dft-pro": {
 "repo": "VisiblePrefectSense/dft-pro",
@@ -19905,7 +19905,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Apparitionkyoextol/imobie-anytrans": {
 "repo": "Apparitionkyoextol/imobie-anytrans",
@@ -19923,7 +19923,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "AssuranceJetty/kms-pico": {
 "repo": "AssuranceJetty/kms-pico",
@@ -19941,7 +19941,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "TideSpiderJournal45/androidunlocker": {
 "repo": "TideSpiderJournal45/androidunlocker",
@@ -19959,7 +19959,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Watchpechange/drfoneunlock": {
 "repo": "Watchpechange/drfoneunlock",
@@ -19977,7 +19977,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WinnerChefJam/flash-crypto-generator": {
 "repo": "WinnerChefJam/flash-crypto-generator",
@@ -19995,7 +19995,7 @@
 "last_seen": "2026-11-11T08:08:06Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "armspheasantfurnace/ios-unlocker": {
 "repo": "armspheasantfurnace/ios-unlocker",
@@ -20013,7 +20013,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "brinkscholarstove/nero-platinum": {
 "repo": "brinkscholarstove/nero-platinum",
@@ -20031,7 +20031,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ChainDistributor/photo-commander": {
 "repo": "ChainDistributor/photo-commander",
@@ -20049,7 +20049,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "TrapConquerorTassel/auto-withdraw-bot": {
 "repo": "TrapConquerorTassel/auto-withdraw-bot",
@@ -20067,7 +20067,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Astralglifill/keyshot-pro": {
 "repo": "Astralglifill/keyshot-pro",
@@ -20085,7 +20085,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "unitedeanwarehouse/avid-media-composer": {
 "repo": "unitedeanwarehouse/avid-media-composer",
@@ -20103,7 +20103,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Urbankruplug/autodesk-cfd": {
 "repo": "Urbankruplug/autodesk-cfd",
@@ -20121,7 +20121,7 @@
 "last_seen": "2026-11-11T08:08:06Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "braveemperorcreate/movavi-effects": {
 "repo": "braveemperorcreate/movavi-effects",
@@ -20139,7 +20139,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Ceilingyaportico/ph-downloader": {
 "repo": "Ceilingyaportico/ph-downloader",
@@ -20157,7 +20157,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Urbanvumarch/ccleaner-pro": {
 "repo": "Urbanvumarch/ccleaner-pro",
@@ -20175,7 +20175,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "crewbookkeepercastle/trx-drainer-bot": {
 "repo": "crewbookkeepercastle/trx-drainer-bot",
@@ -20193,7 +20193,7 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WireCanary95/foneazy-mobile": {
 "repo": "WireCanary95/foneazy-mobile",
@@ -20211,13 +20211,13 @@
 "last_seen": "2026-11-11T01:23:52Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "we-promise/sure": {
 "repo": "we-promise/sure",
 "url": "https://github.com/we-promise/sure",
 "description": "The personal finance app for everyone (by everyone)",
-"stars": 12290.0,
+"stars": 13074.0,
 "spd": 35.9,
 "score": 0.7,
 "fit": 0.0,
@@ -20226,10 +20226,10 @@
 "license": "AGPL-3.0",
 "language": "Ruby",
 "first_seen": "2026-11-11T01:19:18Z",
-"last_seen": "2026-11-11T07:50:25Z",
-"hits": 3,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 4,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Straniero44/wenai": {
 "repo": "Straniero44/wenai",
@@ -21225,7 +21225,7 @@
 "repo": "aws/aws-emulator",
 "url": "https://github.com/aws/aws-emulator",
 "description": "AWS Emulator is a local emulator of the AWS APIs.",
-"stars": 1366.0,
+"stars": 2387.0,
 "spd": 120.6,
 "score": 1.29,
 "fit": 0.0,
@@ -21234,8 +21234,8 @@
 "license": "CC0-1.0",
 "language": "Rust",
 "first_seen": "2026-11-11T22:52:10Z",
-"last_seen": "2026-11-11T22:57:55Z",
-"hits": 2,
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 3,
 "in_tg": true,
 "status": "new"
 },
@@ -21344,6 +21344,132 @@
 "first_seen": "2026-11-11T22:52:10Z",
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 2,
+"in_tg": false,
+"status": "new"
+},
+"GoogleChrome/modern-web-guidance-src": {
+"repo": "GoogleChrome/modern-web-guidance-src",
+"url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+"description": "",
+"stars": 1890,
+"spd": 117.3,
+"score": 2.3,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "Apache-2.0",
+"language": "TypeScript",
+"first_seen": "2026-11-12T03:44:13Z",
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"agentes-chat/agentes-chat": {
+"repo": "agentes-chat/agentes-chat",
+"url": "https://github.com/agentes-chat/agentes-chat",
+"description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
+"stars": 378,
+"spd": 34.3,
+"score": 1.36,
+"fit": 1.0,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "AGPL-3.0",
+"language": "TypeScript",
+"first_seen": "2026-11-12T03:44:13Z",
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"DeskLabs-OpenSource/DeskVoice": {
+"repo": "DeskLabs-OpenSource/DeskVoice",
+"url": "https://github.com/DeskLabs-OpenSource/DeskVoice",
+"description": "Central telefônica open source operada por agentes de IA. Atende, executa ferramentas durante a ligação, consulta um humano e segue trabalhando depois que a chamada termina. Self-hosted.",
+"stars": 35,
+"spd": 32.5,
+"score": 1.36,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-12T03:44:13Z",
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"op7418/guizang-game-skill": {
+"repo": "op7418/guizang-game-skill",
+"url": "https://github.com/op7418/guizang-game-skill",
+"description": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo in",
+"stars": 53,
+"spd": 53.4,
+"score": 1.35,
+"fit": 0.83,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "AGPL-3.0",
+"language": "JavaScript",
+"first_seen": "2026-11-12T03:44:13Z",
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"K3leiYT/cool-record-edit": {
+"repo": "K3leiYT/cool-record-edit",
+"url": "https://github.com/K3leiYT/cool-record-edit",
+"description": "Cool Record Edit: Capture, Shape, and Refine Your Audio Workflow",
+"stars": 102,
+"spd": 50.8,
+"score": 0.35,
+"fit": 0.45,
+"risk": 0.41,
+"ps": "PS-dev",
+"license": null,
+"language": "JavaScript",
+"first_seen": "2026-11-12T03:44:13Z",
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ignisfeim/chameleon-startup-manager": {
+"repo": "ignisfeim/chameleon-startup-manager",
+"url": "https://github.com/ignisfeim/chameleon-startup-manager",
+"description": "Chameleon Startup Manager: Windows startup optimization and program prioritization tool",
+"stars": 102,
+"spd": 41.3,
+"score": 0.33,
+"fit": 0.45,
+"risk": 0.37,
+"ps": "PS-dev",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-12T03:44:13Z",
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"auliazesqy/cars-racing-enhancement": {
+"repo": "auliazesqy/cars-racing-enhancement",
+"url": "https://github.com/auliazesqy/cars-racing-enhancement",
+"description": "Cars: Racing Game Enhancement for Windows",
+"stars": 102,
+"spd": 56.6,
+"score": 0.24,
+"fit": 0.48,
+"risk": 0.55,
+"ps": "PS-infra",
+"license": null,
+"language": "TypeScript",
+"first_seen": "2026-11-12T03:44:13Z",
+"last_seen": "2026-11-12T03:44:13Z",
+"hits": 1,
 "in_tg": false,
 "status": "new"
 }
