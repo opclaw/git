@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 455329.0,
+"stars": 456140.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-13T01:22:43Z",
-"hits": 144,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 145,
 "in_tg": false,
 "status": "active"
 },
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 322549.0,
+"stars": 323286.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,8 +354,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-12T12:19:48Z",
-"hits": 46,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 47,
 "in_tg": false,
 "status": "active"
 },
@@ -597,7 +597,7 @@
 "repo": "paperclipai/paperclip",
 "url": "https://github.com/paperclipai/paperclip",
 "description": "The open-source app everyone uses to manage agents at work",
-"stars": 110562.0,
+"stars": 113485.0,
 "spd": 144.0,
 "score": 1.09,
 "fit": 0.96,
@@ -606,10 +606,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T00:08:51Z",
-"last_seen": "2026-11-03T06:32:40Z",
-"hits": 13,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 14,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "Ansub/tv-detox": {
 "repo": "Ansub/tv-detox",
@@ -867,7 +867,7 @@
 "repo": "yetone/magpie",
 "url": "https://github.com/yetone/magpie",
 "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-"stars": 35233.0,
+"stars": 35788.0,
 "spd": 133.6,
 "score": 1.08,
 "fit": 0.74,
@@ -876,8 +876,8 @@
 "license": "MIT",
 "language": "Go",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-12T12:19:48Z",
-"hits": 31,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 32,
 "in_tg": false,
 "status": "active"
 },
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 70912.0,
+"stars": 71927.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-12T12:19:48Z",
-"hits": 95,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 96,
 "in_tg": true,
 "status": "active"
 },
@@ -933,7 +933,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 11,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "tangency-labs/solidcraft": {
 "repo": "tangency-labs/solidcraft",
@@ -1023,7 +1023,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 19,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "cloudflare/security-audit-skill": {
 "repo": "cloudflare/security-audit-skill",
@@ -1041,7 +1041,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 74,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "tashfeenahmed/freellmapi": {
 "repo": "tashfeenahmed/freellmapi",
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 121144.0,
+"stars": 123847.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,10 +1398,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-10T15:11:02Z",
-"hits": 45,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 46,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "val-tools/.github": {
 "repo": "val-tools/.github",
@@ -1977,7 +1977,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ZiChuanLan/pi-purge": {
 "repo": "ZiChuanLan/pi-purge",
@@ -2541,7 +2541,7 @@
 "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
 "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
 "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-"stars": 146652.0,
+"stars": 148850.0,
 "spd": 138.5,
 "score": 1.13,
 "fit": 1.0,
@@ -2550,10 +2550,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-21T17:56:34Z",
-"last_seen": "2026-11-08T08:42:59Z",
-"hits": 7,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 8,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "ikow/php2shell-poc": {
 "repo": "ikow/php2shell-poc",
@@ -3099,7 +3099,7 @@
 "repo": "tt-a1i/archify",
 "url": "https://github.com/tt-a1i/archify",
 "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-"stars": 93670.0,
+"stars": 96061.0,
 "spd": 127.1,
 "score": 0.91,
 "fit": 0.76,
@@ -3108,10 +3108,10 @@
 "license": "Apache-2.0",
 "language": "JavaScript",
 "first_seen": "2026-10-22T07:45:11Z",
-"last_seen": "2026-11-05T10:29:28Z",
-"hits": 13,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 14,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "lexmount/moli": {
 "repo": "lexmount/moli",
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-"stars": 58405.0,
+"stars": 58806.0,
 "spd": 139.1,
 "score": 0.88,
 "fit": 0.74,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-13T01:22:43Z",
-"hits": 55,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 56,
 "in_tg": false,
 "status": "active"
 },
@@ -4593,7 +4593,7 @@
 "repo": "firecrawl/firecrawl",
 "url": "https://github.com/firecrawl/firecrawl",
 "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-"stars": 199800.0,
+"stars": 201374.0,
 "spd": 65.2,
 "score": 0.99,
 "fit": 0.83,
@@ -4602,10 +4602,10 @@
 "license": "AGPL-3.0",
 "language": "TypeScript",
 "first_seen": "2026-10-24T11:17:52Z",
-"last_seen": "2026-11-08T22:57:48Z",
-"hits": 7,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 8,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "NanmiCoder/MediaCrawler": {
 "repo": "NanmiCoder/MediaCrawler",
@@ -5703,7 +5703,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "designfuchen/word-atlas": {
 "repo": "designfuchen/word-atlas",
@@ -6735,7 +6735,7 @@
 "repo": "LNPANDY/NX2Apple",
 "url": "https://github.com/LNPANDY/NX2Apple",
 "description": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
-"stars": 4780.0,
+"stars": 6602.0,
 "spd": 73.7,
 "score": 1.08,
 "fit": 0.61,
@@ -6744,10 +6744,10 @@
 "license": "MIT",
 "language": "Swift",
 "first_seen": "2026-10-28T05:56:44Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 4,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 5,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "morganlinton/BeautifulRust": {
 "repo": "morganlinton/BeautifulRust",
@@ -6981,7 +6981,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 29,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "shinshin86/mesh-avatar-studio": {
 "repo": "shinshin86/mesh-avatar-studio",
@@ -7107,7 +7107,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Nicovic17/vanish_webcam": {
 "repo": "Nicovic17/vanish_webcam",
@@ -8265,7 +8265,7 @@
 "repo": "CopilotKit/OpenBot",
 "url": "https://github.com/CopilotKit/OpenBot",
 "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-"stars": 9515.0,
+"stars": 11902.0,
 "spd": 129.7,
 "score": 1.25,
 "fit": 0.74,
@@ -8274,10 +8274,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-30T01:41:03Z",
-"last_seen": "2026-11-02T00:33:55Z",
-"hits": 4,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 5,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "ColossusStage39/SeedPhraseGenerator": {
 "repo": "ColossusStage39/SeedPhraseGenerator",
@@ -8679,7 +8679,7 @@
 "repo": "ccch1mneyyy/dsh-Go",
 "url": "https://github.com/ccch1mneyyy/dsh-Go",
 "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-"stars": 20364.0,
+"stars": 21250.0,
 "spd": 108.7,
 "score": 1.04,
 "fit": 0.74,
@@ -8688,8 +8688,8 @@
 "license": "AGPL-3.0",
 "language": "Dart",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-12T12:19:48Z",
-"hits": 35,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 36,
 "in_tg": false,
 "status": "active"
 },
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 29285.0,
+"stars": 30581.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-12T12:19:48Z",
-"hits": 44,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 45,
 "in_tg": false,
 "status": "active"
 },
@@ -14901,7 +14901,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 8,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "phaseboulderfetter/discord-quest-completer": {
 "repo": "phaseboulderfetter/discord-quest-completer",
@@ -15819,7 +15819,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 16,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "JenkinWoo/sheeridVerify": {
 "repo": "JenkinWoo/sheeridVerify",
@@ -18759,7 +18759,7 @@
 "repo": "dream-num/univer",
 "url": "https://github.com/dream-num/univer",
 "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-"stars": 23028,
+"stars": 23630.0,
 "spd": 75.0,
 "score": 1.64,
 "fit": 0.61,
@@ -18768,10 +18768,10 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-10T04:41:01Z",
-"last_seen": "2026-11-10T04:41:01Z",
-"hits": 1,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 2,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "opensandbox-group/OpenSandbox": {
 "repo": "opensandbox-group/OpenSandbox",
@@ -18861,7 +18861,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "huamidev/GestaltX": {
 "repo": "huamidev/GestaltX",
@@ -18879,7 +18879,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 8,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "expo/exact": {
 "repo": "expo/exact",
@@ -18897,7 +18897,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "pookjw/HermesEnabler": {
 "repo": "pookjw/HermesEnabler",
@@ -19119,8 +19119,8 @@
 "repo": "GoogleChrome/modern-web-guidance",
 "url": "https://github.com/GoogleChrome/modern-web-guidance",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 7392.0,
-"spd": 76.3,
+"stars": 8388.0,
+"spd": 84.9,
 "score": 1.7,
 "fit": 0.65,
 "risk": 0.0,
@@ -19128,8 +19128,8 @@
 "license": "Apache-2.0",
 "language": "",
 "first_seen": "2026-11-10T20:54:55Z",
-"last_seen": "2026-11-13T01:22:43Z",
-"hits": 9,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 10,
 "in_tg": true,
 "status": "active"
 },
@@ -20217,17 +20217,17 @@
 "repo": "we-promise/sure",
 "url": "https://github.com/we-promise/sure",
 "description": "The personal finance app for everyone (by everyone)",
-"stars": 13931.0,
-"spd": 35.9,
-"score": 0.7,
+"stars": 14240.0,
+"spd": 43.5,
+"score": 0.71,
 "fit": 0.0,
 "risk": 0.0,
 "ps": "PS-unknown",
 "license": "AGPL-3.0",
 "language": "Ruby",
 "first_seen": "2026-11-11T01:19:18Z",
-"last_seen": "2026-11-13T01:22:43Z",
-"hits": 5,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 6,
 "in_tg": false,
 "status": "active"
 },
@@ -21351,7 +21351,7 @@
 "repo": "GoogleChrome/modern-web-guidance-src",
 "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 2994.0,
+"stars": 3796.0,
 "spd": 117.3,
 "score": 2.3,
 "fit": 0.65,
@@ -21360,10 +21360,10 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-12T03:44:13Z",
-"last_seen": "2026-11-13T01:22:43Z",
-"hits": 2,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 3,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "agentes-chat/agentes-chat": {
 "repo": "agentes-chat/agentes-chat",
@@ -21381,7 +21381,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "DeskLabs-OpenSource/DeskVoice": {
 "repo": "DeskLabs-OpenSource/DeskVoice",
@@ -21399,7 +21399,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "op7418/guizang-game-skill": {
 "repo": "op7418/guizang-game-skill",
@@ -21417,7 +21417,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "K3leiYT/cool-record-edit": {
 "repo": "K3leiYT/cool-record-edit",
@@ -21435,7 +21435,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ignisfeim/chameleon-startup-manager": {
 "repo": "ignisfeim/chameleon-startup-manager",
@@ -21453,7 +21453,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "auliazesqy/cars-racing-enhancement": {
 "repo": "auliazesqy/cars-racing-enhancement",
@@ -21471,7 +21471,7 @@
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Vicetratrolley/Wallpaper-Engine": {
 "repo": "Vicetratrolley/Wallpaper-Engine",
@@ -21513,8 +21513,8 @@
 "repo": "vercel-labs/ui",
 "url": "https://github.com/vercel-labs/ui",
 "description": "A library of behaviors for agents to build the next generation of user interfaces.",
-"stars": 1566,
-"spd": 55.1,
+"stars": 2493.0,
+"spd": 79.3,
 "score": 1.54,
 "fit": 1.0,
 "risk": 0.0,
@@ -21522,27 +21522,27 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-13T01:22:43Z",
-"last_seen": "2026-11-13T01:22:43Z",
-"hits": 1,
-"in_tg": false,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 2,
+"in_tg": true,
 "status": "new"
 },
 "openai/codex-security": {
 "repo": "openai/codex-security",
 "url": "https://github.com/openai/codex-security",
 "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-"stars": 12435,
-"spd": 26.5,
-"score": 1.1,
+"stars": 12707.0,
+"spd": 144.0,
+"score": 1.44,
 "fit": 0.89,
 "risk": 0.0,
 "ps": "PS-sec",
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-13T01:22:43Z",
-"last_seen": "2026-11-13T01:22:43Z",
-"hits": 1,
-"in_tg": false,
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 2,
+"in_tg": true,
 "status": "new"
 },
 "h4ckf0r0day/obscura": {
@@ -21559,6 +21559,78 @@
 "language": "Rust",
 "first_seen": "2026-11-13T01:22:43Z",
 "last_seen": "2026-11-13T01:22:43Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"fetchai/innovation-lab-examples": {
+"repo": "fetchai/innovation-lab-examples",
+"url": "https://github.com/fetchai/innovation-lab-examples",
+"description": "80+ production-ready AI agent examples in Python — build autonomous agents, multi-agent systems and agentic AI with uAgents, ASI:One, MCP, A2A, LangChain, CrewAI, Gemini, Claude and OpenAI.",
+"stars": 1347,
+"spd": 49.8,
+"score": 2.46,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-13T08:34:54Z",
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"QwenLM/qwen-code": {
+"repo": "QwenLM/qwen-code",
+"url": "https://github.com/QwenLM/qwen-code",
+"description": "An open-source AI coding agent that lives in your terminal.",
+"stars": 30026,
+"spd": 79.7,
+"score": 1.4,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "TypeScript",
+"first_seen": "2026-11-13T08:34:54Z",
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Hack-with-Github/Awesome-Hacking": {
+"repo": "Hack-with-Github/Awesome-Hacking",
+"url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+"description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+"stars": 125400,
+"spd": 48.9,
+"score": 1.05,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-sec",
+"license": "CC0-1.0",
+"language": "",
+"first_seen": "2026-11-13T08:34:54Z",
+"last_seen": "2026-11-13T08:34:54Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"zxsos/HGhubX": {
+"repo": "zxsos/HGhubX",
+"url": "https://github.com/zxsos/HGhubX",
+"description": "",
+"stars": 1964,
+"spd": 22.6,
+"score": 0.4,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "NOASSERTION",
+"language": "TypeScript",
+"first_seen": "2026-11-13T08:34:54Z",
+"last_seen": "2026-11-13T08:34:54Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
