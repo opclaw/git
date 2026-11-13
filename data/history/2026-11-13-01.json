@@ -1,0 +1,696 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-13T01:22:12Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-11-12-21",
+  "to": "2026-11-13-0",
+  "watch_events": 634,
+  "repos": 560,
+  "actors": 604,
+  "ring_accounts": 2,
+  "api_calls": 13,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261113-02",
+   "repo": "vercel-labs/ui",
+   "url": "https://github.com/vercel-labs/ui",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 1566,
+   "forks": 30,
+   "open_issues": 3,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 16940,
+   "description": "A library of behaviors for agents to build the next generation of user interfaces.",
+   "topics": [
+    "accessibility",
+    "agent",
+    "agents",
+    "aria",
+    "behaviors",
+    "component"
+   ],
+   "signals": {
+    "age_days": 17.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 3.5,
+    "stars_per_day_recent": 55.1,
+    "lifetime_stars_per_day": 90.41,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 1.0,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.54,
+   "score_explain": [
+    "V=0.48: хвост 55.1 зв/сут против штатных 90.4 (x1)",
+    "N=1.0: репо 17 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=1.0 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-05",
+   "repo": "GoogleChrome/modern-web-guidance-src",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 2994,
+   "forks": 200,
+   "open_issues": 385,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 178521,
+   "description": "Keep your coding agent up to date with the latest web best practices",
+   "topics": [],
+   "signals": {
+    "age_days": 289.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 3.2,
+    "stars_per_day_recent": 30.4,
+    "lifetime_stars_per_day": 10.35,
+    "acceleration": 2.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.45,
+   "score_explain": [
+    "V=0.82: хвост 30.4 зв/сут против штатных 10.4 (x3)",
+    "N=0.2: репо 289 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-04",
+   "repo": "GoogleChrome/modern-web-guidance",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 7392,
+   "forks": 249,
+   "open_issues": 1,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 1726,
+   "description": "Keep your coding agent up to date with the latest web best practices",
+   "topics": [],
+   "signals": {
+    "age_days": 234.3,
+    "last_push_days_ago": 2,
+    "stars_in_window": 6,
+    "window_h": 3.3,
+    "stars_per_day_recent": 43.7,
+    "lifetime_stars_per_day": 31.55,
+    "acceleration": 1.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.16,
+   "score_explain": [
+    "V=0.52: хвост 43.7 зв/сут против штатных 31.5 (x1)",
+    "N=0.2: репо 234 дн от роду",
+    "C=1.0: пуш 2 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-10",
+   "repo": "openai/codex-security",
+   "url": "https://github.com/openai/codex-security",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 12435,
+   "forks": 978,
+   "open_issues": 144,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 82939,
+   "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "topics": [
+    "ai-security",
+    "application-security",
+    "cli",
+    "code-scanning",
+    "codex",
+    "codex-security"
+   ],
+   "signals": {
+    "age_days": 122.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.7,
+    "stars_per_day_recent": 26.5,
+    "lifetime_stars_per_day": 101.81,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.89,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.1,
+   "score_explain": [
+    "V=0.14: хвост 26.5 зв/сут против штатных 101.8 (x0)",
+    "N=0.6: репо 122 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.89 -> PS-sec",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-07",
+   "repo": "meta/astryx",
+   "url": "https://github.com/meta/astryx",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 26558,
+   "forks": 2062,
+   "open_issues": 625,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 1353274,
+   "description": "An open source design system that's fully customizable and agent ready",
+   "topics": [],
+   "signals": {
+    "age_days": 307.4,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.6,
+    "stars_per_day_recent": 44.7,
+    "lifetime_stars_per_day": 86.4,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.84,
+   "score_explain": [
+    "V=0.25: хвост 44.7 зв/сут против штатных 86.4 (x1)",
+    "N=0.2: репо 307 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-11",
+   "repo": "JustVugg/colibri",
+   "url": "https://github.com/JustVugg/colibri",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 50474,
+   "forks": 5959,
+   "open_issues": 220,
+   "language": "C",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 49551,
+   "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+   "topics": [],
+   "signals": {
+    "age_days": 134.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 3.0,
+    "stars_per_day_recent": 23.7,
+    "lifetime_stars_per_day": 375.17,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.84,
+   "score_explain": [
+    "V=0.04: хвост 23.7 зв/сут против штатных 375.2 (x0)",
+    "N=0.6: репо 135 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-13",
+   "repo": "pingdotgg/t3code",
+   "url": "https://github.com/pingdotgg/t3code",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 58405,
+   "forks": 10680,
+   "open_issues": 4207,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 819629,
+   "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+   "topics": [
+    "agent-orchestration",
+    "agents",
+    "ai",
+    "chatgpt",
+    "claude",
+    "claude-code"
+   ],
+   "signals": {
+    "age_days": 277.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 3.5,
+    "stars_per_day_recent": 20.8,
+    "lifetime_stars_per_day": 210.8,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.83,
+   "score_explain": [
+    "V=0.06: хвост 20.8 зв/сут против штатных 210.8 (x0)",
+    "N=0.2: репо 277 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-01",
+   "repo": "h4ckf0r0day/obscura",
+   "url": "https://github.com/h4ckf0r0day/obscura",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 34050,
+   "forks": 2654,
+   "open_issues": 234,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 27281,
+   "description": "The headless browser for AI agents and web scraping",
+   "topics": [
+    "antidetect",
+    "antidetect-browser",
+    "browser",
+    "browser-automation",
+    "cdp",
+    "headless"
+   ],
+   "signals": {
+    "age_days": 213.6,
+    "last_push_days_ago": 0,
+    "stars_in_window": 9,
+    "window_h": 3.3,
+    "stars_per_day_recent": 66.1,
+    "lifetime_stars_per_day": 159.4,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.78,
+   "score_explain": [
+    "V=0.21: хвост 66.1 зв/сут против штатных 159.4 (x0)",
+    "N=0.2: репо 214 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-03",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 455329,
+   "forks": 111822,
+   "open_issues": 1770,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 159867,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "android",
+    "claude-code",
+    "cli",
+    "cpp"
+   ],
+   "signals": {
+    "age_days": 213.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 2.9,
+    "stars_per_day_recent": 48.9,
+    "lifetime_stars_per_day": 2137.48,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.77,
+   "score_explain": [
+    "V=0.01: хвост 48.9 зв/сут против штатных 2137.5 (x0)",
+    "N=0.2: репо 213 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-09",
+   "repo": "emilkowalski/skills",
+   "url": "https://github.com/emilkowalski/skills",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 56430,
+   "forks": 3298,
+   "open_issues": 2,
+   "language": "Markdown",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 238,
+   "description": "Skills for Designers and Engineers.",
+   "topics": [
+    "agent-skills",
+    "animation",
+    "claude-code",
+    "codex",
+    "cursor",
+    "design-engineering"
+   ],
+   "signals": {
+    "age_days": 241.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.6,
+    "stars_per_day_recent": 27.3,
+    "lifetime_stars_per_day": 233.68,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.65,
+   "score_explain": [
+    "V=0.07: хвост 27.3 зв/сут против штатных 233.7 (x0)",
+    "N=0.2: репо 241 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-12",
+   "repo": "we-promise/sure",
+   "url": "https://github.com/we-promise/sure",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 13931,
+   "forks": 1043,
+   "open_issues": 907,
+   "language": "Ruby",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "size_kb": 166216,
+   "description": "The personal finance app for everyone (by everyone)",
+   "topics": [],
+   "signals": {
+    "age_days": 477.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 3.1,
+    "stars_per_day_recent": 23.1,
+    "lifetime_stars_per_day": 29.15,
+    "acceleration": 0.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.54,
+   "score_explain": [
+    "V=0.35: хвост 23.1 зв/сут против штатных 29.2 (x1)",
+    "N=0.2: репо 478 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-08",
+   "repo": "aws/aws-emulator",
+   "url": "https://github.com/aws/aws-emulator",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 5455,
+   "forks": 185,
+   "open_issues": 328,
+   "language": "Rust",
+   "license": "CC0-1.0",
+   "archived": false,
+   "size_kb": 1398363,
+   "description": "AWS Emulator is a local emulator of the AWS APIs.",
+   "topics": [],
+   "signals": {
+    "age_days": 62.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.1,
+    "stars_per_day_recent": 34.5,
+    "lifetime_stars_per_day": 87.61,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.46,
+   "score_explain": [
+    "V=0.20: хвост 34.5 зв/сут против штатных 87.6 (x0)",
+    "N=0.6: репо 62 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-06",
+   "repo": "apex-compute/ANR",
+   "url": "https://github.com/apex-compute/ANR",
+   "first_seen_at": "2026-11-13T01:22:12Z",
+   "channel": "gh_archive_watch",
+   "stars": 970,
+   "forks": 9,
+   "open_issues": 15,
+   "language": "C++",
+   "license": null,
+   "archived": false,
+   "size_kb": 811,
+   "description": "Apex Neural Rendering (ANR) by Apex Compute",
+   "topics": [],
+   "signals": {
+    "age_days": 1.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.7,
+    "stars_per_day_recent": 98.7,
+    "lifetime_stars_per_day": 518.31,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.22,
+   "score_explain": [
+    "V=0.17: хвост 98.7 зв/сут против штатных 518.3 (x0)",
+    "N=1.0: репо 2 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T05:22:12Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}

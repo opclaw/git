@@ -87,7 +87,7 @@
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 32,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "YuJunZhiXue/dsh-purge": {
 "repo": "YuJunZhiXue/dsh-purge",
@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 454144.0,
+"stars": 455329.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-12T12:19:48Z",
-"hits": 143,
+"last_seen": "2026-11-13T01:22:43Z",
+"hits": 144,
 "in_tg": false,
 "status": "active"
 },
@@ -435,19 +435,19 @@
 "repo": "emilkowalski/skills",
 "url": "https://github.com/emilkowalski/skills",
 "description": "Skills for Designers and Engineers.",
-"stars": 54947.0,
+"stars": 56430.0,
 "spd": 43.6,
-"score": 0.28,
-"fit": 0.0,
+"score": 0.65,
+"fit": 0.52,
 "risk": 0.0,
-"ps": "PS-unknown",
+"ps": "PS-infer",
 "license": "MIT",
 "language": "Markdown",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-09T05:15:46Z",
-"hits": 7,
+"last_seen": "2026-11-13T01:22:43Z",
+"hits": 8,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "AhmadHassan-BTed/B": {
 "repo": "AhmadHassan-BTed/B",
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-"stars": 57736.0,
+"stars": 58405.0,
 "spd": 139.1,
 "score": 0.88,
 "fit": 0.74,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-12T12:19:48Z",
-"hits": 54,
+"last_seen": "2026-11-13T01:22:43Z",
+"hits": 55,
 "in_tg": false,
 "status": "active"
 },
@@ -8799,7 +8799,7 @@
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 11,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "jamixm4-crypto/natbypass": {
 "repo": "jamixm4-crypto/natbypass",
@@ -12243,7 +12243,7 @@
 "repo": "JustVugg/colibri",
 "url": "https://github.com/JustVugg/colibri",
 "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
-"stars": 49038.0,
+"stars": 50474.0,
 "spd": 144.0,
 "score": 0.98,
 "fit": 0.7,
@@ -12252,10 +12252,10 @@
 "license": "Apache-2.0",
 "language": "C",
 "first_seen": "2026-11-03T06:32:40Z",
-"last_seen": "2026-11-08T20:16:34Z",
-"hits": 7,
+"last_seen": "2026-11-13T01:22:43Z",
+"hits": 8,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "BryceYuuu/RUN": {
 "repo": "BryceYuuu/RUN",
@@ -12759,7 +12759,7 @@
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 15,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "open-wxa/wxa-runner": {
 "repo": "open-wxa/wxa-runner",
@@ -16197,7 +16197,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "hembramneeraj3-create/aida-64-extreme": {
 "repo": "hembramneeraj3-create/aida-64-extreme",
@@ -16215,7 +16215,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "sarpstar/cinecode": {
 "repo": "sarpstar/cinecode",
@@ -16251,7 +16251,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 4,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Frizti/Fritchii": {
 "repo": "Frizti/Fritchii",
@@ -16413,7 +16413,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "FarhanNaem/startall-back": {
 "repo": "FarhanNaem/startall-back",
@@ -16431,7 +16431,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "angelonyn/chimera-desktop-suite": {
 "repo": "angelonyn/chimera-desktop-suite",
@@ -16521,7 +16521,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Luk177Master/easy-worship-desktop": {
 "repo": "Luk177Master/easy-worship-desktop",
@@ -17337,7 +17337,7 @@
 "repo": "meta/astryx",
 "url": "https://github.com/meta/astryx",
 "description": "An open source design system that's fully customizable and agent ready",
-"stars": 23732.0,
+"stars": 26558.0,
 "spd": 88.0,
 "score": 1.14,
 "fit": 0.52,
@@ -17346,10 +17346,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-11-08T15:50:48Z",
-"last_seen": "2026-11-11T08:08:06Z",
-"hits": 19,
+"last_seen": "2026-11-13T01:22:43Z",
+"hits": 20,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "Colossuscliobserve55/cinema-4d": {
 "repo": "Colossuscliobserve55/cinema-4d",
@@ -17943,7 +17943,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "janitoff0/ninjatrader-bot": {
 "repo": "janitoff0/ninjatrader-bot",
@@ -18303,7 +18303,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 4,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Weaveyeretake/wise-registrity": {
 "repo": "Weaveyeretake/wise-registrity",
@@ -18429,7 +18429,7 @@
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "PackGiraffeFaucet86/adobe-indesign": {
 "repo": "PackGiraffeFaucet86/adobe-indesign",
@@ -19119,7 +19119,7 @@
 "repo": "GoogleChrome/modern-web-guidance",
 "url": "https://github.com/GoogleChrome/modern-web-guidance",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 5932.0,
+"stars": 7392.0,
 "spd": 76.3,
 "score": 1.7,
 "fit": 0.65,
@@ -19128,8 +19128,8 @@
 "license": "Apache-2.0",
 "language": "",
 "first_seen": "2026-11-10T20:54:55Z",
-"last_seen": "2026-11-12T12:19:48Z",
-"hits": 8,
+"last_seen": "2026-11-13T01:22:43Z",
+"hits": 9,
 "in_tg": true,
 "status": "active"
 },
@@ -19221,7 +19221,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "CodeSouvik/clion-standalone-enhancement": {
 "repo": "CodeSouvik/clion-standalone-enhancement",
@@ -19311,7 +19311,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "sajawal-12/cubase-studio-desktop": {
 "repo": "sajawal-12/cubase-studio-desktop",
@@ -19329,7 +19329,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "tianjanahary05-source/reason-14-installer": {
 "repo": "tianjanahary05-source/reason-14-installer",
@@ -19347,7 +19347,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "daiphu2708-crypto/melodyne-5-desktop-setup": {
 "repo": "daiphu2708-crypto/melodyne-5-desktop-setup",
@@ -19383,7 +19383,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Sanidhya0510/dvd-creator-game-enhancement": {
 "repo": "Sanidhya0510/dvd-creator-game-enhancement",
@@ -19473,7 +19473,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "utkarshryanite25-a11y/sony-vegas-pro-desktop": {
 "repo": "utkarshryanite25-a11y/sony-vegas-pro-desktop",
@@ -19545,7 +19545,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "hayfa1234/honkai-star-rail-enhancement-suite": {
 "repo": "hayfa1234/honkai-star-rail-enhancement-suite",
@@ -19761,7 +19761,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 4,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "google-deepmind/mujoco": {
 "repo": "google-deepmind/mujoco",
@@ -20217,7 +20217,7 @@
 "repo": "we-promise/sure",
 "url": "https://github.com/we-promise/sure",
 "description": "The personal finance app for everyone (by everyone)",
-"stars": 13074.0,
+"stars": 13931.0,
 "spd": 35.9,
 "score": 0.7,
 "fit": 0.0,
@@ -20226,8 +20226,8 @@
 "license": "AGPL-3.0",
 "language": "Ruby",
 "first_seen": "2026-11-11T01:19:18Z",
-"last_seen": "2026-11-12T03:44:13Z",
-"hits": 4,
+"last_seen": "2026-11-13T01:22:43Z",
+"hits": 5,
 "in_tg": false,
 "status": "active"
 },
@@ -20859,7 +20859,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "MelisaPeteRs2006/Silent-Crypto-Miner": {
 "repo": "MelisaPeteRs2006/Silent-Crypto-Miner",
@@ -20877,7 +20877,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "vishnu05-codes/ozone-12-advanced": {
 "repo": "vishnu05-codes/ozone-12-advanced",
@@ -20895,7 +20895,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "arthurrossetocampos1-crypto/uttorent-desktop": {
 "repo": "arthurrossetocampos1-crypto/uttorent-desktop",
@@ -20913,7 +20913,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SnehalSukale27/power-director": {
 "repo": "SnehalSukale27/power-director",
@@ -20931,7 +20931,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "RyoTheOne/dxo-photolab-10-config": {
 "repo": "RyoTheOne/dxo-photolab-10-config",
@@ -20949,7 +20949,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "leanislizarzado/ibm-spss-desktop-suite": {
 "repo": "leanislizarzado/ibm-spss-desktop-suite",
@@ -20967,7 +20967,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "flgomes/dxo-photolab-10-desktop": {
 "repo": "flgomes/dxo-photolab-10-desktop",
@@ -20985,7 +20985,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "woo20080623-cell/cinebench-desktop": {
 "repo": "woo20080623-cell/cinebench-desktop",
@@ -21003,7 +21003,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "shahnawaz0786/payday-3-enhancement-toolkit": {
 "repo": "shahnawaz0786/payday-3-enhancement-toolkit",
@@ -21021,7 +21021,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "GUFRAN7998/passfab-unlocker-desktop": {
 "repo": "GUFRAN7998/passfab-unlocker-desktop",
@@ -21039,7 +21039,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ilsa99/microsoft-365-desktop": {
 "repo": "ilsa99/microsoft-365-desktop",
@@ -21057,7 +21057,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Somenicehispanic/ashampoo-winoptimizer-desktop": {
 "repo": "Somenicehispanic/ashampoo-winoptimizer-desktop",
@@ -21075,7 +21075,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Marcian15350/robux-generator-enhancement": {
 "repo": "Marcian15350/robux-generator-enhancement",
@@ -21093,7 +21093,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sghnnnn01212-cmyk/data-grip-desktop": {
 "repo": "sghnnnn01212-cmyk/data-grip-desktop",
@@ -21111,7 +21111,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "RafliAbdulHaliim/sylenth-1-enhancement-suite": {
 "repo": "RafliAbdulHaliim/sylenth-1-enhancement-suite",
@@ -21129,7 +21129,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mahmoudtawfik1998/secure-pdf-document-processor": {
 "repo": "mahmoudtawfik1998/secure-pdf-document-processor",
@@ -21147,7 +21147,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "groschen81-web/secure-desktop-installer": {
 "repo": "groschen81-web/secure-desktop-installer",
@@ -21165,7 +21165,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "RolandoV3/metatrader-5-bot": {
 "repo": "RolandoV3/metatrader-5-bot",
@@ -21183,7 +21183,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "dikshantghimire321-droid/kontakt-8-config": {
 "repo": "dikshantghimire321-droid/kontakt-8-config",
@@ -21201,7 +21201,7 @@
 "last_seen": "2026-11-11T16:29:00Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mapglazierkiln/YouTube-Content-Accelerator-2026": {
 "repo": "mapglazierkiln/YouTube-Content-Accelerator-2026",
@@ -21219,13 +21219,13 @@
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "aws/aws-emulator": {
 "repo": "aws/aws-emulator",
 "url": "https://github.com/aws/aws-emulator",
 "description": "AWS Emulator is a local emulator of the AWS APIs.",
-"stars": 3686.0,
+"stars": 5455.0,
 "spd": 120.6,
 "score": 1.29,
 "fit": 0.0,
@@ -21234,10 +21234,10 @@
 "license": "CC0-1.0",
 "language": "Rust",
 "first_seen": "2026-11-11T22:52:10Z",
-"last_seen": "2026-11-12T12:19:48Z",
-"hits": 4,
+"last_seen": "2026-11-13T01:22:43Z",
+"hits": 5,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "siyahandloom/jv16-powertools-desktop": {
 "repo": "siyahandloom/jv16-powertools-desktop",
@@ -21255,7 +21255,7 @@
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "FrigadeHQ/yogurt": {
 "repo": "FrigadeHQ/yogurt",
@@ -21273,7 +21273,7 @@
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ahmddhani659-cmyk/motionbuilder-desktop": {
 "repo": "ahmddhani659-cmyk/motionbuilder-desktop",
@@ -21291,7 +21291,7 @@
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "doy676/hirecorder-audio-capture": {
 "repo": "doy676/hirecorder-audio-capture",
@@ -21309,7 +21309,7 @@
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "siru4u4u-boop/empire-earth-3-strategy": {
 "repo": "siru4u4u-boop/empire-earth-3-strategy",
@@ -21327,7 +21327,7 @@
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ghost414-pro/wizard-land-game-enhancement": {
 "repo": "ghost414-pro/wizard-land-game-enhancement",
@@ -21345,13 +21345,13 @@
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "GoogleChrome/modern-web-guidance-src": {
 "repo": "GoogleChrome/modern-web-guidance-src",
 "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-"description": "",
-"stars": 1890,
+"description": "Keep your coding agent up to date with the latest web best practices",
+"stars": 2994.0,
 "spd": 117.3,
 "score": 2.3,
 "fit": 0.65,
@@ -21360,8 +21360,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-12T03:44:13Z",
-"last_seen": "2026-11-12T03:44:13Z",
-"hits": 1,
+"last_seen": "2026-11-13T01:22:43Z",
+"hits": 2,
 "in_tg": true,
 "status": "new"
 },
@@ -21495,8 +21495,8 @@
 "repo": "apex-compute/ANR",
 "url": "https://github.com/apex-compute/ANR",
 "description": "Apex Neural Rendering (ANR) by Apex Compute",
-"stars": 401,
-"spd": 81.7,
+"stars": 970.0,
+"spd": 98.7,
 "score": 0.28,
 "fit": 0.0,
 "risk": 0.0,
@@ -21504,7 +21504,61 @@
 "license": null,
 "language": "C++",
 "first_seen": "2026-11-12T12:19:48Z",
-"last_seen": "2026-11-12T12:19:48Z",
+"last_seen": "2026-11-13T01:22:43Z",
+"hits": 2,
+"in_tg": false,
+"status": "new"
+},
+"vercel-labs/ui": {
+"repo": "vercel-labs/ui",
+"url": "https://github.com/vercel-labs/ui",
+"description": "A library of behaviors for agents to build the next generation of user interfaces.",
+"stars": 1566,
+"spd": 55.1,
+"score": 1.54,
+"fit": 1.0,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "Apache-2.0",
+"language": "TypeScript",
+"first_seen": "2026-11-13T01:22:43Z",
+"last_seen": "2026-11-13T01:22:43Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"openai/codex-security": {
+"repo": "openai/codex-security",
+"url": "https://github.com/openai/codex-security",
+"description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+"stars": 12435,
+"spd": 26.5,
+"score": 1.1,
+"fit": 0.89,
+"risk": 0.0,
+"ps": "PS-sec",
+"license": "Apache-2.0",
+"language": "TypeScript",
+"first_seen": "2026-11-13T01:22:43Z",
+"last_seen": "2026-11-13T01:22:43Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"h4ckf0r0day/obscura": {
+"repo": "h4ckf0r0day/obscura",
+"url": "https://github.com/h4ckf0r0day/obscura",
+"description": "The headless browser for AI agents and web scraping",
+"stars": 34050,
+"spd": 66.1,
+"score": 0.78,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-13T01:22:43Z",
+"last_seen": "2026-11-13T01:22:43Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
