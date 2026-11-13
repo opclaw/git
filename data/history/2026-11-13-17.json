@@ -1,0 +1,1967 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-13T16:59:58Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-11-13-12",
+  "to": "2026-11-13-15",
+  "watch_events": 1074,
+  "repos": 899,
+  "actors": 994,
+  "ring_accounts": 5,
+  "api_calls": 36,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261113-01",
+   "repo": "edgerunners-2/capri-ai-desktop",
+   "url": "https://github.com/edgerunners-2/capri-ai-desktop",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 1415,
+   "forks": 136,
+   "open_issues": 2,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 26916,
+   "description": "Cyberpunk AI desktop agent & voice companion for Windows. Supports Claude Code, Ollama, DeepSeek, Discord calls & screen automation.",
+   "topics": [
+    "ai-agent",
+    "ai-companion",
+    "ai-girlfriend",
+    "ai-waifu",
+    "anime",
+    "claude"
+   ],
+   "signals": {
+    "age_days": 90.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 1.4,
+    "stars_per_day_recent": 138.9,
+    "lifetime_stars_per_day": 15.64,
+    "acceleration": 8.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.24,
+   "score_explain": [
+    "V=1.37: хвост 138.9 зв/сут против штатных 15.6 (x9)",
+    "N=0.6: репо 90 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-10",
+   "repo": "Edutzuu2001/ai--manus",
+   "url": "https://github.com/Edutzuu2001/ai--manus",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 122,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.4,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 244.0,
+    "acceleration": 0.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.42,
+   "score_explain": [
+    "V=0.58: хвост 192.0 зв/сут против штатных 244.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-04",
+   "repo": "vercel-labs/ui",
+   "url": "https://github.com/vercel-labs/ui",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 3376,
+   "forks": 77,
+   "open_issues": 22,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 17056,
+   "description": "A library of behaviors for agents to build the next generation of user interfaces.",
+   "topics": [
+    "accessibility",
+    "agent",
+    "agents",
+    "aria",
+    "behaviors",
+    "component"
+   ],
+   "signals": {
+    "age_days": 18.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 2.6,
+    "stars_per_day_recent": 55.2,
+    "lifetime_stars_per_day": 187.84,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 1.0,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.34,
+   "score_explain": [
+    "V=0.26: хвост 55.2 зв/сут против штатных 187.8 (x0)",
+    "N=1.0: репо 18 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=1.0 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-20",
+   "repo": "teacherabdulloh1-dev/ai--manus",
+   "url": "https://github.com/teacherabdulloh1-dev/ai--manus",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 120,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.3,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 240.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.32,
+   "score_explain": [
+    "V=0.47: хвост 144.0 зв/сут против штатных 240.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-18",
+   "repo": "axel19990/ai--manus",
+   "url": "https://github.com/axel19990/ai--manus",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 123,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.4,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 246.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.31,
+   "score_explain": [
+    "V=0.46: хвост 144.0 зв/сут против штатных 246.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-19",
+   "repo": "Krzysztof132435/manus--ai",
+   "url": "https://github.com/Krzysztof132435/manus--ai",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 123,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 246.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.31,
+   "score_explain": [
+    "V=0.46: хвост 144.0 зв/сут против штатных 246.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-22",
+   "repo": "Edutzuu2001/manus--ai",
+   "url": "https://github.com/Edutzuu2001/manus--ai",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 122,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 244.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.31,
+   "score_explain": [
+    "V=0.46: хвост 144.0 зв/сут против штатных 244.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-33",
+   "repo": "GoogleChrome/modern-web-guidance-src",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 4477,
+   "forks": 252,
+   "open_issues": 387,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 170287,
+   "description": "Keep your coding agent up to date with the latest web best practices",
+   "topics": [],
+   "signals": {
+    "age_days": 289.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.5,
+    "stars_per_day_recent": 28.6,
+    "lifetime_stars_per_day": 15.45,
+    "acceleration": 1.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.28,
+   "score_explain": [
+    "V=0.63: хвост 28.6 зв/сут против штатных 15.4 (x2)",
+    "N=0.2: репо 290 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-26",
+   "repo": "openai/codex-security",
+   "url": "https://github.com/openai/codex-security",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 12954,
+   "forks": 1013,
+   "open_issues": 157,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 84030,
+   "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "topics": [
+    "ai-security",
+    "application-security",
+    "cli",
+    "code-scanning",
+    "codex",
+    "codex-security"
+   ],
+   "signals": {
+    "age_days": 122.8,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.0,
+    "stars_per_day_recent": 69.8,
+    "lifetime_stars_per_day": 105.5,
+    "acceleration": 0.7,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.89,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.25,
+   "score_explain": [
+    "V=0.30: хвост 69.8 зв/сут против штатных 105.5 (x1)",
+    "N=0.6: репо 123 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.89 -> PS-sec",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-23",
+   "repo": "kazim768/manus--ai",
+   "url": "https://github.com/kazim768/manus--ai",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 148,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.5,
+    "stars_per_day_recent": 135.9,
+    "lifetime_stars_per_day": 296.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.24,
+   "score_explain": [
+    "V=0.38: хвост 135.9 зв/сут против штатных 296.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-25",
+   "repo": "elpepe200086/manus--ai",
+   "url": "https://github.com/elpepe200086/manus--ai",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 148,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.9,
+    "stars_per_day_recent": 84.0,
+    "lifetime_stars_per_day": 296.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.12,
+   "score_explain": [
+    "V=0.25: хвост 84.0 зв/сут против штатных 296.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-21",
+   "repo": "jassde/ai--manus",
+   "url": "https://github.com/jassde/ai--manus",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 119,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.3,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 238.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.18,
+   "lead_score": 1.1,
+   "score_explain": [
+    "V=0.47: хвост 144.0 зв/сут против штатных 238.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-16",
+   "repo": "lebronstx-collab/manus--ai",
+   "url": "https://github.com/lebronstx-collab/manus--ai",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 148,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.4,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 296.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.33,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.15,
+   "lead_score": 1.07,
+   "score_explain": [
+    "V=0.40: хвост 144.0 зв/сут против штатных 296.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.15: self-star 0.33, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-31",
+   "repo": "expo/exact",
+   "url": "https://github.com/expo/exact",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 3840,
+   "forks": 91,
+   "open_issues": 93,
+   "language": "Rust",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 187303,
+   "description": "Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.",
+   "topics": [
+    "ai-agents",
+    "appkit",
+    "coding-agents",
+    "cross-platform",
+    "css",
+    "ios"
+   ],
+   "signals": {
+    "age_days": 11.6,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.2,
+    "stars_per_day_recent": 32.9,
+    "lifetime_stars_per_day": 329.71,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.83,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.07,
+   "score_explain": [
+    "V=0.10: хвост 32.9 зв/сут против штатных 329.7 (x0)",
+    "N=1.0: репо 12 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.83 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-09",
+   "repo": "GoogleChrome/modern-web-guidance",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 10205,
+   "forks": 349,
+   "open_issues": 1,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 1726,
+   "description": "Keep your coding agent up to date with the latest web best practices",
+   "topics": [],
+   "signals": {
+    "age_days": 235.0,
+    "last_push_days_ago": 3,
+    "stars_in_window": 5,
+    "window_h": 3.0,
+    "stars_per_day_recent": 39.5,
+    "lifetime_stars_per_day": 43.43,
+    "acceleration": 0.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.04,
+   "score_explain": [
+    "V=0.39: хвост 39.5 зв/сут против штатных 43.4 (x1)",
+    "N=0.2: репо 235 дн от роду",
+    "C=1.0: пуш 3 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-15",
+   "repo": "Axillios1/ai--manus",
+   "url": "https://github.com/Axillios1/ai--manus",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 148,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.3,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 296.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.18,
+   "lead_score": 1.04,
+   "score_explain": [
+    "V=0.40: хвост 144.0 зв/сут против штатных 296.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-11",
+   "repo": "Ronni35/ai--manus",
+   "url": "https://github.com/Ronni35/ai--manus",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 148,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.8,
+    "stars_per_day_recent": 113.3,
+    "lifetime_stars_per_day": 296.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.14,
+   "lead_score": 1.02,
+   "score_explain": [
+    "V=0.32: хвост 113.3 зв/сут против штатных 296.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-13",
+   "repo": "firecrawl/firecrawl",
+   "url": "https://github.com/firecrawl/firecrawl",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 201501,
+   "forks": 10567,
+   "open_issues": 795,
+   "language": "TypeScript",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "size_kb": 191062,
+   "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-crawler",
+    "ai-scraping",
+    "ai-search",
+    "crawler"
+   ],
+   "signals": {
+    "age_days": 941.8,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 2.5,
+    "stars_per_day_recent": 37.7,
+    "lifetime_stars_per_day": 213.95,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.83,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.94,
+   "score_explain": [
+    "V=0.10: хвост 37.7 зв/сут против штатных 213.9 (x0)",
+    "N=0.2: репо 942 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.83 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-35",
+   "repo": "vercel-labs/agent-desktop",
+   "url": "https://github.com/vercel-labs/agent-desktop",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 23180,
+   "forks": 1719,
+   "open_issues": 239,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 72897,
+   "description": "Computer use CLI for AI agents",
+   "topics": [
+    "accessibility",
+    "accessibility-api",
+    "ai-agents",
+    "automation",
+    "cli",
+    "computer-use"
+   ],
+   "signals": {
+    "age_days": 267.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.6,
+    "stars_per_day_recent": 27.9,
+    "lifetime_stars_per_day": 86.83,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.93,
+   "score_explain": [
+    "V=0.17: хвост 27.9 зв/сут против штатных 86.8 (x0)",
+    "N=0.2: репо 267 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-03",
+   "repo": "pingdotgg/t3code",
+   "url": "https://github.com/pingdotgg/t3code",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 59280,
+   "forks": 10775,
+   "open_issues": 4234,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 820380,
+   "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+   "topics": [
+    "agent-orchestration",
+    "agents",
+    "ai",
+    "chatgpt",
+    "claude",
+    "claude-code"
+   ],
+   "signals": {
+    "age_days": 277.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 3.4,
+    "stars_per_day_recent": 49.4,
+    "lifetime_stars_per_day": 213.45,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.89,
+   "score_explain": [
+    "V=0.12: хвост 49.4 зв/сут против штатных 213.5 (x0)",
+    "N=0.2: репо 278 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-06",
+   "repo": "anefzaoui/misterdownloadmanager",
+   "url": "https://github.com/anefzaoui/misterdownloadmanager",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 8646,
+   "forks": 715,
+   "open_issues": 173,
+   "language": "Rust",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 565585,
+   "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+   "topics": [
+    "bittorrent-client",
+    "debrid",
+    "download-accelerator",
+    "download-manager",
+    "downloadmanager",
+    "egui"
+   ],
+   "signals": {
+    "age_days": 15.6,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 3.5,
+    "stars_per_day_recent": 40.9,
+    "lifetime_stars_per_day": 552.49,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.89,
+   "score_explain": [
+    "V=0.07: хвост 40.9 зв/сут против штатных 552.5 (x0)",
+    "N=1.0: репо 16 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-36",
+   "repo": "louislam/uptime-kuma",
+   "url": "https://github.com/louislam/uptime-kuma",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 93728,
+   "forks": 8715,
+   "open_issues": 856,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 39698,
+   "description": "A fancy self-hosted monitoring tool",
+   "topics": [
+    "docker",
+    "monitor",
+    "monitoring",
+    "responsive",
+    "self-hosted",
+    "selfhosted"
+   ],
+   "signals": {
+    "age_days": 1959.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 3.5,
+    "stars_per_day_recent": 20.6,
+    "lifetime_stars_per_day": 47.83,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.89,
+   "score_explain": [
+    "V=0.21: хвост 20.6 зв/сут против штатных 47.8 (x0)",
+    "N=0.2: репо 1960 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-12",
+   "repo": "meta/astryx",
+   "url": "https://github.com/meta/astryx",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 27257,
+   "forks": 2116,
+   "open_issues": 625,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 1355897,
+   "description": "An open source design system that's fully customizable and agent ready",
+   "topics": [],
+   "signals": {
+    "age_days": 308.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.7,
+    "stars_per_day_recent": 55.1,
+    "lifetime_stars_per_day": 88.49,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.88,
+   "score_explain": [
+    "V=0.29: хвост 55.1 зв/сут против штатных 88.5 (x1)",
+    "N=0.2: репо 308 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-07",
+   "repo": "Ebony-Vinyl/dsh-our-free-model",
+   "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 72612,
+   "forks": 2000,
+   "open_issues": 172,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 248376,
+   "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+   "topics": [
+    "ai-agents",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin"
+   ],
+   "signals": {
+    "age_days": 50.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 1.9,
+    "stars_per_day_recent": 63.5,
+    "lifetime_stars_per_day": 1451.38,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.87,
+   "score_explain": [
+    "V=0.04: хвост 63.5 зв/сут против штатных 1451.4 (x0)",
+    "N=0.6: репо 50 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-29",
+   "repo": "Leonxlnx/taste-skill",
+   "url": "https://github.com/Leonxlnx/taste-skill",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 114842,
+   "forks": 7710,
+   "open_issues": 7,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 104213,
+   "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "anti-slop",
+    "claude-code",
+    "codex",
+    "cursor"
+   ],
+   "signals": {
+    "age_days": 266.8,
+    "last_push_days_ago": 4,
+    "stars_in_window": 3,
+    "window_h": 2.1,
+    "stars_per_day_recent": 34.4,
+    "lifetime_stars_per_day": 430.44,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.83,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.87,
+   "score_explain": [
+    "V=0.05: хвост 34.4 зв/сут против штатных 430.4 (x0)",
+    "N=0.2: репо 267 дн от роду",
+    "C=1.0: пуш 4 дн назад",
+    "fit=0.83 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-24",
+   "repo": "faizfahmi77/ScanDot",
+   "url": "https://github.com/faizfahmi77/ScanDot",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 316,
+   "forks": 2,
+   "open_issues": 0,
+   "language": "Kotlin",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 151,
+   "description": "Experimental Android 3D scanning and point-cloud viewer",
+   "topics": [
+    "3d-scanning",
+    "android",
+    "photogrammetry",
+    "point-cloud"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.7,
+    "stars_per_day_recent": 98.1,
+    "lifetime_stars_per_day": 589.41,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.85,
+   "score_explain": [
+    "V=0.15: хвост 98.1 зв/сут против штатных 589.4 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-sec",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-17",
+   "repo": "tyesheh/ai--manus",
+   "url": "https://github.com/tyesheh/ai--manus",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 148,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.3,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 296.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.67
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.37,
+   "lead_score": 0.81,
+   "score_explain": [
+    "V=0.40: хвост 144.0 зв/сут против штатных 296.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.37: self-star 0.0, кольца 0.67"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-02",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 457033,
+   "forks": 112196,
+   "open_issues": 1826,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 161466,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "android",
+    "claude-code",
+    "cli",
+    "cpp"
+   ],
+   "signals": {
+    "age_days": 213.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 3.3,
+    "stars_per_day_recent": 50.6,
+    "lifetime_stars_per_day": 2138.94,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.77,
+   "score_explain": [
+    "V=0.01: хвост 50.6 зв/сут против штатных 2138.9 (x0)",
+    "N=0.2: репо 214 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-14",
+   "repo": "stablyai/orca",
+   "url": "https://github.com/stablyai/orca",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 124212,
+   "forks": 7862,
+   "open_issues": 8379,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 2798840,
+   "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+   "topics": [
+    "agent-ide",
+    "ai-agents",
+    "automation",
+    "bot",
+    "claude-code",
+    "codex"
+   ],
+   "signals": {
+    "age_days": 241.6,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 2.9,
+    "stars_per_day_recent": 32.6,
+    "lifetime_stars_per_day": 514.2,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.72,
+   "score_explain": [
+    "V=0.04: хвост 32.6 зв/сут против штатных 514.2 (x0)",
+    "N=0.2: репо 242 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-30",
+   "repo": "vercel-labs/agent-browser",
+   "url": "https://github.com/vercel-labs/agent-browser",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 50615,
+   "forks": 3522,
+   "open_issues": 573,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 33209,
+   "description": "Browser automation CLI for AI agents",
+   "topics": [],
+   "signals": {
+    "age_days": 306.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.2,
+    "stars_per_day_recent": 33.3,
+    "lifetime_stars_per_day": 165.15,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.71,
+   "score_explain": [
+    "V=0.11: хвост 33.3 зв/сут против штатных 165.2 (x0)",
+    "N=0.2: репо 306 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-32",
+   "repo": "pbakaus/impeccable",
+   "url": "https://github.com/pbakaus/impeccable",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 109403,
+   "forks": 6519,
+   "open_issues": 65,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 905882,
+   "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "anti-slop",
+    "design",
+    "slop"
+   ],
+   "signals": {
+    "age_days": 362.6,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.3,
+    "stars_per_day_recent": 30.8,
+    "lifetime_stars_per_day": 301.69,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.65,
+   "score_explain": [
+    "V=0.06: хвост 30.8 зв/сут против штатных 301.7 (x0)",
+    "N=0.2: репо 363 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-34",
+   "repo": "mattpocock/skills",
+   "url": "https://github.com/mattpocock/skills",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 323628,
+   "forks": 27159,
+   "open_issues": 244,
+   "language": "Shell",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 2391,
+   "description": "Skills for Real Engineers. Straight from my .agents directory.",
+   "topics": [],
+   "signals": {
+    "age_days": 283.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.5,
+    "stars_per_day_recent": 28.4,
+    "lifetime_stars_per_day": 1142.6,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.61,
+   "score_explain": [
+    "V=0.01: хвост 28.4 зв/сут против штатных 1142.6 (x0)",
+    "N=0.2: репо 283 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-08",
+   "repo": "aws/aws-emulator",
+   "url": "https://github.com/aws/aws-emulator",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 6693,
+   "forks": 254,
+   "open_issues": 362,
+   "language": "Rust",
+   "license": "CC0-1.0",
+   "archived": false,
+   "size_kb": 1256752,
+   "description": "AWS Emulator is a local emulator of the AWS APIs.",
+   "topics": [],
+   "signals": {
+    "age_days": 62.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 2.7,
+    "stars_per_day_recent": 43.7,
+    "lifetime_stars_per_day": 106.38,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.47,
+   "score_explain": [
+    "V=0.21: хвост 43.7 зв/сут против штатных 106.4 (x0)",
+    "N=0.6: репо 63 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-28",
+   "repo": "JenkinWoo/sheeridVerify",
+   "url": "https://github.com/JenkinWoo/sheeridVerify",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 2535,
+   "forks": 1318,
+   "open_issues": 0,
+   "language": "JavaScript",
+   "license": "ISC",
+   "archived": false,
+   "size_kb": 408,
+   "description": null,
+   "topics": [],
+   "signals": {
+    "age_days": 7.3,
+    "last_push_days_ago": 7,
+    "stars_in_window": 3,
+    "window_h": 1.7,
+    "stars_per_day_recent": 42.9,
+    "lifetime_stars_per_day": 346.61,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.47,
+   "score_explain": [
+    "V=0.12: хвост 42.9 зв/сут против штатных 346.6 (x0)",
+    "N=1.0: репо 7 дн от роду",
+    "C=1.0: пуш 7 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-27",
+   "repo": "zxsos/HGhubX",
+   "url": "https://github.com/zxsos/HGhubX",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 2767,
+   "forks": 1972,
+   "open_issues": 6,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4605,
+   "description": null,
+   "topics": [],
+   "signals": {
+    "age_days": 4.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.2,
+    "stars_per_day_recent": 59.0,
+    "lifetime_stars_per_day": 666.72,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.44,
+   "score_explain": [
+    "V=0.08: хвост 59.0 зв/сут против штатных 666.7 (x0)",
+    "N=1.0: репо 4 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261113-05",
+   "repo": "storytold/craft-anything",
+   "url": "https://github.com/storytold/craft-anything",
+   "first_seen_at": "2026-11-13T16:59:58Z",
+   "channel": "gh_archive_watch",
+   "stars": 31209,
+   "forks": 6378,
+   "open_issues": 368,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 16530,
+   "description": "Craft Anything: understand how any software works, and craft your own.",
+   "topics": [],
+   "signals": {
+    "age_days": 13.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 2.8,
+    "stars_per_day_recent": 51.7,
+    "lifetime_stars_per_day": 2384.14,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.4,
+   "score_explain": [
+    "V=0.02: хвост 51.7 зв/сут против штатных 2384.1 (x0)",
+    "N=1.0: репо 13 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-13T20:59:58Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}
