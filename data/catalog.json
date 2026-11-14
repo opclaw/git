@@ -357,7 +357,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 48,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "VictorTaelin/uniichat": {
 "repo": "VictorTaelin/uniichat",
@@ -609,7 +609,7 @@
 "last_seen": "2026-11-13T08:34:54Z",
 "hits": 14,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Ansub/tv-detox": {
 "repo": "Ansub/tv-detox",
@@ -879,7 +879,7 @@
 "last_seen": "2026-11-13T08:34:54Z",
 "hits": 32,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Ebony-Vinyl/dsh-our-free-model": {
 "repo": "Ebony-Vinyl/dsh-our-free-model",
@@ -1023,7 +1023,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 20,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "cloudflare/security-audit-skill": {
 "repo": "cloudflare/security-audit-skill",
@@ -1401,7 +1401,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 47,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "val-tools/.github": {
 "repo": "val-tools/.github",
@@ -2553,7 +2553,7 @@
 "last_seen": "2026-11-13T08:34:54Z",
 "hits": 8,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ikow/php2shell-poc": {
 "repo": "ikow/php2shell-poc",
@@ -3111,7 +3111,7 @@
 "last_seen": "2026-11-13T08:34:54Z",
 "hits": 14,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "lexmount/moli": {
 "repo": "lexmount/moli",
@@ -4605,7 +4605,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 9,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "NanmiCoder/MediaCrawler": {
 "repo": "NanmiCoder/MediaCrawler",
@@ -6747,7 +6747,7 @@
 "last_seen": "2026-11-13T08:34:54Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "morganlinton/BeautifulRust": {
 "repo": "morganlinton/BeautifulRust",
@@ -8277,7 +8277,7 @@
 "last_seen": "2026-11-13T08:34:54Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ColossusStage39/SeedPhraseGenerator": {
 "repo": "ColossusStage39/SeedPhraseGenerator",
@@ -9483,7 +9483,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 31,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "JUk1-GH/gpt-promo-scanner": {
 "repo": "JUk1-GH/gpt-promo-scanner",
@@ -12759,7 +12759,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 16,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "open-wxa/wxa-runner": {
 "repo": "open-wxa/wxa-runner",
@@ -17349,7 +17349,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 21,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Colossuscliobserve55/cinema-4d": {
 "repo": "Colossuscliobserve55/cinema-4d",
@@ -17637,7 +17637,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "sandoctopuspanel64/TikTok-Video-Boost-2026---Advanced-Content-Performance-Tool": {
 "repo": "sandoctopuspanel64/TikTok-Video-Boost-2026---Advanced-Content-Performance-Tool",
@@ -18897,7 +18897,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "pookjw/HermesEnabler": {
 "repo": "pookjw/HermesEnabler",
@@ -19119,7 +19119,7 @@
 "repo": "GoogleChrome/modern-web-guidance",
 "url": "https://github.com/GoogleChrome/modern-web-guidance",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 11704.0,
+"stars": 15011.0,
 "spd": 84.9,
 "score": 1.7,
 "fit": 0.65,
@@ -19128,8 +19128,8 @@
 "license": "Apache-2.0",
 "language": "",
 "first_seen": "2026-11-10T20:54:55Z",
-"last_seen": "2026-11-14T06:45:26Z",
-"hits": 13,
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 14,
 "in_tg": true,
 "status": "active"
 },
@@ -20229,7 +20229,7 @@
 "last_seen": "2026-11-13T08:34:54Z",
 "hits": 6,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Straniero44/wenai": {
 "repo": "Straniero44/wenai",
@@ -21579,7 +21579,7 @@
 "last_seen": "2026-11-13T08:34:54Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "QwenLM/qwen-code": {
 "repo": "QwenLM/qwen-code",
@@ -21597,7 +21597,7 @@
 "last_seen": "2026-11-13T08:34:54Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Hack-with-Github/Awesome-Hacking": {
 "repo": "Hack-with-Github/Awesome-Hacking",
@@ -21615,7 +21615,7 @@
 "last_seen": "2026-11-13T08:34:54Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "zxsos/HGhubX": {
 "repo": "zxsos/HGhubX",
@@ -21633,7 +21633,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "edgerunners-2/capri-ai-desktop": {
 "repo": "edgerunners-2/capri-ai-desktop",
@@ -21651,7 +21651,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Edutzuu2001/ai--manus": {
 "repo": "Edutzuu2001/ai--manus",
@@ -21669,7 +21669,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "teacherabdulloh1-dev/ai--manus": {
 "repo": "teacherabdulloh1-dev/ai--manus",
@@ -21687,7 +21687,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "axel19990/ai--manus": {
 "repo": "axel19990/ai--manus",
@@ -21705,7 +21705,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Krzysztof132435/manus--ai": {
 "repo": "Krzysztof132435/manus--ai",
@@ -21723,7 +21723,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Edutzuu2001/manus--ai": {
 "repo": "Edutzuu2001/manus--ai",
@@ -21741,7 +21741,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "kazim768/manus--ai": {
 "repo": "kazim768/manus--ai",
@@ -21759,7 +21759,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "elpepe200086/manus--ai": {
 "repo": "elpepe200086/manus--ai",
@@ -21777,7 +21777,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "jassde/ai--manus": {
 "repo": "jassde/ai--manus",
@@ -21795,7 +21795,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "lebronstx-collab/manus--ai": {
 "repo": "lebronstx-collab/manus--ai",
@@ -21813,7 +21813,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Axillios1/ai--manus": {
 "repo": "Axillios1/ai--manus",
@@ -21831,7 +21831,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Ronni35/ai--manus": {
 "repo": "Ronni35/ai--manus",
@@ -21849,7 +21849,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "louislam/uptime-kuma": {
 "repo": "louislam/uptime-kuma",
@@ -21867,7 +21867,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "faizfahmi77/ScanDot": {
 "repo": "faizfahmi77/ScanDot",
@@ -21885,7 +21885,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "tyesheh/ai--manus": {
 "repo": "tyesheh/ai--manus",
@@ -21903,7 +21903,7 @@
 "last_seen": "2026-11-13T17:00:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "tradermonty/claude-trading-skills": {
 "repo": "tradermonty/claude-trading-skills",
@@ -22243,6 +22243,708 @@
 "language": "Kotlin",
 "first_seen": "2026-11-14T06:45:26Z",
 "last_seen": "2026-11-14T06:45:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Outpostkrewhirl86/Capri-AI": {
+"repo": "Outpostkrewhirl86/Capri-AI",
+"url": "https://github.com/Outpostkrewhirl86/Capri-AI",
+"description": "Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Code, Codex, Antigravity or any backend. Ins",
+"stars": 345,
+"spd": 322.1,
+"score": 1.43,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"TurkeyDesignate/GitHub-Copilot-app": {
+"repo": "TurkeyDesignate/GitHub-Copilot-app",
+"url": "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 665,
+"spd": 384.0,
+"score": 1.31,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"TurquoiseConsultant/GitHub-Copilot-app": {
+"repo": "TurquoiseConsultant/GitHub-Copilot-app",
+"url": "https://github.com/TurquoiseConsultant/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 665,
+"spd": 343.5,
+"score": 1.29,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"trackboatwrightplan/GitHub-Copilot-app": {
+"repo": "trackboatwrightplan/GitHub-Copilot-app",
+"url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 673,
+"spd": 362.4,
+"score": 1.27,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Trapkrostride/GitHub-Copilot-app": {
+"repo": "Trapkrostride/GitHub-Copilot-app",
+"url": "https://github.com/Trapkrostride/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 661,
+"spd": 284.6,
+"score": 1.26,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"toppatronweave/GitHub-Copilot-app": {
+"repo": "toppatronweave/GitHub-Copilot-app",
+"url": "https://github.com/toppatronweave/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 666,
+"spd": 276.0,
+"score": 1.25,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"TrueDefenderRouter/GitHub-Copilot-app": {
+"repo": "TrueDefenderRouter/GitHub-Copilot-app",
+"url": "https://github.com/TrueDefenderRouter/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 661,
+"spd": 245.2,
+"score": 1.24,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"WebBookkeeper/GitHub-Copilot-app": {
+"repo": "WebBookkeeper/GitHub-Copilot-app",
+"url": "https://github.com/WebBookkeeper/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 664,
+"spd": 221.6,
+"score": 1.22,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"unitsenseimonitor/GitHub-Copilot-app": {
+"repo": "unitsenseimonitor/GitHub-Copilot-app",
+"url": "https://github.com/unitsenseimonitor/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 662,
+"spd": 324.6,
+"score": 1.21,
+"fit": 0.96,
+"risk": 0.06,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"topconstableinlet67/GitHub-Copilot-app": {
+"repo": "topconstableinlet67/GitHub-Copilot-app",
+"url": "https://github.com/topconstableinlet67/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 662,
+"spd": 174.0,
+"score": 1.2,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"TarantulaCorrect/GitHub-Copilot-app": {
+"repo": "TarantulaCorrect/GitHub-Copilot-app",
+"url": "https://github.com/TarantulaCorrect/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 660,
+"spd": 171.1,
+"score": 1.19,
+"fit": 0.96,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"TitanShieldRavine/ai--manus2.0": {
+"repo": "TitanShieldRavine/ai--manus2.0",
+"url": "https://github.com/TitanShieldRavine/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 660,
+"spd": 481.5,
+"score": 1.17,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Tealplesense/GitHub-Copilot-app": {
+"repo": "Tealplesense/GitHub-Copilot-app",
+"url": "https://github.com/Tealplesense/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 664,
+"spd": 244.6,
+"score": 1.17,
+"fit": 0.96,
+"risk": 0.06,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"TradesmanRecord/GitHub-Copilot-app": {
+"repo": "TradesmanRecord/GitHub-Copilot-app",
+"url": "https://github.com/TradesmanRecord/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 666,
+"spd": 319.4,
+"score": 1.17,
+"fit": 0.96,
+"risk": 0.07,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"violetkomodolimit/ai--manus2.0": {
+"repo": "violetkomodolimit/ai--manus2.0",
+"url": "https://github.com/violetkomodolimit/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 652,
+"spd": 482.5,
+"score": 1.16,
+"fit": 0.74,
+"risk": 0.04,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"libracoder/kiri": {
+"repo": "libracoder/kiri",
+"url": "https://github.com/libracoder/kiri",
+"description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+"stars": 3680,
+"spd": 62.0,
+"score": 1.13,
+"fit": 0.83,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Ultimateakiln/ai--manus2.0": {
+"repo": "Ultimateakiln/ai--manus2.0",
+"url": "https://github.com/Ultimateakiln/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 655,
+"spd": 267.0,
+"score": 1.09,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Tonephorepair/ai--manus2.0": {
+"repo": "Tonephorepair/ai--manus2.0",
+"url": "https://github.com/Tonephorepair/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 651,
+"spd": 255.3,
+"score": 1.08,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"TremorRatTackle/ai--manus2.0": {
+"repo": "TremorRatTackle/ai--manus2.0",
+"url": "https://github.com/TremorRatTackle/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 653,
+"spd": 244.7,
+"score": 1.07,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Topkiflare74/ai--manus2.0": {
+"repo": "Topkiflare74/ai--manus2.0",
+"url": "https://github.com/Topkiflare74/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 678,
+"spd": 288.0,
+"score": 1.07,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"topconstableinlet67/ai--manus2.0": {
+"repo": "topconstableinlet67/ai--manus2.0",
+"url": "https://github.com/topconstableinlet67/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 664,
+"spd": 265.2,
+"score": 1.06,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"TrapBladesmith/ai--manus2.0": {
+"repo": "TrapBladesmith/ai--manus2.0",
+"url": "https://github.com/TrapBladesmith/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 654,
+"spd": 198.8,
+"score": 1.05,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"toppatronweave/ai--manus2.0": {
+"repo": "toppatronweave/ai--manus2.0",
+"url": "https://github.com/toppatronweave/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 666,
+"spd": 225.3,
+"score": 1.04,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"trackboatwrightplan/ai--manus2.0": {
+"repo": "trackboatwrightplan/ai--manus2.0",
+"url": "https://github.com/trackboatwrightplan/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 650,
+"spd": 336.0,
+"score": 1.03,
+"fit": 0.74,
+"risk": 0.08,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Torusdrasocket/ai--manus2.0": {
+"repo": "Torusdrasocket/ai--manus2.0",
+"url": "https://github.com/Torusdrasocket/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 654,
+"spd": 280.2,
+"score": 1.02,
+"fit": 0.74,
+"risk": 0.06,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"TrapAccountant/GitHub-Copilot-app": {
+"repo": "TrapAccountant/GitHub-Copilot-app",
+"url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
+"description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+"stars": 671,
+"spd": 139.3,
+"score": 1.02,
+"fit": 0.96,
+"risk": 0.11,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"tornadonovicewhirl40/ai--manus2.0": {
+"repo": "tornadonovicewhirl40/ai--manus2.0",
+"url": "https://github.com/tornadonovicewhirl40/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 660,
+"spd": 143.8,
+"score": 1.01,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"TradesmanRecord/IPTV_Player_2.0": {
+"repo": "TradesmanRecord/IPTV_Player_2.0",
+"url": "https://github.com/TradesmanRecord/IPTV_Player_2.0",
+"description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+"stars": 659,
+"spd": 409.7,
+"score": 0.96,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"tornadonovicewhirl40/IPTV_Player_2.0": {
+"repo": "tornadonovicewhirl40/IPTV_Player_2.0",
+"url": "https://github.com/tornadonovicewhirl40/IPTV_Player_2.0",
+"description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+"stars": 670,
+"spd": 353.0,
+"score": 0.93,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"topapothecarycanal/ai--manus2.0": {
+"repo": "topapothecarycanal/ai--manus2.0",
+"url": "https://github.com/topapothecarycanal/ai--manus2.0",
+"description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+"stars": 667,
+"spd": 192.8,
+"score": 0.92,
+"fit": 0.74,
+"risk": 0.08,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"WattBeetleLearn/IPTV_Player_2.0": {
+"repo": "WattBeetleLearn/IPTV_Player_2.0",
+"url": "https://github.com/WattBeetleLearn/IPTV_Player_2.0",
+"description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+"stars": 668,
+"spd": 272.3,
+"score": 0.88,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"TorrentArrow/IPTV_Player_2.0": {
+"repo": "TorrentArrow/IPTV_Player_2.0",
+"url": "https://github.com/TorrentArrow/IPTV_Player_2.0",
+"description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+"stars": 662,
+"spd": 247.4,
+"score": 0.87,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Tornadovonmodify/IPTV_Player_2.0": {
+"repo": "Tornadovonmodify/IPTV_Player_2.0",
+"url": "https://github.com/Tornadovonmodify/IPTV_Player_2.0",
+"description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+"stars": 664,
+"spd": 310.8,
+"score": 0.84,
+"fit": 0.5,
+"risk": 0.05,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"tremorbuffalospire/IPTV_Player_2.0": {
+"repo": "tremorbuffalospire/IPTV_Player_2.0",
+"url": "https://github.com/tremorbuffalospire/IPTV_Player_2.0",
+"description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+"stars": 662,
+"spd": 192.8,
+"score": 0.84,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Topkiflare74/IPTV_Player_2.0": {
+"repo": "Topkiflare74/IPTV_Player_2.0",
+"url": "https://github.com/Topkiflare74/IPTV_Player_2.0",
+"description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+"stars": 661,
+"spd": 190.2,
+"score": 0.84,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Trapbraneedle/IPTV_Player_2.0": {
+"repo": "Trapbraneedle/IPTV_Player_2.0",
+"url": "https://github.com/Trapbraneedle/IPTV_Player_2.0",
+"description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+"stars": 667,
+"spd": 201.2,
+"score": 0.84,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Go",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Titanlushrink/IPTV_Player_2.0": {
+"repo": "Titanlushrink/IPTV_Player_2.0",
+"url": "https://github.com/Titanlushrink/IPTV_Player_2.0",
+"description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+"stars": 666,
+"spd": 192.3,
+"score": 0.84,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"TurquoiseFarmer/IPTV_Player_2.0": {
+"repo": "TurquoiseFarmer/IPTV_Player_2.0",
+"url": "https://github.com/TurquoiseFarmer/IPTV_Player_2.0",
+"description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+"stars": 661,
+"spd": 182.2,
+"score": 0.83,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"TowerStalker/IPTV_Player_2.0": {
+"repo": "TowerStalker/IPTV_Player_2.0",
+"url": "https://github.com/TowerStalker/IPTV_Player_2.0",
+"description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+"stars": 666,
+"spd": 298.3,
+"score": 0.82,
+"fit": 0.5,
+"risk": 0.06,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-14T23:08:26Z",
+"last_seen": "2026-11-14T23:08:26Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"

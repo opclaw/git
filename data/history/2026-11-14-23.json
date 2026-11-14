@@ -1,0 +1,2250 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-14T23:08:15Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-11-14-19",
+  "to": "2026-11-14-22",
+  "watch_events": 1153,
+  "repos": 763,
+  "actors": 963,
+  "ring_accounts": 7,
+  "api_calls": 40,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261114-21",
+   "repo": "Outpostkrewhirl86/Capri-AI",
+   "url": "https://github.com/Outpostkrewhirl86/Capri-AI",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 345,
+   "forks": 53,
+   "open_issues": 0,
+   "language": null,
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 8,
+   "description": "Capri: a local-first desktop AI agent with a cyberpunk HUD. Your personal Jarvis for Windows. Controls files, apps, terminal and browser, powered by Claude Code, Codex, Antigravity or any backend. Inspired by Cyberpunk: Edgerunners.",
+   "topics": [
+    "ai-agent",
+    "ai-agents",
+    "ai-assistants",
+    "ai-desktop",
+    "ai-desktop-app",
+    "antigravity"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 0.6,
+    "stars_per_day_recent": 322.1,
+    "lifetime_stars_per_day": 690.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.43,
+   "score_explain": [
+    "V=0.38: хвост 322.1 зв/сут против штатных 690.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-20",
+   "repo": "TurkeyDesignate/GitHub-Copilot-app",
+   "url": "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 665,
+   "forks": 387,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 0.5,
+    "stars_per_day_recent": 384.0,
+    "lifetime_stars_per_day": 1330.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.31,
+   "score_explain": [
+    "V=0.25: хвост 384.0 зв/сут против штатных 1330.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-03",
+   "repo": "TurquoiseConsultant/GitHub-Copilot-app",
+   "url": "https://github.com/TurquoiseConsultant/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 665,
+   "forks": 263,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 14,
+    "window_h": 1.0,
+    "stars_per_day_recent": 343.5,
+    "lifetime_stars_per_day": 1330.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.29,
+   "score_explain": [
+    "V=0.23: хвост 343.5 зв/сут против штатных 1330.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-04",
+   "repo": "trackboatwrightplan/GitHub-Copilot-app",
+   "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 673,
+   "forks": 12,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 13,
+    "window_h": 0.9,
+    "stars_per_day_recent": 362.4,
+    "lifetime_stars_per_day": 1346.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.27,
+   "score_explain": [
+    "V=0.24: хвост 362.4 зв/сут против штатных 1346.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-23",
+   "repo": "Trapkrostride/GitHub-Copilot-app",
+   "url": "https://github.com/Trapkrostride/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 661,
+   "forks": 341,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 0.7,
+    "stars_per_day_recent": 284.6,
+    "lifetime_stars_per_day": 1322.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.26,
+   "score_explain": [
+    "V=0.19: хвост 284.6 зв/сут против штатных 1322.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-16",
+   "repo": "toppatronweave/GitHub-Copilot-app",
+   "url": "https://github.com/toppatronweave/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 666,
+   "forks": 309,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 9,
+    "window_h": 0.8,
+    "stars_per_day_recent": 276.0,
+    "lifetime_stars_per_day": 1332.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.25,
+   "score_explain": [
+    "V=0.19: хвост 276.0 зв/сут против штатных 1332.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-12",
+   "repo": "TrueDefenderRouter/GitHub-Copilot-app",
+   "url": "https://github.com/TrueDefenderRouter/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 661,
+   "forks": 323,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 1.0,
+    "stars_per_day_recent": 245.2,
+    "lifetime_stars_per_day": 1322.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.24,
+   "score_explain": [
+    "V=0.17: хвост 245.2 зв/сут против штатных 1322.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-19",
+   "repo": "WebBookkeeper/GitHub-Copilot-app",
+   "url": "https://github.com/WebBookkeeper/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 664,
+   "forks": 317,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 9,
+    "window_h": 1.0,
+    "stars_per_day_recent": 221.6,
+    "lifetime_stars_per_day": 1328.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.22,
+   "score_explain": [
+    "V=0.15: хвост 221.6 зв/сут против штатных 1328.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-09",
+   "repo": "unitsenseimonitor/GitHub-Copilot-app",
+   "url": "https://github.com/unitsenseimonitor/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 662,
+   "forks": 332,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 0.7,
+    "stars_per_day_recent": 324.6,
+    "lifetime_stars_per_day": 1324.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.1
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.06,
+   "lead_score": 1.21,
+   "score_explain": [
+    "V=0.22: хвост 324.6 зв/сут против штатных 1324.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.06: self-star 0.0, кольца 0.1"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-36",
+   "repo": "topconstableinlet67/GitHub-Copilot-app",
+   "url": "https://github.com/topconstableinlet67/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 662,
+   "forks": 335,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.8,
+    "stars_per_day_recent": 174.0,
+    "lifetime_stars_per_day": 1324.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.2,
+   "score_explain": [
+    "V=0.12: хвост 174.0 зв/сут против штатных 1324.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-31",
+   "repo": "TarantulaCorrect/GitHub-Copilot-app",
+   "url": "https://github.com/TarantulaCorrect/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 660,
+   "forks": 339,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 1.0,
+    "stars_per_day_recent": 171.1,
+    "lifetime_stars_per_day": 1320.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.19,
+   "score_explain": [
+    "V=0.12: хвост 171.1 зв/сут против штатных 1320.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-01",
+   "repo": "TitanShieldRavine/ai--manus2.0",
+   "url": "https://github.com/TitanShieldRavine/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 660,
+   "forks": 5,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 16,
+    "window_h": 0.8,
+    "stars_per_day_recent": 481.5,
+    "lifetime_stars_per_day": 1320.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.17,
+   "score_explain": [
+    "V=0.31: хвост 481.5 зв/сут против штатных 1320.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-14",
+   "repo": "Tealplesense/GitHub-Copilot-app",
+   "url": "https://github.com/Tealplesense/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 664,
+   "forks": 327,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 1.0,
+    "stars_per_day_recent": 244.6,
+    "lifetime_stars_per_day": 1328.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.1
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.06,
+   "lead_score": 1.17,
+   "score_explain": [
+    "V=0.17: хвост 244.6 зв/сут против штатных 1328.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.06: self-star 0.0, кольца 0.1"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-22",
+   "repo": "TradesmanRecord/GitHub-Copilot-app",
+   "url": "https://github.com/TradesmanRecord/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 666,
+   "forks": 12,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 0.6,
+    "stars_per_day_recent": 319.4,
+    "lifetime_stars_per_day": 1332.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.12
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.07,
+   "lead_score": 1.17,
+   "score_explain": [
+    "V=0.21: хвост 319.4 зв/сут против штатных 1332.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.07: self-star 0.0, кольца 0.12"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-02",
+   "repo": "violetkomodolimit/ai--manus2.0",
+   "url": "https://github.com/violetkomodolimit/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 652,
+   "forks": 523,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 14,
+    "window_h": 0.7,
+    "stars_per_day_recent": 482.5,
+    "lifetime_stars_per_day": 1304.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.07
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.04,
+   "lead_score": 1.16,
+   "score_explain": [
+    "V=0.31: хвост 482.5 зв/сут против штатных 1304.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.04: self-star 0.0, кольца 0.07"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-37",
+   "repo": "libracoder/kiri",
+   "url": "https://github.com/libracoder/kiri",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 3680,
+   "forks": 182,
+   "open_issues": 64,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 4068,
+   "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+   "topics": [
+    "containers",
+    "docker",
+    "kubernetes",
+    "linux",
+    "macos",
+    "oci"
+   ],
+   "signals": {
+    "age_days": 12.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 2.3,
+    "stars_per_day_recent": 62.0,
+    "lifetime_stars_per_day": 299.44,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.83,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.13,
+   "score_explain": [
+    "V=0.19: хвост 62.0 зв/сут против штатных 299.4 (x0)",
+    "N=1.0: репо 12 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.83 -> PS-infra",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-07",
+   "repo": "Ultimateakiln/ai--manus2.0",
+   "url": "https://github.com/Ultimateakiln/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 655,
+   "forks": 523,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 11,
+    "window_h": 1.0,
+    "stars_per_day_recent": 267.0,
+    "lifetime_stars_per_day": 1310.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.09,
+   "score_explain": [
+    "V=0.19: хвост 267.0 зв/сут против штатных 1310.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-17",
+   "repo": "Tonephorepair/ai--manus2.0",
+   "url": "https://github.com/Tonephorepair/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 651,
+   "forks": 523,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 9,
+    "window_h": 0.8,
+    "stars_per_day_recent": 255.3,
+    "lifetime_stars_per_day": 1302.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.08,
+   "score_explain": [
+    "V=0.18: хвост 255.3 зв/сут против штатных 1302.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-13",
+   "repo": "TremorRatTackle/ai--manus2.0",
+   "url": "https://github.com/TremorRatTackle/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 653,
+   "forks": 523,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 1.0,
+    "stars_per_day_recent": 244.7,
+    "lifetime_stars_per_day": 1306.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.07,
+   "score_explain": [
+    "V=0.17: хвост 244.7 зв/сут против штатных 1306.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-32",
+   "repo": "GoogleChrome/modern-web-guidance",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 15011,
+   "forks": 545,
+   "open_issues": 1,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 1726,
+   "description": "Keep your coding agent up to date with the latest web best practices",
+   "topics": [],
+   "signals": {
+    "age_days": 236.2,
+    "last_push_days_ago": 4,
+    "stars_in_window": 7,
+    "window_h": 2.6,
+    "stars_per_day_recent": 64.5,
+    "lifetime_stars_per_day": 63.55,
+    "acceleration": 1.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.07,
+   "score_explain": [
+    "V=0.42: хвост 64.5 зв/сут против штатных 63.5 (x1)",
+    "N=0.2: репо 236 дн от роду",
+    "C=1.0: пуш 4 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-33",
+   "repo": "Topkiflare74/ai--manus2.0",
+   "url": "https://github.com/Topkiflare74/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 678,
+   "forks": 5,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.5,
+    "stars_per_day_recent": 288.0,
+    "lifetime_stars_per_day": 1356.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.07,
+   "score_explain": [
+    "V=0.19: хвост 288.0 зв/сут против штатных 1356.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-24",
+   "repo": "topconstableinlet67/ai--manus2.0",
+   "url": "https://github.com/topconstableinlet67/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 664,
+   "forks": 5,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 0.7,
+    "stars_per_day_recent": 265.2,
+    "lifetime_stars_per_day": 1328.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.06,
+   "score_explain": [
+    "V=0.18: хвост 265.2 зв/сут против штатных 1328.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-27",
+   "repo": "TrapBladesmith/ai--manus2.0",
+   "url": "https://github.com/TrapBladesmith/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 654,
+   "forks": 523,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 0.8,
+    "stars_per_day_recent": 198.8,
+    "lifetime_stars_per_day": 1308.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.05,
+   "score_explain": [
+    "V=0.14: хвост 198.8 зв/сут против штатных 1308.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-26",
+   "repo": "toppatronweave/ai--manus2.0",
+   "url": "https://github.com/toppatronweave/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 666,
+   "forks": 5,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 0.7,
+    "stars_per_day_recent": 225.3,
+    "lifetime_stars_per_day": 1332.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.04,
+   "score_explain": [
+    "V=0.16: хвост 225.3 зв/сут против штатных 1332.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-25",
+   "repo": "trackboatwrightplan/ai--manus2.0",
+   "url": "https://github.com/trackboatwrightplan/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 650,
+   "forks": 522,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 0.4,
+    "stars_per_day_recent": 336.0,
+    "lifetime_stars_per_day": 1300.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.14
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.08,
+   "lead_score": 1.03,
+   "score_explain": [
+    "V=0.23: хвост 336.0 зв/сут против штатных 1300.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.08: self-star 0.0, кольца 0.14"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-10",
+   "repo": "Torusdrasocket/ai--manus2.0",
+   "url": "https://github.com/Torusdrasocket/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 654,
+   "forks": 523,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 0.9,
+    "stars_per_day_recent": 280.2,
+    "lifetime_stars_per_day": 1308.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.1
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.06,
+   "lead_score": 1.02,
+   "score_explain": [
+    "V=0.19: хвост 280.2 зв/сут против штатных 1308.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.06: self-star 0.0, кольца 0.1"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-40",
+   "repo": "TrapAccountant/GitHub-Copilot-app",
+   "url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 671,
+   "forks": 12,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 274,
+   "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.9,
+    "stars_per_day_recent": 139.3,
+    "lifetime_stars_per_day": 1342.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.2
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.11,
+   "lead_score": 1.02,
+   "score_explain": [
+    "V=0.10: хвост 139.3 зв/сут против штатных 1342.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.11: self-star 0.0, кольца 0.2"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-39",
+   "repo": "tornadonovicewhirl40/ai--manus2.0",
+   "url": "https://github.com/tornadonovicewhirl40/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 660,
+   "forks": 522,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.8,
+    "stars_per_day_recent": 143.8,
+    "lifetime_stars_per_day": 1320.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.01,
+   "score_explain": [
+    "V=0.10: хвост 143.8 зв/сут против штатных 1320.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-08",
+   "repo": "TradesmanRecord/IPTV_Player_2.0",
+   "url": "https://github.com/TradesmanRecord/IPTV_Player_2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 659,
+   "forks": 12,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 609,
+   "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 0.6,
+    "stars_per_day_recent": 409.7,
+    "lifetime_stars_per_day": 1318.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.96,
+   "score_explain": [
+    "V=0.27: хвост 409.7 зв/сут против штатных 1318.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-05",
+   "repo": "tornadonovicewhirl40/IPTV_Player_2.0",
+   "url": "https://github.com/tornadonovicewhirl40/IPTV_Player_2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 670,
+   "forks": 12,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 609,
+   "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 11,
+    "window_h": 0.7,
+    "stars_per_day_recent": 353.0,
+    "lifetime_stars_per_day": 1340.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.93,
+   "score_explain": [
+    "V=0.23: хвост 353.0 зв/сут против штатных 1340.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-29",
+   "repo": "topapothecarycanal/ai--manus2.0",
+   "url": "https://github.com/topapothecarycanal/ai--manus2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 667,
+   "forks": 12,
+   "open_issues": 0,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 10,
+   "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 0.9,
+    "stars_per_day_recent": 192.8,
+    "lifetime_stars_per_day": 1334.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.14
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.08,
+   "lead_score": 0.92,
+   "score_explain": [
+    "V=0.13: хвост 192.8 зв/сут против штатных 1334.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.08: self-star 0.0, кольца 0.14"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-11",
+   "repo": "WattBeetleLearn/IPTV_Player_2.0",
+   "url": "https://github.com/WattBeetleLearn/IPTV_Player_2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 668,
+   "forks": 12,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 609,
+   "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 0.9,
+    "stars_per_day_recent": 272.3,
+    "lifetime_stars_per_day": 1336.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.88,
+   "score_explain": [
+    "V=0.19: хвост 272.3 зв/сут против штатных 1336.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-18",
+   "repo": "TorrentArrow/IPTV_Player_2.0",
+   "url": "https://github.com/TorrentArrow/IPTV_Player_2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 662,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 609,
+   "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 9,
+    "window_h": 0.9,
+    "stars_per_day_recent": 247.4,
+    "lifetime_stars_per_day": 1324.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.87,
+   "score_explain": [
+    "V=0.17: хвост 247.4 зв/сут против штатных 1324.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-06",
+   "repo": "Tornadovonmodify/IPTV_Player_2.0",
+   "url": "https://github.com/Tornadovonmodify/IPTV_Player_2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 664,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 609,
+   "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 11,
+    "window_h": 0.8,
+    "stars_per_day_recent": 310.8,
+    "lifetime_stars_per_day": 1328.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.09
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.05,
+   "lead_score": 0.84,
+   "score_explain": [
+    "V=0.21: хвост 310.8 зв/сут против штатных 1328.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.05: self-star 0.0, кольца 0.09"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-28",
+   "repo": "tremorbuffalospire/IPTV_Player_2.0",
+   "url": "https://github.com/tremorbuffalospire/IPTV_Player_2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 662,
+   "forks": 25,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 609,
+   "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 0.9,
+    "stars_per_day_recent": 192.8,
+    "lifetime_stars_per_day": 1324.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.84,
+   "score_explain": [
+    "V=0.14: хвост 192.8 зв/сут против штатных 1324.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-30",
+   "repo": "Topkiflare74/IPTV_Player_2.0",
+   "url": "https://github.com/Topkiflare74/IPTV_Player_2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 661,
+   "forks": 12,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 609,
+   "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 0.9,
+    "stars_per_day_recent": 190.2,
+    "lifetime_stars_per_day": 1322.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.84,
+   "score_explain": [
+    "V=0.13: хвост 190.2 зв/сут против штатных 1322.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-34",
+   "repo": "Trapbraneedle/IPTV_Player_2.0",
+   "url": "https://github.com/Trapbraneedle/IPTV_Player_2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 667,
+   "forks": 12,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 609,
+   "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.7,
+    "stars_per_day_recent": 201.2,
+    "lifetime_stars_per_day": 1334.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.84,
+   "score_explain": [
+    "V=0.14: хвост 201.2 зв/сут против штатных 1334.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-38",
+   "repo": "Titanlushrink/IPTV_Player_2.0",
+   "url": "https://github.com/Titanlushrink/IPTV_Player_2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 666,
+   "forks": 12,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 609,
+   "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.6,
+    "stars_per_day_recent": 192.3,
+    "lifetime_stars_per_day": 1332.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.84,
+   "score_explain": [
+    "V=0.13: хвост 192.3 зв/сут против штатных 1332.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-35",
+   "repo": "TurquoiseFarmer/IPTV_Player_2.0",
+   "url": "https://github.com/TurquoiseFarmer/IPTV_Player_2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 661,
+   "forks": 17,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 609,
+   "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.8,
+    "stars_per_day_recent": 182.2,
+    "lifetime_stars_per_day": 1322.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.83,
+   "score_explain": [
+    "V=0.13: хвост 182.2 зв/сут против штатных 1322.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261114-15",
+   "repo": "TowerStalker/IPTV_Player_2.0",
+   "url": "https://github.com/TowerStalker/IPTV_Player_2.0",
+   "first_seen_at": "2026-11-14T23:08:15Z",
+   "channel": "gh_archive_watch",
+   "stars": 666,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 609,
+   "description": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 9,
+    "window_h": 0.7,
+    "stars_per_day_recent": 298.3,
+    "lifetime_stars_per_day": 1332.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.11
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.06,
+   "lead_score": 0.82,
+   "score_explain": [
+    "V=0.20: хвост 298.3 зв/сут против штатных 1332.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.06: self-star 0.0, кольца 0.11"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-15T03:08:15Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}
