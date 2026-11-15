@@ -1,0 +1,1563 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-15T20:53:06Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-11-15-16",
+  "to": "2026-11-15-19",
+  "watch_events": 1092,
+  "repos": 800,
+  "actors": 1014,
+  "ring_accounts": 1,
+  "api_calls": 19,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261115-28",
+   "repo": "phamcucpqrwbbnposhmn96-ui/KSNStudy",
+   "url": "https://github.com/phamcucpqrwbbnposhmn96-ui/KSNStudy",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 99,
+   "forks": 7,
+   "open_issues": 1,
+   "language": "Java",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 364,
+   "description": "学习通 · 学习助手 —— 自动答题 / 自动签到 / 熄屏后台保活 / GitHub 自更新（免 Root，官方 App 内运行）",
+   "topics": [],
+   "signals": {
+    "age_days": 1.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.9,
+    "stars_per_day_recent": 81.7,
+    "lifetime_stars_per_day": 79.64,
+    "acceleration": 1.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.36,
+   "score_explain": [
+    "V=0.71: хвост 81.7 зв/сут против штатных 79.6 (x1)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-01",
+   "repo": "Visionbeyondtrack/Gemini-Config-Checker-",
+   "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 14,
+    "window_h": 1.0,
+    "stars_per_day_recent": 334.9,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.33,
+   "score_explain": [
+    "V=0.30: хвост 334.9 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-02",
+   "repo": "VortexHostFeel/Gemini-Config-Checker-",
+   "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 0.9,
+    "stars_per_day_recent": 258.8,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.28,
+   "score_explain": [
+    "V=0.24: хвост 258.8 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-03",
+   "repo": "Violetnyudress/Gemini-Config-Checker-",
+   "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 1.0,
+    "stars_per_day_recent": 233.3,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.26,
+   "score_explain": [
+    "V=0.22: хвост 233.3 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-04",
+   "repo": "Watchlespeed/Gemini-Config-Checker-",
+   "url": "https://github.com/Watchlespeed/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 1.1,
+    "stars_per_day_recent": 228.0,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.25,
+   "score_explain": [
+    "V=0.22: хвост 228.0 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-26",
+   "repo": "GoogleChrome/modern-web-guidance",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 17495,
+   "forks": 663,
+   "open_issues": 1,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 1726,
+   "description": "Keep your coding agent up to date with the latest web best practices",
+   "topics": [],
+   "signals": {
+    "age_days": 237.1,
+    "last_push_days_ago": 5,
+    "stars_in_window": 3,
+    "window_h": 0.5,
+    "stars_per_day_recent": 137.1,
+    "lifetime_stars_per_day": 73.78,
+    "acceleration": 1.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.25,
+   "score_explain": [
+    "V=0.63: хвост 137.1 зв/сут против штатных 73.8 (x2)",
+    "N=0.2: репо 237 дн от роду",
+    "C=1.0: пуш 5 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-05",
+   "repo": "WingDataVacuum/Gemini-Config-Checker-",
+   "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 1.3,
+    "stars_per_day_recent": 190.4,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.22,
+   "score_explain": [
+    "V=0.18: хвост 190.4 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-06",
+   "repo": "wisemeadowlarkspike/Gemini-Config-Checker-",
+   "url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 1.3,
+    "stars_per_day_recent": 187.7,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.22,
+   "score_explain": [
+    "V=0.18: хвост 187.7 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-09",
+   "repo": "weightcashiercupola/Gemini-Config-Checker-",
+   "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 9,
+    "window_h": 1.2,
+    "stars_per_day_recent": 183.1,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.22,
+   "score_explain": [
+    "V=0.18: хвост 183.1 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-11",
+   "repo": "WindGatorRise37/Gemini-Config-Checker-",
+   "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 1.0,
+    "stars_per_day_recent": 184.4,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.22,
+   "score_explain": [
+    "V=0.18: хвост 184.4 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-14",
+   "repo": "WyrmClimberManacle/Gemini-Config-Checker-",
+   "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 0.9,
+    "stars_per_day_recent": 187.7,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.22,
+   "score_explain": [
+    "V=0.18: хвост 187.7 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-07",
+   "repo": "WireProvostPucker/Gemini-Config-Checker-",
+   "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 1.4,
+    "stars_per_day_recent": 177.3,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.21,
+   "score_explain": [
+    "V=0.17: хвост 177.3 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-10",
+   "repo": "WinnerSpecialist/Gemini-Config-Checker-",
+   "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 9,
+    "window_h": 1.3,
+    "stars_per_day_recent": 169.3,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.21,
+   "score_explain": [
+    "V=0.16: хвост 169.3 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-15",
+   "repo": "WharfBoulderColander/Gemini-Config-Checker-",
+   "url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 0.9,
+    "stars_per_day_recent": 176.8,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.21,
+   "score_explain": [
+    "V=0.17: хвост 176.8 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-12",
+   "repo": "TypeTyrantScheme/Gemini-Config-Checker-",
+   "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 1.2,
+    "stars_per_day_recent": 158.5,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.2,
+   "score_explain": [
+    "V=0.15: хвост 158.5 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-16",
+   "repo": "YellowLaborerMarket/Gemini-Config-Checker-",
+   "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 1.0,
+    "stars_per_day_recent": 137.8,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.18,
+   "score_explain": [
+    "V=0.14: хвост 137.8 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-17",
+   "repo": "TrooperFilter/Gemini-Config-Checker-",
+   "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 1.1,
+    "stars_per_day_recent": 128.5,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.17,
+   "score_explain": [
+    "V=0.13: хвост 128.5 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-21",
+   "repo": "WindowStaffGate11/Gemini-Config-Checker-",
+   "url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Makefile",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 1.0,
+    "stars_per_day_recent": 118.0,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.17,
+   "score_explain": [
+    "V=0.12: хвост 118.0 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-18",
+   "repo": "VisionWormStudio/Gemini-Config-Checker-",
+   "url": "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 1.2,
+    "stars_per_day_recent": 116.4,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.16,
+   "score_explain": [
+    "V=0.12: хвост 116.4 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-19",
+   "repo": "WestLocksmithSpout/Gemini-Config-Checker-",
+   "url": "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 1.3,
+    "stars_per_day_recent": 114.2,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.16,
+   "score_explain": [
+    "V=0.11: хвост 114.2 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-23",
+   "repo": "WerewolfEmuHub/Gemini-Config-Checker-",
+   "url": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.8,
+    "stars_per_day_recent": 114.4,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.16,
+   "score_explain": [
+    "V=0.11: хвост 114.4 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-20",
+   "repo": "TurtleReside/Gemini-Config-Checker-",
+   "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 475,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 181,
+   "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
+   "topics": [
+    "ai",
+    "ai-search",
+    "aichecker",
+    "chatgpt",
+    "cli",
+    "config-checker"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 1.4,
+    "stars_per_day_recent": 104.6,
+    "lifetime_stars_per_day": 950.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.15,
+   "score_explain": [
+    "V=0.10: хвост 104.6 зв/сут против штатных 950.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-08",
+   "repo": "libracoder/kiri",
+   "url": "https://github.com/libracoder/kiri",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 6020,
+   "forks": 270,
+   "open_issues": 94,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 1987,
+   "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+   "topics": [
+    "containers",
+    "docker",
+    "kubernetes",
+    "linux",
+    "macos",
+    "oci"
+   ],
+   "signals": {
+    "age_days": 13.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 3.1,
+    "stars_per_day_recent": 76.5,
+    "lifetime_stars_per_day": 456.21,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.83,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.1,
+   "score_explain": [
+    "V=0.16: хвост 76.5 зв/сут против штатных 456.2 (x0)",
+    "N=1.0: репо 13 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.83 -> PS-infra",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-22",
+   "repo": "anefzaoui/misterdownloadmanager",
+   "url": "https://github.com/anefzaoui/misterdownloadmanager",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 10264,
+   "forks": 845,
+   "open_issues": 47,
+   "language": "Rust",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 614087,
+   "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+   "topics": [
+    "bittorrent-client",
+    "debrid",
+    "download-accelerator",
+    "download-manager",
+    "downloadmanager",
+    "egui"
+   ],
+   "signals": {
+    "age_days": 17.8,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 3.3,
+    "stars_per_day_recent": 35.9,
+    "lifetime_stars_per_day": 576.27,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.88,
+   "score_explain": [
+    "V=0.06: хвост 35.9 зв/сут против штатных 576.3 (x0)",
+    "N=1.0: репо 18 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-27",
+   "repo": "pbakaus/impeccable",
+   "url": "https://github.com/pbakaus/impeccable",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 110674,
+   "forks": 6613,
+   "open_issues": 55,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 911574,
+   "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "anti-slop",
+    "design",
+    "slop"
+   ],
+   "signals": {
+    "age_days": 364.8,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.6,
+    "stars_per_day_recent": 123.7,
+    "lifetime_stars_per_day": 303.39,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.78,
+   "score_explain": [
+    "V=0.21: хвост 123.7 зв/сут против штатных 303.4 (x0)",
+    "N=0.2: репо 365 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-13",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 461702,
+   "forks": 113072,
+   "open_issues": 1532,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 174711,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "android",
+    "claude-code",
+    "cli",
+    "cpp"
+   ],
+   "signals": {
+    "age_days": 215.8,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 3.7,
+    "stars_per_day_recent": 52.1,
+    "lifetime_stars_per_day": 2139.15,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.77,
+   "score_explain": [
+    "V=0.01: хвост 52.1 зв/сут против штатных 2139.1 (x0)",
+    "N=0.2: репо 216 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-25",
+   "repo": "yetanotherbrowser/yab",
+   "url": "https://github.com/yetanotherbrowser/yab",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 186,
+   "forks": 13,
+   "open_issues": 865,
+   "language": "Swift",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 76018,
+   "description": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
+   "topics": [],
+   "signals": {
+    "age_days": 0.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.0,
+    "stars_per_day_recent": 93.9,
+    "lifetime_stars_per_day": 213.15,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.71,
+   "score_explain": [
+    "V=0.37: хвост 93.9 зв/сут против штатных 213.1 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261115-24",
+   "repo": "sparklydune-dev/microsoft-office-premium-desktop",
+   "url": "https://github.com/sparklydune-dev/microsoft-office-premium-desktop",
+   "first_seen_at": "2026-11-15T20:53:06Z",
+   "channel": "gh_archive_watch",
+   "stars": 100,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "C++",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 131,
+   "description": "Microsoft Office Premium 2026 desktop setup with document engine, spreadsheet runtime and bundled multilingual resources for Windows 11",
+   "topics": [
+    "how-to-install-microsoft-office",
+    "microsoft",
+    "microsoft-office-premium",
+    "microsoft-office-premium-2026",
+    "microsoft-office-premium-activated",
+    "microsoft-office-premium-download"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.0,
+    "stars_per_day_recent": 95.3,
+    "lifetime_stars_per_day": 200.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.69,
+   "score_explain": [
+    "V=0.39: хвост 95.3 зв/сут против штатных 200.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T00:53:06Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}
