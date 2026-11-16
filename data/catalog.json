@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 462631.0,
+"stars": 463037.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 154,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 155,
 "in_tg": false,
 "status": "active"
 },
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 76426.0,
+"stars": 76813.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 102,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 103,
 "in_tg": true,
 "status": "active"
 },
@@ -921,7 +921,7 @@
 "repo": "storytold/photocraft",
 "url": "https://github.com/storytold/photocraft",
 "description": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
-"stars": 79550.0,
+"stars": 79725.0,
 "spd": 816.0,
 "score": 1.11,
 "fit": 0.74,
@@ -930,8 +930,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-15T15:47:34Z",
-"hits": 12,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 13,
 "in_tg": false,
 "status": "active"
 },
@@ -1029,7 +1029,7 @@
 "repo": "cloudflare/security-audit-skill",
 "url": "https://github.com/cloudflare/security-audit-skill",
 "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-"stars": 73402.0,
+"stars": 73519.0,
 "spd": 279.1,
 "score": 0.98,
 "fit": 0.7,
@@ -1038,8 +1038,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 76,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 77,
 "in_tg": false,
 "status": "active"
 },
@@ -1299,7 +1299,7 @@
 "repo": "affaan-m/ECC",
 "url": "https://github.com/affaan-m/ECC",
 "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-"stars": 303459.0,
+"stars": 304132.0,
 "spd": 199.1,
 "score": 1.0,
 "fit": 0.96,
@@ -1308,8 +1308,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-15T11:15:15Z",
-"hits": 36,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 37,
 "in_tg": false,
 "status": "active"
 },
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 124212.0,
+"stars": 126278.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,10 +1398,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-13T17:00:12Z",
-"hits": 47,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 48,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "val-tools/.github": {
 "repo": "val-tools/.github",
@@ -1479,7 +1479,7 @@
 "repo": "hugohe3/ppt-master",
 "url": "https://github.com/hugohe3/ppt-master",
 "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support",
-"stars": 77007.0,
+"stars": 77404.0,
 "spd": 90.9,
 "score": 0.79,
 "fit": 0.52,
@@ -1488,8 +1488,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-15T11:15:15Z",
-"hits": 17,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 18,
 "in_tg": false,
 "status": "active"
 },
@@ -1887,7 +1887,7 @@
 "last_seen": "2026-11-15T08:15:57Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "usestrix/strix": {
 "repo": "usestrix/strix",
@@ -2859,7 +2859,7 @@
 "last_seen": "2026-11-15T11:15:15Z",
 "hits": 7,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "evilevil/dsh-purge-021rc2": {
 "repo": "evilevil/dsh-purge-021rc2",
@@ -3183,7 +3183,7 @@
 "last_seen": "2026-11-15T11:15:15Z",
 "hits": 7,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "calesthio/OpenMontage": {
 "repo": "calesthio/OpenMontage",
@@ -4035,17 +4035,17 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-"stars": 61905.0,
+"stars": 62169.0,
 "spd": 139.1,
-"score": 0.89,
+"score": 0.9,
 "fit": 0.74,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 62,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 63,
 "in_tg": false,
 "status": "active"
 },
@@ -4359,7 +4359,7 @@
 "repo": "HKUDS/DeepTutor",
 "url": "https://github.com/HKUDS/DeepTutor",
 "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-"stars": 59012.0,
+"stars": 59651.0,
 "spd": 240.0,
 "score": 1.26,
 "fit": 0.74,
@@ -4368,10 +4368,10 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-24T03:56:39Z",
-"last_seen": "2026-11-14T06:45:26Z",
-"hits": 29,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 30,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "chuiziyao/maimen-certification": {
 "repo": "chuiziyao/maimen-certification",
@@ -5061,7 +5061,7 @@
 "repo": "Nutlope/hallmark",
 "url": "https://github.com/Nutlope/hallmark",
 "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-"stars": 55497.0,
+"stars": 55813.0,
 "spd": 144.0,
 "score": 0.86,
 "fit": 0.52,
@@ -5070,8 +5070,8 @@
 "license": "MIT",
 "language": "CSS",
 "first_seen": "2026-10-24T21:46:28Z",
-"last_seen": "2026-11-16T00:51:05Z",
-"hits": 37,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 38,
 "in_tg": false,
 "status": "active"
 },
@@ -6819,7 +6819,7 @@
 "last_seen": "2026-11-15T08:15:57Z",
 "hits": 8,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Developer-Y/cs-video-courses": {
 "repo": "Developer-Y/cs-video-courses",
@@ -6969,7 +6969,7 @@
 "repo": "milind-soni/OpenMausBot",
 "url": "https://github.com/milind-soni/OpenMausBot",
 "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-"stars": 23701.0,
+"stars": 23896.0,
 "spd": 99.5,
 "score": 1.14,
 "fit": 0.65,
@@ -6978,8 +6978,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-28T23:07:35Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 31,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 32,
 "in_tg": true,
 "status": "active"
 },
@@ -8691,7 +8691,7 @@
 "last_seen": "2026-11-15T11:15:15Z",
 "hits": 40,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Columnphoatone/Microsoft-365": {
 "repo": "Columnphoatone/Microsoft-365",
@@ -8997,7 +8997,7 @@
 "last_seen": "2026-11-15T08:15:57Z",
 "hits": 18,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "lexifina/global-law": {
 "repo": "lexifina/global-law",
@@ -12255,7 +12255,7 @@
 "last_seen": "2026-11-15T11:15:15Z",
 "hits": 9,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "BryceYuuu/RUN": {
 "repo": "BryceYuuu/RUN",
@@ -17337,7 +17337,7 @@
 "repo": "meta/astryx",
 "url": "https://github.com/meta/astryx",
 "description": "An open source design system that's fully customizable and agent ready",
-"stars": 27257.0,
+"stars": 29276.0,
 "spd": 88.0,
 "score": 1.14,
 "fit": 0.52,
@@ -17346,10 +17346,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-11-08T15:50:48Z",
-"last_seen": "2026-11-13T17:00:12Z",
-"hits": 21,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 22,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "Colossuscliobserve55/cinema-4d": {
 "repo": "Colossuscliobserve55/cinema-4d",
@@ -18759,7 +18759,7 @@
 "repo": "dream-num/univer",
 "url": "https://github.com/dream-num/univer",
 "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-"stars": 26646.0,
+"stars": 27214.0,
 "spd": 75.0,
 "score": 1.64,
 "fit": 0.61,
@@ -18768,8 +18768,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-10T04:41:01Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 5,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 6,
 "in_tg": true,
 "status": "active"
 },
@@ -19119,7 +19119,7 @@
 "repo": "GoogleChrome/modern-web-guidance",
 "url": "https://github.com/GoogleChrome/modern-web-guidance",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 18562.0,
+"stars": 19051.0,
 "spd": 137.1,
 "score": 1.7,
 "fit": 0.65,
@@ -19128,8 +19128,8 @@
 "license": "Apache-2.0",
 "language": "",
 "first_seen": "2026-11-10T20:54:55Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 21,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 22,
 "in_tg": true,
 "status": "active"
 },
@@ -19743,7 +19743,7 @@
 "last_seen": "2026-11-15T11:15:15Z",
 "hits": 3,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "App-MonicaWEB/auslogics-audio-studio-desktop": {
 "repo": "App-MonicaWEB/auslogics-audio-studio-desktop",
@@ -21963,7 +21963,7 @@
 "repo": "BaaRai/ARTEX",
 "url": "https://github.com/BaaRai/ARTEX",
 "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"stars": 4134.0,
+"stars": 4311.0,
 "spd": 75.1,
 "score": 1.27,
 "fit": 0.5,
@@ -21972,8 +21972,8 @@
 "license": "AGPL-3.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 5,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 6,
 "in_tg": true,
 "status": "active"
 },
@@ -22035,7 +22035,7 @@
 "repo": "RoutineMiku/apkstart",
 "url": "https://github.com/RoutineMiku/apkstart",
 "description": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时",
-"stars": 5749.0,
+"stars": 6043.0,
 "spd": 101.4,
 "score": 0.91,
 "fit": 0.0,
@@ -22044,8 +22044,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 6,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 7,
 "in_tg": false,
 "status": "active"
 },
@@ -22521,7 +22521,7 @@
 "repo": "libracoder/kiri",
 "url": "https://github.com/libracoder/kiri",
 "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
-"stars": 7344.0,
+"stars": 7889.0,
 "spd": 92.7,
 "score": 1.15,
 "fit": 0.83,
@@ -22530,8 +22530,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-14T23:08:26Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 8,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 9,
 "in_tg": true,
 "status": "active"
 },
@@ -23037,7 +23037,7 @@
 "last_seen": "2026-11-15T08:15:57Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "MobAI-App/simslim": {
 "repo": "MobAI-App/simslim",
@@ -23055,7 +23055,7 @@
 "last_seen": "2026-11-15T08:15:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "jub0t/Concat": {
 "repo": "jub0t/Concat",
@@ -23073,7 +23073,7 @@
 "last_seen": "2026-11-15T08:15:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "alice-white-73/microsoft-project-desktop": {
 "repo": "alice-white-73/microsoft-project-desktop",
@@ -23091,7 +23091,7 @@
 "last_seen": "2026-11-15T08:15:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "angela-frost/microsoft-office-pro-desktop": {
 "repo": "angela-frost/microsoft-office-pro-desktop",
@@ -23109,7 +23109,7 @@
 "last_seen": "2026-11-16T07:44:36Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "brettcole-byte56/microsoft-excel-analyse-it-desktop": {
 "repo": "brettcole-byte56/microsoft-excel-analyse-it-desktop",
@@ -23127,7 +23127,7 @@
 "last_seen": "2026-11-15T08:15:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "cnrad/interspace": {
 "repo": "cnrad/interspace",
@@ -23145,7 +23145,7 @@
 "last_seen": "2026-11-15T08:15:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Eynnzerr/TelemetryCleaner": {
 "repo": "Eynnzerr/TelemetryCleaner",
@@ -23163,7 +23163,7 @@
 "last_seen": "2026-11-15T08:15:57Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "actionhero/keryx": {
 "repo": "actionhero/keryx",
@@ -23181,7 +23181,7 @@
 "last_seen": "2026-11-15T11:15:15Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "n8n-io/nod": {
 "repo": "n8n-io/nod",
@@ -23199,7 +23199,7 @@
 "last_seen": "2026-11-15T11:15:15Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "ChenLiu-1996/figures4papers": {
 "repo": "ChenLiu-1996/figures4papers",
@@ -23217,7 +23217,7 @@
 "last_seen": "2026-11-15T11:15:15Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "elder-plinius/CL4R1T4S": {
 "repo": "elder-plinius/CL4R1T4S",
@@ -23235,43 +23235,43 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "ChromeDevTools/chrome-devtools-mcp": {
 "repo": "ChromeDevTools/chrome-devtools-mcp",
 "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
 "description": "Chrome DevTools for coding agents",
-"stars": 57251.0,
-"spd": 57.4,
-"score": 0.97,
+"stars": 57390.0,
+"spd": 68.9,
+"score": 1.01,
 "fit": 0.74,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-15T11:15:15Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 2,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "duwqijlk/muse-protocol": {
 "repo": "duwqijlk/muse-protocol",
 "url": "https://github.com/duwqijlk/muse-protocol",
 "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
-"stars": 729,
-"spd": 25.3,
-"score": 0.78,
+"stars": 1302.0,
+"spd": 48.2,
+"score": 0.82,
 "fit": 0.5,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-11-15T11:15:15Z",
-"last_seen": "2026-11-15T11:15:15Z",
-"hits": 1,
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "THU-MAIC/OpenMAIC": {
 "repo": "THU-MAIC/OpenMAIC",
@@ -23289,7 +23289,7 @@
 "last_seen": "2026-11-15T11:15:15Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "yanstd888/9routerx": {
 "repo": "yanstd888/9routerx",
@@ -24331,6 +24331,96 @@
 "language": "C++",
 "first_seen": "2026-11-16T07:44:36Z",
 "last_seen": "2026-11-16T07:44:36Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"clice-io/clice": {
+"repo": "clice-io/clice",
+"url": "https://github.com/clice-io/clice",
+"description": "A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence",
+"stars": 1648,
+"spd": 96.2,
+"score": 2.7,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "Apache-2.0",
+"language": "C++",
+"first_seen": "2026-11-16T11:47:20Z",
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"ShayanAbbas1/dbdelve": {
+"repo": "ShayanAbbas1/dbdelve",
+"url": "https://github.com/ShayanAbbas1/dbdelve",
+"description": "Fast and lightweight DB Client made in Rust and GPUI.",
+"stars": 1473,
+"spd": 64.0,
+"score": 1.72,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "GPL-3.0",
+"language": "Rust",
+"first_seen": "2026-11-16T11:47:20Z",
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"DosukaSOL/PushFPS": {
+"repo": "DosukaSOL/PushFPS",
+"url": "https://github.com/DosukaSOL/PushFPS",
+"description": "PushFPS: push 30 FPS console games to 60 or 120 FPS. Real-time AI frame generation for any capture card on Windows, with NVIDIA RTX and AMD support. Free and open source, based on Veyra.",
+"stars": 141,
+"spd": 46.6,
+"score": 1.44,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "GPL-3.0",
+"language": "C++",
+"first_seen": "2026-11-16T11:47:20Z",
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"jingyaogong/minimind": {
+"repo": "jingyaogong/minimind",
+"url": "https://github.com/jingyaogong/minimind",
+"description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+"stars": 65455,
+"spd": 35.9,
+"score": 1.03,
+"fit": 0.89,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Python",
+"first_seen": "2026-11-16T11:47:20Z",
+"last_seen": "2026-11-16T11:47:20Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ShadowHackrs/gmail-account-creator": {
+"repo": "ShadowHackrs/gmail-account-creator",
+"url": "https://github.com/ShadowHackrs/gmail-account-creator",
+"description": "🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease.",
+"stars": 6045,
+"spd": 24.5,
+"score": 0.92,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "Python",
+"first_seen": "2026-11-16T11:47:20Z",
+"last_seen": "2026-11-16T11:47:20Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
