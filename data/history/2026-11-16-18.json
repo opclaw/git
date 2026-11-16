@@ -1,0 +1,570 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-16T18:04:40Z",
+ "window": {
+  "hours": 3,
+  "from": "2026-11-16-14",
+  "to": "2026-11-16-16",
+  "watch_events": 588,
+  "repos": 535,
+  "actors": 566,
+  "ring_accounts": 2,
+  "api_calls": 7,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261116-03",
+   "repo": "NVIDIA/SkillEvaluator",
+   "url": "https://github.com/NVIDIA/SkillEvaluator",
+   "first_seen_at": "2026-11-16T18:04:40Z",
+   "channel": "gh_archive_watch",
+   "stars": 2459,
+   "forks": 316,
+   "open_issues": 20,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 30088,
+   "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+   "topics": [
+    "agent-evaluation",
+    "agent-plugins",
+    "agent-security",
+    "agent-skills",
+    "agentic-ai",
+    "benchmark"
+   ],
+   "signals": {
+    "age_days": 145.6,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.5,
+    "stars_per_day_recent": 65.1,
+    "lifetime_stars_per_day": 16.88,
+    "acceleration": 3.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.89,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.83,
+   "score_explain": [
+    "V=0.95: хвост 65.1 зв/сут против штатных 16.9 (x4)",
+    "N=0.6: репо 146 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.89 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T22:04:40Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261116-06",
+   "repo": "tradermonty/claude-trading-skills",
+   "url": "https://github.com/tradermonty/claude-trading-skills",
+   "first_seen_at": "2026-11-16T18:04:40Z",
+   "channel": "gh_archive_watch",
+   "stars": 6154,
+   "forks": 1291,
+   "open_issues": 66,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 75712,
+   "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+   "topics": [],
+   "signals": {
+    "age_days": 393.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.6,
+    "stars_per_day_recent": 129.7,
+    "lifetime_stars_per_day": 15.66,
+    "acceleration": 8.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.77,
+   "score_explain": [
+    "V=1.34: хвост 129.7 зв/сут против штатных 15.7 (x8)",
+    "N=0.2: репо 393 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T22:04:40Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261116-09",
+   "repo": "Get-Concord-AI/concord-mcp",
+   "url": "https://github.com/Get-Concord-AI/concord-mcp",
+   "first_seen_at": "2026-11-16T18:04:40Z",
+   "channel": "gh_archive_watch",
+   "stars": 1234,
+   "forks": 72,
+   "open_issues": 56,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 2831,
+   "description": "Live messaging for coding agents",
+   "topics": [
+    "agentic-coding",
+    "ai-agents",
+    "claude-code",
+    "code-review",
+    "codex",
+    "coding-agents"
+   ],
+   "signals": {
+    "age_days": 125.1,
+    "last_push_days_ago": 3,
+    "stars_in_window": 3,
+    "window_h": 2.6,
+    "stars_per_day_recent": 27.5,
+    "lifetime_stars_per_day": 9.87,
+    "acceleration": 2.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.58,
+   "score_explain": [
+    "V=0.80: хвост 27.5 зв/сут против штатных 9.9 (x3)",
+    "N=0.6: репо 125 дн от роду",
+    "C=1.0: пуш 3 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T22:04:40Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261116-07",
+   "repo": "hitkeeen/blender-ai-mcp-addon",
+   "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+   "first_seen_at": "2026-11-16T18:04:40Z",
+   "channel": "gh_archive_watch",
+   "stars": 2115,
+   "forks": 53,
+   "open_issues": 75,
+   "language": null,
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 345,
+   "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+   "topics": [
+    "ai-agents",
+    "ai-assistant",
+    "blender",
+    "blender-addon",
+    "blender-ai",
+    "blender-automation"
+   ],
+   "signals": {
+    "age_days": 4.1,
+    "last_push_days_ago": 4,
+    "stars_in_window": 3,
+    "window_h": 0.7,
+    "stars_per_day_recent": 98.7,
+    "lifetime_stars_per_day": 509.94,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 1.0,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.25,
+   "score_explain": [
+    "V=0.18: хвост 98.7 зв/сут против штатных 509.9 (x0)",
+    "N=1.0: репо 4 дн от роду",
+    "C=1.0: пуш 4 дн назад",
+    "fit=1.0 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T22:04:40Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261116-04",
+   "repo": "libracoder/kiri",
+   "url": "https://github.com/libracoder/kiri",
+   "first_seen_at": "2026-11-16T18:04:40Z",
+   "channel": "gh_archive_watch",
+   "stars": 8502,
+   "forks": 373,
+   "open_issues": 152,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 2322,
+   "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+   "topics": [
+    "containers",
+    "docker",
+    "kubernetes",
+    "linux",
+    "macos",
+    "oci"
+   ],
+   "signals": {
+    "age_days": 14.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.6,
+    "stars_per_day_recent": 61.2,
+    "lifetime_stars_per_day": 603.9,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.83,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.05,
+   "score_explain": [
+    "V=0.10: хвост 61.2 зв/сут против штатных 603.9 (x0)",
+    "N=1.0: репо 14 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.83 -> PS-infra",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T22:04:40Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261116-10",
+   "repo": "FailproofAI/failproofai",
+   "url": "https://github.com/FailproofAI/failproofai",
+   "first_seen_at": "2026-11-16T18:04:40Z",
+   "channel": "gh_archive_watch",
+   "stars": 9314,
+   "forks": 578,
+   "open_issues": 62,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 104497,
+   "description": "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.  ",
+   "topics": [
+    "agent-failure",
+    "agent-harness",
+    "agent-observability",
+    "agent-reliability",
+    "agent-tracing",
+    "ai-agent"
+   ],
+   "signals": {
+    "age_days": 224.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.6,
+    "stars_per_day_recent": 27.3,
+    "lifetime_stars_per_day": 41.46,
+    "acceleration": 0.7,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.05,
+   "score_explain": [
+    "V=0.30: хвост 27.3 зв/сут против штатных 41.5 (x1)",
+    "N=0.2: репо 225 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T22:04:40Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261116-02",
+   "repo": "Graphify-Labs/graphify",
+   "url": "https://github.com/Graphify-Labs/graphify",
+   "first_seen_at": "2026-11-16T18:04:40Z",
+   "channel": "gh_archive_watch",
+   "stars": 148887,
+   "forks": 14292,
+   "open_issues": 1655,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 36791,
+   "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+   "topics": [
+    "ai-agents",
+    "antigravity",
+    "ast",
+    "claude-code",
+    "code-analysis",
+    "code-search"
+   ],
+   "signals": {
+    "age_days": 227.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 1.9,
+    "stars_per_day_recent": 63.4,
+    "lifetime_stars_per_day": 655.62,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 1.0,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.02,
+   "score_explain": [
+    "V=0.06: хвост 63.4 зв/сут против штатных 655.6 (x0)",
+    "N=0.2: репо 227 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=1.0 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T22:04:40Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261116-08",
+   "repo": "mvanhorn/last30days-skill",
+   "url": "https://github.com/mvanhorn/last30days-skill",
+   "first_seen_at": "2026-11-16T18:04:40Z",
+   "channel": "gh_archive_watch",
+   "stars": 67982,
+   "forks": 5995,
+   "open_issues": 30,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 56336,
+   "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "topics": [
+    "ai-prompts",
+    "ai-skill",
+    "bluesky",
+    "claude",
+    "claude-code",
+    "clawhub"
+   ],
+   "signals": {
+    "age_days": 296.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.8,
+    "stars_per_day_recent": 39.2,
+    "lifetime_stars_per_day": 228.98,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.85,
+   "score_explain": [
+    "V=0.09: хвост 39.2 зв/сут против штатных 229.0 (x0)",
+    "N=0.2: репо 297 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T22:04:40Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261116-01",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-11-16T18:04:40Z",
+   "channel": "gh_archive_watch",
+   "stars": 463675,
+   "forks": 113487,
+   "open_issues": 1522,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 179145,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "android",
+    "claude-code",
+    "cli",
+    "cpp"
+   ],
+   "signals": {
+    "age_days": 216.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 1.6,
+    "stars_per_day_recent": 106.5,
+    "lifetime_stars_per_day": 2139.54,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.79,
+   "score_explain": [
+    "V=0.03: хвост 106.5 зв/сут против штатных 2139.5 (x0)",
+    "N=0.2: репо 217 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T22:04:40Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261116-05",
+   "repo": "stablyai/orca",
+   "url": "https://github.com/stablyai/orca",
+   "first_seen_at": "2026-11-16T18:04:40Z",
+   "channel": "gh_archive_watch",
+   "stars": 126598,
+   "forks": 8030,
+   "open_issues": 8489,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 2974073,
+   "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
+   "topics": [
+    "agent-ide",
+    "ai-agents",
+    "automation",
+    "bot",
+    "claude-code",
+    "codex"
+   ],
+   "signals": {
+    "age_days": 244.6,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 2.7,
+    "stars_per_day_recent": 36.0,
+    "lifetime_stars_per_day": 517.55,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.72,
+   "score_explain": [
+    "V=0.04: хвост 36.0 зв/сут против штатных 517.6 (x0)",
+    "N=0.2: репо 245 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-16T22:04:40Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}

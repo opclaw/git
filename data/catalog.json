@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 463037.0,
+"stars": 463675.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-16T11:47:20Z",
-"hits": 155,
+"last_seen": "2026-11-16T18:04:57Z",
+"hits": 156,
 "in_tg": false,
 "status": "active"
 },
@@ -1293,7 +1293,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 65,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "affaan-m/ECC": {
 "repo": "affaan-m/ECC",
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 126278.0,
+"stars": 126598.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-16T11:47:20Z",
-"hits": 48,
+"last_seen": "2026-11-16T18:04:57Z",
+"hits": 49,
 "in_tg": false,
 "status": "active"
 },
@@ -1671,7 +1671,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 20,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/NaSuno": {
 "repo": "AhmadHassan-BTed/NaSuno",
@@ -1839,7 +1839,7 @@
 "repo": "Graphify-Labs/graphify",
 "url": "https://github.com/Graphify-Labs/graphify",
 "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-"stars": 148176.0,
+"stars": 148887.0,
 "spd": 816.0,
 "score": 1.29,
 "fit": 1.0,
@@ -1848,8 +1848,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-21T01:28:35Z",
-"last_seen": "2026-11-15T15:47:34Z",
-"hits": 24,
+"last_seen": "2026-11-16T18:04:57Z",
+"hits": 25,
 "in_tg": true,
 "status": "active"
 },
@@ -3453,7 +3453,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "dnshe/DNSHE-FreeDomains": {
 "repo": "dnshe/DNSHE-FreeDomains",
@@ -4803,7 +4803,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 3,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Derpyu520/qq-bridge": {
 "repo": "Derpyu520/qq-bridge",
@@ -8619,7 +8619,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 28,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "silentlionregain/Adobe-InDesign": {
 "repo": "silentlionregain/Adobe-InDesign",
@@ -12921,7 +12921,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 13,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Badgenyamultiplexer/pc-game-fps-doctor": {
 "repo": "Badgenyamultiplexer/pc-game-fps-doctor",
@@ -21909,7 +21909,7 @@
 "repo": "tradermonty/claude-trading-skills",
 "url": "https://github.com/tradermonty/claude-trading-skills",
 "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-"stars": 5556.0,
+"stars": 6154.0,
 "spd": 144.0,
 "score": 2.0,
 "fit": 0.48,
@@ -21918,8 +21918,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-16T00:51:05Z",
-"hits": 5,
+"last_seen": "2026-11-16T18:04:57Z",
+"hits": 6,
 "in_tg": true,
 "status": "active"
 },
@@ -22521,7 +22521,7 @@
 "repo": "libracoder/kiri",
 "url": "https://github.com/libracoder/kiri",
 "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
-"stars": 7889.0,
+"stars": 8502.0,
 "spd": 92.7,
 "score": 1.15,
 "fit": 0.83,
@@ -22530,8 +22530,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-14T23:08:26Z",
-"last_seen": "2026-11-16T11:47:20Z",
-"hits": 9,
+"last_seen": "2026-11-16T18:04:57Z",
+"hits": 10,
 "in_tg": true,
 "status": "active"
 },
@@ -23235,7 +23235,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "ChromeDevTools/chrome-devtools-mcp": {
 "repo": "ChromeDevTools/chrome-devtools-mcp",
@@ -23307,7 +23307,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "ocsjs/ocsjs": {
 "repo": "ocsjs/ocsjs",
@@ -23325,7 +23325,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Tencent/LoopForge": {
 "repo": "Tencent/LoopForge",
@@ -23343,7 +23343,7 @@
 "last_seen": "2026-11-16T07:44:36Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "elementalsouls/Claude-BugHunter": {
 "repo": "elementalsouls/Claude-BugHunter",
@@ -23361,7 +23361,7 @@
 "last_seen": "2026-11-16T07:44:36Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "workersio/breakscale": {
 "repo": "workersio/breakscale",
@@ -23379,7 +23379,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Dart-veider01/TradingAgents-crypto": {
 "repo": "Dart-veider01/TradingAgents-crypto",
@@ -23397,7 +23397,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "spicy-eagle-90/nvidia-dlss-2-desktop": {
 "repo": "spicy-eagle-90/nvidia-dlss-2-desktop",
@@ -23415,7 +23415,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ersinkoc/phonebox": {
 "repo": "ersinkoc/phonebox",
@@ -23433,7 +23433,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "colin32-lynch/acrobat-pro-desktop": {
 "repo": "colin32-lynch/acrobat-pro-desktop",
@@ -23451,7 +23451,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sonic-quail-labs/maya-lt-desktop": {
 "repo": "sonic-quail-labs/maya-lt-desktop",
@@ -23469,7 +23469,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SandstoneShoutMoon/ROB-RUN-cheat-client": {
 "repo": "SandstoneShoutMoon/ROB-RUN-cheat-client",
@@ -23487,7 +23487,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "eddie-sharp-03/chaos-v-ray-desktop": {
 "repo": "eddie-sharp-03/chaos-v-ray-desktop",
@@ -23505,7 +23505,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "DevedevT/FFmpeg-GUI-Editor-Windows": {
 "repo": "DevedevT/FFmpeg-GUI-Editor-Windows",
@@ -23523,7 +23523,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "andy-wells-73/microsoft-outlook-desktop": {
 "repo": "andy-wells-73/microsoft-outlook-desktop",
@@ -23541,7 +23541,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "tylertms/Stela": {
 "repo": "tylertms/Stela",
@@ -23559,7 +23559,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "coreyhaines31/marketingskills": {
 "repo": "coreyhaines31/marketingskills",
@@ -23577,7 +23577,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "tendertiger92/unreal-5-6-desktop": {
 "repo": "tendertiger92/unreal-5-6-desktop",
@@ -23595,7 +23595,7 @@
 "last_seen": "2026-11-15T15:47:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "phamcucpqrwbbnposhmn96-ui/KSNStudy": {
 "repo": "phamcucpqrwbbnposhmn96-ui/KSNStudy",
@@ -24051,17 +24051,17 @@
 "repo": "hitkeeen/blender-ai-mcp-addon",
 "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
 "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
-"stars": 1854.0,
-"spd": 68.3,
-"score": 1.22,
+"stars": 2115.0,
+"spd": 98.7,
+"score": 1.25,
 "fit": 1.0,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "",
 "first_seen": "2026-11-16T00:51:05Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 2,
+"last_seen": "2026-11-16T18:04:57Z",
+"hits": 3,
 "in_tg": true,
 "status": "new"
 },
@@ -24140,8 +24140,8 @@
 "NVIDIA/SkillEvaluator": {
 "repo": "NVIDIA/SkillEvaluator",
 "url": "https://github.com/NVIDIA/SkillEvaluator",
-"description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect a",
-"stars": 2005,
+"description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how ski",
+"stars": 2459.0,
 "spd": 68.6,
 "score": 1.94,
 "fit": 0.89,
@@ -24150,8 +24150,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-16T07:44:36Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 1,
+"last_seen": "2026-11-16T18:04:57Z",
+"hits": 2,
 "in_tg": true,
 "status": "new"
 },
@@ -24421,6 +24421,60 @@
 "language": "Python",
 "first_seen": "2026-11-16T11:47:20Z",
 "last_seen": "2026-11-16T11:47:20Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Get-Concord-AI/concord-mcp": {
+"repo": "Get-Concord-AI/concord-mcp",
+"url": "https://github.com/Get-Concord-AI/concord-mcp",
+"description": "Live messaging for coding agents",
+"stars": 1234,
+"spd": 27.5,
+"score": 1.58,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-16T18:04:57Z",
+"last_seen": "2026-11-16T18:04:57Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"FailproofAI/failproofai": {
+"repo": "FailproofAI/failproofai",
+"url": "https://github.com/FailproofAI/failproofai",
+"description": "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.  ",
+"stars": 9314,
+"spd": 27.3,
+"score": 1.05,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "NOASSERTION",
+"language": "TypeScript",
+"first_seen": "2026-11-16T18:04:57Z",
+"last_seen": "2026-11-16T18:04:57Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"mvanhorn/last30days-skill": {
+"repo": "mvanhorn/last30days-skill",
+"url": "https://github.com/mvanhorn/last30days-skill",
+"description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+"stars": 67982,
+"spd": 39.2,
+"score": 0.85,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-16T18:04:57Z",
+"last_seen": "2026-11-16T18:04:57Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
