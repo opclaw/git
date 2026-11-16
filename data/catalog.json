@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 463675.0,
+"stars": 463991.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-16T18:04:57Z",
-"hits": 156,
+"last_seen": "2026-11-16T22:21:12Z",
+"hits": 157,
 "in_tg": false,
 "status": "active"
 },
@@ -4395,8 +4395,8 @@
 "repo": "google/elephant-goldfish-model",
 "url": "https://github.com/google/elephant-goldfish-model",
 "description": "Open-source plugin for designing and reviewing software with agents",
-"stars": 16656.0,
-"spd": 91.7,
+"stars": 20332.0,
+"spd": 136.8,
 "score": 3.05,
 "fit": 0.96,
 "risk": 0.0,
@@ -4404,10 +4404,10 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-24T08:47:32Z",
-"last_seen": "2026-11-10T06:29:26Z",
-"hits": 29,
+"last_seen": "2026-11-16T22:21:12Z",
+"hits": 30,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "yozander2009-stack/Metroid-Dread-Recomp": {
 "repo": "yozander2009-stack/Metroid-Dread-Recomp",
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 34150.0,
+"stars": 34710.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 52,
+"last_seen": "2026-11-16T22:21:12Z",
+"hits": 53,
 "in_tg": false,
 "status": "active"
 },
@@ -12759,7 +12759,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 17,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "open-wxa/wxa-runner": {
 "repo": "open-wxa/wxa-runner",
@@ -16077,7 +16077,7 @@
 "repo": "snap-stanford/memorilla",
 "url": "https://github.com/snap-stanford/memorilla",
 "description": "🦍 Memorilla: Latent Semantic Memory for LLMs",
-"stars": 489,
+"stars": 1287.0,
 "spd": 82.2,
 "score": 2.41,
 "fit": 0.52,
@@ -16086,10 +16086,10 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-07T22:12:20Z",
-"last_seen": "2026-11-07T22:12:20Z",
-"hits": 1,
+"last_seen": "2026-11-16T22:21:12Z",
+"hits": 2,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "fjordostrichhose/Steam-Points-Tools-2026": {
 "repo": "fjordostrichhose/Steam-Points-Tools-2026",
@@ -18849,7 +18849,7 @@
 "repo": "ZhuLinsen/daily_stock_analysis",
 "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
 "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-f",
-"stars": 71862.0,
+"stars": 72788.0,
 "spd": 45.0,
 "score": 0.86,
 "fit": 0.74,
@@ -18858,10 +18858,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-10T04:41:01Z",
-"last_seen": "2026-11-14T06:45:26Z",
-"hits": 4,
+"last_seen": "2026-11-16T22:21:12Z",
+"hits": 5,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "huamidev/GestaltX": {
 "repo": "huamidev/GestaltX",
@@ -19119,7 +19119,7 @@
 "repo": "GoogleChrome/modern-web-guidance",
 "url": "https://github.com/GoogleChrome/modern-web-guidance",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 19051.0,
+"stars": 20106.0,
 "spd": 137.1,
 "score": 1.7,
 "fit": 0.65,
@@ -19128,8 +19128,8 @@
 "license": "Apache-2.0",
 "language": "",
 "first_seen": "2026-11-10T20:54:55Z",
-"last_seen": "2026-11-16T11:47:20Z",
-"hits": 22,
+"last_seen": "2026-11-16T22:21:12Z",
+"hits": 23,
 "in_tg": true,
 "status": "active"
 },
@@ -22521,7 +22521,7 @@
 "repo": "libracoder/kiri",
 "url": "https://github.com/libracoder/kiri",
 "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
-"stars": 8502.0,
+"stars": 8783.0,
 "spd": 92.7,
 "score": 1.15,
 "fit": 0.83,
@@ -22530,8 +22530,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-14T23:08:26Z",
-"last_seen": "2026-11-16T18:04:57Z",
-"hits": 10,
+"last_seen": "2026-11-16T22:21:12Z",
+"hits": 11,
 "in_tg": true,
 "status": "active"
 },
@@ -23613,7 +23613,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Visionbeyondtrack/Gemini-Config-Checker-": {
 "repo": "Visionbeyondtrack/Gemini-Config-Checker-",
@@ -23631,7 +23631,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "VortexHostFeel/Gemini-Config-Checker-": {
 "repo": "VortexHostFeel/Gemini-Config-Checker-",
@@ -23649,7 +23649,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Violetnyudress/Gemini-Config-Checker-": {
 "repo": "Violetnyudress/Gemini-Config-Checker-",
@@ -23667,7 +23667,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Watchlespeed/Gemini-Config-Checker-": {
 "repo": "Watchlespeed/Gemini-Config-Checker-",
@@ -23685,7 +23685,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "WingDataVacuum/Gemini-Config-Checker-": {
 "repo": "WingDataVacuum/Gemini-Config-Checker-",
@@ -23703,7 +23703,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "wisemeadowlarkspike/Gemini-Config-Checker-": {
 "repo": "wisemeadowlarkspike/Gemini-Config-Checker-",
@@ -23721,7 +23721,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "weightcashiercupola/Gemini-Config-Checker-": {
 "repo": "weightcashiercupola/Gemini-Config-Checker-",
@@ -23739,7 +23739,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WindGatorRise37/Gemini-Config-Checker-": {
 "repo": "WindGatorRise37/Gemini-Config-Checker-",
@@ -23757,7 +23757,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WyrmClimberManacle/Gemini-Config-Checker-": {
 "repo": "WyrmClimberManacle/Gemini-Config-Checker-",
@@ -23775,7 +23775,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WireProvostPucker/Gemini-Config-Checker-": {
 "repo": "WireProvostPucker/Gemini-Config-Checker-",
@@ -23793,7 +23793,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WinnerSpecialist/Gemini-Config-Checker-": {
 "repo": "WinnerSpecialist/Gemini-Config-Checker-",
@@ -23811,7 +23811,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WharfBoulderColander/Gemini-Config-Checker-": {
 "repo": "WharfBoulderColander/Gemini-Config-Checker-",
@@ -23829,7 +23829,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "TypeTyrantScheme/Gemini-Config-Checker-": {
 "repo": "TypeTyrantScheme/Gemini-Config-Checker-",
@@ -23847,7 +23847,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "YellowLaborerMarket/Gemini-Config-Checker-": {
 "repo": "YellowLaborerMarket/Gemini-Config-Checker-",
@@ -23865,7 +23865,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "TrooperFilter/Gemini-Config-Checker-": {
 "repo": "TrooperFilter/Gemini-Config-Checker-",
@@ -23883,7 +23883,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WindowStaffGate11/Gemini-Config-Checker-": {
 "repo": "WindowStaffGate11/Gemini-Config-Checker-",
@@ -23901,7 +23901,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "VisionWormStudio/Gemini-Config-Checker-": {
 "repo": "VisionWormStudio/Gemini-Config-Checker-",
@@ -23919,7 +23919,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WestLocksmithSpout/Gemini-Config-Checker-": {
 "repo": "WestLocksmithSpout/Gemini-Config-Checker-",
@@ -23937,7 +23937,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WerewolfEmuHub/Gemini-Config-Checker-": {
 "repo": "WerewolfEmuHub/Gemini-Config-Checker-",
@@ -23955,7 +23955,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "TurtleReside/Gemini-Config-Checker-": {
 "repo": "TurtleReside/Gemini-Config-Checker-",
@@ -23973,7 +23973,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "yetanotherbrowser/yab": {
 "repo": "yetanotherbrowser/yab",
@@ -23991,7 +23991,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sparklydune-dev/microsoft-office-premium-desktop": {
 "repo": "sparklydune-dev/microsoft-office-premium-desktop",
@@ -24009,7 +24009,7 @@
 "last_seen": "2026-11-15T20:53:16Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "StarfishMemorialize/SketchUp-Universal-License-Engine": {
 "repo": "StarfishMemorialize/SketchUp-Universal-License-Engine",
@@ -24475,6 +24475,114 @@
 "language": "Python",
 "first_seen": "2026-11-16T18:04:57Z",
 "last_seen": "2026-11-16T18:04:57Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"DuskBotAI/duskbot": {
+"repo": "DuskBotAI/duskbot",
+"url": "https://github.com/DuskBotAI/duskbot",
+"description": "Free Grok Bot alternative that runs on your own models. Use the ChatGPT, Claude, or Grok subscription you already pay for, and get a team of bots each with its own memory and computer.",
+"stars": 122,
+"spd": 28.8,
+"score": 2.1,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "NOASSERTION",
+"language": "TypeScript",
+"first_seen": "2026-11-16T22:21:12Z",
+"last_seen": "2026-11-16T22:21:12Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"wayshieldtunnel24/Rob-Run-Mod": {
+"repo": "wayshieldtunnel24/Rob-Run-Mod",
+"url": "https://github.com/wayshieldtunnel24/Rob-Run-Mod",
+"description": "",
+"stars": 262,
+"spd": 143.6,
+"score": 2.06,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": null,
+"language": "",
+"first_seen": "2026-11-16T22:21:12Z",
+"last_seen": "2026-11-16T22:21:12Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"NYLLON-SOFTWARE/SignuDoc": {
+"repo": "NYLLON-SOFTWARE/SignuDoc",
+"url": "https://github.com/NYLLON-SOFTWARE/SignuDoc",
+"description": "Open-source document signature platform. Not affiliated with DocuSign. ",
+"stars": 445,
+"spd": 33.0,
+"score": 1.8,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-16T22:21:12Z",
+"last_seen": "2026-11-16T22:21:12Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"EmissaryHike/jellyfin-media-notebook": {
+"repo": "EmissaryHike/jellyfin-media-notebook",
+"url": "https://github.com/EmissaryHike/jellyfin-media-notebook",
+"description": "Open-source alternative to paid media servers — complete Jellyfin notebook.",
+"stars": 100,
+"spd": 144.0,
+"score": 1.62,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "MIT",
+"language": "",
+"first_seen": "2026-11-16T22:21:12Z",
+"last_seen": "2026-11-16T22:21:12Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Tensorflearcade/ps5-backup-saver": {
+"repo": "Tensorflearcade/ps5-backup-saver",
+"url": "https://github.com/Tensorflearcade/ps5-backup-saver",
+"description": "Save data protection notes for PS5 owners — cloud steps and USB methods.",
+"stars": 100,
+"spd": 144.0,
+"score": 1.53,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": "MIT",
+"language": "",
+"first_seen": "2026-11-16T22:21:12Z",
+"last_seen": "2026-11-16T22:21:12Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"edgerunners2/capri-ai-desktop": {
+"repo": "edgerunners2/capri-ai-desktop",
+"url": "https://github.com/edgerunners2/capri-ai-desktop",
+"description": "Capri — Free open-source AI desktop pet, gaming overlay & voice companion for Windows. Visual GUI for Claude Code, Ollama, DeepSeek & MCP. Joins Discord calls, launches Steam games, comments on gamepl",
+"stars": 212,
+"spd": 49.7,
+"score": 1.21,
+"fit": 1.0,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "NOASSERTION",
+"language": "Python",
+"first_seen": "2026-11-16T22:21:12Z",
+"last_seen": "2026-11-16T22:21:12Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
