@@ -1,0 +1,595 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-17T01:58:10Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-11-16-21",
+  "to": "2026-11-17-0",
+  "watch_events": 596,
+  "repos": 536,
+  "actors": 568,
+  "ring_accounts": 1,
+  "api_calls": 11,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261117-01",
+   "repo": "NYLLON-SOFTWARE/SignuDoc",
+   "url": "https://github.com/NYLLON-SOFTWARE/SignuDoc",
+   "first_seen_at": "2026-11-17T01:58:10Z",
+   "channel": "gh_archive_watch",
+   "stars": 707,
+   "forks": 98,
+   "open_issues": 3,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 18985,
+   "description": "Open-source document signature platform. Not affiliated with DocuSign. ",
+   "topics": [],
+   "signals": {
+    "age_days": 236.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 3.7,
+    "stars_per_day_recent": 65.4,
+    "lifetime_stars_per_day": 3.0,
+    "acceleration": 21.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.91,
+   "score_explain": [
+    "V=1.88: хвост 65.4 зв/сут против штатных 3.0 (x22)",
+    "N=0.2: репо 236 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-17T05:58:10Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-09",
+   "repo": "NYLLON-SOFTWARE/ember-cloudflare",
+   "url": "https://github.com/NYLLON-SOFTWARE/ember-cloudflare",
+   "first_seen_at": "2026-11-17T01:58:10Z",
+   "channel": "gh_archive_watch",
+   "stars": 1251,
+   "forks": 152,
+   "open_issues": 48,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 17696,
+   "description": "Open Source Slack and Campfire inspired chat with one click deploy to Cloudflare.",
+   "topics": [],
+   "signals": {
+    "age_days": 35.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.3,
+    "stars_per_day_recent": 31.9,
+    "lifetime_stars_per_day": 35.5,
+    "acceleration": 0.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.45,
+   "score_explain": [
+    "V=0.64: хвост 31.9 зв/сут против штатных 35.5 (x1)",
+    "N=1.0: репо 35 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.65 -> PS-infra",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-17T05:58:10Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-08",
+   "repo": "deeplethe/solid-glass",
+   "url": "https://github.com/deeplethe/solid-glass",
+   "first_seen_at": "2026-11-17T01:58:10Z",
+   "channel": "gh_archive_watch",
+   "stars": 2188,
+   "forks": 51,
+   "open_issues": 6,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 17604,
+   "description": "A design system for AI applications. Material, physical, tactile, technical.",
+   "topics": [
+    "agent-ui",
+    "ai",
+    "ai-agents",
+    "chat-ui",
+    "design-system",
+    "llm"
+   ],
+   "signals": {
+    "age_days": 35.7,
+    "last_push_days_ago": 16,
+    "stars_in_window": 3,
+    "window_h": 1.6,
+    "stars_per_day_recent": 44.6,
+    "lifetime_stars_per_day": 61.3,
+    "acceleration": 0.7,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.83,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.42,
+   "score_explain": [
+    "V=0.55: хвост 44.6 зв/сут против штатных 61.3 (x1)",
+    "N=1.0: репо 36 дн от роду",
+    "C=0.5: пуш 16 дн назад",
+    "fit=0.83 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-17T05:58:10Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-03",
+   "repo": "ag-ui-protocol/ag-ui",
+   "url": "https://github.com/ag-ui-protocol/ag-ui",
+   "first_seen_at": "2026-11-17T01:58:10Z",
+   "channel": "gh_archive_watch",
+   "stars": 19069,
+   "forks": 1967,
+   "open_issues": 591,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 89211,
+   "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+   "topics": [
+    "ag-ui-protocol",
+    "agent-frontend",
+    "agent-ui",
+    "agentic-workflow",
+    "ai-agents"
+   ],
+   "signals": {
+    "age_days": 558.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.5,
+    "stars_per_day_recent": 63.9,
+    "lifetime_stars_per_day": 34.14,
+    "acceleration": 1.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.28,
+   "score_explain": [
+    "V=0.63: хвост 63.9 зв/сут против штатных 34.1 (x2)",
+    "N=0.2: репо 559 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-17T05:58:10Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-11",
+   "repo": "kajisho5/ffmpeg-skill",
+   "url": "https://github.com/kajisho5/ffmpeg-skill",
+   "first_seen_at": "2026-11-17T01:58:10Z",
+   "channel": "gh_archive_watch",
+   "stars": 6817,
+   "forks": 603,
+   "open_issues": 34,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 40342,
+   "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "audio-processing",
+    "captions",
+    "claude-code",
+    "codex"
+   ],
+   "signals": {
+    "age_days": 74.5,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 2.8,
+    "stars_per_day_recent": 25.7,
+    "lifetime_stars_per_day": 91.53,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.14,
+   "score_explain": [
+    "V=0.15: хвост 25.7 зв/сут против штатных 91.5 (x0)",
+    "N=0.6: репо 74 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-17T05:58:10Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-05",
+   "repo": "affaan-m/ECC",
+   "url": "https://github.com/affaan-m/ECC",
+   "first_seen_at": "2026-11-17T01:58:10Z",
+   "channel": "gh_archive_watch",
+   "stars": 304681,
+   "forks": 44870,
+   "open_issues": 168,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 63138,
+   "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+   "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm"
+   ],
+   "signals": {
+    "age_days": 303.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.7,
+    "stars_per_day_recent": 106.4,
+    "lifetime_stars_per_day": 1005.4,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.98,
+   "score_explain": [
+    "V=0.06: хвост 106.4 зв/сут против штатных 1005.4 (x0)",
+    "N=0.2: репо 303 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-17T05:58:10Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-02",
+   "repo": "GoogleChrome/modern-web-guidance",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "first_seen_at": "2026-11-17T01:58:10Z",
+   "channel": "gh_archive_watch",
+   "stars": 20461,
+   "forks": 801,
+   "open_issues": 1,
+   "language": null,
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 1899,
+   "description": "Keep your coding agent up to date with the latest web best practices",
+   "topics": [],
+   "signals": {
+    "age_days": 238.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 3.4,
+    "stars_per_day_recent": 42.8,
+    "lifetime_stars_per_day": 85.85,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.91,
+   "score_explain": [
+    "V=0.24: хвост 42.8 зв/сут против штатных 85.8 (x0)",
+    "N=0.2: репо 238 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-17T05:58:10Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-10",
+   "repo": "Panniantong/Agent-Reach",
+   "url": "https://github.com/Panniantong/Agent-Reach",
+   "first_seen_at": "2026-11-17T01:58:10Z",
+   "channel": "gh_archive_watch",
+   "stars": 112351,
+   "forks": 10068,
+   "open_issues": 131,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 3407,
+   "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+   "topics": [
+    "agent-infrastructure",
+    "ai-agent",
+    "ai-search",
+    "automation",
+    "bilibili",
+    "claude-code"
+   ],
+   "signals": {
+    "age_days": 266.0,
+    "last_push_days_ago": 8,
+    "stars_in_window": 3,
+    "window_h": 2.5,
+    "stars_per_day_recent": 28.7,
+    "lifetime_stars_per_day": 422.39,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.91,
+   "score_explain": [
+    "V=0.04: хвост 28.7 зв/сут против штатных 422.4 (x0)",
+    "N=0.2: репо 266 дн от роду",
+    "C=0.5: пуш 8 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-17T05:58:10Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-06",
+   "repo": "tashfeenahmed/freellmapi",
+   "url": "https://github.com/tashfeenahmed/freellmapi",
+   "first_seen_at": "2026-11-17T01:58:10Z",
+   "channel": "gh_archive_watch",
+   "stars": 53543,
+   "forks": 7515,
+   "open_issues": 53,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 28996,
+   "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+   "topics": [],
+   "signals": {
+    "age_days": 209.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.8,
+    "stars_per_day_recent": 95.4,
+    "lifetime_stars_per_day": 255.56,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.9,
+   "score_explain": [
+    "V=0.19: хвост 95.4 зв/сут против штатных 255.6 (x0)",
+    "N=0.2: репо 210 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-17T05:58:10Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-07",
+   "repo": "Phantomstawaken/rob-run-advanced-cheat",
+   "url": "https://github.com/Phantomstawaken/rob-run-advanced-cheat",
+   "first_seen_at": "2026-11-17T01:58:10Z",
+   "channel": "gh_archive_watch",
+   "stars": 256,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 3,
+   "description": null,
+   "topics": [
+    "rob-run",
+    "rob-run-cheat",
+    "rob-run-es",
+    "rob-run-mod"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.4,
+    "stars_per_day_recent": 52.6,
+    "lifetime_stars_per_day": 512.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.43,
+   "score_explain": [
+    "V=0.10: хвост 52.6 зв/сут против штатных 512.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-17T05:58:10Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-04",
+   "repo": "storytold/craft-anything",
+   "url": "https://github.com/storytold/craft-anything",
+   "first_seen_at": "2026-11-17T01:58:10Z",
+   "channel": "gh_archive_watch",
+   "stars": 34841,
+   "forks": 7030,
+   "open_issues": 380,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 19722,
+   "description": "Craft Anything: understand how any software works, and craft your own.",
+   "topics": [],
+   "signals": {
+    "age_days": 16.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 3.5,
+    "stars_per_day_recent": 27.1,
+    "lifetime_stars_per_day": 2116.19,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.4,
+   "score_explain": [
+    "V=0.01: хвост 27.1 зв/сут против штатных 2116.2 (x0)",
+    "N=1.0: репо 16 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-17T05:58:10Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}

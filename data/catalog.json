@@ -141,7 +141,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 47,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "awesome-selfhosted/awesome-selfhosted": {
 "repo": "awesome-selfhosted/awesome-selfhosted",
@@ -357,7 +357,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 51,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "VictorTaelin/uniichat": {
 "repo": "VictorTaelin/uniichat",
@@ -651,7 +651,7 @@
 "repo": "Panniantong/Agent-Reach",
 "url": "https://github.com/Panniantong/Agent-Reach",
 "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-"stars": 110251.0,
+"stars": 112351.0,
 "spd": 90.9,
 "score": 1.03,
 "fit": 0.96,
@@ -660,10 +660,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-20T00:08:51Z",
-"last_seen": "2026-11-08T18:53:53Z",
-"hits": 15,
+"last_seen": "2026-11-17T01:58:15Z",
+"hits": 16,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "openclaw/openclaw": {
 "repo": "openclaw/openclaw",
@@ -987,7 +987,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 8,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "dsh-market/dsh-market": {
 "repo": "dsh-market/dsh-market",
@@ -1046,8 +1046,8 @@
 "tashfeenahmed/freellmapi": {
 "repo": "tashfeenahmed/freellmapi",
 "url": "https://github.com/tashfeenahmed/freellmapi",
-"description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted key",
-"stars": 48650.0,
+"description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted ",
+"stars": 53543.0,
 "spd": 176.6,
 "score": 1.01,
 "fit": 0.7,
@@ -1056,10 +1056,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-07T13:27:16Z",
-"hits": 22,
+"last_seen": "2026-11-17T01:58:15Z",
+"hits": 23,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "Imbad0202/academic-research-skills": {
 "repo": "Imbad0202/academic-research-skills",
@@ -1299,7 +1299,7 @@
 "repo": "affaan-m/ECC",
 "url": "https://github.com/affaan-m/ECC",
 "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-"stars": 304132.0,
+"stars": 304681.0,
 "spd": 199.1,
 "score": 1.0,
 "fit": 0.96,
@@ -1308,8 +1308,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-16T11:47:20Z",
-"hits": 37,
+"last_seen": "2026-11-17T01:58:15Z",
+"hits": 38,
 "in_tg": false,
 "status": "active"
 },
@@ -1509,7 +1509,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 55,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "lock-tool/.github": {
 "repo": "lock-tool/.github",
@@ -4731,7 +4731,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "multica-ai/andrej-karpathy-skills": {
 "repo": "multica-ai/andrej-karpathy-skills",
@@ -4791,7 +4791,7 @@
 "repo": "kajisho5/ffmpeg-skill",
 "url": "https://github.com/kajisho5/ffmpeg-skill",
 "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou",
-"stars": 5866.0,
+"stars": 6817.0,
 "spd": 127.3,
 "score": 2.0,
 "fit": 0.96,
@@ -4800,10 +4800,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-24T16:50:07Z",
-"last_seen": "2026-11-15T15:47:34Z",
-"hits": 3,
+"last_seen": "2026-11-17T01:58:15Z",
+"hits": 4,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "Derpyu520/qq-bridge": {
 "repo": "Derpyu520/qq-bridge",
@@ -6315,7 +6315,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "codecrafters-io/build-your-own-x": {
 "repo": "codecrafters-io/build-your-own-x",
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 34710.0,
+"stars": 34841.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-16T22:21:12Z",
-"hits": 53,
+"last_seen": "2026-11-17T01:58:15Z",
+"hits": 54,
 "in_tg": false,
 "status": "active"
 },
@@ -14181,7 +14181,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 26,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "aldegad/sprite-gen": {
 "repo": "aldegad/sprite-gen",
@@ -19083,7 +19083,7 @@
 "repo": "NYLLON-SOFTWARE/ember-cloudflare",
 "url": "https://github.com/NYLLON-SOFTWARE/ember-cloudflare",
 "description": "Open Source Slack and Campfire inspired chat with one click deploy to Cloudflare.",
-"stars": 560,
+"stars": 1251.0,
 "spd": 131.2,
 "score": 2.72,
 "fit": 0.65,
@@ -19092,10 +19092,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-11-10T20:54:55Z",
-"last_seen": "2026-11-10T20:54:55Z",
-"hits": 1,
+"last_seen": "2026-11-17T01:58:15Z",
+"hits": 2,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "wdcpclover/ai4paper": {
 "repo": "wdcpclover/ai4paper",
@@ -19119,7 +19119,7 @@
 "repo": "GoogleChrome/modern-web-guidance",
 "url": "https://github.com/GoogleChrome/modern-web-guidance",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 20106.0,
+"stars": 20461.0,
 "spd": 137.1,
 "score": 1.7,
 "fit": 0.65,
@@ -19128,8 +19128,8 @@
 "license": "Apache-2.0",
 "language": "",
 "first_seen": "2026-11-10T20:54:55Z",
-"last_seen": "2026-11-16T22:21:12Z",
-"hits": 23,
+"last_seen": "2026-11-17T01:58:15Z",
+"hits": 24,
 "in_tg": true,
 "status": "active"
 },
@@ -21363,7 +21363,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 10,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "agentes-chat/agentes-chat": {
 "repo": "agentes-chat/agentes-chat",
@@ -22191,7 +22191,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "brave-plum-co/leonardo-ai-desktop": {
 "repo": "brave-plum-co/leonardo-ai-desktop",
@@ -24027,7 +24027,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "atlas7283/steam-library-bridge": {
 "repo": "atlas7283/steam-library-bridge",
@@ -24045,7 +24045,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "hitkeeen/blender-ai-mcp-addon": {
 "repo": "hitkeeen/blender-ai-mcp-addon",
@@ -24063,7 +24063,7 @@
 "last_seen": "2026-11-16T18:04:57Z",
 "hits": 3,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "harborjoninrectify/resolve-color-lab": {
 "repo": "harborjoninrectify/resolve-color-lab",
@@ -24081,7 +24081,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "nvm-sh/nvm": {
 "repo": "nvm-sh/nvm",
@@ -24099,7 +24099,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "FractionFormer/retro-handheld-corner": {
 "repo": "FractionFormer/retro-handheld-corner",
@@ -24117,7 +24117,7 @@
 "last_seen": "2026-11-16T00:51:05Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "patternedscience/Data-and-AI-Reference-Architectures": {
 "repo": "patternedscience/Data-and-AI-Reference-Architectures",
@@ -24519,17 +24519,17 @@
 "repo": "NYLLON-SOFTWARE/SignuDoc",
 "url": "https://github.com/NYLLON-SOFTWARE/SignuDoc",
 "description": "Open-source document signature platform. Not affiliated with DocuSign. ",
-"stars": 445,
-"spd": 33.0,
-"score": 1.8,
+"stars": 707.0,
+"spd": 65.4,
+"score": 1.91,
 "fit": 0.0,
 "risk": 0.0,
 "ps": "PS-unknown",
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-11-16T22:21:12Z",
-"last_seen": "2026-11-16T22:21:12Z",
-"hits": 1,
+"last_seen": "2026-11-17T01:58:15Z",
+"hits": 2,
 "in_tg": true,
 "status": "new"
 },
@@ -24583,6 +24583,60 @@
 "language": "Python",
 "first_seen": "2026-11-16T22:21:12Z",
 "last_seen": "2026-11-16T22:21:12Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"deeplethe/solid-glass": {
+"repo": "deeplethe/solid-glass",
+"url": "https://github.com/deeplethe/solid-glass",
+"description": "A design system for AI applications. Material, physical, tactile, technical.",
+"stars": 2188,
+"spd": 44.6,
+"score": 1.42,
+"fit": 0.83,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-17T01:58:15Z",
+"last_seen": "2026-11-17T01:58:15Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"ag-ui-protocol/ag-ui": {
+"repo": "ag-ui-protocol/ag-ui",
+"url": "https://github.com/ag-ui-protocol/ag-ui",
+"description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+"stars": 19069,
+"spd": 63.9,
+"score": 1.28,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-17T01:58:15Z",
+"last_seen": "2026-11-17T01:58:15Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Phantomstawaken/rob-run-advanced-cheat": {
+"repo": "Phantomstawaken/rob-run-advanced-cheat",
+"url": "https://github.com/Phantomstawaken/rob-run-advanced-cheat",
+"description": "",
+"stars": 256,
+"spd": 52.6,
+"score": 0.43,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "MIT",
+"language": "",
+"first_seen": "2026-11-17T01:58:15Z",
+"last_seen": "2026-11-17T01:58:15Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
