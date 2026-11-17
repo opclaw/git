@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 464497.0,
+"stars": 466210.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-17T04:39:35Z",
-"hits": 158,
+"last_seen": "2026-11-17T23:00:12Z",
+"hits": 159,
 "in_tg": false,
 "status": "active"
 },
@@ -1659,7 +1659,7 @@
 "repo": "sindresorhus/awesome",
 "url": "https://github.com/sindresorhus/awesome",
 "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-"stars": 538456.0,
+"stars": 538526.0,
 "spd": 144.0,
 "score": 0.53,
 "fit": 0.0,
@@ -1668,8 +1668,8 @@
 "license": "CC0-1.0",
 "language": "",
 "first_seen": "2026-10-20T19:30:26Z",
-"last_seen": "2026-11-17T19:39:55Z",
-"hits": 21,
+"last_seen": "2026-11-17T23:00:12Z",
+"hits": 22,
 "in_tg": false,
 "status": "active"
 },
@@ -1857,7 +1857,7 @@
 "repo": "heygen-com/hyperframes",
 "url": "https://github.com/heygen-com/hyperframes",
 "description": "Write HTML. Render video. Built for agents.",
-"stars": 84042.0,
+"stars": 85955.0,
 "spd": 912.0,
 "score": 1.58,
 "fit": 0.96,
@@ -1866,10 +1866,10 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-10-21T01:28:35Z",
-"last_seen": "2026-11-14T06:45:26Z",
-"hits": 24,
+"last_seen": "2026-11-17T23:00:12Z",
+"hits": 25,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "dataelement/dsh-desktop": {
 "repo": "dataelement/dsh-desktop",
@@ -4407,7 +4407,7 @@
 "last_seen": "2026-11-16T22:21:12Z",
 "hits": 30,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "yozander2009-stack/Metroid-Dread-Recomp": {
 "repo": "yozander2009-stack/Metroid-Dread-Recomp",
@@ -16089,7 +16089,7 @@
 "last_seen": "2026-11-16T22:21:12Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "fjordostrichhose/Steam-Points-Tools-2026": {
 "repo": "fjordostrichhose/Steam-Points-Tools-2026",
@@ -18861,7 +18861,7 @@
 "last_seen": "2026-11-16T22:21:12Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "huamidev/GestaltX": {
 "repo": "huamidev/GestaltX",
@@ -21963,7 +21963,7 @@
 "repo": "BaaRai/ARTEX",
 "url": "https://github.com/BaaRai/ARTEX",
 "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"stars": 6010.0,
+"stars": 6620.0,
 "spd": 75.1,
 "score": 1.27,
 "fit": 0.5,
@@ -21972,8 +21972,8 @@
 "license": "AGPL-3.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-17T19:39:55Z",
-"hits": 7,
+"last_seen": "2026-11-17T23:00:12Z",
+"hits": 8,
 "in_tg": true,
 "status": "active"
 },
@@ -23349,7 +23349,7 @@
 "repo": "elementalsouls/Claude-BugHunter",
 "url": "https://github.com/elementalsouls/Claude-BugHunter",
 "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-"stars": 8884.0,
+"stars": 9155.0,
 "spd": 144.0,
 "score": 1.71,
 "fit": 0.76,
@@ -23358,8 +23358,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-17T19:39:55Z",
-"hits": 3,
+"last_seen": "2026-11-17T23:00:12Z",
+"hits": 4,
 "in_tg": true,
 "status": "active"
 },
@@ -24495,7 +24495,7 @@
 "last_seen": "2026-11-16T22:21:12Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "wayshieldtunnel24/Rob-Run-Mod": {
 "repo": "wayshieldtunnel24/Rob-Run-Mod",
@@ -24513,7 +24513,7 @@
 "last_seen": "2026-11-16T22:21:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "NYLLON-SOFTWARE/SignuDoc": {
 "repo": "NYLLON-SOFTWARE/SignuDoc",
@@ -24531,7 +24531,7 @@
 "last_seen": "2026-11-17T04:39:35Z",
 "hits": 3,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "EmissaryHike/jellyfin-media-notebook": {
 "repo": "EmissaryHike/jellyfin-media-notebook",
@@ -24549,7 +24549,7 @@
 "last_seen": "2026-11-16T22:21:12Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Tensorflearcade/ps5-backup-saver": {
 "repo": "Tensorflearcade/ps5-backup-saver",
@@ -24567,7 +24567,7 @@
 "last_seen": "2026-11-16T22:21:12Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "edgerunners2/capri-ai-desktop": {
 "repo": "edgerunners2/capri-ai-desktop",
@@ -24585,7 +24585,7 @@
 "last_seen": "2026-11-16T22:21:12Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "deeplethe/solid-glass": {
 "repo": "deeplethe/solid-glass",
@@ -24680,18 +24680,18 @@
 "Immortal-Protocols/lastbook": {
 "repo": "Immortal-Protocols/lastbook",
 "url": "https://github.com/Immortal-Protocols/lastbook",
-"description": "Offline knowledge library for survival and rebuilding",
-"stars": 658,
-"spd": 37.1,
-"score": 0.94,
-"fit": 0.48,
+"description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+"stars": 1713.0,
+"spd": 90.5,
+"score": 0.98,
+"fit": 0.52,
 "risk": 0.0,
 "ps": "PS-web",
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-17T04:39:35Z",
-"last_seen": "2026-11-17T04:39:35Z",
-"hits": 1,
+"last_seen": "2026-11-17T23:00:12Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -24807,8 +24807,8 @@
 "repo": "erkamyaman/rust-anything",
 "url": "https://github.com/erkamyaman/rust-anything",
 "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-"stars": 861,
-"spd": 34.9,
+"stars": 1162.0,
+"spd": 35.2,
 "score": 0.97,
 "fit": 0.74,
 "risk": 0.0,
@@ -24816,8 +24816,8 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-11-17T19:39:55Z",
-"last_seen": "2026-11-17T19:39:55Z",
-"hits": 1,
+"last_seen": "2026-11-17T23:00:12Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },

@@ -1,0 +1,394 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-17T23:00:07Z",
+ "window": {
+  "hours": 3,
+  "from": "2026-11-17-19",
+  "to": "2026-11-17-21",
+  "watch_events": 480,
+  "repos": 446,
+  "actors": 459,
+  "ring_accounts": 2,
+  "api_calls": 7,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261117-07",
+   "repo": "elementalsouls/Claude-BugHunter",
+   "url": "https://github.com/elementalsouls/Claude-BugHunter",
+   "first_seen_at": "2026-11-17T23:00:07Z",
+   "channel": "gh_archive_watch",
+   "stars": 9155,
+   "forks": 1352,
+   "open_issues": 11,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 3704,
+   "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "topics": [
+    "ai-security",
+    "anthropic",
+    "application-security",
+    "bug-bounty",
+    "bugbounty",
+    "bugcrowd"
+   ],
+   "signals": {
+    "age_days": 196.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.2,
+    "stars_per_day_recent": 33.4,
+    "lifetime_stars_per_day": 46.59,
+    "acceleration": 0.7,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.07,
+   "score_explain": [
+    "V=0.32: хвост 33.4 зв/сут против штатных 46.6 (x1)",
+    "N=0.2: репо 196 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-18T03:00:07Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-05",
+   "repo": "heygen-com/hyperframes",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "first_seen_at": "2026-11-17T23:00:07Z",
+   "channel": "gh_archive_watch",
+   "stars": 85955,
+   "forks": 7964,
+   "open_issues": 287,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 545250,
+   "description": "Write HTML. Render video. Built for agents.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "animation",
+    "claude-code",
+    "ffmpeg",
+    "framework"
+   ],
+   "signals": {
+    "age_days": 252.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.9,
+    "stars_per_day_recent": 80.6,
+    "lifetime_stars_per_day": 339.9,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.06,
+   "score_explain": [
+    "V=0.13: хвост 80.6 зв/сут против штатных 339.9 (x0)",
+    "N=0.2: репо 253 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-18T03:00:07Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-02",
+   "repo": "BaaRai/ARTEX",
+   "url": "https://github.com/BaaRai/ARTEX",
+   "first_seen_at": "2026-11-17T23:00:07Z",
+   "channel": "gh_archive_watch",
+   "stars": 6620,
+   "forks": 2892,
+   "open_issues": 16,
+   "language": "Go",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "size_kb": 12431,
+   "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
+   "topics": [],
+   "signals": {
+    "age_days": 40.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.6,
+    "stars_per_day_recent": 59.7,
+    "lifetime_stars_per_day": 165.2,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.02,
+   "score_explain": [
+    "V=0.31: хвост 59.7 зв/сут против штатных 165.2 (x0)",
+    "N=1.0: репо 40 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-18T03:00:07Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-01",
+   "repo": "Immortal-Protocols/lastbook",
+   "url": "https://github.com/Immortal-Protocols/lastbook",
+   "first_seen_at": "2026-11-17T23:00:07Z",
+   "channel": "gh_archive_watch",
+   "stars": 1713,
+   "forks": 216,
+   "open_issues": 102,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 28495,
+   "description": "Offline knowledge AI, maps and videos for survival and rebuilding",
+   "topics": [],
+   "signals": {
+    "age_days": 5.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.1,
+    "stars_per_day_recent": 90.5,
+    "lifetime_stars_per_day": 344.94,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.98,
+   "score_explain": [
+    "V=0.23: хвост 90.5 зв/сут против штатных 344.9 (x0)",
+    "N=1.0: репо 5 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-18T03:00:07Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-03",
+   "repo": "erkamyaman/rust-anything",
+   "url": "https://github.com/erkamyaman/rust-anything",
+   "first_seen_at": "2026-11-17T23:00:07Z",
+   "channel": "gh_archive_watch",
+   "stars": 1162,
+   "forks": 75,
+   "open_issues": 7,
+   "language": "Rust",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 4647,
+   "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "cli",
+    "code-migration",
+    "codex",
+    "ffi"
+   ],
+   "signals": {
+    "age_days": 1.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 2.7,
+    "stars_per_day_recent": 35.2,
+    "lifetime_stars_per_day": 800.8,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.96,
+   "score_explain": [
+    "V=0.04: хвост 35.2 зв/сут против штатных 800.8 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-18T03:00:07Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-04",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-11-17T23:00:07Z",
+   "channel": "gh_archive_watch",
+   "stars": 466210,
+   "forks": 114078,
+   "open_issues": 1539,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 181366,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "android",
+    "claude-code",
+    "cli",
+    "cpp"
+   ],
+   "signals": {
+    "age_days": 217.9,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.4,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 2139.34,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.8,
+   "score_explain": [
+    "V=0.04: хвост 144.0 зв/сут против штатных 2139.3 (x0)",
+    "N=0.2: репо 218 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-18T03:00:07Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261117-06",
+   "repo": "sindresorhus/awesome",
+   "url": "https://github.com/sindresorhus/awesome",
+   "first_seen_at": "2026-11-17T23:00:07Z",
+   "channel": "gh_archive_watch",
+   "stars": 538526,
+   "forks": 38498,
+   "open_issues": 104,
+   "language": null,
+   "license": "CC0-1.0",
+   "archived": false,
+   "size_kb": 1566,
+   "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "lists",
+    "resources",
+    "unicorns"
+   ],
+   "signals": {
+    "age_days": 4512.4,
+    "last_push_days_ago": 76,
+    "stars_in_window": 3,
+    "window_h": 2.0,
+    "stars_per_day_recent": 35.9,
+    "lifetime_stars_per_day": 119.34,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.25,
+   "score_explain": [
+    "V=0.16: хвост 35.9 зв/сут против штатных 119.3 (x0)",
+    "N=0.2: репо 4512 дн от роду",
+    "C=0.0: пуш 76 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-18T03:00:07Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}
