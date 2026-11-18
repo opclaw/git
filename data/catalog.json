@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 466210.0,
+"stars": 466448.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-17T23:00:12Z",
-"hits": 159,
+"last_seen": "2026-11-18T02:12:39Z",
+"hits": 160,
 "in_tg": false,
 "status": "active"
 },
@@ -663,7 +663,7 @@
 "last_seen": "2026-11-17T01:58:15Z",
 "hits": 16,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "openclaw/openclaw": {
 "repo": "openclaw/openclaw",
@@ -1059,7 +1059,7 @@
 "last_seen": "2026-11-17T01:58:15Z",
 "hits": 23,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Imbad0202/academic-research-skills": {
 "repo": "Imbad0202/academic-research-skills",
@@ -1311,7 +1311,7 @@
 "last_seen": "2026-11-17T01:58:15Z",
 "hits": 38,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "openai/codex": {
 "repo": "openai/codex",
@@ -19095,7 +19095,7 @@
 "last_seen": "2026-11-17T01:58:15Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "wdcpclover/ai4paper": {
 "repo": "wdcpclover/ai4paper",
@@ -19119,7 +19119,7 @@
 "repo": "GoogleChrome/modern-web-guidance",
 "url": "https://github.com/GoogleChrome/modern-web-guidance",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 20823.0,
+"stars": 22116.0,
 "spd": 137.1,
 "score": 1.7,
 "fit": 0.65,
@@ -19128,8 +19128,8 @@
 "license": "Apache-2.0",
 "language": "",
 "first_seen": "2026-11-10T20:54:55Z",
-"last_seen": "2026-11-17T04:39:35Z",
-"hits": 25,
+"last_seen": "2026-11-18T02:12:39Z",
+"hits": 26,
 "in_tg": true,
 "status": "active"
 },
@@ -21351,7 +21351,7 @@
 "repo": "GoogleChrome/modern-web-guidance-src",
 "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 7167.0,
+"stars": 8469.0,
 "spd": 117.3,
 "score": 2.3,
 "fit": 0.65,
@@ -21360,10 +21360,10 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-12T03:44:13Z",
-"last_seen": "2026-11-16T00:51:05Z",
-"hits": 10,
+"last_seen": "2026-11-18T02:12:39Z",
+"hits": 11,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "agentes-chat/agentes-chat": {
 "repo": "agentes-chat/agentes-chat",
@@ -21963,7 +21963,7 @@
 "repo": "BaaRai/ARTEX",
 "url": "https://github.com/BaaRai/ARTEX",
 "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"stars": 6620.0,
+"stars": 6983.0,
 "spd": 75.1,
 "score": 1.27,
 "fit": 0.5,
@@ -21972,8 +21972,8 @@
 "license": "AGPL-3.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-17T23:00:12Z",
-"hits": 8,
+"last_seen": "2026-11-18T02:12:39Z",
+"hits": 9,
 "in_tg": true,
 "status": "active"
 },
@@ -23331,7 +23331,7 @@
 "repo": "Tencent/LoopForge",
 "url": "https://github.com/Tencent/LoopForge",
 "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-"stars": 1912.0,
+"stars": 3247.0,
 "spd": 59.2,
 "score": 1.97,
 "fit": 0.96,
@@ -23340,16 +23340,16 @@
 "license": "NOASSERTION",
 "language": "Go",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 2,
+"last_seen": "2026-11-18T02:12:39Z",
+"hits": 3,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "elementalsouls/Claude-BugHunter": {
 "repo": "elementalsouls/Claude-BugHunter",
 "url": "https://github.com/elementalsouls/Claude-BugHunter",
 "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-"stars": 9155.0,
+"stars": 9423.0,
 "spd": 144.0,
 "score": 1.71,
 "fit": 0.76,
@@ -23358,8 +23358,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-17T23:00:12Z",
-"hits": 4,
+"last_seen": "2026-11-18T02:12:39Z",
+"hits": 5,
 "in_tg": true,
 "status": "active"
 },
@@ -24603,7 +24603,7 @@
 "last_seen": "2026-11-17T04:39:35Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "ag-ui-protocol/ag-ui": {
 "repo": "ag-ui-protocol/ag-ui",
@@ -24621,7 +24621,7 @@
 "last_seen": "2026-11-17T04:39:35Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "Phantomstawaken/rob-run-advanced-cheat": {
 "repo": "Phantomstawaken/rob-run-advanced-cheat",
@@ -24639,7 +24639,7 @@
 "last_seen": "2026-11-17T01:58:15Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "google-research/paper-orchestra": {
 "repo": "google-research/paper-orchestra",
@@ -24997,6 +24997,132 @@
 "language": "Python",
 "first_seen": "2026-11-17T19:39:55Z",
 "last_seen": "2026-11-17T19:39:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"SparkCaptain/Rob-Run-Mod-Pro": {
+"repo": "SparkCaptain/Rob-Run-Mod-Pro",
+"url": "https://github.com/SparkCaptain/Rob-Run-Mod-Pro",
+"description": "",
+"stars": 217,
+"spd": 96.9,
+"score": 2.33,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-11-18T02:12:39Z",
+"last_seen": "2026-11-18T02:12:39Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"interfere-inc/landmines": {
+"repo": "interfere-inc/landmines",
+"url": "https://github.com/interfere-inc/landmines",
+"description": "Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking.",
+"stars": 228,
+"spd": 34.3,
+"score": 2.08,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-18T02:12:39Z",
+"last_seen": "2026-11-18T02:12:39Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Feralryostride/Fortnite-Pirate-Shop-Access-cheat-private": {
+"repo": "Feralryostride/Fortnite-Pirate-Shop-Access-cheat-private",
+"url": "https://github.com/Feralryostride/Fortnite-Pirate-Shop-Access-cheat-private",
+"description": "",
+"stars": 192,
+"spd": 206.6,
+"score": 1.06,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "",
+"first_seen": "2026-11-18T02:12:39Z",
+"last_seen": "2026-11-18T02:12:39Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"fjorddolphininflate/sims-4-unlcoker-dlc-tool-v2": {
+"repo": "fjorddolphininflate/sims-4-unlcoker-dlc-tool-v2",
+"url": "https://github.com/fjorddolphininflate/sims-4-unlcoker-dlc-tool-v2",
+"description": "",
+"stars": 329,
+"spd": 288.0,
+"score": 1.0,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "",
+"first_seen": "2026-11-18T02:12:39Z",
+"last_seen": "2026-11-18T02:12:39Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"zephyr4123/snug": {
+"repo": "zephyr4123/snug",
+"url": "https://github.com/zephyr4123/snug",
+"description": "为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone workspace for controlling your Mac over UU Remote.",
+"stars": 489,
+"spd": 30.6,
+"score": 0.97,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "MIT",
+"language": "Swift",
+"first_seen": "2026-11-18T02:12:39Z",
+"last_seen": "2026-11-18T02:12:39Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Spiralnyoapplaud/rob-run-nox-cheat": {
+"repo": "Spiralnyoapplaud/rob-run-nox-cheat",
+"url": "https://github.com/Spiralnyoapplaud/rob-run-nox-cheat",
+"description": "",
+"stars": 329,
+"spd": 192.0,
+"score": 0.57,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "MIT",
+"language": "",
+"first_seen": "2026-11-18T02:12:39Z",
+"last_seen": "2026-11-18T02:12:39Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"GraphSheriff75/fortnite-pirate-shop-access": {
+"repo": "GraphSheriff75/fortnite-pirate-shop-access",
+"url": "https://github.com/GraphSheriff75/fortnite-pirate-shop-access",
+"description": "",
+"stars": 251,
+"spd": 68.9,
+"score": 0.46,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "MIT",
+"language": "",
+"first_seen": "2026-11-18T02:12:39Z",
+"last_seen": "2026-11-18T02:12:39Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
