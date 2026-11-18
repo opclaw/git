@@ -14,7 +14,7 @@
 "first_seen": "2026-10-19T20:57:58Z",
 "last_seen": "2026-10-24T18:45:41Z",
 "hits": 6,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "AhmadHassan-BTed/FractalWorkspace": {
@@ -32,7 +32,7 @@
 "first_seen": "2026-10-19T20:57:58Z",
 "last_seen": "2026-10-19T21:12:57Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "xerj-org/xerj": {
@@ -50,7 +50,7 @@
 "first_seen": "2026-10-19T20:57:58Z",
 "last_seen": "2026-11-01T09:37:54Z",
 "hits": 9,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "AhmadHassan-BTed/OpenHeart": {
@@ -86,7 +86,7 @@
 "first_seen": "2026-10-19T20:57:58Z",
 "last_seen": "2026-11-11T22:57:55Z",
 "hits": 32,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "YuJunZhiXue/dsh-purge": {
@@ -140,7 +140,7 @@
 "first_seen": "2026-10-19T20:57:58Z",
 "last_seen": "2026-11-17T04:39:35Z",
 "hits": 48,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "awesome-selfhosted/awesome-selfhosted": {
@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 467599.0,
+"stars": 468165.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-18T14:18:51Z",
-"hits": 162,
+"last_seen": "2026-11-18T22:09:38Z",
+"hits": 163,
 "in_tg": false,
 "status": "active"
 },
@@ -309,19 +309,19 @@
 "repo": "boykopovar/AnyPS5",
 "url": "https://github.com/boykopovar/AnyPS5",
 "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-"stars": 50410.0,
+"stars": 55872.0,
 "spd": 141.2,
-"score": 0.7,
+"score": 0.71,
 "fit": 0.45,
 "risk": 0.03,
 "ps": "PS-dev",
 "license": "GPL-2.0",
 "language": "C++",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-01T20:59:20Z",
-"hits": 6,
+"last_seen": "2026-11-18T22:09:38Z",
+"hits": 7,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "shiyu-coder/Kronos": {
 "repo": "shiyu-coder/Kronos",
@@ -464,7 +464,7 @@
 "first_seen": "2026-10-19T21:12:57Z",
 "last_seen": "2026-10-22T10:28:47Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "Fractal-Compute-Orchestrations/FractalWorkspace": {
@@ -482,7 +482,7 @@
 "first_seen": "2026-10-19T21:12:57Z",
 "last_seen": "2026-11-02T07:26:23Z",
 "hits": 10,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "anomalyco/opencode": {
@@ -1274,7 +1274,7 @@
 "first_seen": "2026-10-20T15:17:36Z",
 "last_seen": "2026-10-22T23:02:22Z",
 "hits": 4,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "debpalash/VoiceStudio": {
@@ -1299,7 +1299,7 @@
 "repo": "affaan-m/ECC",
 "url": "https://github.com/affaan-m/ECC",
 "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-"stars": 305974.0,
+"stars": 306435.0,
 "spd": 199.1,
 "score": 1.0,
 "fit": 0.96,
@@ -1308,8 +1308,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-18T10:31:59Z",
-"hits": 39,
+"last_seen": "2026-11-18T22:09:38Z",
+"hits": 40,
 "in_tg": false,
 "status": "active"
 },
@@ -4017,7 +4017,7 @@
 "repo": "obra/superpowers",
 "url": "https://github.com/obra/superpowers",
 "description": "An agentic skills framework & software development methodology that works.",
-"stars": 319762.0,
+"stars": 321278.0,
 "spd": 720.0,
 "score": 0.81,
 "fit": 0.52,
@@ -4026,8 +4026,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-18T14:18:51Z",
-"hits": 14,
+"last_seen": "2026-11-18T22:09:38Z",
+"hits": 15,
 "in_tg": false,
 "status": "active"
 },
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-"stars": 65064.0,
+"stars": 65159.0,
 "spd": 139.1,
 "score": 0.9,
 "fit": 0.74,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-18T19:16:54Z",
-"hits": 66,
+"last_seen": "2026-11-18T22:09:38Z",
+"hits": 67,
 "in_tg": false,
 "status": "active"
 },
@@ -4592,8 +4592,8 @@
 "firecrawl/firecrawl": {
 "repo": "firecrawl/firecrawl",
 "url": "https://github.com/firecrawl/firecrawl",
-"description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-"stars": 201501.0,
+"description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+"stars": 203090.0,
 "spd": 65.2,
 "score": 0.99,
 "fit": 0.83,
@@ -4602,10 +4602,10 @@
 "license": "AGPL-3.0",
 "language": "TypeScript",
 "first_seen": "2026-10-24T11:17:52Z",
-"last_seen": "2026-11-13T17:00:12Z",
-"hits": 9,
+"last_seen": "2026-11-18T22:09:38Z",
+"hits": 10,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "NanmiCoder/MediaCrawler": {
 "repo": "NanmiCoder/MediaCrawler",
@@ -12039,7 +12039,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 7,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "InukaAsith/TwinDesk": {
 "repo": "InukaAsith/TwinDesk",
@@ -22533,7 +22533,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 12,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Ultimateakiln/ai--manus2.0": {
 "repo": "Ultimateakiln/ai--manus2.0",
@@ -24645,8 +24645,8 @@
 "repo": "google-research/paper-orchestra",
 "url": "https://github.com/google-research/paper-orchestra",
 "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-"stars": 2775.0,
-"spd": 43.6,
+"stars": 4204.0,
+"spd": 47.3,
 "score": 1.59,
 "fit": 0.52,
 "risk": 0.0,
@@ -24654,8 +24654,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-17T04:39:35Z",
-"last_seen": "2026-11-17T19:39:55Z",
-"hits": 2,
+"last_seen": "2026-11-18T22:09:38Z",
+"hits": 3,
 "in_tg": true,
 "status": "active"
 },
@@ -24711,7 +24711,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "leoanardomacxs/minecraft-bedrock-hacked-client": {
 "repo": "leoanardomacxs/minecraft-bedrock-hacked-client",
@@ -24729,7 +24729,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "fujc683/seedance-2-5-flash-camera-movements": {
 "repo": "fujc683/seedance-2-5-flash-camera-movements",
@@ -24747,7 +24747,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Swastik610-tech/overwolf-patcher": {
 "repo": "Swastik610-tech/overwolf-patcher",
@@ -24765,7 +24765,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sybil-solutions/inference-optimisation-skill": {
 "repo": "sybil-solutions/inference-optimisation-skill",
@@ -24783,7 +24783,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "hemraj-alnafi/sparkit-raw-plugin": {
 "repo": "hemraj-alnafi/sparkit-raw-plugin",
@@ -24801,14 +24801,14 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "erkamyaman/rust-anything": {
 "repo": "erkamyaman/rust-anything",
 "url": "https://github.com/erkamyaman/rust-anything",
 "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-"stars": 3054.0,
-"spd": 36.6,
+"stars": 3231.0,
+"spd": 37.2,
 "score": 0.97,
 "fit": 0.74,
 "risk": 0.0,
@@ -24816,10 +24816,10 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-11-17T19:39:55Z",
-"last_seen": "2026-11-18T19:16:54Z",
-"hits": 4,
+"last_seen": "2026-11-18T22:09:38Z",
+"hits": 5,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "rinkaycomputer-ship-it/delta-force-helper-ai": {
 "repo": "rinkaycomputer-ship-it/delta-force-helper-ai",
@@ -24837,7 +24837,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "IsraelBH/ticktock-automation": {
 "repo": "IsraelBH/ticktock-automation",
@@ -24855,7 +24855,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Blurck1/g2g-fast-game": {
 "repo": "Blurck1/g2g-fast-game",
@@ -24873,7 +24873,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "dev-ankur24/poly-mod-loader": {
 "repo": "dev-ankur24/poly-mod-loader",
@@ -24891,7 +24891,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "krisgfx9/Wireless-Device-Battery-Monitor": {
 "repo": "krisgfx9/Wireless-Device-Battery-Monitor",
@@ -24909,7 +24909,7 @@
 "last_seen": "2026-11-18T10:31:59Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "ASDA580277/agentower-remote-control": {
 "repo": "ASDA580277/agentower-remote-control",
@@ -24927,7 +24927,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ssalnun/hermes-werracle-guard": {
 "repo": "ssalnun/hermes-werracle-guard",
@@ -24945,7 +24945,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "salam2001rdp/novautils-minecraft-mod-menu": {
 "repo": "salam2001rdp/novautils-minecraft-mod-menu",
@@ -24963,7 +24963,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "KrogerSS/youtube-like-bot": {
 "repo": "KrogerSS/youtube-like-bot",
@@ -24981,7 +24981,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "gylive/google-ultra": {
 "repo": "gylive/google-ultra",
@@ -24999,7 +24999,7 @@
 "last_seen": "2026-11-17T19:39:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SparkCaptain/Rob-Run-Mod-Pro": {
 "repo": "SparkCaptain/Rob-Run-Mod-Pro",
@@ -25681,6 +25681,42 @@
 "language": "Python",
 "first_seen": "2026-11-18T19:16:54Z",
 "last_seen": "2026-11-18T19:16:54Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"rizonesoft/impossible-os": {
+"repo": "rizonesoft/impossible-os",
+"url": "https://github.com/rizonesoft/impossible-os",
+"description": "A 64-bit operating system built from scratch for modern x86-64 hardware: UEFI boot, a compositing desktop, and a native Win32 API.",
+"stars": 124,
+"spd": 58.2,
+"score": 3.11,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "GPL-3.0",
+"language": "C",
+"first_seen": "2026-11-18T22:09:38Z",
+"last_seen": "2026-11-18T22:09:38Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"NewtSupervise/Renz-GTA-VI": {
+"repo": "NewtSupervise/Renz-GTA-VI",
+"url": "https://github.com/NewtSupervise/Renz-GTA-VI",
+"description": "",
+"stars": 394,
+"spd": 144.0,
+"score": 2.25,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": null,
+"language": "",
+"first_seen": "2026-11-18T22:09:38Z",
+"last_seen": "2026-11-18T22:09:38Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
