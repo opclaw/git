@@ -309,7 +309,7 @@
 "repo": "boykopovar/AnyPS5",
 "url": "https://github.com/boykopovar/AnyPS5",
 "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-"stars": 58710.0,
+"stars": 58797.0,
 "spd": 141.2,
 "score": 0.74,
 "fit": 0.45,
@@ -318,8 +318,8 @@
 "license": "GPL-2.0",
 "language": "C++",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-20T21:19:06Z",
-"hits": 12,
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 13,
 "in_tg": false,
 "status": "active"
 },
@@ -1299,7 +1299,7 @@
 "repo": "affaan-m/ECC",
 "url": "https://github.com/affaan-m/ECC",
 "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-"stars": 307784.0,
+"stars": 307839.0,
 "spd": 199.1,
 "score": 1.0,
 "fit": 0.96,
@@ -1308,8 +1308,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-20T21:19:06Z",
-"hits": 42,
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 43,
 "in_tg": false,
 "status": "active"
 },
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-"stars": 67498.0,
+"stars": 67799.0,
 "spd": 139.1,
 "score": 0.92,
 "fit": 0.74,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 73,
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 74,
 "in_tg": false,
 "status": "active"
 },
@@ -4592,8 +4592,8 @@
 "firecrawl/firecrawl": {
 "repo": "firecrawl/firecrawl",
 "url": "https://github.com/firecrawl/firecrawl",
-"description": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
-"stars": 205008.0,
+"description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+"stars": 205236.0,
 "spd": 154.4,
 "score": 1.07,
 "fit": 0.83,
@@ -4602,8 +4602,8 @@
 "license": "AGPL-3.0",
 "language": "TypeScript",
 "first_seen": "2026-10-24T11:17:52Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 14,
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 15,
 "in_tg": false,
 "status": "active"
 },
@@ -10515,19 +10515,19 @@
 "repo": "open-jarvis/OpenJarvis",
 "url": "https://github.com/open-jarvis/OpenJarvis",
 "description": "Personal AI, On Personal Devices",
-"stars": 16911.0,
-"spd": 69.3,
-"score": 1.08,
+"stars": 17530.0,
+"spd": 132.7,
+"score": 1.21,
 "fit": 0.5,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-31T22:36:57Z",
-"last_seen": "2026-11-18T19:16:54Z",
-"hits": 4,
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 5,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "NiazMorshed2007/reanimate": {
 "repo": "NiazMorshed2007/reanimate",
@@ -21963,7 +21963,7 @@
 "repo": "BaaRai/ARTEX",
 "url": "https://github.com/BaaRai/ARTEX",
 "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"stars": 13554.0,
+"stars": 13698.0,
 "spd": 89.7,
 "score": 1.31,
 "fit": 0.96,
@@ -21972,8 +21972,8 @@
 "license": "AGPL-3.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-20T21:19:06Z",
-"hits": 17,
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 18,
 "in_tg": true,
 "status": "active"
 },
@@ -23349,7 +23349,7 @@
 "repo": "elementalsouls/Claude-BugHunter",
 "url": "https://github.com/elementalsouls/Claude-BugHunter",
 "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-"stars": 14019.0,
+"stars": 14194.0,
 "spd": 144.0,
 "score": 1.71,
 "fit": 0.76,
@@ -23358,8 +23358,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-20T21:19:06Z",
-"hits": 15,
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 16,
 "in_tg": true,
 "status": "active"
 },
@@ -24807,7 +24807,7 @@
 "repo": "erkamyaman/rust-anything",
 "url": "https://github.com/erkamyaman/rust-anything",
 "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-"stars": 6359.0,
+"stars": 6618.0,
 "spd": 60.9,
 "score": 0.97,
 "fit": 0.74,
@@ -24816,8 +24816,8 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-11-17T19:39:55Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 11,
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 12,
 "in_tg": false,
 "status": "active"
 },
@@ -26367,7 +26367,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "0marContreras/gta6recomp": {
 "repo": "0marContreras/gta6recomp",
@@ -26403,7 +26403,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ArchiveViperAgora/dead-by-daylight-trainer-tool": {
 "repo": "ArchiveViperAgora/dead-by-daylight-trainer-tool",
@@ -26421,7 +26421,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Jadebruinlet/adobe-substance-3d": {
 "repo": "Jadebruinlet/adobe-substance-3d",
@@ -26439,7 +26439,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Screwdacurse/abbyy-finereader-pdf": {
 "repo": "Screwdacurse/abbyy-finereader-pdf",
@@ -26457,7 +26457,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "FallsJustice85/Moon-Sweepers-Trainer": {
 "repo": "FallsJustice85/Moon-Sweepers-Trainer",
@@ -26475,7 +26475,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SamuraiBlackbird/reason-14": {
 "repo": "SamuraiBlackbird/reason-14",
@@ -26493,7 +26493,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Plateyocrush/windows-optimizer": {
 "repo": "Plateyocrush/windows-optimizer",
@@ -26511,7 +26511,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Convergegliconnector/ph-downloader": {
 "repo": "Convergegliconnector/ph-downloader",
@@ -26529,7 +26529,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Cablezumready/metatrader-5-bot": {
 "repo": "Cablezumready/metatrader-5-bot",
@@ -26547,7 +26547,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "winnerjudgehelix/dvd-creator": {
 "repo": "winnerjudgehelix/dvd-creator",
@@ -26565,7 +26565,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "roofemuescalator/adobe-indesign": {
 "repo": "roofemuescalator/adobe-indesign",
@@ -26583,7 +26583,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "OutpostDitch/scrcpy": {
 "repo": "OutpostDitch/scrcpy",
@@ -26601,7 +26601,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Ashamongfill/rx-11-audio-editor": {
 "repo": "Ashamongfill/rx-11-audio-editor",
@@ -26619,7 +26619,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ComponentBear/cubase": {
 "repo": "ComponentBear/cubase",
@@ -26637,7 +26637,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Voidoiadapter/quant-trading-bot": {
 "repo": "Voidoiadapter/quant-trading-bot",
@@ -26655,7 +26655,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "senapati484/teledrive": {
 "repo": "senapati484/teledrive",
@@ -26673,7 +26673,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "ClutchQuailDusk/microsoft-visio": {
 "repo": "ClutchQuailDusk/microsoft-visio",
@@ -26691,7 +26691,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "FrontierBarbarian/atas-trading-bot": {
 "repo": "FrontierBarbarian/atas-trading-bot",
@@ -26709,7 +26709,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Storageglipier/ccleaner-pro": {
 "repo": "Storageglipier/ccleaner-pro",
@@ -26727,7 +26727,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "TernTreasure/kms-pico": {
 "repo": "TernTreasure/kms-pico",
@@ -26745,7 +26745,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "bookwjitchieni1986/blender-ai-mcp-addon": {
 "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
@@ -26763,7 +26763,7 @@
 "last_seen": "2026-11-20T21:19:06Z",
 "hits": 4,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "sourmitocand1987/VividFrame-GPU": {
 "repo": "sourmitocand1987/VividFrame-GPU",
@@ -26781,7 +26781,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "limetempodemodulator/Microsoft-Power-BI-Pro": {
 "repo": "limetempodemodulator/Microsoft-Power-BI-Pro",
@@ -26877,17 +26877,17 @@
 "repo": "hiteshrao1022006-ship-it/microsoft-visio-orveven",
 "url": "https://github.com/hiteshrao1022006-ship-it/microsoft-visio-orveven",
 "description": "Microsoft Visio Orveven delivers diagramming tools for technical and business visualization.",
-"stars": 94,
-"spd": 138.5,
-"score": 1.25,
+"stars": 157.0,
+"spd": 144.0,
+"score": 1.54,
 "fit": 0.7,
 "risk": 0.18,
 "ps": "PS-ml",
 "license": null,
 "language": "TypeScript",
 "first_seen": "2026-11-20T01:05:25Z",
-"last_seen": "2026-11-20T01:05:25Z",
-"hits": 1,
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -27489,7 +27489,7 @@
 "repo": "mashhood0233-a11y/terraria-coop-calora",
 "url": "https://github.com/mashhood0233-a11y/terraria-coop-calora",
 "description": "Build and explore together in a shared Terraria world — progress side by side.",
-"stars": 61,
+"stars": 156.0,
 "spd": 144.0,
 "score": 1.14,
 "fit": 0.48,
@@ -27498,8 +27498,8 @@
 "license": null,
 "language": "TypeScript",
 "first_seen": "2026-11-20T13:14:20Z",
-"last_seen": "2026-11-20T13:14:20Z",
-"hits": 1,
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -27579,7 +27579,7 @@
 "repo": "jollykit/gta-6-localization-reference-glossary",
 "url": "https://github.com/jollykit/gta-6-localization-reference-glossary",
 "description": "Terminology reference for GTA 6 localization, compiled from public sources.",
-"stars": 112,
+"stars": 156.0,
 "spd": 144.0,
 "score": 1.36,
 "fit": 0.43,
@@ -27588,8 +27588,8 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-11-20T21:19:06Z",
-"last_seen": "2026-11-20T21:19:06Z",
-"hits": 1,
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 2,
 "in_tg": true,
 "status": "new"
 },
@@ -27597,7 +27597,7 @@
 "repo": "PasumarthiMohith/powertoys-focused-workspace",
 "url": "https://github.com/PasumarthiMohith/powertoys-focused-workspace",
 "description": "Concentrate active windows into a focused workspace - switch context with fewer moving parts.",
-"stars": 89,
+"stars": 158.0,
 "spd": 144.0,
 "score": 1.21,
 "fit": 0.45,
@@ -27606,8 +27606,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-20T21:19:06Z",
-"last_seen": "2026-11-20T21:19:06Z",
-"hits": 1,
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 2,
 "in_tg": true,
 "status": "new"
 },
@@ -27615,16 +27615,196 @@
 "repo": "umbra0688/windows-clipboard-manager-sync",
 "url": "https://github.com/umbra0688/windows-clipboard-manager-sync",
 "description": "Free open-source Windows clipboard manager with searchable history, smart collections, keyboard shortcuts and cloud sync.",
-"stars": 185,
-"spd": 24.9,
-"score": 1.02,
+"stars": 239.0,
+"spd": 102.4,
+"score": 1.25,
 "fit": 0.76,
 "risk": 0.0,
 "ps": "PS-dev",
 "license": "MIT",
 "language": "Dart",
 "first_seen": "2026-11-20T21:19:06Z",
-"last_seen": "2026-11-20T21:19:06Z",
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 2,
+"in_tg": false,
+"status": "new"
+},
+"thenukawijekoon51-blip/movavi-video-editor": {
+"repo": "thenukawijekoon51-blip/movavi-video-editor",
+"url": "https://github.com/thenukawijekoon51-blip/movavi-video-editor",
+"description": "Movavi Video Editor: Alternative Access Tool for Video Editing Workflows",
+"stars": 158,
+"spd": 144.0,
+"score": 2.03,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-20T23:46:23Z",
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"sakshipower/ready-or-not-orlorin": {
+"repo": "sakshipower/ready-or-not-orlorin",
+"url": "https://github.com/sakshipower/ready-or-not-orlorin",
+"description": "Accurate Ready Or Not gameplay intel and HUD overlays, built into the client.",
+"stars": 158,
+"spd": 144.0,
+"score": 1.76,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-20T23:46:23Z",
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"agarwalsarthak8822/risk-of-rain-2-coop-alralia": {
+"repo": "agarwalsarthak8822/risk-of-rain-2-coop-alralia",
+"url": "https://github.com/agarwalsarthak8822/risk-of-rain-2-coop-alralia",
+"description": "Team up for Risk of Rain 2 co-op runs with Alralia.",
+"stars": 158,
+"spd": 87.6,
+"score": 1.41,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-20T23:46:23Z",
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"rienterprises6853-a11y/raft-coop-mervaora": {
+"repo": "rienterprises6853-a11y/raft-coop-mervaora",
+"url": "https://github.com/rienterprises6853-a11y/raft-coop-mervaora",
+"description": "Play together to build, survive, and explore on a shared raft at sea.",
+"stars": 158,
+"spd": 144.0,
+"score": 1.15,
+"fit": 0.48,
+"risk": 0.18,
+"ps": "PS-web",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-20T23:46:23Z",
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"luciskynet-cloud/sonyvegas": {
+"repo": "luciskynet-cloud/sonyvegas",
+"url": "https://github.com/luciskynet-cloud/sonyvegas",
+"description": "Sonyvegas delivers core functionality — built with direct, technical precision.",
+"stars": 157,
+"spd": 144.0,
+"score": 1.03,
+"fit": 0.76,
+"risk": 0.18,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-20T23:46:23Z",
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ikechukwuakachukwu243-coder/phasmophobia-coop-vellorin": {
+"repo": "ikechukwuakachukwu243-coder/phasmophobia-coop-vellorin",
+"url": "https://github.com/ikechukwuakachukwu243-coder/phasmophobia-coop-vellorin",
+"description": "Team up to investigate haunted sites together with Phasmophobia Coop Vellorin.",
+"stars": 155,
+"spd": 118.7,
+"score": 0.91,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": null,
+"language": "TypeScript",
+"first_seen": "2026-11-20T23:46:23Z",
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Dhaarani007/palworld-coop-orroven": {
+"repo": "Dhaarani007/palworld-coop-orroven",
+"url": "https://github.com/Dhaarani007/palworld-coop-orroven",
+"description": "Plan shared Palworld sessions and coordinate co-op routes together.",
+"stars": 157,
+"spd": 90.0,
+"score": 0.67,
+"fit": 0.48,
+"risk": 0.37,
+"ps": "PS-web",
+"license": null,
+"language": "Go",
+"first_seen": "2026-11-20T23:46:23Z",
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"niraj465775-blip/red4ext-cyberpunk-runtime-workspace": {
+"repo": "niraj465775-blip/red4ext-cyberpunk-runtime-workspace",
+"url": "https://github.com/niraj465775-blip/red4ext-cyberpunk-runtime-workspace",
+"description": "Extend Cyberpunk runtime behavior with the Red4Ext workspace.",
+"stars": 156,
+"spd": 84.5,
+"score": 0.62,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-20T23:46:23Z",
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"cubicinema1/special-k-presentation-workbench": {
+"repo": "cubicinema1/special-k-presentation-workbench",
+"url": "https://github.com/cubicinema1/special-k-presentation-workbench",
+"description": "Tune frame presentation timing for Special K with modder-first controls.",
+"stars": 158,
+"spd": 144.0,
+"score": 0.52,
+"fit": 0.48,
+"risk": 0.18,
+"ps": "PS-infra",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-20T23:46:23Z",
+"last_seen": "2026-11-20T23:46:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"10FUKUROU92/adobe-media-encoder-avrara": {
+"repo": "10FUKUROU92/adobe-media-encoder-avrara",
+"url": "https://github.com/10FUKUROU92/adobe-media-encoder-avrara",
+"description": "Adobe Media Encoder Avrara streamlines your render queue into a clear visual workflow.",
+"stars": 156,
+"spd": 50.4,
+"score": 0.47,
+"fit": 0.52,
+"risk": 0.18,
+"ps": "PS-infer",
+"license": null,
+"language": "TypeScript",
+"first_seen": "2026-11-20T23:46:23Z",
+"last_seen": "2026-11-20T23:46:23Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
