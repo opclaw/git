@@ -309,7 +309,7 @@
 "repo": "boykopovar/AnyPS5",
 "url": "https://github.com/boykopovar/AnyPS5",
 "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-"stars": 58372.0,
+"stars": 58710.0,
 "spd": 141.2,
 "score": 0.74,
 "fit": 0.45,
@@ -318,8 +318,8 @@
 "license": "GPL-2.0",
 "language": "C++",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-20T13:14:20Z",
-"hits": 11,
+"last_seen": "2026-11-20T21:19:06Z",
+"hits": 12,
 "in_tg": false,
 "status": "active"
 },
@@ -1299,7 +1299,7 @@
 "repo": "affaan-m/ECC",
 "url": "https://github.com/affaan-m/ECC",
 "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-"stars": 306526.0,
+"stars": 307784.0,
 "spd": 199.1,
 "score": 1.0,
 "fit": 0.96,
@@ -1308,10 +1308,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-19T01:22:30Z",
-"hits": 41,
+"last_seen": "2026-11-20T21:19:06Z",
+"hits": 42,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "openai/codex": {
 "repo": "openai/codex",
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
-"stars": 130787.0,
+"stars": 130928.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 56,
+"last_seen": "2026-11-20T21:19:06Z",
+"hits": 57,
 "in_tg": false,
 "status": "active"
 },
@@ -4773,19 +4773,19 @@
 "repo": "apify/apify-mcp-server",
 "url": "https://github.com/apify/apify-mcp-server",
 "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automa",
-"stars": 12937,
-"spd": 77.1,
-"score": 1.62,
+"stars": 17170.0,
+"spd": 144.0,
+"score": 1.79,
 "fit": 0.74,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-24T16:50:07Z",
-"last_seen": "2026-10-24T16:50:07Z",
-"hits": 1,
-"in_tg": false,
-"status": "cooled"
+"last_seen": "2026-11-20T21:19:06Z",
+"hits": 2,
+"in_tg": true,
+"status": "active"
 },
 "kajisho5/ffmpeg-skill": {
 "repo": "kajisho5/ffmpeg-skill",
@@ -6333,7 +6333,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "nicobailon/skill-diet": {
 "repo": "nicobailon/skill-diet",
@@ -21963,17 +21963,17 @@
 "repo": "BaaRai/ARTEX",
 "url": "https://github.com/BaaRai/ARTEX",
 "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"stars": 13320.0,
-"spd": 75.1,
-"score": 1.27,
+"stars": 13554.0,
+"spd": 89.7,
+"score": 1.31,
 "fit": 0.96,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "AGPL-3.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 16,
+"last_seen": "2026-11-20T21:19:06Z",
+"hits": 17,
 "in_tg": true,
 "status": "active"
 },
@@ -23349,7 +23349,7 @@
 "repo": "elementalsouls/Claude-BugHunter",
 "url": "https://github.com/elementalsouls/Claude-BugHunter",
 "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-"stars": 13777.0,
+"stars": 14019.0,
 "spd": 144.0,
 "score": 1.71,
 "fit": 0.76,
@@ -23358,8 +23358,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 14,
+"last_seen": "2026-11-20T21:19:06Z",
+"hits": 15,
 "in_tg": true,
 "status": "active"
 },
@@ -26007,7 +26007,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "whitetoadmake/delta-force-trainer-tool": {
 "repo": "whitetoadmake/delta-force-trainer-tool",
@@ -26025,7 +26025,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Boardmufringe/easy-worship": {
 "repo": "Boardmufringe/easy-worship",
@@ -26043,7 +26043,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "YarnProductionStay/fabfilter-pro": {
 "repo": "YarnProductionStay/fabfilter-pro",
@@ -26061,7 +26061,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "beigejusticefetter/fabfilter-total": {
 "repo": "beigejusticefetter/fabfilter-total",
@@ -26079,7 +26079,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "thresholdhealerfoyer/archicad": {
 "repo": "thresholdhealerfoyer/archicad",
@@ -26097,7 +26097,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Hurricaneinmesmerize/claude-jailbreak-prompt": {
 "repo": "Hurricaneinmesmerize/claude-jailbreak-prompt",
@@ -26115,7 +26115,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "colorsleadershock/camtasia": {
 "repo": "colorsleadershock/camtasia",
@@ -26133,7 +26133,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "BasinJusticeEncoder/honkai-star-rail-trainer-tool": {
 "repo": "BasinJusticeEncoder/honkai-star-rail-trainer-tool",
@@ -26151,7 +26151,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "AccountantPersist/voicemod": {
 "repo": "AccountantPersist/voicemod",
@@ -26169,7 +26169,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "WellSerpentBeam/ios-unlocker": {
 "repo": "WellSerpentBeam/ios-unlocker",
@@ -26187,7 +26187,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Energyzurpulse/trx-drainer-bot": {
 "repo": "Energyzurpulse/trx-drainer-bot",
@@ -26205,7 +26205,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "NecromancerTuck/passfab-unlocker": {
 "repo": "NecromancerTuck/passfab-unlocker",
@@ -26223,7 +26223,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Skinploembroider/autodesk-cfd": {
 "repo": "Skinploembroider/autodesk-cfd",
@@ -26241,7 +26241,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Magmaenwhirl71/androidunlocker": {
 "repo": "Magmaenwhirl71/androidunlocker",
@@ -26259,7 +26259,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "daman-ovo-0404/tarot-skill": {
 "repo": "daman-ovo-0404/tarot-skill",
@@ -26277,7 +26277,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "NVlabs/motionbricks": {
 "repo": "NVlabs/motionbricks",
@@ -26295,7 +26295,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "OpenWhispr/openwhispr": {
 "repo": "OpenWhispr/openwhispr",
@@ -26313,7 +26313,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "The-PR-Agent/pr-agent": {
 "repo": "The-PR-Agent/pr-agent",
@@ -26331,7 +26331,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "toeverything/AFFiNE": {
 "repo": "toeverything/AFFiNE",
@@ -26349,7 +26349,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "bothaggsigym1988/frameglide": {
 "repo": "bothaggsigym1988/frameglide",
@@ -26367,7 +26367,7 @@
 "last_seen": "2026-11-19T22:18:39Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "0marContreras/gta6recomp": {
 "repo": "0marContreras/gta6recomp",
@@ -26385,7 +26385,7 @@
 "last_seen": "2026-11-19T18:31:11Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Firegrimesmerize/total-commander": {
 "repo": "Firegrimesmerize/total-commander",
@@ -26751,17 +26751,17 @@
 "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
 "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
 "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
-"stars": 969.0,
-"spd": 48.1,
-"score": 1.13,
+"stars": 1581.0,
+"spd": 144.0,
+"score": 1.19,
 "fit": 1.0,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "",
 "first_seen": "2026-11-19T22:18:39Z",
-"last_seen": "2026-11-20T08:56:59Z",
-"hits": 3,
+"last_seen": "2026-11-20T21:19:06Z",
+"hits": 4,
 "in_tg": true,
 "status": "new"
 },
@@ -27093,7 +27093,7 @@
 "repo": "iamajmeena/neonclipping",
 "url": "https://github.com/iamajmeena/neonclipping",
 "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
-"stars": 1129.0,
+"stars": 1218.0,
 "spd": 67.5,
 "score": 0.97,
 "fit": 0.74,
@@ -27102,8 +27102,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-20T08:56:59Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 2,
+"last_seen": "2026-11-20T21:19:06Z",
+"hits": 3,
 "in_tg": false,
 "status": "new"
 },
@@ -27573,6 +27573,60 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 1,
 "in_tg": true,
+"status": "new"
+},
+"jollykit/gta-6-localization-reference-glossary": {
+"repo": "jollykit/gta-6-localization-reference-glossary",
+"url": "https://github.com/jollykit/gta-6-localization-reference-glossary",
+"description": "Terminology reference for GTA 6 localization, compiled from public sources.",
+"stars": 112,
+"spd": 144.0,
+"score": 1.36,
+"fit": 0.43,
+"risk": 0.0,
+"ps": "PS-doc",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-20T21:19:06Z",
+"last_seen": "2026-11-20T21:19:06Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"PasumarthiMohith/powertoys-focused-workspace": {
+"repo": "PasumarthiMohith/powertoys-focused-workspace",
+"url": "https://github.com/PasumarthiMohith/powertoys-focused-workspace",
+"description": "Concentrate active windows into a focused workspace - switch context with fewer moving parts.",
+"stars": 89,
+"spd": 144.0,
+"score": 1.21,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-20T21:19:06Z",
+"last_seen": "2026-11-20T21:19:06Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"umbra0688/windows-clipboard-manager-sync": {
+"repo": "umbra0688/windows-clipboard-manager-sync",
+"url": "https://github.com/umbra0688/windows-clipboard-manager-sync",
+"description": "Free open-source Windows clipboard manager with searchable history, smart collections, keyboard shortcuts and cloud sync.",
+"stars": 185,
+"spd": 24.9,
+"score": 1.02,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Dart",
+"first_seen": "2026-11-20T21:19:06Z",
+"last_seen": "2026-11-20T21:19:06Z",
+"hits": 1,
+"in_tg": false,
 "status": "new"
 }
 }
