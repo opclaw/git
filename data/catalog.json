@@ -309,7 +309,7 @@
 "repo": "boykopovar/AnyPS5",
 "url": "https://github.com/boykopovar/AnyPS5",
 "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-"stars": 58797.0,
+"stars": 58851.0,
 "spd": 141.2,
 "score": 0.74,
 "fit": 0.45,
@@ -318,8 +318,8 @@
 "license": "GPL-2.0",
 "language": "C++",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-20T23:46:23Z",
-"hits": 13,
+"last_seen": "2026-11-21T02:33:46Z",
+"hits": 14,
 "in_tg": false,
 "status": "active"
 },
@@ -1299,7 +1299,7 @@
 "repo": "affaan-m/ECC",
 "url": "https://github.com/affaan-m/ECC",
 "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-"stars": 307839.0,
+"stars": 307886.0,
 "spd": 199.1,
 "score": 1.0,
 "fit": 0.96,
@@ -1308,8 +1308,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-20T23:46:23Z",
-"hits": 43,
+"last_seen": "2026-11-21T02:33:46Z",
+"hits": 44,
 "in_tg": false,
 "status": "active"
 },
@@ -4017,7 +4017,7 @@
 "repo": "obra/superpowers",
 "url": "https://github.com/obra/superpowers",
 "description": "An agentic skills framework & software development methodology that works.",
-"stars": 322525.0,
+"stars": 322885.0,
 "spd": 720.0,
 "score": 0.81,
 "fit": 0.52,
@@ -4026,8 +4026,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-20T13:14:20Z",
-"hits": 19,
+"last_seen": "2026-11-21T02:33:46Z",
+"hits": 20,
 "in_tg": false,
 "status": "active"
 },
@@ -4593,7 +4593,7 @@
 "repo": "firecrawl/firecrawl",
 "url": "https://github.com/firecrawl/firecrawl",
 "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-"stars": 205236.0,
+"stars": 205336.0,
 "spd": 154.4,
 "score": 1.07,
 "fit": 0.83,
@@ -4602,8 +4602,8 @@
 "license": "AGPL-3.0",
 "language": "TypeScript",
 "first_seen": "2026-10-24T11:17:52Z",
-"last_seen": "2026-11-20T23:46:23Z",
-"hits": 15,
+"last_seen": "2026-11-21T02:33:46Z",
+"hits": 16,
 "in_tg": false,
 "status": "active"
 },
@@ -4791,8 +4791,8 @@
 "repo": "kajisho5/ffmpeg-skill",
 "url": "https://github.com/kajisho5/ffmpeg-skill",
 "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou",
-"stars": 7035.0,
-"spd": 127.3,
+"stars": 8891.0,
+"spd": 144.0,
 "score": 2.0,
 "fit": 0.96,
 "risk": 0.0,
@@ -4800,10 +4800,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-24T16:50:07Z",
-"last_seen": "2026-11-17T04:39:35Z",
-"hits": 5,
+"last_seen": "2026-11-21T02:33:46Z",
+"hits": 6,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "Derpyu520/qq-bridge": {
 "repo": "Derpyu520/qq-bridge",
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 38928.0,
+"stars": 39562.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-20T08:56:59Z",
-"hits": 61,
+"last_seen": "2026-11-21T02:33:46Z",
+"hits": 62,
 "in_tg": false,
 "status": "active"
 },
@@ -24807,7 +24807,7 @@
 "repo": "erkamyaman/rust-anything",
 "url": "https://github.com/erkamyaman/rust-anything",
 "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-"stars": 6618.0,
+"stars": 6702.0,
 "spd": 60.9,
 "score": 0.97,
 "fit": 0.74,
@@ -24816,8 +24816,8 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-11-17T19:39:55Z",
-"last_seen": "2026-11-20T23:46:23Z",
-"hits": 12,
+"last_seen": "2026-11-21T02:33:46Z",
+"hits": 13,
 "in_tg": false,
 "status": "active"
 },
@@ -25347,7 +25347,7 @@
 "repo": "nexu-io/openmotion",
 "url": "https://github.com/nexu-io/openmotion",
 "description": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A fu",
-"stars": 13762.0,
+"stars": 14027.0,
 "spd": 144.0,
 "score": 1.57,
 "fit": 0.96,
@@ -25356,8 +25356,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-18T10:31:59Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 5,
+"last_seen": "2026-11-21T02:33:46Z",
+"hits": 6,
 "in_tg": true,
 "status": "active"
 },
@@ -25953,7 +25953,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 4,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "duwqijlk/google-trial-tool": {
 "repo": "duwqijlk/google-trial-tool",
@@ -26781,7 +26781,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "limetempodemodulator/Microsoft-Power-BI-Pro": {
 "repo": "limetempodemodulator/Microsoft-Power-BI-Pro",
@@ -26799,7 +26799,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "MinosoaRafalimanana/adobe-dreamweaver-varvera": {
 "repo": "MinosoaRafalimanana/adobe-dreamweaver-varvera",
@@ -26817,7 +26817,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "XiaoYouChR/Ghost-Downloader-3": {
 "repo": "XiaoYouChR/Ghost-Downloader-3",
@@ -26835,7 +26835,7 @@
 "last_seen": "2026-11-20T08:56:59Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "dynamicdeblackice-commits/joplin-arvella-notes": {
 "repo": "dynamicdeblackice-commits/joplin-arvella-notes",
@@ -26853,7 +26853,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Divyanshu1969/filmora-license-short-video-studio": {
 "repo": "Divyanshu1969/filmora-license-short-video-studio",
@@ -26871,7 +26871,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "hiteshrao1022006-ship-it/microsoft-visio-orveven": {
 "repo": "hiteshrao1022006-ship-it/microsoft-visio-orveven",
@@ -26889,7 +26889,7 @@
 "last_seen": "2026-11-20T23:46:23Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "toyxyz/toyxyz_RGBMocap": {
 "repo": "toyxyz/toyxyz_RGBMocap",
@@ -26907,7 +26907,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Rijalox/guild-wars-2-varvalia": {
 "repo": "Rijalox/guild-wars-2-varvalia",
@@ -26925,7 +26925,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "numaan2018/microsoft-onedrive-alvona": {
 "repo": "numaan2018/microsoft-onedrive-alvona",
@@ -26943,7 +26943,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sunnybunny24109/gimp-navira-photo-workspace": {
 "repo": "sunnybunny24109/gimp-navira-photo-workspace",
@@ -26961,7 +26961,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "piyushverse001/quantconnect-lean-selvon-research": {
 "repo": "piyushverse001/quantconnect-lean-selvon-research",
@@ -26979,7 +26979,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "apekshik/anymachine": {
 "repo": "apekshik/anymachine",
@@ -26997,7 +26997,7 @@
 "last_seen": "2026-11-20T01:05:25Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "onlook-dev/onlook": {
 "repo": "onlook-dev/onlook",
@@ -27057,7 +27057,7 @@
 "repo": "XinaTian/MROffice",
 "url": "https://github.com/XinaTian/MROffice",
 "description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
-"stars": 575,
+"stars": 862.0,
 "spd": 39.1,
 "score": 1.19,
 "fit": 0.5,
@@ -27066,9 +27066,9 @@
 "license": "AGPL-3.0",
 "language": "TypeScript",
 "first_seen": "2026-11-20T08:56:59Z",
-"last_seen": "2026-11-20T08:56:59Z",
-"hits": 1,
-"in_tg": false,
+"last_seen": "2026-11-21T02:33:46Z",
+"hits": 2,
+"in_tg": true,
 "status": "new"
 },
 "Tracer-Cloud/opensre": {
@@ -27805,6 +27805,42 @@
 "language": "TypeScript",
 "first_seen": "2026-11-20T23:46:23Z",
 "last_seen": "2026-11-20T23:46:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"heracliomc-create/vegas-pro-23-bebaron": {
+"repo": "heracliomc-create/vegas-pro-23-bebaron",
+"url": "https://github.com/heracliomc-create/vegas-pro-23-bebaron",
+"description": "Professional video editing suite with timeline-based tools for multi-track projects.",
+"stars": 131,
+"spd": 144.0,
+"score": 1.0,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-21T02:33:46Z",
+"last_seen": "2026-11-21T02:33:46Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"rayanattik80-netizen/pubg-map-hack": {
+"repo": "rayanattik80-netizen/pubg-map-hack",
+"url": "https://github.com/rayanattik80-netizen/pubg-map-hack",
+"description": "Pubg Map Hack delivers live map intel and tactical readouts for PUBG matches.",
+"stars": 134,
+"spd": 144.0,
+"score": 0.43,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-21T02:33:46Z",
+"last_seen": "2026-11-21T02:33:46Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
