@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 471765.0,
+"stars": 472588.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-21T06:08:14Z",
-"hits": 170,
+"last_seen": "2026-11-21T19:30:47Z",
+"hits": 171,
 "in_tg": false,
 "status": "active"
 },
@@ -1041,7 +1041,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 80,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "tashfeenahmed/freellmapi": {
 "repo": "tashfeenahmed/freellmapi",
@@ -1671,7 +1671,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 24,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/NaSuno": {
 "repo": "AhmadHassan-BTed/NaSuno",
@@ -8607,7 +8607,7 @@
 "repo": "heydamir/unslop",
 "url": "https://github.com/heydamir/unslop",
 "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-"stars": 19367.0,
+"stars": 19701.0,
 "spd": 247.1,
 "score": 1.21,
 "fit": 0.5,
@@ -8616,8 +8616,8 @@
 "license": "CC-BY-4.0",
 "language": "JavaScript",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-21T06:08:14Z",
-"hits": 31,
+"last_seen": "2026-11-21T19:30:47Z",
+"hits": 32,
 "in_tg": true,
 "status": "active"
 },
@@ -12909,7 +12909,7 @@
 "repo": "Minireel/HGhub",
 "url": "https://github.com/Minireel/HGhub",
 "description": "Plug-in media player",
-"stars": 10208.0,
+"stars": 10971.0,
 "spd": 165.2,
 "score": 1.04,
 "fit": 0.65,
@@ -12918,10 +12918,10 @@
 "license": "NOASSERTION",
 "language": "Rust",
 "first_seen": "2026-11-04T07:52:38Z",
-"last_seen": "2026-11-19T09:14:30Z",
-"hits": 14,
+"last_seen": "2026-11-21T19:30:47Z",
+"hits": 15,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "Badgenyamultiplexer/pc-game-fps-doctor": {
 "repo": "Badgenyamultiplexer/pc-game-fps-doctor",
@@ -15735,7 +15735,7 @@
 "repo": "Lee-xeo/Claude-Cage",
 "url": "https://github.com/Lee-xeo/Claude-Cage",
 "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
-"stars": 7026.0,
+"stars": 7345.0,
 "spd": 125.1,
 "score": 1.21,
 "fit": 0.0,
@@ -15744,10 +15744,10 @@
 "license": "MIT",
 "language": "Go",
 "first_seen": "2026-11-07T06:26:20Z",
-"last_seen": "2026-11-20T13:14:20Z",
-"hits": 7,
+"last_seen": "2026-11-21T19:30:47Z",
+"hits": 8,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "AkaraChen/cc-remote": {
 "repo": "AkaraChen/cc-remote",
@@ -21993,7 +21993,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 7,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "deepseek-ai/chat-demo": {
 "repo": "deepseek-ai/chat-demo",
@@ -23349,7 +23349,7 @@
 "repo": "elementalsouls/Claude-BugHunter",
 "url": "https://github.com/elementalsouls/Claude-BugHunter",
 "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-"stars": 14644.0,
+"stars": 15721.0,
 "spd": 144.0,
 "score": 1.71,
 "fit": 0.76,
@@ -23358,8 +23358,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-21T06:08:14Z",
-"hits": 17,
+"last_seen": "2026-11-21T19:30:47Z",
+"hits": 18,
 "in_tg": true,
 "status": "active"
 },
@@ -24171,7 +24171,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "brave-shell-07/izotope-rx-11-desktop": {
 "repo": "brave-shell-07/izotope-rx-11-desktop",
@@ -24465,7 +24465,7 @@
 "repo": "mvanhorn/last30days-skill",
 "url": "https://github.com/mvanhorn/last30days-skill",
 "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-"stars": 71562.0,
+"stars": 71886.0,
 "spd": 59.7,
 "score": 0.88,
 "fit": 0.74,
@@ -24474,8 +24474,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-16T18:04:57Z",
-"last_seen": "2026-11-21T06:08:14Z",
-"hits": 5,
+"last_seen": "2026-11-21T19:30:47Z",
+"hits": 6,
 "in_tg": false,
 "status": "active"
 },
@@ -25665,7 +25665,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "521xueweihan/HelloGitHub": {
 "repo": "521xueweihan/HelloGitHub",
@@ -25683,7 +25683,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "rizonesoft/impossible-os": {
 "repo": "rizonesoft/impossible-os",
@@ -25761,7 +25761,7 @@
 "repo": "Hut-hzf/ung220z-tool",
 "url": "https://github.com/Hut-hzf/ung220z-tool",
 "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-"stars": 1529.0,
+"stars": 2210.0,
 "spd": 59.4,
 "score": 0.85,
 "fit": 0.45,
@@ -25770,10 +25770,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-19T01:22:30Z",
-"last_seen": "2026-11-19T09:14:30Z",
-"hits": 2,
+"last_seen": "2026-11-21T19:30:47Z",
+"hits": 3,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "kunkundi/crossdesk": {
 "repo": "kunkundi/crossdesk",
@@ -26349,7 +26349,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "bothaggsigym1988/frameglide": {
 "repo": "bothaggsigym1988/frameglide",
@@ -26751,7 +26751,7 @@
 "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
 "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
 "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
-"stars": 1911.0,
+"stars": 2156.0,
 "spd": 144.0,
 "score": 1.19,
 "fit": 1.0,
@@ -26760,8 +26760,8 @@
 "license": "MIT",
 "language": "",
 "first_seen": "2026-11-19T22:18:39Z",
-"last_seen": "2026-11-21T11:26:47Z",
-"hits": 5,
+"last_seen": "2026-11-21T19:30:47Z",
+"hits": 6,
 "in_tg": true,
 "status": "active"
 },
@@ -27087,7 +27087,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "iamajmeena/neonclipping": {
 "repo": "iamajmeena/neonclipping",
@@ -27123,7 +27123,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "blacktailorproceed/monero-miner": {
 "repo": "blacktailorproceed/monero-miner",
@@ -27537,7 +27537,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "atuizz/posewear": {
 "repo": "atuizz/posewear",
@@ -27555,7 +27555,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "dev-bad/arc-raiders-norvena": {
 "repo": "dev-bad/arc-raiders-norvena",
@@ -27573,7 +27573,7 @@
 "last_seen": "2026-11-20T17:41:38Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "jollykit/gta-6-localization-reference-glossary": {
 "repo": "jollykit/gta-6-localization-reference-glossary",
@@ -28039,6 +28039,96 @@
 "language": "HTML",
 "first_seen": "2026-11-21T14:51:56Z",
 "last_seen": "2026-11-21T14:51:56Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"rustrak/rustrak": {
+"repo": "rustrak/rustrak",
+"url": "https://github.com/rustrak/rustrak",
+"description": "Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.",
+"stars": 1528,
+"spd": 38.9,
+"score": 1.86,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": "AGPL-3.0",
+"language": "Rust",
+"first_seen": "2026-11-21T19:30:47Z",
+"last_seen": "2026-11-21T19:30:47Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"sybil-solutions/skill-distill": {
+"repo": "sybil-solutions/skill-distill",
+"url": "https://github.com/sybil-solutions/skill-distill",
+"description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+"stars": 282,
+"spd": 26.1,
+"score": 0.82,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-21T19:30:47Z",
+"last_seen": "2026-11-21T19:30:47Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"R0Y00/Xbox2Windows": {
+"repo": "R0Y00/Xbox2Windows",
+"url": "https://github.com/R0Y00/Xbox2Windows",
+"description": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks.",
+"stars": 693,
+"spd": 64.7,
+"score": 0.81,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-21T19:30:47Z",
+"last_seen": "2026-11-21T19:30:47Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"omonkeyz/xbox-emulator": {
+"repo": "omonkeyz/xbox-emulator",
+"url": "https://github.com/omonkeyz/xbox-emulator",
+"description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+"stars": 508,
+"spd": 50.5,
+"score": 0.77,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "Rust",
+"first_seen": "2026-11-21T19:30:47Z",
+"last_seen": "2026-11-21T19:30:47Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ItsNotRexed/Leonida": {
+"repo": "ItsNotRexed/Leonida",
+"url": "https://github.com/ItsNotRexed/Leonida",
+"description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+"stars": 1750,
+"spd": 159.1,
+"score": 0.44,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "GPL-3.0",
+"language": "Python",
+"first_seen": "2026-11-21T19:30:47Z",
+"last_seen": "2026-11-21T19:30:47Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"

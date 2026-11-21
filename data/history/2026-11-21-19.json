@@ -1,0 +1,703 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-21T19:30:42Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-11-21-15",
+  "to": "2026-11-21-18",
+  "watch_events": 644,
+  "repos": 556,
+  "actors": 631,
+  "ring_accounts": 0,
+  "api_calls": 13,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261121-08",
+   "repo": "rustrak/rustrak",
+   "url": "https://github.com/rustrak/rustrak",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 1528,
+   "forks": 76,
+   "open_issues": 50,
+   "language": "Rust",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "size_kb": 66109,
+   "description": "Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.",
+   "topics": [
+    "apm",
+    "application-monitoring",
+    "crash-reporting",
+    "docker",
+    "error-monitoring",
+    "error-reporting"
+   ],
+   "signals": {
+    "age_days": 303.4,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 1.9,
+    "stars_per_day_recent": 38.9,
+    "lifetime_stars_per_day": 5.04,
+    "acceleration": 7.7,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.86,
+   "score_explain": [
+    "V=1.30: хвост 38.9 зв/сут против штатных 5.0 (x8)",
+    "N=0.2: репо 303 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.65 -> PS-infra",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-03",
+   "repo": "elementalsouls/Claude-BugHunter",
+   "url": "https://github.com/elementalsouls/Claude-BugHunter",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 15721,
+   "forks": 1805,
+   "open_issues": 15,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 3733,
+   "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "topics": [
+    "ai-security",
+    "anthropic",
+    "application-security",
+    "bug-bounty",
+    "bugbounty",
+    "bugcrowd"
+   ],
+   "signals": {
+    "age_days": 200.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.4,
+    "stars_per_day_recent": 69.6,
+    "lifetime_stars_per_day": 78.47,
+    "acceleration": 0.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.12,
+   "score_explain": [
+    "V=0.38: хвост 69.6 зв/сут против штатных 78.5 (x1)",
+    "N=0.2: репо 200 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-12",
+   "repo": "bookwjitchieni1986/blender-ai-mcp-addon",
+   "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 2156,
+   "forks": 32,
+   "open_issues": 50,
+   "language": null,
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 345,
+   "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+   "topics": [
+    "ai-agents",
+    "ai-assistant",
+    "blender",
+    "blender-addon",
+    "blender-ai",
+    "blender-automation"
+   ],
+   "signals": {
+    "age_days": 2.2,
+    "last_push_days_ago": 2,
+    "stars_in_window": 3,
+    "window_h": 3.0,
+    "stars_per_day_recent": 24.1,
+    "lifetime_stars_per_day": 980.14,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 1.0,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.11,
+   "score_explain": [
+    "V=0.02: хвост 24.1 зв/сут против штатных 980.1 (x0)",
+    "N=1.0: репо 2 дн от роду",
+    "C=1.0: пуш 2 дн назад",
+    "fit=1.0 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-05",
+   "repo": "Minireel/HGhub",
+   "url": "https://github.com/Minireel/HGhub",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 10971,
+   "forks": 8923,
+   "open_issues": 10,
+   "language": "Rust",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 2596,
+   "description": "Plug-in media player",
+   "topics": [
+    "android",
+    "drama",
+    "free",
+    "movie-web-app",
+    "reels",
+    "windows"
+   ],
+   "signals": {
+    "age_days": 18.2,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 0.5,
+    "stars_per_day_recent": 138.8,
+    "lifetime_stars_per_day": 601.92,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.93,
+   "score_explain": [
+    "V=0.21: хвост 138.8 зв/сут против штатных 601.9 (x0)",
+    "N=1.0: репо 18 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-10",
+   "repo": "mvanhorn/last30days-skill",
+   "url": "https://github.com/mvanhorn/last30days-skill",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 71886,
+   "forks": 6370,
+   "open_issues": 17,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 58148,
+   "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "topics": [
+    "ai-prompts",
+    "ai-skill",
+    "bluesky",
+    "claude",
+    "claude-code",
+    "clawhub"
+   ],
+   "signals": {
+    "age_days": 302.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.2,
+    "stars_per_day_recent": 33.2,
+    "lifetime_stars_per_day": 238.07,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.83,
+   "score_explain": [
+    "V=0.08: хвост 33.2 зв/сут против штатных 238.1 (x0)",
+    "N=0.2: репо 302 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-11",
+   "repo": "sybil-solutions/skill-distill",
+   "url": "https://github.com/sybil-solutions/skill-distill",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 282,
+   "forks": 22,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 25,
+   "description": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+   "topics": [],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.8,
+    "stars_per_day_recent": 26.1,
+    "lifetime_stars_per_day": 380.33,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.82,
+   "score_explain": [
+    "V=0.07: хвост 26.1 зв/сут против штатных 380.3 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-02",
+   "repo": "R0Y00/Xbox2Windows",
+   "url": "https://github.com/R0Y00/Xbox2Windows",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 693,
+   "forks": 61,
+   "open_issues": 45,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 1288,
+   "description": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks.",
+   "topics": [
+    "d3d12",
+    "directx-raytracing",
+    "scarlett",
+    "static-recompilation",
+    "windows",
+    "xbox"
+   ],
+   "signals": {
+    "age_days": 1.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 2.2,
+    "stars_per_day_recent": 64.7,
+    "lifetime_stars_per_day": 645.14,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.81,
+   "score_explain": [
+    "V=0.10: хвост 64.7 зв/сут против штатных 645.1 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-infra",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-07",
+   "repo": "heydamir/unslop",
+   "url": "https://github.com/heydamir/unslop",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 19701,
+   "forks": 1195,
+   "open_issues": 9,
+   "language": "JavaScript",
+   "license": "CC-BY-4.0",
+   "archived": false,
+   "size_kb": 2340,
+   "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+   "topics": [],
+   "signals": {
+    "age_days": 23.2,
+    "last_push_days_ago": 6,
+    "stars_in_window": 3,
+    "window_h": 1.4,
+    "stars_per_day_recent": 50.0,
+    "lifetime_stars_per_day": 850.67,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.79,
+   "score_explain": [
+    "V=0.06: хвост 50.0 зв/сут против штатных 850.7 (x0)",
+    "N=1.0: репо 23 дн от роду",
+    "C=1.0: пуш 6 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-04",
+   "repo": "omonkeyz/xbox-emulator",
+   "url": "https://github.com/omonkeyz/xbox-emulator",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 508,
+   "forks": 25,
+   "open_issues": 42,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 4267,
+   "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+   "topics": [],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.9,
+    "stars_per_day_recent": 50.5,
+    "lifetime_stars_per_day": 1016.0,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.77,
+   "score_explain": [
+    "V=0.05: хвост 50.5 зв/сут против штатных 1016.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-09",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 472588,
+   "forks": 115348,
+   "open_issues": 1344,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 207598,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "android",
+    "claude-code",
+    "cli",
+    "cpp"
+   ],
+   "signals": {
+    "age_days": 221.8,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.1,
+    "stars_per_day_recent": 33.7,
+    "lifetime_stars_per_day": 2130.91,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.77,
+   "score_explain": [
+    "V=0.01: хвост 33.7 зв/сут против штатных 2130.9 (x0)",
+    "N=0.2: репо 222 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-13",
+   "repo": "Hut-hzf/ung220z-tool",
+   "url": "https://github.com/Hut-hzf/ung220z-tool",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 2210,
+   "forks": 501,
+   "open_issues": 7,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 8,
+   "description": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
+   "topics": [],
+   "signals": {
+    "age_days": 6.3,
+    "last_push_days_ago": 6,
+    "stars_in_window": 3,
+    "window_h": 3.1,
+    "stars_per_day_recent": 23.5,
+    "lifetime_stars_per_day": 348.41,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.76,
+   "score_explain": [
+    "V=0.07: хвост 23.5 зв/сут против штатных 348.4 (x0)",
+    "N=1.0: репо 6 дн от роду",
+    "C=1.0: пуш 6 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-06",
+   "repo": "Lee-xeo/Claude-Cage",
+   "url": "https://github.com/Lee-xeo/Claude-Cage",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 7345,
+   "forks": 856,
+   "open_issues": 59,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 56449,
+   "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+   "topics": [],
+   "signals": {
+    "age_days": 21.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.2,
+    "stars_per_day_recent": 59.4,
+    "lifetime_stars_per_day": 346.74,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.51,
+   "score_explain": [
+    "V=0.16: хвост 59.4 зв/сут против штатных 346.7 (x0)",
+    "N=1.0: репо 21 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-01",
+   "repo": "ItsNotRexed/Leonida",
+   "url": "https://github.com/ItsNotRexed/Leonida",
+   "first_seen_at": "2026-11-21T19:30:42Z",
+   "channel": "gh_archive_watch",
+   "stars": 1750,
+   "forks": 105,
+   "open_issues": 29,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 1034,
+   "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+   "topics": [],
+   "signals": {
+    "age_days": 1.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 16,
+    "window_h": 2.4,
+    "stars_per_day_recent": 159.1,
+    "lifetime_stars_per_day": 1795.53,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.44,
+   "score_explain": [
+    "V=0.08: хвост 159.1 зв/сут против штатных 1795.5 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-21T23:30:42Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}
