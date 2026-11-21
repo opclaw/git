@@ -129,7 +129,7 @@
 "repo": "DietrichGebert/ponytail",
 "url": "https://github.com/DietrichGebert/ponytail",
 "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-"stars": 195431.0,
+"stars": 196085.0,
 "spd": 332.2,
 "score": 1.07,
 "fit": 0.96,
@@ -138,8 +138,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 50,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 51,
 "in_tg": false,
 "status": "active"
 },
@@ -309,7 +309,7 @@
 "repo": "boykopovar/AnyPS5",
 "url": "https://github.com/boykopovar/AnyPS5",
 "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-"stars": 59122.0,
+"stars": 59285.0,
 "spd": 141.2,
 "score": 0.74,
 "fit": 0.45,
@@ -318,8 +318,8 @@
 "license": "GPL-2.0",
 "language": "C++",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-21T11:26:47Z",
-"hits": 15,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 16,
 "in_tg": false,
 "status": "active"
 },
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 327217.0,
+"stars": 329475.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,10 +354,10 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-18T14:18:51Z",
-"hits": 52,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 53,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "VictorTaelin/uniichat": {
 "repo": "VictorTaelin/uniichat",
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 82343.0,
+"stars": 82859.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "NOASSERTION",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-21T06:08:14Z",
-"hits": 112,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 113,
 "in_tg": true,
 "status": "active"
 },
@@ -1281,7 +1281,7 @@
 "repo": "debpalash/VoiceStudio",
 "url": "https://github.com/debpalash/VoiceStudio",
 "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-"stars": 115067.0,
+"stars": 115787.0,
 "spd": 376.8,
 "score": 1.22,
 "fit": 0.89,
@@ -1290,8 +1290,8 @@
 "license": "AGPL-3.0",
 "language": "Python",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-20T13:14:20Z",
-"hits": 70,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 71,
 "in_tg": false,
 "status": "active"
 },
@@ -1437,7 +1437,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 49,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "microsoft/vscode": {
 "repo": "microsoft/vscode",
@@ -1617,7 +1617,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 38,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "github/spec-kit": {
 "repo": "github/spec-kit",
@@ -4017,7 +4017,7 @@
 "repo": "obra/superpowers",
 "url": "https://github.com/obra/superpowers",
 "description": "An agentic skills framework & software development methodology that works.",
-"stars": 323289.0,
+"stars": 323416.0,
 "spd": 720.0,
 "score": 0.81,
 "fit": 0.52,
@@ -4026,8 +4026,8 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-21T11:26:47Z",
-"hits": 22,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 23,
 "in_tg": false,
 "status": "active"
 },
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-"stars": 68621.0,
+"stars": 68925.0,
 "spd": 139.1,
 "score": 0.94,
 "fit": 0.74,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-21T11:26:47Z",
-"hits": 76,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 77,
 "in_tg": false,
 "status": "active"
 },
@@ -5883,7 +5883,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "DLSS-5-Swapper-Portable/.github": {
 "repo": "DLSS-5-Swapper-Portable/.github",
@@ -8679,7 +8679,7 @@
 "repo": "ccch1mneyyy/dsh-Go",
 "url": "https://github.com/ccch1mneyyy/dsh-Go",
 "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-"stars": 29144.0,
+"stars": 29415.0,
 "spd": 144.0,
 "score": 1.04,
 "fit": 0.74,
@@ -8688,8 +8688,8 @@
 "license": "AGPL-3.0",
 "language": "Dart",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-21T06:08:14Z",
-"hits": 43,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 44,
 "in_tg": false,
 "status": "active"
 },
@@ -12747,7 +12747,7 @@
 "repo": "anefzaoui/misterdownloadmanager",
 "url": "https://github.com/anefzaoui/misterdownloadmanager",
 "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
-"stars": 14413.0,
+"stars": 15169.0,
 "spd": 192.0,
 "score": 2.16,
 "fit": 0.61,
@@ -12756,8 +12756,8 @@
 "license": "GPL-3.0",
 "language": "Rust",
 "first_seen": "2026-11-04T06:42:59Z",
-"last_seen": "2026-11-21T06:08:14Z",
-"hits": 23,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 24,
 "in_tg": true,
 "status": "active"
 },
@@ -15747,7 +15747,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 7,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AkaraChen/cc-remote": {
 "repo": "AkaraChen/cc-remote",
@@ -15771,19 +15771,19 @@
 "repo": "jamiepine/voicebox",
 "url": "https://github.com/jamiepine/voicebox",
 "description": "The open-source AI voice studio. Clone, dictate, create.",
-"stars": 59730,
-"spd": 25.4,
-"score": 0.83,
+"stars": 61046.0,
+"spd": 77.9,
+"score": 1.05,
 "fit": 0.89,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-07T06:26:20Z",
-"last_seen": "2026-11-07T06:26:20Z",
-"hits": 1,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 2,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "egoist/mygo-music": {
 "repo": "egoist/mygo-music",
@@ -21963,7 +21963,7 @@
 "repo": "BaaRai/ARTEX",
 "url": "https://github.com/BaaRai/ARTEX",
 "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"stars": 13973.0,
+"stars": 14548.0,
 "spd": 89.7,
 "score": 1.31,
 "fit": 0.96,
@@ -21972,8 +21972,8 @@
 "license": "AGPL-3.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-21T06:08:14Z",
-"hits": 19,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 20,
 "in_tg": true,
 "status": "active"
 },
@@ -22047,7 +22047,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 11,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "b44x/ai-polish-skills": {
 "repo": "b44x/ai-polish-skills",
@@ -23421,17 +23421,17 @@
 "repo": "ersinkoc/phonebox",
 "url": "https://github.com/ersinkoc/phonebox",
 "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 lang",
-"stars": 4306.0,
-"spd": 64.8,
-"score": 1.18,
+"stars": 4465.0,
+"spd": 144.0,
+"score": 1.19,
 "fit": 0.65,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "MIT",
 "language": "C#",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-21T06:08:14Z",
-"hits": 2,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 3,
 "in_tg": false,
 "status": "active"
 },
@@ -24405,7 +24405,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ShadowHackrs/gmail-account-creator": {
 "repo": "ShadowHackrs/gmail-account-creator",
@@ -25779,7 +25779,7 @@
 "repo": "kunkundi/crossdesk",
 "url": "https://github.com/kunkundi/crossdesk",
 "description": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。",
-"stars": 4979,
+"stars": 5705.0,
 "spd": 33.2,
 "score": 1.92,
 "fit": 0.76,
@@ -25788,10 +25788,10 @@
 "license": "NOASSERTION",
 "language": "C++",
 "first_seen": "2026-11-19T09:14:30Z",
-"last_seen": "2026-11-19T09:14:30Z",
-"hits": 1,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 2,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "SonicloudTech/mouse-sdk": {
 "repo": "SonicloudTech/mouse-sdk",
@@ -27039,7 +27039,7 @@
 "repo": "zhouxiaoka/autoclip",
 "url": "https://github.com/zhouxiaoka/autoclip",
 "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
-"stars": 12501.0,
+"stars": 12614.0,
 "spd": 37.2,
 "score": 1.42,
 "fit": 0.96,
@@ -27048,8 +27048,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-20T08:56:59Z",
-"last_seen": "2026-11-21T11:26:47Z",
-"hits": 2,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 3,
 "in_tg": true,
 "status": "active"
 },
@@ -27141,7 +27141,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "LightLancerBoil/fl-studio": {
 "repo": "LightLancerBoil/fl-studio",
@@ -27159,7 +27159,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "capitalemirsnare/tft-unlock": {
 "repo": "capitalemirsnare/tft-unlock",
@@ -27177,7 +27177,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "RogueWizardWeb/patreon-viewer": {
 "repo": "RogueWizardWeb/patreon-viewer",
@@ -27195,7 +27195,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ShapeFletcherPurge64/adobe-indesign": {
 "repo": "ShapeFletcherPurge64/adobe-indesign",
@@ -27213,7 +27213,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "AzureAnbuTape/genesis-miner": {
 "repo": "AzureAnbuTape/genesis-miner",
@@ -27231,7 +27231,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "stalkertalelevel/wondshare-recoverit": {
 "repo": "stalkertalelevel/wondshare-recoverit",
@@ -27249,7 +27249,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "steepledatashrink/idm": {
 "repo": "steepledatashrink/idm",
@@ -27267,7 +27267,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "swiftbeeheart/adobe-audition": {
 "repo": "swiftbeeheart/adobe-audition",
@@ -27285,7 +27285,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "FreewayTanager/hwid-spoofer": {
 "repo": "FreewayTanager/hwid-spoofer",
@@ -27303,7 +27303,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "FutureCounselor/microsoft-365": {
 "repo": "FutureCounselor/microsoft-365",
@@ -27321,7 +27321,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Agentbengaze/sketchup-pro": {
 "repo": "Agentbengaze/sketchup-pro",
@@ -27339,7 +27339,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "starbursarneedle/easeus-partition-master": {
 "repo": "starbursarneedle/easeus-partition-master",
@@ -27357,7 +27357,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Widththeescalator/microsoft-office": {
 "repo": "Widththeescalator/microsoft-office",
@@ -27375,7 +27375,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SpikeJayAura/directory-opus": {
 "repo": "SpikeJayAura/directory-opus",
@@ -27393,7 +27393,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mariaquinonesm-dot/wezterm-cerroora": {
 "repo": "mariaquinonesm-dot/wezterm-cerroora",
@@ -27411,7 +27411,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "essatufail/substance-3d-sampler-callona": {
 "repo": "essatufail/substance-3d-sampler-callona",
@@ -27429,7 +27429,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ViceVerse-cz/Serein": {
 "repo": "ViceVerse-cz/Serein",
@@ -27447,7 +27447,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "localsend/localsend": {
 "repo": "localsend/localsend",
@@ -27465,7 +27465,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sjohansson2004/Exodus-Fake-Balance": {
 "repo": "sjohansson2004/Exodus-Fake-Balance",
@@ -27483,7 +27483,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mashhood0233-a11y/terraria-coop-calora": {
 "repo": "mashhood0233-a11y/terraria-coop-calora",
@@ -27501,7 +27501,7 @@
 "last_seen": "2026-11-20T23:46:23Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Anais27-pharma/adobe-character-animator-calrara": {
 "repo": "Anais27-pharma/adobe-character-animator-calrara",
@@ -27519,7 +27519,7 @@
 "last_seen": "2026-11-20T13:14:20Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "XiaoTong6666/MaiHoku": {
 "repo": "XiaoTong6666/MaiHoku",
@@ -27903,8 +27903,8 @@
 "repo": "hatsunemiku-ai/google-one-tools",
 "url": "https://github.com/hatsunemiku-ai/google-one-tools",
 "description": "",
-"stars": 349,
-"spd": 39.3,
+"stars": 768.0,
+"spd": 69.1,
 "score": 0.79,
 "fit": 0.5,
 "risk": 0.0,
@@ -27912,8 +27912,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-21T06:08:14Z",
-"last_seen": "2026-11-21T06:08:14Z",
-"hits": 1,
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -27975,18 +27975,72 @@
 "repo": "havenicec/google-qr-sms-helper",
 "url": "https://github.com/havenicec/google-qr-sms-helper",
 "description": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
-"stars": 1347,
-"spd": 31.0,
-"score": 1.11,
+"stars": 1561.0,
+"spd": 166.7,
+"score": 1.89,
 "fit": 0.5,
 "risk": 0.0,
 "ps": "PS-sec",
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-11-21T11:26:47Z",
-"last_seen": "2026-11-21T11:26:47Z",
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 2,
+"in_tg": true,
+"status": "new"
+},
+"Plaer1/open-clank": {
+"repo": "Plaer1/open-clank",
+"url": "https://github.com/Plaer1/open-clank",
+"description": "A self-hosted AI workspace for chat, agents, research, documents, memory, and local model workflows.",
+"stars": 138,
+"spd": 106.8,
+"score": 3.2,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "AGPL-3.0",
+"language": "Python",
+"first_seen": "2026-11-21T14:51:56Z",
+"last_seen": "2026-11-21T14:51:56Z",
 "hits": 1,
 "in_tg": true,
+"status": "new"
+},
+"alfoguasta/sketchup-pro-tasalor": {
+"repo": "alfoguasta/sketchup-pro-tasalor",
+"url": "https://github.com/alfoguasta/sketchup-pro-tasalor",
+"description": "Design and model in SketchUp Pro Tasalor with advanced 3D tools.",
+"stars": 192,
+"spd": 240.0,
+"score": 0.85,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-21T14:51:56Z",
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Daniel451legend/davinci-resolve-sanolen-color-studio": {
+"repo": "Daniel451legend/davinci-resolve-sanolen-color-studio",
+"url": "https://github.com/Daniel451legend/davinci-resolve-sanolen-color-studio",
+"description": "Professional color grading workflows and studio tools built for Davinci Resolve.",
+"stars": 197,
+"spd": 144.0,
+"score": 0.78,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-21T14:51:56Z",
+"last_seen": "2026-11-21T14:51:56Z",
+"hits": 1,
+"in_tg": false,
 "status": "new"
 }
 }
