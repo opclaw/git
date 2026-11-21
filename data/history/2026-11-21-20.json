@@ -1,0 +1,1105 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-21T20:48:33Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-11-21-16",
+  "to": "2026-11-21-19",
+  "watch_events": 684,
+  "repos": 570,
+  "actors": 661,
+  "ring_accounts": 1,
+  "api_calls": 20,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261121-15",
+   "repo": "ChunkTherapistRecord/GTA6-KytyPS5-GTA-6",
+   "url": "https://github.com/ChunkTherapistRecord/GTA6-KytyPS5-GTA-6",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 161,
+   "forks": 130,
+   "open_issues": 0,
+   "language": null,
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 6,
+   "description": "GTA6 GTA6 GTA 6 GTA VI",
+   "topics": [
+    "gta-6-2026",
+    "gta-6-controller-config",
+    "gta-6-emulator",
+    "gta-6-install-guide",
+    "gta-6-nsp",
+    "gta-6-pc-emulator"
+   ],
+   "signals": {
+    "age_days": 38.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.5,
+    "stars_per_day_recent": 136.7,
+    "lifetime_stars_per_day": 4.2,
+    "acceleration": 32.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 3.89,
+   "score_explain": [
+    "V=3.51: хвост 136.7 зв/сут против штатных 4.2 (x33)",
+    "N=1.0: репо 38 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-03",
+   "repo": "PhysicianDominate/marvel-rivals-skin-changer-tools",
+   "url": "https://github.com/PhysicianDominate/marvel-rivals-skin-changer-tools",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 392,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 3,
+   "description": "Marvel Rivals Skin Changer & Tools — Character Customization, Cosmetics & Game Utilities",
+   "topics": [
+    "marvel-rivals",
+    "marvel-rivals-locker",
+    "marvel-rivals-skins",
+    "marvel-rivals-training",
+    "marvel-rivals-wiki",
+    "marvel-rivals-xp-farm"
+   ],
+   "signals": {
+    "age_days": 148.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.1,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 2.65,
+    "acceleration": 90.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.92,
+   "score_explain": [
+    "V=2.71: хвост 240.0 зв/сут против штатных 2.6 (x91)",
+    "N=0.6: репо 148 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-07",
+   "repo": "Voltglegravity/gta-6-pc-version",
+   "url": "https://github.com/Voltglegravity/gta-6-pc-version",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 413,
+   "forks": 45,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 3,
+   "description": "Grand Theft Auto VI (GTA 6) PC Download — complete information about the highly anticipated Rockstar Games open-world action-adventure game, including PC release date updates, Windows compatibility, official download availability.",
+   "topics": [
+    "gta-6-dev-build",
+    "gta-6-preset",
+    "gta-6-preview",
+    "gta6-preload"
+   ],
+   "signals": {
+    "age_days": 148.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.2,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 2.79,
+    "acceleration": 68.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.65,
+   "score_explain": [
+    "V=2.55: хвост 192.0 зв/сут против штатных 2.8 (x69)",
+    "N=0.6: репо 148 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-13",
+   "repo": "PinTechnicianBang/ets2-mods-trainer",
+   "url": "https://github.com/PinTechnicianBang/ets2-mods-trainer",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 392,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 3,
+   "description": "Euro Truck Simulator 2 Mods & Trainer — Gameplay Enhancements, Truck Customization & Utility Tools",
+   "topics": [
+    "american-truck-simulator",
+    "ets2-2026",
+    "ets2-dlc",
+    "ets2-mod",
+    "ets2-mods",
+    "ets2-trainer"
+   ],
+   "signals": {
+    "age_days": 148.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 2.65,
+    "acceleration": 54.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.65,
+   "score_explain": [
+    "V=2.41: хвост 144.0 зв/сут против штатных 2.6 (x54)",
+    "N=0.6: репо 148 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-05",
+   "repo": "PharaohManage/construct3",
+   "url": "https://github.com/PharaohManage/construct3",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 392,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 4,
+   "description": "Construct 3 r506.3 — browser-based game development engine for creating 2D games, interactive experiences, and prototypes using visual event sheets and JavaScript scripting, with support for sprite animation, tilemaps, physics, collision detection, audio, particles, asset management, and expanding 3D features including 3D lighting and etc",
+   "topics": [
+    "construct-3",
+    "construct-3-2026",
+    "construct-3-installer",
+    "construct-3-official",
+    "construct-3-windows",
+    "construct-validity"
+   ],
+   "signals": {
+    "age_days": 148.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.2,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 2.65,
+    "acceleration": 72.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.64,
+   "score_explain": [
+    "V=2.58: хвост 192.0 зв/сут против штатных 2.6 (x73)",
+    "N=0.6: репо 148 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-infra",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-06",
+   "repo": "WeightAlbatross/Uipath-Studio",
+   "url": "https://github.com/WeightAlbatross/Uipath-Studio",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 392,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 3,
+   "description": "UiPath Studio 2026 — Professional Robotic Process Automation (RPA), Workflow Design & Intelligent Automation Software",
+   "topics": [
+    "uipath",
+    "uipath-academy",
+    "uipath-learning",
+    "uipath-library",
+    "uipath-package",
+    "uipath-process"
+   ],
+   "signals": {
+    "age_days": 148.1,
+    "last_push_days_ago": 1,
+    "stars_in_window": 4,
+    "window_h": 0.1,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 2.65,
+    "acceleration": 72.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.64,
+   "score_explain": [
+    "V=2.58: хвост 192.0 зв/сут против штатных 2.6 (x73)",
+    "N=0.6: репо 148 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-11",
+   "repo": "gridloaderrepair/Vmix-Pro",
+   "url": "https://github.com/gridloaderrepair/Vmix-Pro",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 392,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 3,
+   "description": "vMix 29.0.0.49 — professional live video production and streaming software for multi-camera switching, video recording, live broadcasting, instant replay, virtual sets, and audio mixing, with a free 60-day full-featured trial",
+   "topics": [
+    "live-event-broadcasting-windows",
+    "video-switcher",
+    "vmix-automation",
+    "vmix-live-app",
+    "vmix-pro-broadcasting-workflow",
+    "vmix-pro-graphics-overlay"
+   ],
+   "signals": {
+    "age_days": 148.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.1,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 2.65,
+    "acceleration": 54.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.62,
+   "score_explain": [
+    "V=2.41: хвост 144.0 зв/сут против штатных 2.6 (x54)",
+    "N=0.6: репо 148 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-12",
+   "repo": "Tabooonchain/slay-the-spire-2-mods",
+   "url": "https://github.com/Tabooonchain/slay-the-spire-2-mods",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 392,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 3,
+   "description": "Slay the Spire 2 Mods — Custom Cards, Characters, Gameplay Enhancements & Modding Tools",
+   "topics": [
+    "slay-the-spire-2",
+    "sts2-ai",
+    "sts2-guide",
+    "sts2-mod",
+    "sts2-mods",
+    "sts2-performance"
+   ],
+   "signals": {
+    "age_days": 148.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 2.65,
+    "acceleration": 54.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.59,
+   "score_explain": [
+    "V=2.41: хвост 144.0 зв/сут против штатных 2.6 (x54)",
+    "N=0.6: репо 148 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-10",
+   "repo": "WraithSheikh/stellar-recovery-hard-disk",
+   "url": "https://github.com/WraithSheikh/stellar-recovery-hard-disk",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 392,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 3,
+   "description": "Stellar Data Recovery 14.0 — professional data recovery software for restoring deleted, formatted, corrupted, and inaccessible files from hard drives, SSDs, USB drives, memory cards, and external storage devices. Features Quick Scan, Deep Scan, RAW recovery, lost partition recovery, BitLocker recovery, and advanced file filtering.",
+   "topics": [
+    "data-recovery-software",
+    "stellar-data-recovery-download",
+    "stellar-data-recovery-iphone-restore",
+    "stellar-data-recovery-windows",
+    "stellar-recovery-hard-disk-windows",
+    "stellar-toolkit-data-recovery"
+   ],
+   "signals": {
+    "age_days": 148.1,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 0.2,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 2.65,
+    "acceleration": 54.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.52,
+   "score_explain": [
+    "V=2.41: хвост 144.0 зв/сут против штатных 2.6 (x54)",
+    "N=0.6: репо 148 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-09",
+   "repo": "SageAdapter8/Rob-Run-Mod-Menu",
+   "url": "https://github.com/SageAdapter8/Rob-Run-Mod-Menu",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 544,
+   "forks": 1,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 3,
+   "description": "ROB RUN Mod Menu & Cheat — third-party PC game cheat menu and external overlay for ROB RUN on Steam, featuring information about Aimbot, Player ESP, NPC ESP, Vehicle ESP, Item ESP, Radar, Visuals, combat options, customizable settings, game compatibility, and cheat menu functionality.",
+   "topics": [
+    "rob-run-esp-menu",
+    "rob-run-hacks",
+    "rob-run-menu-hotkeys",
+    "rob-run-mod"
+   ],
+   "signals": {
+    "age_days": 148.1,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 0.2,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 3.67,
+    "acceleration": 39.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.33,
+   "score_explain": [
+    "V=2.22: хвост 144.0 зв/сут против штатных 3.7 (x39)",
+    "N=0.6: репо 148 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-18",
+   "repo": "rustrak/rustrak",
+   "url": "https://github.com/rustrak/rustrak",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 1543,
+   "forks": 76,
+   "open_issues": 50,
+   "language": "Rust",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "size_kb": 66109,
+   "description": "Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.",
+   "topics": [
+    "apm",
+    "application-monitoring",
+    "crash-reporting",
+    "docker",
+    "error-monitoring",
+    "error-reporting"
+   ],
+   "signals": {
+    "age_days": 303.4,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 1.9,
+    "stars_per_day_recent": 38.9,
+    "lifetime_stars_per_day": 5.09,
+    "acceleration": 7.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.85,
+   "score_explain": [
+    "V=1.29: хвост 38.9 зв/сут против штатных 5.1 (x8)",
+    "N=0.2: репо 303 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.65 -> PS-infra",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-17",
+   "repo": "sherlock-project/sherlock",
+   "url": "https://github.com/sherlock-project/sherlock",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 115439,
+   "forks": 13219,
+   "open_issues": 421,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 19107,
+   "description": "Hunt down social media accounts by username across social networks",
+   "topics": [
+    "cli",
+    "cti",
+    "cybersecurity",
+    "forensics",
+    "hacktoberfest",
+    "information-gathering"
+   ],
+   "signals": {
+    "age_days": 2889.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.0,
+    "stars_per_day_recent": 75.2,
+    "lifetime_stars_per_day": 39.95,
+    "acceleration": 1.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.37,
+   "score_explain": [
+    "V=0.64: хвост 75.2 зв/сут против штатных 40.0 (x2)",
+    "N=0.2: репо 2889 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-08",
+   "repo": "elementalsouls/Claude-BugHunter",
+   "url": "https://github.com/elementalsouls/Claude-BugHunter",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 15800,
+   "forks": 1818,
+   "open_issues": 15,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 3733,
+   "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "topics": [
+    "ai-security",
+    "anthropic",
+    "application-security",
+    "bug-bounty",
+    "bugbounty",
+    "bugcrowd"
+   ],
+   "signals": {
+    "age_days": 200.4,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.4,
+    "stars_per_day_recent": 69.6,
+    "lifetime_stars_per_day": 78.85,
+    "acceleration": 0.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.12,
+   "score_explain": [
+    "V=0.38: хвост 69.6 зв/сут против штатных 78.8 (x1)",
+    "N=0.2: репо 200 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-14",
+   "repo": "Minireel/HGhub",
+   "url": "https://github.com/Minireel/HGhub",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 10992,
+   "forks": 8927,
+   "open_issues": 10,
+   "language": "Rust",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 2596,
+   "description": "Plug-in media player",
+   "topics": [
+    "android",
+    "drama",
+    "free",
+    "movie-web-app",
+    "reels",
+    "windows"
+   ],
+   "signals": {
+    "age_days": 18.3,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 0.5,
+    "stars_per_day_recent": 138.8,
+    "lifetime_stars_per_day": 601.29,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.93,
+   "score_explain": [
+    "V=0.21: хвост 138.8 зв/сут против штатных 601.3 (x0)",
+    "N=1.0: репо 18 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-02",
+   "repo": "R0Y00/Xbox2Windows",
+   "url": "https://github.com/R0Y00/Xbox2Windows",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 774,
+   "forks": 66,
+   "open_issues": 49,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 1215,
+   "description": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks.",
+   "topics": [
+    "d3d12",
+    "directx-raytracing",
+    "scarlett",
+    "static-recompilation",
+    "windows",
+    "xbox"
+   ],
+   "signals": {
+    "age_days": 1.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 3.3,
+    "stars_per_day_recent": 50.8,
+    "lifetime_stars_per_day": 686.02,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.79,
+   "score_explain": [
+    "V=0.07: хвост 50.8 зв/сут против штатных 686.0 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-infra",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-19",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 472646,
+   "forks": 115365,
+   "open_issues": 1312,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 208523,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "android",
+    "claude-code",
+    "cli",
+    "cpp"
+   ],
+   "signals": {
+    "age_days": 221.8,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.1,
+    "stars_per_day_recent": 33.7,
+    "lifetime_stars_per_day": 2130.66,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.77,
+   "score_explain": [
+    "V=0.01: хвост 33.7 зв/сут против штатных 2130.7 (x0)",
+    "N=0.2: репо 222 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-04",
+   "repo": "omonkeyz/xbox-emulator",
+   "url": "https://github.com/omonkeyz/xbox-emulator",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 608,
+   "forks": 30,
+   "open_issues": 45,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 4657,
+   "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+   "topics": [],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 2.8,
+    "stars_per_day_recent": 42.2,
+    "lifetime_stars_per_day": 1152.15,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.76,
+   "score_explain": [
+    "V=0.04: хвост 42.2 зв/сут против штатных 1152.1 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-16",
+   "repo": "Lemxy/WinRust",
+   "url": "https://github.com/Lemxy/WinRust",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 936,
+   "forks": 48,
+   "open_issues": 35,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 2173,
+   "description": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+   "topics": [],
+   "signals": {
+    "age_days": 4.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.7,
+    "stars_per_day_recent": 109.0,
+    "lifetime_stars_per_day": 219.47,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.73,
+   "score_explain": [
+    "V=0.40: хвост 109.0 зв/сут против штатных 219.5 (x0)",
+    "N=1.0: репо 4 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-01",
+   "repo": "ItsNotRexed/Leonida",
+   "url": "https://github.com/ItsNotRexed/Leonida",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 2802,
+   "forks": 189,
+   "open_issues": 45,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 1702,
+   "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+   "topics": [],
+   "signals": {
+    "age_days": 1.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 23,
+    "window_h": 3.4,
+    "stars_per_day_recent": 161.4,
+    "lifetime_stars_per_day": 2723.81,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.42,
+   "score_explain": [
+    "V=0.06: хвост 161.4 зв/сут против штатных 2723.8 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261121-20",
+   "repo": "storytold/craft-anything",
+   "url": "https://github.com/storytold/craft-anything",
+   "first_seen_at": "2026-11-21T20:48:33Z",
+   "channel": "gh_archive_watch",
+   "stars": 40217,
+   "forks": 8024,
+   "open_issues": 464,
+   "language": "Rust",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 20898,
+   "description": "Craft Anything: understand how any software works, and craft your own.",
+   "topics": [],
+   "signals": {
+    "age_days": 21.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 3.3,
+    "stars_per_day_recent": 22.1,
+    "lifetime_stars_per_day": 1892.65,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.4,
+   "score_explain": [
+    "V=0.01: хвост 22.1 зв/сут против штатных 1892.7 (x0)",
+    "N=1.0: репо 21 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T00:48:33Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}
