@@ -141,7 +141,7 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 51,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "awesome-selfhosted/awesome-selfhosted": {
 "repo": "awesome-selfhosted/awesome-selfhosted",
@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 472803.0,
+"stars": 473720.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-22T01:01:34Z",
-"hits": 174,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 175,
 "in_tg": false,
 "status": "active"
 },
@@ -321,7 +321,7 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 16,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "shiyu-coder/Kronos": {
 "repo": "shiyu-coder/Kronos",
@@ -357,7 +357,7 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 53,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "VictorTaelin/uniichat": {
 "repo": "VictorTaelin/uniichat",
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 82859.0,
+"stars": 83832.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "NOASSERTION",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-21T14:51:56Z",
-"hits": 113,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 114,
 "in_tg": true,
 "status": "active"
 },
@@ -1023,7 +1023,7 @@
 "last_seen": "2026-11-21T11:26:47Z",
 "hits": 21,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "cloudflare/security-audit-skill": {
 "repo": "cloudflare/security-audit-skill",
@@ -1293,7 +1293,7 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 71,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "affaan-m/ECC": {
 "repo": "affaan-m/ECC",
@@ -2391,7 +2391,7 @@
 "last_seen": "2026-11-21T11:26:47Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "junxchan54-maker/mcd-cn-assistant": {
 "repo": "junxchan54-maker/mcd-cn-assistant",
@@ -2553,7 +2553,7 @@
 "last_seen": "2026-11-21T11:26:47Z",
 "hits": 11,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ikow/php2shell-poc": {
 "repo": "ikow/php2shell-poc",
@@ -2973,7 +2973,7 @@
 "repo": "blader/humanizer",
 "url": "https://github.com/blader/humanizer",
 "description": "Agent skill that removes signs of AI-generated writing from text",
-"stars": 68913.0,
+"stars": 72232.0,
 "spd": 85.4,
 "score": 1.13,
 "fit": 1.0,
@@ -2982,10 +2982,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-22T05:13:54Z",
-"last_seen": "2026-11-14T06:45:26Z",
-"hits": 7,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 8,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "K-Dense-AI/scientific-agent-skills": {
 "repo": "K-Dense-AI/scientific-agent-skills",
@@ -3021,7 +3021,7 @@
 "last_seen": "2026-11-21T11:26:47Z",
 "hits": 7,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "anthropics/financial-services": {
 "repo": "anthropics/financial-services",
@@ -4029,13 +4029,13 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 23,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "pingdotgg/t3code": {
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-"stars": 68925.0,
+"stars": 71102.0,
 "spd": 139.1,
 "score": 0.94,
 "fit": 0.74,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-21T14:51:56Z",
-"hits": 77,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 78,
 "in_tg": false,
 "status": "active"
 },
@@ -4593,7 +4593,7 @@
 "repo": "firecrawl/firecrawl",
 "url": "https://github.com/firecrawl/firecrawl",
 "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-"stars": 205482.0,
+"stars": 206750.0,
 "spd": 154.4,
 "score": 1.07,
 "fit": 0.83,
@@ -4602,10 +4602,10 @@
 "license": "AGPL-3.0",
 "language": "TypeScript",
 "first_seen": "2026-10-24T11:17:52Z",
-"last_seen": "2026-11-21T06:08:14Z",
-"hits": 17,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 18,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "NanmiCoder/MediaCrawler": {
 "repo": "NanmiCoder/MediaCrawler",
@@ -4791,7 +4791,7 @@
 "repo": "kajisho5/ffmpeg-skill",
 "url": "https://github.com/kajisho5/ffmpeg-skill",
 "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No clou",
-"stars": 9418.0,
+"stars": 9578.0,
 "spd": 144.0,
 "score": 2.0,
 "fit": 0.96,
@@ -4800,8 +4800,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-24T16:50:07Z",
-"last_seen": "2026-11-22T08:35:40Z",
-"hits": 8,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 9,
 "in_tg": true,
 "status": "active"
 },
@@ -12903,7 +12903,7 @@
 "last_seen": "2026-11-21T11:26:47Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Minireel/HGhub": {
 "repo": "Minireel/HGhub",
@@ -15783,7 +15783,7 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "egoist/mygo-music": {
 "repo": "egoist/mygo-music",
@@ -19119,7 +19119,7 @@
 "repo": "GoogleChrome/modern-web-guidance",
 "url": "https://github.com/GoogleChrome/modern-web-guidance",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 24738.0,
+"stars": 24917.0,
 "spd": 137.1,
 "score": 1.7,
 "fit": 0.65,
@@ -19128,8 +19128,8 @@
 "license": "Apache-2.0",
 "language": "",
 "first_seen": "2026-11-10T20:54:55Z",
-"last_seen": "2026-11-22T08:35:40Z",
-"hits": 28,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 29,
 "in_tg": true,
 "status": "active"
 },
@@ -21963,7 +21963,7 @@
 "repo": "BaaRai/ARTEX",
 "url": "https://github.com/BaaRai/ARTEX",
 "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"stars": 14548.0,
+"stars": 15864.0,
 "spd": 89.7,
 "score": 1.31,
 "fit": 0.96,
@@ -21972,8 +21972,8 @@
 "license": "AGPL-3.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-21T14:51:56Z",
-"hits": 20,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 21,
 "in_tg": true,
 "status": "active"
 },
@@ -21981,7 +21981,7 @@
 "repo": "alibaba/open-code-review",
 "url": "https://github.com/alibaba/open-code-review",
 "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
-"stars": 54653.0,
+"stars": 55312.0,
 "spd": 61.7,
 "score": 0.88,
 "fit": 0.74,
@@ -21990,10 +21990,10 @@
 "license": "Apache-2.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 7,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 8,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "deepseek-ai/chat-demo": {
 "repo": "deepseek-ai/chat-demo",
@@ -23349,7 +23349,7 @@
 "repo": "elementalsouls/Claude-BugHunter",
 "url": "https://github.com/elementalsouls/Claude-BugHunter",
 "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-"stars": 15800.0,
+"stars": 17200.0,
 "spd": 144.0,
 "score": 1.71,
 "fit": 0.76,
@@ -23358,8 +23358,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-21T20:48:43Z",
-"hits": 19,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 20,
 "in_tg": true,
 "status": "active"
 },
@@ -23433,7 +23433,7 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "colin32-lynch/acrobat-pro-desktop": {
 "repo": "colin32-lynch/acrobat-pro-desktop",
@@ -24393,17 +24393,17 @@
 "repo": "jingyaogong/minimind",
 "url": "https://github.com/jingyaogong/minimind",
 "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-"stars": 68310.0,
-"spd": 48.9,
-"score": 1.13,
+"stars": 68510.0,
+"spd": 62.9,
+"score": 1.18,
 "fit": 0.89,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-16T11:47:20Z",
-"last_seen": "2026-11-22T08:35:40Z",
-"hits": 4,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 5,
 "in_tg": true,
 "status": "active"
 },
@@ -25791,7 +25791,7 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "SonicloudTech/mouse-sdk": {
 "repo": "SonicloudTech/mouse-sdk",
@@ -25917,7 +25917,7 @@
 "last_seen": "2026-11-21T11:26:47Z",
 "hits": 5,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Likely7/Veyra-NRVideo": {
 "repo": "Likely7/Veyra-NRVideo",
@@ -26337,19 +26337,19 @@
 "repo": "toeverything/AFFiNE",
 "url": "https://github.com/toeverything/AFFiNE",
 "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r",
-"stars": 75630.0,
-"spd": 41.0,
-"score": 0.98,
+"stars": 76644.0,
+"spd": 54.9,
+"score": 1.05,
 "fit": 0.56,
 "risk": 0.0,
 "ps": "PS-doc",
 "license": "NOASSERTION",
 "language": "TypeScript",
 "first_seen": "2026-11-19T18:31:11Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 2,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 3,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "bothaggsigym1988/frameglide": {
 "repo": "bothaggsigym1988/frameglide",
@@ -26547,7 +26547,7 @@
 "last_seen": "2026-11-21T11:26:47Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "winnerjudgehelix/dvd-creator": {
 "repo": "winnerjudgehelix/dvd-creator",
@@ -27051,7 +27051,7 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 3,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "XinaTian/MROffice": {
 "repo": "XinaTian/MROffice",
@@ -27915,7 +27915,7 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "PharaohManage/construct3": {
 "repo": "PharaohManage/construct3",
@@ -27933,7 +27933,7 @@
 "last_seen": "2026-11-21T20:48:43Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Barriergloindex/sonyvegas": {
 "repo": "Barriergloindex/sonyvegas",
@@ -27951,7 +27951,7 @@
 "last_seen": "2026-11-21T11:26:47Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Illyism/seo-skills": {
 "repo": "Illyism/seo-skills",
@@ -27969,13 +27969,13 @@
 "last_seen": "2026-11-21T11:26:47Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "havenicec/google-qr-sms-helper": {
 "repo": "havenicec/google-qr-sms-helper",
 "url": "https://github.com/havenicec/google-qr-sms-helper",
 "description": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
-"stars": 2343.0,
+"stars": 2804.0,
 "spd": 166.7,
 "score": 1.89,
 "fit": 0.5,
@@ -27984,10 +27984,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-11-21T11:26:47Z",
-"last_seen": "2026-11-22T08:35:40Z",
-"hits": 4,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 5,
 "in_tg": true,
-"status": "new"
+"status": "active"
 },
 "Plaer1/open-clank": {
 "repo": "Plaer1/open-clank",
@@ -28005,7 +28005,7 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "alfoguasta/sketchup-pro-tasalor": {
 "repo": "alfoguasta/sketchup-pro-tasalor",
@@ -28023,7 +28023,7 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Daniel451legend/davinci-resolve-sanolen-color-studio": {
 "repo": "Daniel451legend/davinci-resolve-sanolen-color-studio",
@@ -28041,7 +28041,7 @@
 "last_seen": "2026-11-21T14:51:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "rustrak/rustrak": {
 "repo": "rustrak/rustrak",
@@ -28119,7 +28119,7 @@
 "repo": "ItsNotRexed/Leonida",
 "url": "https://github.com/ItsNotRexed/Leonida",
 "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-"stars": 8112.0,
+"stars": 11779.0,
 "spd": 294.2,
 "score": 0.44,
 "fit": 0.0,
@@ -28128,8 +28128,8 @@
 "license": "GPL-3.0",
 "language": "Python",
 "first_seen": "2026-11-21T19:30:47Z",
-"last_seen": "2026-11-22T08:35:40Z",
-"hits": 6,
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 7,
 "in_tg": false,
 "status": "new"
 },
@@ -29444,6 +29444,168 @@
 "first_seen": "2026-11-22T08:13:07Z",
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
+"in_tg": false,
+"status": "new"
+},
+"DeltaRaikageGive/rob-run-mod-menu": {
+"repo": "DeltaRaikageGive/rob-run-mod-menu",
+"url": "https://github.com/DeltaRaikageGive/rob-run-mod-menu",
+"description": "",
+"stars": 323,
+"spd": 240.0,
+"score": 2.88,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-11-22T16:28:04Z",
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"BeetleRemain/gta-6-pc-download": {
+"repo": "BeetleRemain/gta-6-pc-download",
+"url": "https://github.com/BeetleRemain/gta-6-pc-download",
+"description": "Grand Theft Auto VI (GTA 6) PC Download — Windows Version, Release Updates & Installation Guide",
+"stars": 323,
+"spd": 144.0,
+"score": 2.61,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-11-22T16:28:04Z",
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Iossless-Scaling-DownIoad/.github": {
+"repo": "Iossless-Scaling-DownIoad/.github",
+"url": "https://github.com/Iossless-Scaling-DownIoad/.github",
+"description": "Lossless Scaling is a Windows gaming utility designed to improve the way games are displayed on a monitor, offering scaling techniques and frame generation options for a wide range of gaming setups.",
+"stars": 328,
+"spd": 192.0,
+"score": 1.35,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-22T16:28:04Z",
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"committreeloop/quickbooks-premier-win": {
+"repo": "committreeloop/quickbooks-premier-win",
+"url": "https://github.com/committreeloop/quickbooks-premier-win",
+"description": "Intuit QuickBooks Premier - accounting software for invoicing, expense tracking and financial reporting on Windows 10/11",
+"stars": 296,
+"spd": 144.0,
+"score": 1.08,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-data",
+"license": "NOASSERTION",
+"language": "",
+"first_seen": "2026-11-22T16:28:04Z",
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"EL4CTEO/fast-anything": {
+"repo": "EL4CTEO/fast-anything",
+"url": "https://github.com/EL4CTEO/fast-anything",
+"description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+"stars": 1322,
+"spd": 52.4,
+"score": 0.96,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-22T16:28:04Z",
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ruslaya/jetbrains-pycharm-win": {
+"repo": "ruslaya/jetbrains-pycharm-win",
+"url": "https://github.com/ruslaya/jetbrains-pycharm-win",
+"description": "JetBrains PyCharm - Python integrated development environment for scientific computing, web frameworks and data analysis on Windows 10/11",
+"stars": 292,
+"spd": 25.9,
+"score": 0.89,
+"fit": 0.92,
+"risk": 0.18,
+"ps": "PS-dev",
+"license": "NOASSERTION",
+"language": "",
+"first_seen": "2026-11-22T16:28:04Z",
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"serkanellis/spire-win": {
+"repo": "serkanellis/spire-win",
+"url": "https://github.com/serkanellis/spire-win",
+"description": "Spire - .NET document processing library for PDF generation, Office file conversion and barcode creation on Windows 10/11",
+"stars": 294,
+"spd": 35.6,
+"score": 0.78,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "NOASSERTION",
+"language": "",
+"first_seen": "2026-11-22T16:28:04Z",
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"worksdepl0y/bbc-symphony-orchestra-win": {
+"repo": "worksdepl0y/bbc-symphony-orchestra-win",
+"url": "https://github.com/worksdepl0y/bbc-symphony-orchestra-win",
+"description": "Bbc Symphony Orchestra - orchestral sample library for realistic strings, brass and woodwind articulations on Windows 10/11",
+"stars": 292,
+"spd": 82.8,
+"score": 0.71,
+"fit": 0.48,
+"risk": 0.18,
+"ps": "PS-web",
+"license": "NOASSERTION",
+"language": "",
+"first_seen": "2026-11-22T16:28:04Z",
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"edward-komarov93/stellar-data-recovery-win": {
+"repo": "edward-komarov93/stellar-data-recovery-win",
+"url": "https://github.com/edward-komarov93/stellar-data-recovery-win",
+"description": "Stellar Data Recovery - data recovery utility for deleted file restoration, partition recovery and disk imaging on Windows 10/11",
+"stars": 286,
+"spd": 36.7,
+"score": 0.38,
+"fit": 0.5,
+"risk": 0.37,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "",
+"first_seen": "2026-11-22T16:28:04Z",
+"last_seen": "2026-11-22T16:28:04Z",
+"hits": 1,
 "in_tg": false,
 "status": "new"
 }
