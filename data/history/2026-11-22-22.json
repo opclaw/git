@@ -1,0 +1,2243 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-22T22:23:21Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-11-22-18",
+  "to": "2026-11-22-21",
+  "watch_events": 901,
+  "repos": 654,
+  "actors": 752,
+  "ring_accounts": 12,
+  "api_calls": 40,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261122-06",
+   "repo": "Streetthetent33/Avid-Pro-Tools-Ultimate",
+   "url": "https://github.com/Streetthetent33/Avid-Pro-Tools-Ultimate",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 123,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 3,
+   "description": null,
+   "topics": [
+    "avid",
+    "avid-media-composer-ultimate-review",
+    "avid-pro",
+    "avid-pro-tools",
+    "avid-pro-tools-2026",
+    "avid-pro-tools-download"
+   ],
+   "signals": {
+    "age_days": 149.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.1,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 0.82,
+    "acceleration": 290.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 3.36,
+   "score_explain": [
+    "V=3.41: хвост 240.0 зв/сут против штатных 0.8 (x291)",
+    "N=0.6: репо 149 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-27",
+   "repo": "KrakenCraneCraft/Wirecast-Version-Pro",
+   "url": "https://github.com/KrakenCraneCraft/Wirecast-Version-Pro",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 125,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 3,
+   "description": null,
+   "topics": [
+    "control-surface",
+    "desktop-streaming-software-windows",
+    "rtmp-streaming-desktop",
+    "telestream-wirecast-scene-switching",
+    "wirecast",
+    "wirecast-api"
+   ],
+   "signals": {
+    "age_days": 149.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.2,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 0.84,
+    "acceleration": 229.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 3.29,
+   "score_explain": [
+    "V=3.26: хвост 192.0 зв/сут против штатных 0.8 (x229)",
+    "N=0.6: репо 149 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-28",
+   "repo": "ProsecutorSpade/Premier-Version-Pro",
+   "url": "https://github.com/ProsecutorSpade/Premier-Version-Pro",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 123,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 2,
+   "description": null,
+   "topics": [
+    "adobe-premiere-pro-editing",
+    "adobe-premiere-pro-photo-tools",
+    "adobe-premiere-rush-windows",
+    "premiere-pro-av1",
+    "premiere-pro-error-39",
+    "premiere-pro-export-error"
+   ],
+   "signals": {
+    "age_days": 149.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.1,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 0.82,
+    "acceleration": 232.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 3.24,
+   "score_explain": [
+    "V=3.27: хвост 192.0 зв/сут против штатных 0.8 (x233)",
+    "N=0.6: репо 149 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-03",
+   "repo": "elementalsouls/Claude-BugHunter",
+   "url": "https://github.com/elementalsouls/Claude-BugHunter",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 17646,
+   "forks": 1957,
+   "open_issues": 16,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 3779,
+   "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "topics": [
+    "ai-security",
+    "anthropic",
+    "application-security",
+    "bug-bounty",
+    "bugbounty",
+    "bugcrowd"
+   ],
+   "signals": {
+    "age_days": 201.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 3.1,
+    "stars_per_day_recent": 53.8,
+    "lifetime_stars_per_day": 87.59,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.03,
+   "score_explain": [
+    "V=0.29: хвост 53.8 зв/сут против штатных 87.6 (x1)",
+    "N=0.2: репо 201 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-15",
+   "repo": "AoShinz/borderlands-4-shift-golden-key-bridge-novelen",
+   "url": "https://github.com/AoShinz/borderlands-4-shift-golden-key-bridge-novelen",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 228,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 299,
+   "description": "Modders extend Borderlands 4 through the Shift Golden token Bridge Novelen.",
+   "topics": [
+    "borderlands-4",
+    "borderlands-editor",
+    "bridge",
+    "editor",
+    "golden",
+    "inventory-editor"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.6,
+    "stars_per_day_recent": 196.1,
+    "lifetime_stars_per_day": 456.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.89,
+   "score_explain": [
+    "V=0.36: хвост 196.1 зв/сут против штатных 456.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-19",
+   "repo": "goynaraishwary-pixel/civilization-vii-ui-quick-deal-detailed-jatalin",
+   "url": "https://github.com/goynaraishwary-pixel/civilization-vii-ui-quick-deal-detailed-jatalin",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 225,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 319,
+   "description": "Detailed deal screens for Civilization VII, built to be modded your way.",
+   "topics": [
+    "calculator",
+    "card",
+    "civ-7",
+    "civilization-7",
+    "deal",
+    "detailed"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.8,
+    "stars_per_day_recent": 146.5,
+    "lifetime_stars_per_day": 450.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.82,
+   "score_explain": [
+    "V=0.28: хвост 146.5 зв/сут против штатных 450.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-11",
+   "repo": "quanghungdhtl-dot/split-fiction-coop-dabarin",
+   "url": "https://github.com/quanghungdhtl-dot/split-fiction-coop-dabarin",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 226,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 331,
+   "description": "Coordinate shared Split Fiction sessions and track co-op progress together.",
+   "topics": [
+    "action-adventure",
+    "co-op",
+    "fantasy",
+    "platformer",
+    "puzzle",
+    "sci-fi"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.5,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 452.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.78,
+   "score_explain": [
+    "V=0.43: хвост 240.0 зв/сут против штатных 452.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-infra",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-13",
+   "repo": "saurabh8955/arc-raiders-external-extraction-radar-loot-dabemir",
+   "url": "https://github.com/saurabh8955/arc-raiders-external-extraction-radar-loot-dabemir",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 225,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 309,
+   "description": "External radar and loot overlay for Arc Raiders, built to surface extraction intel.",
+   "topics": [
+    "arc-external",
+    "arc-extraction",
+    "arc-loot",
+    "arc-radar",
+    "arc-raiders",
+    "arc-tier"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.5,
+    "stars_per_day_recent": 227.8,
+    "lifetime_stars_per_day": 450.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.78,
+   "score_explain": [
+    "V=0.41: хвост 227.8 зв/сут против штатных 450.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-21",
+   "repo": "1234567890aditya/awp-gg-executor-roblox-rafalan",
+   "url": "https://github.com/1234567890aditya/awp-gg-executor-roblox-rafalan",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 223,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 343,
+   "description": "Roblox play aid with in-game overlays for Awp Gg Executor Rafalan.",
+   "topics": [
+    "awp-gg-roblox-x64",
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.5,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 446.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.74,
+   "score_explain": [
+    "V=0.36: хвост 192.0 зв/сут против штатных 446.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-23",
+   "repo": "mfaiqop-create/switch-firmware-19-keys-pack",
+   "url": "https://github.com/mfaiqop-create/switch-firmware-19-keys-pack",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 226,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 333,
+   "description": "Builds firmware token packs for Switch 19 with structured config and validation.",
+   "topics": [
+    "citron-emulator",
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.4,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 452.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.73,
+   "score_explain": [
+    "V=0.35: хвост 192.0 зв/сут против штатных 452.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-26",
+   "repo": "mathiascantillo50-blip/atmosfar-coop-saceren",
+   "url": "https://github.com/mathiascantillo50-blip/atmosfar-coop-saceren",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 227,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 316,
+   "description": "Co-op play with shared goals and real decisions - built for players who act together.",
+   "topics": [
+    "adventure",
+    "base-building",
+    "co-op",
+    "crafting",
+    "exploration",
+    "flying"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.4,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 454.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.73,
+   "score_explain": [
+    "V=0.35: хвост 192.0 зв/сут против штатных 454.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-sec",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-24",
+   "repo": "srikarthik345-art/sledding-game-coop-rafalor",
+   "url": "https://github.com/srikarthik345-art/sledding-game-coop-rafalor",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 227,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 321,
+   "description": "Cooperative sledding runs built around planning routes together and sharing the ride.",
+   "topics": [
+    "casual",
+    "comedy",
+    "exploration",
+    "multiplayer",
+    "party-game",
+    "physics"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.5,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 454.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.72,
+   "score_explain": [
+    "V=0.35: хвост 192.0 зв/сут против штатных 454.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-30",
+   "repo": "contactvelorixai-source/yapyap-coop-cetalen",
+   "url": "https://github.com/contactvelorixai-source/yapyap-coop-cetalen",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 226,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 325,
+   "description": "A cooperative game for players to share and build a world together.",
+   "topics": [
+    "co-op",
+    "comedy",
+    "first-person",
+    "horror",
+    "magic",
+    "multiplayer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.6,
+    "stars_per_day_recent": 172.2,
+    "lifetime_stars_per_day": 452.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.72,
+   "score_explain": [
+    "V=0.32: хвост 172.2 зв/сут против штатных 452.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-04",
+   "repo": "ninadjl/surfshark-cekarin",
+   "url": "https://github.com/ninadjl/surfshark-cekarin",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 223,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 307,
+   "description": "Surfshark Cekarin — verifies account status, reports expiration dates.",
+   "topics": [
+    "http-proxy",
+    "keychain",
+    "mullvad",
+    "open",
+    "openvpn",
+    "plex"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.8,
+    "stars_per_day_recent": 174.7,
+    "lifetime_stars_per_day": 446.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.71,
+   "score_explain": [
+    "V=0.33: хвост 174.7 зв/сут против штатных 446.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-17",
+   "repo": "Nnabella/rebelle-7-danolan",
+   "url": "https://github.com/Nnabella/rebelle-7-danolan",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 223,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 306,
+   "description": "Sketch, paint, and refine in Rebelle 7 Danolan with a fluid layered workflow.",
+   "topics": [
+    "acrylic",
+    "desktop-app",
+    "illustration",
+    "image-editing",
+    "noise-reduction",
+    "photo-editing"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.8,
+    "stars_per_day_recent": 159.5,
+    "lifetime_stars_per_day": 446.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.71,
+   "score_explain": [
+    "V=0.31: хвост 159.5 зв/сут против штатных 446.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-08",
+   "repo": "sahilboss728-pixel/cs2-skin-changer-tanomar",
+   "url": "https://github.com/sahilboss728-pixel/cs2-skin-changer-tanomar",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 229,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 320,
+   "description": "Shape your CS2 look with a modder-first skin changer built for tinkering.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "cs2",
+    "cs2-esp",
+    "cs2-radar"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.5,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 458.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.2
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.11,
+   "lead_score": 0.65,
+   "score_explain": [
+    "V=0.42: хвост 240.0 зв/сут против штатных 458.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.11: self-star 0.0, кольца 0.2"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-09",
+   "repo": "mishal124727-cyber/slay-the-spire-2-coop-fasaren",
+   "url": "https://github.com/mishal124727-cyber/slay-the-spire-2-coop-fasaren",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 227,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 336,
+   "description": "A cooperative run companion for Slay the Spire 2 players sharing a route.",
+   "topics": [
+    "card-game",
+    "co-op",
+    "deckbuilding",
+    "fantasy",
+    "multiplayer",
+    "replayability"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.5,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 454.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.2
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.11,
+   "lead_score": 0.65,
+   "score_explain": [
+    "V=0.42: хвост 240.0 зв/сут против штатных 454.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.11: self-star 0.0, кольца 0.2"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-12",
+   "repo": "mrriaj/cad-3d-engineering-suite-autodesk-2026-autocad-revit-venolen",
+   "url": "https://github.com/mrriaj/cad-3d-engineering-suite-autodesk-2026-autocad-revit-venolen",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 228,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 303,
+   "description": "Precision CAD engine for 3D engineering workflows - built around Autodesk toolsets.",
+   "topics": [
+    "2026",
+    "3ds",
+    "autocad",
+    "blender-addons",
+    "cad-2026",
+    "cad-cam"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.4,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 456.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.2
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.11,
+   "lead_score": 0.65,
+   "score_explain": [
+    "V=0.42: хвост 240.0 зв/сут против штатных 456.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.11: self-star 0.0, кольца 0.2"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-20",
+   "repo": "mattpocock/skills",
+   "url": "https://github.com/mattpocock/skills",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 330436,
+   "forks": 27769,
+   "open_issues": 265,
+   "language": "Shell",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 2430,
+   "description": "Skills for Real Engineers. Straight from my .agents directory.",
+   "topics": [],
+   "signals": {
+    "age_days": 292.5,
+    "last_push_days_ago": 3,
+    "stars_in_window": 5,
+    "window_h": 1.3,
+    "stars_per_day_recent": 89.2,
+    "lifetime_stars_per_day": 1129.84,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.64,
+   "score_explain": [
+    "V=0.05: хвост 89.2 зв/сут против штатных 1129.8 (x0)",
+    "N=0.2: репо 292 дн от роду",
+    "C=1.0: пуш 3 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-07",
+   "repo": "amartuvshindulguun202-gif/rust-external-stash-tc-player-noralen",
+   "url": "https://github.com/amartuvshindulguun202-gif/rust-external-stash-tc-player-noralen",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 227,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 302,
+   "description": "Rust external stash and TC player tool with live readouts for Noralen.",
+   "topics": [
+    "distance",
+    "external",
+    "external-overlay",
+    "hid-macro",
+    "overlay",
+    "player"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.4,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 454.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.2
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.11,
+   "lead_score": 0.63,
+   "score_explain": [
+    "V=0.42: хвост 240.0 зв/сут против штатных 454.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.11: self-star 0.0, кольца 0.2"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-35",
+   "repo": "codexTalwar/r-e-p-o-bepinex-host-mod-menu-nolelin",
+   "url": "https://github.com/codexTalwar/r-e-p-o-bepinex-host-mod-menu-nolelin",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 228,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 321,
+   "description": "Host-side BepInEx menu mod for REPO - tweak sessions, surface live info.",
+   "topics": [
+    "bepinex",
+    "host",
+    "menu",
+    "mod",
+    "multiplier",
+    "r-value"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.7,
+    "stars_per_day_recent": 142.9,
+    "lifetime_stars_per_day": 456.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.62,
+   "score_explain": [
+    "V=0.27: хвост 142.9 зв/сут против штатных 456.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-37",
+   "repo": "lyubchopenchev8-bit/kingdom-come-deliverance-2-unlimited-saving-schnapps-bow-p",
+   "url": "https://github.com/lyubchopenchev8-bit/kingdom-come-deliverance-2-unlimited-saving-schnapps-bow-p",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 226,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 352,
+   "description": "Reshape saving schnapps and bow handling your way - built for curious modders.",
+   "topics": [
+    "bow",
+    "cryengine",
+    "kcd2",
+    "kingdom-come-deliverance-2",
+    "lockpick",
+    "lockpick-mod"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.8,
+    "stars_per_day_recent": 126.8,
+    "lifetime_stars_per_day": 452.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.62,
+   "score_explain": [
+    "V=0.25: хвост 126.8 зв/сут против штатных 452.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-14",
+   "repo": "Srinithi754/wave-velocity-executor-keyless-lite-loader-100-ranomar",
+   "url": "https://github.com/Srinithi754/wave-velocity-executor-keyless-lite-loader-100-ranomar",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 225,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 312,
+   "description": "Wave Velocity Lite serves live game insights and on-screen aids through a lean loader.",
+   "topics": [
+    "100",
+    "bloxstrap",
+    "fflags",
+    "hub",
+    "keyless",
+    "lite"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.6,
+    "stars_per_day_recent": 198.8,
+    "lifetime_stars_per_day": 450.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.2
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.11,
+   "lead_score": 0.61,
+   "score_explain": [
+    "V=0.37: хвост 198.8 зв/сут против штатных 450.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.11: self-star 0.0, кольца 0.2"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-39",
+   "repo": "Geovid66/polar-client-skyblock-mining-kafamar",
+   "url": "https://github.com/Geovid66/polar-client-skyblock-mining-kafamar",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 227,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 300,
+   "description": "Mine smarter with Polar Client, keeping Skyblock node data on screen.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "hypixel-skyblock"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.8,
+    "stars_per_day_recent": 122.2,
+    "lifetime_stars_per_day": 454.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.61,
+   "score_explain": [
+    "V=0.24: хвост 122.2 зв/сут против штатных 454.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-40",
+   "repo": "25mcmt30/matlab-r2026a-tadarin",
+   "url": "https://github.com/25mcmt30/matlab-r2026a-tadarin",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 224,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 329,
+   "description": "Engineered MATLAB R2026A build - streamlined configuration, focused technical workflows.",
+   "topics": [
+    "2d-cad",
+    "architecture",
+    "bim",
+    "cad",
+    "desktop-app",
+    "drafting"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.8,
+    "stars_per_day_recent": 121.3,
+    "lifetime_stars_per_day": 448.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.61,
+   "score_explain": [
+    "V=0.24: хвост 121.3 зв/сут против штатных 448.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-22",
+   "repo": "thecoolmann/polymarket-perp-dex-hyperliquid-vault-market-maker-vedarin",
+   "url": "https://github.com/thecoolmann/polymarket-perp-dex-hyperliquid-vault-market-maker-vedarin",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 227,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 340,
+   "description": "A friendly, community-driven project built for exploring market-making features with Vedarin.",
+   "topics": [
+    "arbitrage",
+    "bot",
+    "clob",
+    "fragment-sniper",
+    "funding",
+    "hft"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.5,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 454.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.58,
+   "score_explain": [
+    "V=0.35: хвост 192.0 зв/сут против штатных 454.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-25",
+   "repo": "enzomarquesgamer-hue/3utools-pro-mdm-unlocker-2026",
+   "url": "https://github.com/enzomarquesgamer-hue/3utools-pro-mdm-unlocker-2026",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 226,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 358,
+   "description": "Manages device provisioning workflows with MDM profile handling and structured setup steps.",
+   "topics": [
+    "3utools",
+    "broque-ramdisk",
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.5,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 452.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.55,
+   "score_explain": [
+    "V=0.35: хвост 192.0 зв/сут против штатных 452.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-10",
+   "repo": "shivanshu6272727-ux/bloxstrap-roblox-fflags-2026",
+   "url": "https://github.com/shivanshu6272727-ux/bloxstrap-roblox-fflags-2026",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 226,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 331,
+   "description": "Configures FastFlags for Bloxstrap—manages Roblox client flags with a clear editor.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.4,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 452.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.4
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.22,
+   "lead_score": 0.52,
+   "score_explain": [
+    "V=0.43: хвост 240.0 зв/сут против штатных 452.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.22: self-star 0.0, кольца 0.4"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-31",
+   "repo": "mohibbhai369-cloud/roblox-game-hub-fisch-auto-cast-instant-cekaren",
+   "url": "https://github.com/mohibbhai369-cloud/roblox-game-hub-fisch-auto-cast-instant-cekaren",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 228,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 292,
+   "description": "Play Fisch with auto cast and instant cekaren guidance, backed by Roblox Game Hub.",
+   "topics": [
+    "aurora",
+    "auto",
+    "blox-fruits-script",
+    "blue-lock-rivals",
+    "cast",
+    "fisch"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.6,
+    "stars_per_day_recent": 157.1,
+    "lifetime_stars_per_day": 456.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.51,
+   "score_explain": [
+    "V=0.30: хвост 157.1 зв/сут против штатных 456.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-02",
+   "repo": "rohitsingh-del/pump-fun-volume-bump-bot-velen",
+   "url": "https://github.com/rohitsingh-del/pump-fun-volume-bump-bot-velen",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 228,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 306,
+   "description": "Community-built directory for a feature-rich Pump Fun volume bump bot, shaped by contributors.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 1.0,
+    "stars_per_day_recent": 174.5,
+    "lifetime_stars_per_day": 456.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.29
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.16,
+   "lead_score": 0.5,
+   "score_explain": [
+    "V=0.32: хвост 174.5 зв/сут против штатных 456.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.16: self-star 0.0, кольца 0.29"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-05",
+   "repo": "phoengp/solara-executor-v3-mararon",
+   "url": "https://github.com/phoengp/solara-executor-v3-mararon",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 228,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 305,
+   "description": "Streamlined script execution and live game insights for a smoother play session.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.9,
+    "stars_per_day_recent": 166.9,
+    "lifetime_stars_per_day": 456.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.18,
+   "lead_score": 0.48,
+   "score_explain": [
+    "V=0.31: хвост 166.9 зв/сут против штатных 456.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-38",
+   "repo": "guygamer527/solana-memecoin-pump-fun-volume-booster-cetaven",
+   "url": "https://github.com/guygamer527/solana-memecoin-pump-fun-volume-booster-cetaven",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 225,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 321,
+   "description": "Explore memecoins together and shape vibrant markets with Pump Fun volume tools.",
+   "topics": [
+    "booster",
+    "bot",
+    "bump",
+    "fun",
+    "gmgn",
+    "jito-mev"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.8,
+    "stars_per_day_recent": 123.3,
+    "lifetime_stars_per_day": 450.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.43,
+   "score_explain": [
+    "V=0.24: хвост 123.3 зв/сут против штатных 450.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-01",
+   "repo": "ItsNotRexed/Leonida",
+   "url": "https://github.com/ItsNotRexed/Leonida",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 14316,
+   "forks": 1162,
+   "open_issues": 1086,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 17300,
+   "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+   "topics": [],
+   "signals": {
+    "age_days": 2.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 3.6,
+    "stars_per_day_recent": 66.0,
+    "lifetime_stars_per_day": 6834.89,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.37,
+   "score_explain": [
+    "V=0.01: хвост 66.0 зв/сут против штатных 6834.9 (x0)",
+    "N=1.0: репо 2 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-32",
+   "repo": "ilyasRvl/dune-awakening-external-player-ornithopter-radar-rafaron",
+   "url": "https://github.com/ilyasRvl/dune-awakening-external-player-ornithopter-radar-rafaron",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 225,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 301,
+   "description": "External radar for spotting player ornithopters in Dune Awakening.",
+   "topics": [
+    "dune-awakening",
+    "dune-external",
+    "dune-helper",
+    "dune-ornithopter",
+    "dune-player",
+    "dune-radar"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.6,
+    "stars_per_day_recent": 155.7,
+    "lifetime_stars_per_day": 450.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.31,
+   "score_explain": [
+    "V=0.30: хвост 155.7 зв/сут против штатных 450.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-33",
+   "repo": "MHS998/escape-the-backrooms-coop-ravelin",
+   "url": "https://github.com/MHS998/escape-the-backrooms-coop-ravelin",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 228,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 313,
+   "description": "Escape The Backrooms Coop Ravelin helps friends plan and share tense co-op escapes together.",
+   "topics": [
+    "backrooms",
+    "co-op",
+    "escape-the-backrooms",
+    "exploration",
+    "first-person",
+    "horror"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.6,
+    "stars_per_day_recent": 153.7,
+    "lifetime_stars_per_day": 456.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.3,
+   "score_explain": [
+    "V=0.29: хвост 153.7 зв/сут против штатных 456.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-34",
+   "repo": "sreeshan-22/roadside-research-coop-mabeven",
+   "url": "https://github.com/sreeshan-22/roadside-research-coop-mabeven",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 225,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 320,
+   "description": "Coordinate shared roadside research runs and compare findings together.",
+   "topics": [
+    "aliens",
+    "co-op",
+    "comedy",
+    "first-person",
+    "management",
+    "multiplayer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.6,
+    "stars_per_day_recent": 151.4,
+    "lifetime_stars_per_day": 450.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.5
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.28,
+   "lead_score": 0.3,
+   "score_explain": [
+    "V=0.29: хвост 151.4 зв/сут против штатных 450.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.28: self-star 0.0, кольца 0.5"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-36",
+   "repo": "meharanis2012-cpu/gamble-with-your-friends-coop-notalin",
+   "url": "https://github.com/meharanis2012-cpu/gamble-with-your-friends-coop-notalin",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 228,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 316,
+   "description": "Team up with friends to gamble, share risks, and play cooperative rounds together.",
+   "topics": [
+    "co-op",
+    "comedy",
+    "first-person",
+    "gamble-with-your-friends",
+    "multiplayer",
+    "party-game"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.7,
+    "stars_per_day_recent": 129.7,
+    "lifetime_stars_per_day": 456.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.27,
+   "score_explain": [
+    "V=0.25: хвост 129.7 зв/сут против штатных 456.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-16",
+   "repo": "ardaozallp/rust-hid-mouse-recoil-script-jabarin",
+   "url": "https://github.com/ardaozallp/rust-hid-mouse-recoil-script-jabarin",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 226,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 304,
+   "description": "HID mouse control and recoil management for Rust, delivered through on-screen info.",
+   "topics": [
+    "attachment",
+    "auto",
+    "detect",
+    "external-overlay",
+    "hid",
+    "hid-macro"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.7,
+    "stars_per_day_recent": 162.3,
+    "lifetime_stars_per_day": 452.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.2
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.11,
+   "lead_score": 0.18,
+   "score_explain": [
+    "V=0.31: хвост 162.3 зв/сут против штатных 452.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.11: self-star 0.0, кольца 0.2"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-29",
+   "repo": "contactcosmeticcorner-pk/it-takes-two-coop-baron",
+   "url": "https://github.com/contactcosmeticcorner-pk/it-takes-two-coop-baron",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 227,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 306,
+   "description": "A co-op companion for planning shared It Takes Two sessions together.",
+   "topics": [
+    "3d-platformer",
+    "adventure",
+    "co-op",
+    "local-multiplayer",
+    "platformer",
+    "puzzle"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.5,
+    "stars_per_day_recent": 176.4,
+    "lifetime_stars_per_day": 454.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.17,
+   "score_explain": [
+    "V=0.33: хвост 176.4 зв/сут против штатных 454.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-18",
+   "repo": "Sdyalaty/where-winds-meet-auto-parry-assist-fov-jalelin",
+   "url": "https://github.com/Sdyalaty/where-winds-meet-auto-parry-assist-fov-jalelin",
+   "first_seen_at": "2026-11-22T22:23:21Z",
+   "channel": "gh_archive_watch",
+   "stars": 226,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 319,
+   "description": "Where Winds Meet Auto Parry Assist Fov Jalelin delivers combat timing cues and field-of-view tweaks.",
+   "topics": [
+    "120fps",
+    "assist",
+    "auto",
+    "bridge",
+    "chest-radar",
+    "dx12"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.8,
+    "stars_per_day_recent": 147.1,
+    "lifetime_stars_per_day": 452.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.2
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.11,
+   "lead_score": 0.16,
+   "score_explain": [
+    "V=0.28: хвост 147.1 зв/сут против штатных 452.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.11: self-star 0.0, кольца 0.2"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T02:23:21Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}
