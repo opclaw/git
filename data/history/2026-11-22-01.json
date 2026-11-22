@@ -1,0 +1,2250 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-22T01:01:22Z",
+ "window": {
+  "hours": 3,
+  "from": "2026-11-21-21",
+  "to": "2026-11-21-23",
+  "watch_events": 1117,
+  "repos": 734,
+  "actors": 883,
+  "ring_accounts": 32,
+  "api_calls": 40,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261122-12",
+   "repo": "SpikeAxolotl/FL-STUDIO-PC",
+   "url": "https://github.com/SpikeAxolotl/FL-STUDIO-PC",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 98,
+   "forks": 13,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 2,
+   "description": "Fl Studio  stable release for creative tasks",
+   "topics": [
+    "fl-21",
+    "fl-chart",
+    "fl-studio-10",
+    "fl-studio-basic",
+    "fl-studio-classic",
+    "fl-studio-resource-pack"
+   ],
+   "signals": {
+    "age_days": 148.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 0.2,
+    "stars_per_day_recent": 336.0,
+    "lifetime_stars_per_day": 0.66,
+    "acceleration": 508.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 3.69,
+   "score_explain": [
+    "V=3.74: хвост 336.0 зв/сут против штатных 0.7 (x508)",
+    "N=0.6: репо 148 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-35",
+   "repo": "mjmirza/app-store-compliance",
+   "url": "https://github.com/mjmirza/app-store-compliance",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 3401,
+   "forks": 213,
+   "open_issues": 32,
+   "language": "Shell",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 1901,
+   "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+   "topics": [
+    "accessibility",
+    "ai-agents",
+    "android",
+    "app-review-guidelines",
+    "app-store",
+    "app-store-connect"
+   ],
+   "signals": {
+    "age_days": 168.6,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.4,
+    "stars_per_day_recent": 69.6,
+    "lifetime_stars_per_day": 20.18,
+    "acceleration": 3.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.48,
+   "score_explain": [
+    "V=0.90: хвост 69.6 зв/сут против штатных 20.2 (x3)",
+    "N=0.6: репо 169 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-03",
+   "repo": "eric-lopezdev1992b4/polar-client-skyblock-mining-2026",
+   "url": "https://github.com/eric-lopezdev1992b4/polar-client-skyblock-mining-2026",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 478,
+   "forks": 46,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "Polar Client preactivated — Hypixel Skyblock Mithril, Gemstone, Powder & Commission Macro (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "hypixel-skyblock"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 11,
+    "window_h": 0.2,
+    "stars_per_day_recent": 528.0,
+    "lifetime_stars_per_day": 956.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.25,
+   "score_explain": [
+    "V=0.44: хвост 528.0 зв/сут против штатных 956.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-37",
+   "repo": "sybil-solutions/inference-optimisation-skill",
+   "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 1658,
+   "forks": 150,
+   "open_issues": 11,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 32,
+   "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+   "topics": [
+    "agent-skill",
+    "benchmarking",
+    "claude-code",
+    "inference",
+    "llm",
+    "speculative-decoding"
+   ],
+   "signals": {
+    "age_days": 5.3,
+    "last_push_days_ago": 5,
+    "stars_in_window": 4,
+    "window_h": 1.8,
+    "stars_per_day_recent": 53.6,
+    "lifetime_stars_per_day": 314.92,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.25,
+   "score_explain": [
+    "V=0.16: хвост 53.6 зв/сут против штатных 314.9 (x0)",
+    "N=1.0: репо 5 дн от роду",
+    "C=1.0: пуш 5 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-11",
+   "repo": "chris-code-90e9/3utools-pro-mdm-unlocker-2026",
+   "url": "https://github.com/chris-code-90e9/3utools-pro-mdm-unlocker-2026",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 453,
+   "forks": 44,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "3uTools Pro + iRemoval Pro Windows — 1-Click MDM Skip, IPA Sideloader & Virtual GPS (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "3utools",
+    "3utools-pro-mdm-unlocker-2026",
+    "broque-ramdisk",
+    "cmake",
+    "configuration",
+    "cpp"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 0.2,
+    "stars_per_day_recent": 336.0,
+    "lifetime_stars_per_day": 906.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.22,
+   "score_explain": [
+    "V=0.32: хвост 336.0 зв/сут против штатных 906.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-07",
+   "repo": "ericmoorecode2001j6/monster-hunter-wilds-reframework-download",
+   "url": "https://github.com/ericmoorecode2001j6/monster-hunter-wilds-reframework-download",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 464,
+   "forks": 43,
+   "open_issues": 0,
+   "language": "C++",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Monster Hunter Wilds REFramework + Monster HP Bar, Crown & DPS Overlay Mod [Direct Download] — Download prebuilt Windows 10/11 x64 release. Keywords: monster hunter wilds, mhwilds, monster hunter wilds mods, monster hunter wilds cheat, monster hunter wilds trainer, reframework, mhwilds save editor, mhwilds dps overlay.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 0.2,
+    "stars_per_day_recent": 384.0,
+    "lifetime_stars_per_day": 928.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.2,
+   "score_explain": [
+    "V=0.35: хвост 384.0 зв/сут против штатных 928.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-09",
+   "repo": "dmitry-m-99v2/schedule-1-mod-menu-download",
+   "url": "https://github.com/dmitry-m-99v2/schedule-1-mod-menu-download",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 456,
+   "forks": 47,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "Schedule I Mod Menu (MelonLoader) — Item Spawner, Unlimited Cash, No Police & Speed Multiplier [Direct Download] — Download prebuilt Windows 10/11 x64 release. Keywords: schedule 1, schedule i, schedule 1 cheat, schedule 1 mod menu, schedule 1 trainer, schedule 1 mods, schedule 1 save editor, melonloader.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 0.4,
+    "stars_per_day_recent": 336.0,
+    "lifetime_stars_per_day": 912.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.17,
+   "score_explain": [
+    "V=0.31: хвост 336.0 зв/сут против штатных 912.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-04",
+   "repo": "victor-miller-code2097u8/cs2-cheat-esp-aimbot",
+   "url": "https://github.com/victor-miller-code2097u8/cs2-cheat-esp-aimbot",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 417,
+   "forks": 63,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "CS2 Cheat & External Hack — Bone ESP, Aimbot, Triggerbot, Radar & Inventory Skin Changer",
+   "topics": [
+    "cmake",
+    "configuration",
+    "counter-strike-2",
+    "cpp",
+    "cs2",
+    "cs2-esp"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 0.1,
+    "stars_per_day_recent": 480.0,
+    "lifetime_stars_per_day": 834.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.15,
+   "score_explain": [
+    "V=0.45: хвост 480.0 зв/сут против штатных 834.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-02",
+   "repo": "oscar-j-code1904n1/blox-fruits-script",
+   "url": "https://github.com/oscar-j-code1904n1/blox-fruits-script",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 455,
+   "forks": 50,
+   "open_issues": 0,
+   "language": "C++",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "Blox Fruits Script 2026 — Keyless Auto-Farm, Sea Events, Kitsune & Fruit Sniper — Download prebuilt Windows 10/11 x64 release. Keywords: blox fruits script, fisch script, rivals script, jujutsu infinite script, blue lock rivals script, da hood script, pet simulator 99 script, anime vanguards script.",
+   "topics": [
+    "blox-fruits-script",
+    "blue-lock-rivals-script",
+    "cmake",
+    "configuration",
+    "cpp",
+    "da-hood-script"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 11,
+    "window_h": 0.2,
+    "stars_per_day_recent": 528.0,
+    "lifetime_stars_per_day": 910.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.14,
+   "score_explain": [
+    "V=0.46: хвост 528.0 зв/сут против штатных 910.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-19",
+   "repo": "leonsilvadev96h0/subnautica-2-co-op-host-sync-portable-x64",
+   "url": "https://github.com/leonsilvadev96h0/subnautica-2-co-op-host-sync-portable-x64",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 441,
+   "forks": 78,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Subnautica 2 Co-op Host Sync Fixer, Oxygen & Vehicle Upgrade Trainer: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "coop-mod",
+    "fixer",
+    "host",
+    "mod-loader",
+    "oxygen",
+    "resource-scanner"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.0,
+    "stars_per_day_recent": 288.0,
+    "lifetime_stars_per_day": 882.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.14,
+   "score_explain": [
+    "V=0.28: хвост 288.0 зв/сут против штатных 882.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-14",
+   "repo": "sam-santos1905e5/slay-the-spire-2-trainer",
+   "url": "https://github.com/sam-santos1905e5/slay-the-spire-2-trainer",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 466,
+   "forks": 50,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "Slay the Spire 2 Trainer, Developer Console Unlocker & Relic/Gold Save Editor — Download prebuilt Windows 10/11 x64 release. Keywords: slay the spire 2, slay the spire 2 trainer, slay the spire 2 cheat, slay the spire 2 mods, slay the spire 2 save editor, mod loader, console unlocker, deck tracker.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.3,
+    "stars_per_day_recent": 288.0,
+    "lifetime_stars_per_day": 932.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.13,
+   "score_explain": [
+    "V=0.27: хвост 288.0 зв/сут против штатных 932.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-05",
+   "repo": "sergey-kingx89f1/spt-aki-profile-editor-tarkov-2026",
+   "url": "https://github.com/sergey-kingx89f1/spt-aki-profile-editor-tarkov-2026",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 431,
+   "forks": 42,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "Escape from Tarkov SPT-AKI 3.10 Profile Editor, Flea Unlocker & BattlEye Spoofer (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "eft"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 0.2,
+    "stars_per_day_recent": 480.0,
+    "lifetime_stars_per_day": 862.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.12,
+   "score_explain": [
+    "V=0.44: хвост 480.0 зв/сут против штатных 862.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-06",
+   "repo": "ivan-taylorio94v4/marvel-rivals-cheat-download",
+   "url": "https://github.com/ivan-taylorio94v4/marvel-rivals-cheat-download",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 446,
+   "forks": 46,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Marvel Rivals Cheat 2026 — Undetected UE5 External Aimbot, Bone ESP & Ult Tracker [Direct Download] — Download prebuilt Windows 10/11 x64 release. Keywords: marvel rivals, marvel rivals cheat, marvel rivals cheats, marvel rivals hack, marvel rivals aimbot, marvel rivals esp, marvel rivals bone-esp, marvel rivals skin changer.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 9,
+    "window_h": 0.2,
+    "stars_per_day_recent": 432.0,
+    "lifetime_stars_per_day": 892.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.1,
+   "score_explain": [
+    "V=0.39: хвост 432.0 зв/сут против штатных 892.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-27",
+   "repo": "oscar-kumareng1996j2/robrun-cheat",
+   "url": "https://github.com/oscar-kumareng1996j2/robrun-cheat",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 431,
+   "forks": 43,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "ROB RUN Cheat & External Hack — Spatial Bone ESP, Loot Radar & Speedhack — Download prebuilt Windows 10/11 x64 release. Keywords: robrun, rob run, robrun cheat, robrun hack, robrun esp, robrun trainer, robrun aimbot, robrun loot radar.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.2,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 862.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.07,
+   "score_explain": [
+    "V=0.20: хвост 192.0 зв/сут против штатных 862.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-10",
+   "repo": "chriscodex1989b0/deadlock-cheat",
+   "url": "https://github.com/chriscodex1989b0/deadlock-cheat",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 391,
+   "forks": 77,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "Deadlock Cheat 2026 — External Source 2 Bone ESP, Aimbot & Soul Auto-Deny — Download prebuilt Windows 10/11 x64 release. Keywords: deadlock, deadlock cheat, deadlock cheats, deadlock hack, deadlock hacks, deadlock esp, deadlock aimbot, deadlock wallhack.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "deadlock",
+    "deadlock-cheat",
+    "deadlock-cheats"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 7,
+    "window_h": 0.2,
+    "stars_per_day_recent": 336.0,
+    "lifetime_stars_per_day": 782.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.06,
+   "score_explain": [
+    "V=0.36: хвост 336.0 зв/сут против штатных 782.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-30",
+   "repo": "leon-moore-v9/creative-video-topaz-ai-photo-ai-portable-x64",
+   "url": "https://github.com/leon-moore-v9/creative-video-topaz-ai-photo-ai-portable-x64",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 450,
+   "forks": 49,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Creative & Video Pro Suite Topaz Video AI 6.1 + Photo AI 4 TensorRT Offline Model Pack: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "after-effects-plugins",
+    "capcut-pro",
+    "cc",
+    "creative-model",
+    "creative-offline",
+    "creative-pack"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.2,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 900.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.06,
+   "score_explain": [
+    "V=0.19: хвост 192.0 зв/сут против штатных 900.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-15",
+   "repo": "marksantoshq2002g9/hyperliquid-perp-market-maker-bot-2026",
+   "url": "https://github.com/marksantoshq2002g9/hyperliquid-perp-market-maker-bot-2026",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 377,
+   "forks": 45,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Hyperliquid Perp DEX Market-Maker, Vault Copytrader & Funding Rate Arbitrage Bot (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "hyperliquid-perp-market-maker-bot-2"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.2,
+    "stars_per_day_recent": 288.0,
+    "lifetime_stars_per_day": 754.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.05,
+   "score_explain": [
+    "V=0.32: хвост 288.0 зв/сут против штатных 754.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-16",
+   "repo": "daniel-jonescode1995n2/deadlock-cheat-esp",
+   "url": "https://github.com/daniel-jonescode1995n2/deadlock-cheat-esp",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 394,
+   "forks": 37,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 10,
+   "description": "Deadlock External Overlay, Bone ESP & Radar Config Suite",
+   "topics": [
+    "deadlock",
+    "deadlock-aimbot",
+    "deadlock-cheat",
+    "deadlock-esp",
+    "overlay",
+    "source2"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.2,
+    "stars_per_day_recent": 288.0,
+    "lifetime_stars_per_day": 788.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.02,
+   "score_explain": [
+    "V=0.31: хвост 288.0 зв/сут против штатных 788.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-18",
+   "repo": "dmitrysantosx1995g7/ai-ide-system-utilities-idm-pro-v6-42-portable-x64",
+   "url": "https://github.com/dmitrysantosx1995g7/ai-ide-system-utilities-idm-pro-v6-42-portable-x64",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 457,
+   "forks": 49,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "AI IDE & System Utilities IDM Pro v6.42 session-manager, Registry Cleaner & 32-Thread Booster: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "ai-cleaner",
+    "ai-idm",
+    "ai-pro",
+    "ai-quota",
+    "ai-registry",
+    "ai-reset"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.2,
+    "stars_per_day_recent": 288.0,
+    "lifetime_stars_per_day": 914.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.99,
+   "score_explain": [
+    "V=0.27: хвост 288.0 зв/сут против штатных 914.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-13",
+   "repo": "victor-miller-code2097u8/wave-executor",
+   "url": "https://github.com/victor-miller-code2097u8/wave-executor",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 388,
+   "forks": 9,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "Wave Executor Keyless — 100% sUNC Roblox Script Executor & LuaU Injector — Download prebuilt Windows 10/11 x64 release. Keywords: wave executor, velocity executor, roblox executor, keyless executor, sunc, roblox script, roblox hack, roblox cheat.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.3,
+    "stars_per_day_recent": 288.0,
+    "lifetime_stars_per_day": 776.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.98,
+   "score_explain": [
+    "V=0.32: хвост 288.0 зв/сут против штатных 776.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-20",
+   "repo": "ryanhall-2095a5/xeno-bootstrapper-multi-instance-roblox-account-portable-x",
+   "url": "https://github.com/ryanhall-2095a5/xeno-bootstrapper-multi-instance-roblox-account-portable-x",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 446,
+   "forks": 48,
+   "open_issues": 0,
+   "language": "C++",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 14,
+   "description": "Xeno bootstrapper Multi-Instance Roblox Account Manager & FPS extension: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "account",
+    "bridge",
+    "direct-bootstrapper",
+    "fps",
+    "instance",
+    "luau"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.0,
+    "stars_per_day_recent": 288.0,
+    "lifetime_stars_per_day": 892.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.98,
+   "score_explain": [
+    "V=0.28: хвост 288.0 зв/сут против штатных 892.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-17",
+   "repo": "artemclarkdev1993x2/path-of-exile-2-map-radar-download",
+   "url": "https://github.com/artemclarkdev1993x2/path-of-exile-2-map-radar-download",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 457,
+   "forks": 50,
+   "open_issues": 0,
+   "language": "C++",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Path of Exile 2 map-radar & fov-unlocker — Full Map Reveal, Fog Remover & Atlas Radar [Direct Download] — Download prebuilt Windows 10/11 x64 release. Keywords: path of exile 2, poe2, poe2 map-radar, poe2 cheat, poe2 hack, path of exile 2 cheat, poe2 fov-unlocker, poe2 flask macro.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.2,
+    "stars_per_day_recent": 288.0,
+    "lifetime_stars_per_day": 914.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.97,
+   "score_explain": [
+    "V=0.27: хвост 288.0 зв/сут против штатных 914.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-33",
+   "repo": "luke-wright-io94n2/solara-roblox-executor-2026",
+   "url": "https://github.com/luke-wright-io94n2/solara-roblox-executor-2026",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 301,
+   "forks": 17,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "Solara Roblox Executor — 100% UNC LuaU Script Runner for Windows 10/11 (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.0,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 602.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.97,
+   "score_explain": [
+    "V=0.28: хвост 192.0 зв/сут против штатных 602.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-21",
+   "repo": "antong-code95j8/rust-recoil-script-download",
+   "url": "https://github.com/antong-code95j8/rust-recoil-script-download",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 461,
+   "forks": 51,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Rust No-Recoil Script 2026 — Undetected HID Mouse Macro with Auto Weapon Detection [Direct Download] — Download prebuilt Windows 10/11 x64 release. Keywords: rust, rust cheat, rust cheats, rust hack, rust recoil script, rust no recoil, rust esp, rust aimbot.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "imgui"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.2,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 922.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.95,
+   "score_explain": [
+    "V=0.23: хвост 240.0 зв/сут против штатных 922.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-22",
+   "repo": "brown-99r5/solana-memecoin-raydium-v4-meteora-dlmm-portable-x64",
+   "url": "https://github.com/brown-99r5/solana-memecoin-raydium-v4-meteora-dlmm-portable-x64",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 449,
+   "forks": 87,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 14,
+   "description": "Solana & Memecoin Execution Suite Raydium V4 & Meteora DLMM Sub-50ms gRPC Geyser Sniper: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "50ms",
+    "copytrade-bot",
+    "dlmm",
+    "gmgn",
+    "grpc",
+    "jito-mev"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.0,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 898.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.94,
+   "score_explain": [
+    "V=0.24: хвост 240.0 зв/сут против штатных 898.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-24",
+   "repo": "roman-chencode1904b4/cad-3d-engineering-suite-autodesk-2026-autocad-revit-porta",
+   "url": "https://github.com/roman-chencode1904b4/cad-3d-engineering-suite-autodesk-2026-autocad-revit-porta",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 451,
+   "forks": 74,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "CAD, 3D & Engineering Suite Autodesk 2026 (AutoCAD, Revit, 3ds Max, Maya) NLM runtime-updater: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "2026",
+    "3ds",
+    "autocad",
+    "autocad-2026",
+    "autodesk",
+    "blender-addons"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.0,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 902.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.94,
+   "score_explain": [
+    "V=0.24: хвост 240.0 зв/сут против штатных 902.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-23",
+   "repo": "artem-petrovlab04i2/counter-strike-2-inventory-skin-knife-glove-portable-x64",
+   "url": "https://github.com/artem-petrovlab04i2/counter-strike-2-inventory-skin-knife-glove-portable-x64",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 468,
+   "forks": 75,
+   "open_issues": 0,
+   "language": "C++",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 14,
+   "description": "Counter-Strike 2 Inventory Skin, Knife & Glove Changer: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "changer",
+    "counter-changer",
+    "counter-glove",
+    "counter-inventory",
+    "counter-knife",
+    "counter-skin"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.0,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 936.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.93,
+   "score_explain": [
+    "V=0.23: хвост 240.0 зв/сут против штатных 936.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-29",
+   "repo": "nikita-taylor-eng1992h9/wave-velocity-bootstrapper-bloxstrap-2026-fflag-low-portab",
+   "url": "https://github.com/nikita-taylor-eng1992h9/wave-velocity-bootstrapper-bloxstrap-2026-fflag-low-portab",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 436,
+   "forks": 46,
+   "open_issues": 0,
+   "language": "C++",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 14,
+   "description": "Wave & Velocity bootstrapper Bloxstrap 2026 FFlag Low-Ping & Lighting Editor: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "2026",
+    "bloxstrap",
+    "editor",
+    "fflag",
+    "fflags",
+    "lighting"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.2,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 872.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.9,
+   "score_explain": [
+    "V=0.20: хвост 192.0 зв/сут против штатных 872.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-31",
+   "repo": "nikita-deveng1999g0/switch-emulator-keys-firmware-nsp-box-xci-nsp-portable-x64",
+   "url": "https://github.com/nikita-deveng1999g0/switch-emulator-keys-firmware-nsp-box-xci-nsp-portable-x64",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 456,
+   "forks": 81,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Switch Emulator Keys & Firmware NSP-Box Switch 2 XCI/NSP Decryption & Merge Toolkit: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "box",
+    "citron",
+    "decryption",
+    "emulator",
+    "merge",
+    "nsp"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.0,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 912.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.9,
+   "score_explain": [
+    "V=0.19: хвост 192.0 зв/сут против штатных 912.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-32",
+   "repo": "nikita-l-x2096f3/rust-external-stash-tc-player-portable-x64",
+   "url": "https://github.com/nikita-l-x2096f3/rust-external-stash-tc-player-portable-x64",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 448,
+   "forks": 77,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Rust External Stash, TC & Player Distance Overlay: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "ac-utility",
+    "distance",
+    "external",
+    "external-overlay",
+    "hid-macro",
+    "no-recoil"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.0,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 896.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.9,
+   "score_explain": [
+    "V=0.19: хвост 192.0 зв/сут против штатных 896.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-28",
+   "repo": "nikitadlab00k6/fivem-hwid-spoofer",
+   "url": "https://github.com/nikitadlab00k6/fivem-hwid-spoofer",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 443,
+   "forks": 5,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "FiveM HWID Spoofer & Unban Tool — Adhesive Global Ban Cleaner & Serial Resetter — Download prebuilt Windows 10/11 x64 release. Keywords: fivem, fivem cheat, fivem hack, fivem spoofer, fivem lua executor, fivem dumper, fivem aimbot, fivem esp.",
+   "topics": [
+    "cmake",
+    "configuration",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "fivem"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.0,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 886.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.89,
+   "score_explain": [
+    "V=0.20: хвост 192.0 зв/сут против штатных 886.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-34",
+   "repo": "benhhq1993s5/dune-awakening-external-player-ornithopter-radar-portable",
+   "url": "https://github.com/benhhq1993s5/dune-awakening-external-player-ornithopter-radar-portable",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 477,
+   "forks": 62,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Dune Awakening External Player/Ornithopter Radar & Recoil Helper: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "dune-awakening",
+    "dune-external",
+    "dune-helper",
+    "dune-ornithopter",
+    "dune-player",
+    "dune-radar"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.0,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 954.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.89,
+   "score_explain": [
+    "V=0.18: хвост 192.0 зв/сут против штатных 954.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-08",
+   "repo": "kyle-moore-code2001v1/marvel-rivals-hitscan-projectile-smoothing-assistant-porta",
+   "url": "https://github.com/kyle-moore-code2001v1/marvel-rivals-hitscan-projectile-smoothing-assistant-porta",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 462,
+   "forks": 65,
+   "open_issues": 0,
+   "language": "C++",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Marvel Rivals Hitscan & Projectile Smoothing Assistant: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "2026",
+    "assistant",
+    "fps-bridge",
+    "hitscan",
+    "hud",
+    "marvel-assistant"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 2.4,
+    "stars_per_day_recent": 80.0,
+    "lifetime_stars_per_day": 924.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.81,
+   "score_explain": [
+    "V=0.08: хвост 80.0 зв/сут против штатных 924.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-sec",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-38",
+   "repo": "yrf15gamin-pixel/ashampoo-winoptimizer-pro",
+   "url": "https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 119,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 366,
+   "description": "Ashampoo WinOptimizer Pro: Advanced Windows Tuning and System Optimization Suite",
+   "topics": [
+    "ashampoo-gmbh",
+    "ashampoo-uninstaller-install-setup-windows-2026",
+    "ashampoo-winoptimizer-system-clea",
+    "ashampoo-winoptimizer-windows",
+    "automation",
+    "clean-up"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 2.0,
+    "stars_per_day_recent": 47.0,
+    "lifetime_stars_per_day": 237.8,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.79,
+   "score_explain": [
+    "V=0.18: хвост 47.0 зв/сут против штатных 237.8 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-36",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 472803,
+   "forks": 115397,
+   "open_issues": 1310,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 211545,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "android",
+    "claude-code",
+    "cli",
+    "cpp"
+   ],
+   "signals": {
+    "age_days": 222.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.5,
+    "stars_per_day_recent": 62.5,
+    "lifetime_stars_per_day": 2129.68,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.78,
+   "score_explain": [
+    "V=0.02: хвост 62.5 зв/сут против штатных 2129.7 (x0)",
+    "N=0.2: репо 222 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-25",
+   "repo": "oscar-sops19g1/path-of-exile-2-auto-flask-dodge-roll-portable-x64",
+   "url": "https://github.com/oscar-sops19g1/path-of-exile-2-auto-flask-dodge-roll-portable-x64",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 474,
+   "forks": 75,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Path of Exile 2 Auto-Flask, Dodge-Roll & Life-Threshold Macro: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "auto",
+    "dodge",
+    "flask",
+    "flask-macro",
+    "life",
+    "loot-filter"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 2.6,
+    "stars_per_day_recent": 46.1,
+    "lifetime_stars_per_day": 948.0,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.77,
+   "score_explain": [
+    "V=0.05: хвост 46.1 зв/сут против штатных 948.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-26",
+   "repo": "mikekingeng04v2/slay-the-spire-2-relic-deck-gold-save-portable-x64",
+   "url": "https://github.com/mikekingeng04v2/slay-the-spire-2-relic-deck-gold-save-portable-x64",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 461,
+   "forks": 75,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "Slay the Spire 2 Relic, Deck & Gold Save Editor: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "console-bridge",
+    "csharp",
+    "deck",
+    "deck-tracker",
+    "editor",
+    "godot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 2.7,
+    "stars_per_day_recent": 43.9,
+    "lifetime_stars_per_day": 922.0,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.77,
+   "score_explain": [
+    "V=0.05: хвост 43.9 зв/сут против штатных 922.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-39",
+   "repo": "KatitoLoco/adobe-acrobat-pro",
+   "url": "https://github.com/KatitoLoco/adobe-acrobat-pro",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 118,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": null,
+   "archived": false,
+   "size_kb": 268,
+   "description": "Adobe Acrobat Pro: Advanced Authoring, Editing, and Workflow Desktop Suite",
+   "topics": [
+    "acrobat-dc-pro",
+    "acrobat-for-free-2026",
+    "acrobat-no-limits",
+    "acrobat-pdf",
+    "automation",
+    "desktop"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 2.1,
+    "stars_per_day_recent": 45.3,
+    "lifetime_stars_per_day": 233.23,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.66,
+   "score_explain": [
+    "V=0.18: хвост 45.3 зв/сут против штатных 233.2 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-40",
+   "repo": "RokonX/catia-cad",
+   "url": "https://github.com/RokonX/catia-cad",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 117,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 213,
+   "description": "Catia CAD: Complete Ready-to-Run Desktop CAD Environment with All Features Fully Enabled",
+   "topics": [
+    "automation",
+    "cad-drawings",
+    "catia",
+    "catia-v5",
+    "catiav5",
+    "desktop"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 2.2,
+    "stars_per_day_recent": 43.4,
+    "lifetime_stars_per_day": 234.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.75
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.41,
+   "lead_score": 0.46,
+   "score_explain": [
+    "V=0.17: хвост 43.4 зв/сут против штатных 234.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.41: self-star 0.0, кольца 0.75"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261122-01",
+   "repo": "ItsNotRexed/Leonida",
+   "url": "https://github.com/ItsNotRexed/Leonida",
+   "first_seen_at": "2026-11-22T01:01:22Z",
+   "channel": "gh_archive_watch",
+   "stars": 5596,
+   "forks": 392,
+   "open_issues": 120,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 3563,
+   "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+   "topics": [],
+   "signals": {
+    "age_days": 1.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 35,
+    "window_h": 2.9,
+    "stars_per_day_recent": 285.8,
+    "lifetime_stars_per_day": 4646.76,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.42,
+   "score_explain": [
+    "V=0.06: хвост 285.8 зв/сут против штатных 4646.8 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-22T05:01:22Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}
