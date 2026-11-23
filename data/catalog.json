@@ -39,7 +39,7 @@
 "repo": "xerj-org/xerj",
 "url": "https://github.com/xerj-org/xerj",
 "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory a",
-"stars": 18508.0,
+"stars": 20149.0,
 "spd": 404.3,
 "score": 1.77,
 "fit": 0.96,
@@ -48,10 +48,10 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-01T09:37:54Z",
-"hits": 9,
-"in_tg": false,
-"status": "cooled"
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 10,
+"in_tg": true,
+"status": "active"
 },
 "AhmadHassan-BTed/OpenHeart": {
 "repo": "AhmadHassan-BTed/OpenHeart",
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 83859.0,
+"stars": 84654.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "NOASSERTION",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-22T16:57:34Z",
-"hits": 115,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 116,
 "in_tg": true,
 "status": "active"
 },
@@ -903,8 +903,8 @@
 "repo": "Niko1221/Strata",
 "url": "https://github.com/Niko1221/Strata",
 "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-"stars": 41202.0,
-"spd": 144.0,
+"stars": 47305.0,
+"spd": 191.8,
 "score": 1.04,
 "fit": 0.74,
 "risk": 0.0,
@@ -912,10 +912,10 @@
 "license": "MIT",
 "language": "C++",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-07T08:57:12Z",
-"hits": 27,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 28,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "storytold/photocraft": {
 "repo": "storytold/photocraft",
@@ -1851,7 +1851,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 27,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "heygen-com/hyperframes": {
 "repo": "heygen-com/hyperframes",
@@ -2973,7 +2973,7 @@
 "repo": "blader/humanizer",
 "url": "https://github.com/blader/humanizer",
 "description": "Agent skill that removes signs of AI-generated writing from text",
-"stars": 72237.0,
+"stars": 72573.0,
 "spd": 85.4,
 "score": 1.13,
 "fit": 1.0,
@@ -2982,8 +2982,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-22T05:13:54Z",
-"last_seen": "2026-11-22T16:57:34Z",
-"hits": 9,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 10,
 "in_tg": true,
 "status": "active"
 },
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-"stars": 71989.0,
+"stars": 73551.0,
 "spd": 139.1,
 "score": 0.94,
 "fit": 0.74,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-23T02:58:41Z",
-"hits": 80,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 81,
 "in_tg": false,
 "status": "active"
 },
@@ -4593,7 +4593,7 @@
 "repo": "firecrawl/firecrawl",
 "url": "https://github.com/firecrawl/firecrawl",
 "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
-"stars": 206765.0,
+"stars": 207458.0,
 "spd": 154.4,
 "score": 1.07,
 "fit": 0.83,
@@ -4602,8 +4602,8 @@
 "license": "AGPL-3.0",
 "language": "TypeScript",
 "first_seen": "2026-10-24T11:17:52Z",
-"last_seen": "2026-11-22T16:57:34Z",
-"hits": 19,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 20,
 "in_tg": false,
 "status": "active"
 },
@@ -8691,7 +8691,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 46,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Columnphoatone/Microsoft-365": {
 "repo": "Columnphoatone/Microsoft-365",
@@ -10857,7 +10857,7 @@
 "repo": "storytold/craft-anything",
 "url": "https://github.com/storytold/craft-anything",
 "description": "Craft Anything: understand how any software works, and craft your own.",
-"stars": 40626.0,
+"stars": 41766.0,
 "spd": 145.7,
 "score": 0.5,
 "fit": 0.0,
@@ -10866,8 +10866,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-11-01T09:27:00Z",
-"last_seen": "2026-11-22T08:35:40Z",
-"hits": 65,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 66,
 "in_tg": false,
 "status": "active"
 },
@@ -12759,7 +12759,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 26,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "open-wxa/wxa-runner": {
 "repo": "open-wxa/wxa-runner",
@@ -17349,7 +17349,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 27,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Colossuscliobserve55/cinema-4d": {
 "repo": "Colossuscliobserve55/cinema-4d",
@@ -21963,7 +21963,7 @@
 "repo": "BaaRai/ARTEX",
 "url": "https://github.com/BaaRai/ARTEX",
 "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"stars": 15887.0,
+"stars": 16956.0,
 "spd": 89.7,
 "score": 1.31,
 "fit": 0.96,
@@ -21972,8 +21972,8 @@
 "license": "AGPL-3.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-22T16:57:34Z",
-"hits": 22,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 23,
 "in_tg": true,
 "status": "active"
 },
@@ -23073,7 +23073,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 3,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "alice-white-73/microsoft-project-desktop": {
 "repo": "alice-white-73/microsoft-project-desktop",
@@ -23349,7 +23349,7 @@
 "repo": "elementalsouls/Claude-BugHunter",
 "url": "https://github.com/elementalsouls/Claude-BugHunter",
 "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-"stars": 18008.0,
+"stars": 18833.0,
 "spd": 144.0,
 "score": 1.71,
 "fit": 0.76,
@@ -23358,8 +23358,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-23T02:58:41Z",
-"hits": 23,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 24,
 "in_tg": true,
 "status": "active"
 },
@@ -24477,7 +24477,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 8,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "DuskBotAI/duskbot": {
 "repo": "DuskBotAI/duskbot",
@@ -25509,7 +25509,7 @@
 "repo": "mjmirza/app-store-compliance",
 "url": "https://github.com/mjmirza/app-store-compliance",
 "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlin",
-"stars": 4066.0,
+"stars": 4475.0,
 "spd": 69.6,
 "score": 1.95,
 "fit": 0.52,
@@ -25518,8 +25518,8 @@
 "license": "NOASSERTION",
 "language": "Shell",
 "first_seen": "2026-11-18T14:18:51Z",
-"last_seen": "2026-11-23T02:58:41Z",
-"hits": 4,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 5,
 "in_tg": true,
 "status": "active"
 },
@@ -25905,7 +25905,7 @@
 "repo": "simplexai-labs/linger",
 "url": "https://github.com/simplexai-labs/linger",
 "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design",
-"stars": 3140.0,
+"stars": 4075.0,
 "spd": 63.6,
 "score": 1.26,
 "fit": 0.74,
@@ -25914,10 +25914,10 @@
 "license": "NOASSERTION",
 "language": "TypeScript",
 "first_seen": "2026-11-19T13:33:16Z",
-"last_seen": "2026-11-21T11:26:47Z",
-"hits": 5,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 6,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "Likely7/Veyra-NRVideo": {
 "repo": "Likely7/Veyra-NRVideo",
@@ -26823,7 +26823,7 @@
 "repo": "XiaoYouChR/Ghost-Downloader-3",
 "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
 "description": "The only downloader you need. 下载器的集大成者。",
-"stars": 13192.0,
+"stars": 15871.0,
 "spd": 109.3,
 "score": 2.0,
 "fit": 0.65,
@@ -26832,10 +26832,10 @@
 "license": "GPL-3.0",
 "language": "Python",
 "first_seen": "2026-11-20T01:05:25Z",
-"last_seen": "2026-11-20T08:56:59Z",
-"hits": 2,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 3,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "dynamicdeblackice-commits/joplin-arvella-notes": {
 "repo": "dynamicdeblackice-commits/joplin-arvella-notes",
@@ -27069,7 +27069,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 5,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Tracer-Cloud/opensre": {
 "repo": "Tracer-Cloud/opensre",
@@ -28119,7 +28119,7 @@
 "repo": "ItsNotRexed/Leonida",
 "url": "https://github.com/ItsNotRexed/Leonida",
 "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-"stars": 15833.0,
+"stars": 19104.0,
 "spd": 294.2,
 "score": 0.44,
 "fit": 0.0,
@@ -28128,8 +28128,8 @@
 "license": "GPL-3.0",
 "language": "Python",
 "first_seen": "2026-11-21T19:30:47Z",
-"last_seen": "2026-11-23T02:58:41Z",
-"hits": 10,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 11,
 "in_tg": false,
 "status": "active"
 },
@@ -28977,7 +28977,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "cookandrey/driver-genius-pro-win": {
 "repo": "cookandrey/driver-genius-pro-win",
@@ -28995,7 +28995,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "blackhost05678/whale-tracker": {
 "repo": "blackhost05678/whale-tracker",
@@ -29013,7 +29013,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "kiwiqaaustralia/tenorshare-4ukey-utility": {
 "repo": "kiwiqaaustralia/tenorshare-4ukey-utility",
@@ -29031,7 +29031,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "VitalyMukherjee92/lightroom-classic-win": {
 "repo": "VitalyMukherjee92/lightroom-classic-win",
@@ -29049,7 +29049,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "raniaapp/v-ray-for-rhino-win": {
 "repo": "raniaapp/v-ray-for-rhino-win",
@@ -29067,7 +29067,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "LuisDesai/trimble-sketchup-win": {
 "repo": "LuisDesai/trimble-sketchup-win",
@@ -29085,7 +29085,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "dongarenikhilit047-star/portfolio-rebalancer": {
 "repo": "dongarenikhilit047-star/portfolio-rebalancer",
@@ -29103,7 +29103,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "lisarojas90/microsoft-outlook-win": {
 "repo": "lisarojas90/microsoft-outlook-win",
@@ -29121,7 +29121,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "GuzmanJacqueline93/copy-ai-pro-win": {
 "repo": "GuzmanJacqueline93/copy-ai-pro-win",
@@ -29139,7 +29139,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mohamedxds2/archicad-desktop-utility": {
 "repo": "mohamedxds2/archicad-desktop-utility",
@@ -29157,7 +29157,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "polinatech94/postman-pro-win": {
 "repo": "polinatech94/postman-pro-win",
@@ -29175,7 +29175,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "rockford007/xyplorer-file-manager": {
 "repo": "rockford007/xyplorer-file-manager",
@@ -29193,7 +29193,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Debrde30/deepl-pro-win": {
 "repo": "Debrde30/deepl-pro-win",
@@ -29211,7 +29211,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sloweastlab1987/wise-care-365-pro-win": {
 "repo": "sloweastlab1987/wise-care-365-pro-win",
@@ -29229,7 +29229,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "repoonline90/vegas-pro-20-win": {
 "repo": "repoonline90/vegas-pro-20-win",
@@ -29247,7 +29247,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "snpandeylicidgp-tech/voicemod-pro": {
 "repo": "snpandeylicidgp-tech/voicemod-pro",
@@ -29265,7 +29265,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "andrewpandey/maya-lt-win": {
 "repo": "andrewpandey/maya-lt-win",
@@ -29283,7 +29283,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "meiluo13/sylenth1-win": {
 "repo": "meiluo13/sylenth1-win",
@@ -29301,7 +29301,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "eastspaper6-cmyk/ninjatrader-bot": {
 "repo": "eastspaper6-cmyk/ninjatrader-bot",
@@ -29319,7 +29319,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "rcgaming265-afk/claude-prompt-studio": {
 "repo": "rcgaming265-afk/claude-prompt-studio",
@@ -29337,7 +29337,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ravi36/superior-drummer-3-win": {
 "repo": "ravi36/superior-drummer-3-win",
@@ -29355,7 +29355,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "winkler2001dominik-debug/trx-drainer-bot": {
 "repo": "winkler2001dominik-debug/trx-drainer-bot",
@@ -29373,7 +29373,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "drillryte/easy-worship": {
 "repo": "drillryte/easy-worship",
@@ -29391,7 +29391,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "committreeloop/acronis-true-image-win": {
 "repo": "committreeloop/acronis-true-image-win",
@@ -29409,7 +29409,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mohidur2005/abbyy-finereader-pdf": {
 "repo": "mohidur2005/abbyy-finereader-pdf",
@@ -29427,7 +29427,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Mahmoudp06/xfer-serum-win": {
 "repo": "Mahmoudp06/xfer-serum-win",
@@ -29445,7 +29445,7 @@
 "last_seen": "2026-11-22T08:35:40Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "DeltaRaikageGive/rob-run-mod-menu": {
 "repo": "DeltaRaikageGive/rob-run-mod-menu",
@@ -29523,7 +29523,7 @@
 "repo": "EL4CTEO/fast-anything",
 "url": "https://github.com/EL4CTEO/fast-anything",
 "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-"stars": 2027.0,
+"stars": 2650.0,
 "spd": 52.4,
 "score": 0.96,
 "fit": 0.74,
@@ -29532,8 +29532,8 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-11-22T16:28:04Z",
-"last_seen": "2026-11-23T02:58:41Z",
-"hits": 3,
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 4,
 "in_tg": false,
 "status": "new"
 },
@@ -30361,6 +30361,114 @@
 "language": "",
 "first_seen": "2026-11-23T02:58:41Z",
 "last_seen": "2026-11-23T02:58:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"hovocope135-tech/DSH-projects": {
+"repo": "hovocope135-tech/DSH-projects",
+"url": "https://github.com/hovocope135-tech/DSH-projects",
+"description": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the",
+"stars": 385,
+"spd": 127.5,
+"score": 1.73,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "JavaScript",
+"first_seen": "2026-11-23T12:12:50Z",
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"antigravity-cn-community/Antigravity-Chinese-Localization": {
+"repo": "antigravity-cn-community/Antigravity-Chinese-Localization",
+"url": "https://github.com/antigravity-cn-community/Antigravity-Chinese-Localization",
+"description": "antigravity一键汉化",
+"stars": 1628,
+"spd": 52.7,
+"score": 1.24,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "MIT",
+"language": "JavaScript",
+"first_seen": "2026-11-23T12:12:50Z",
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"imputnet/cobalt": {
+"repo": "imputnet/cobalt",
+"url": "https://github.com/imputnet/cobalt",
+"description": "best way to save what you love",
+"stars": 46861,
+"spd": 52.3,
+"score": 1.17,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": "AGPL-3.0",
+"language": "Svelte",
+"first_seen": "2026-11-23T12:12:50Z",
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"AFK-surf/xnulinux": {
+"repo": "AFK-surf/xnulinux",
+"url": "https://github.com/AFK-surf/xnulinux",
+"description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+"stars": 896,
+"spd": 192.0,
+"score": 1.15,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "NOASSERTION",
+"language": "Objective-C++",
+"first_seen": "2026-11-23T12:12:50Z",
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"erkamyaman/safe-anything": {
+"repo": "erkamyaman/safe-anything",
+"url": "https://github.com/erkamyaman/safe-anything",
+"description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+"stars": 293,
+"spd": 41.6,
+"score": 1.13,
+"fit": 0.89,
+"risk": 0.0,
+"ps": "PS-sec",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-23T12:12:50Z",
+"last_seen": "2026-11-23T12:12:50Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"os6/nospeaker": {
+"repo": "os6/nospeaker",
+"url": "https://github.com/os6/nospeaker",
+"description": "make your macbook's trackpad talk using its haptic motor",
+"stars": 886,
+"spd": 144.0,
+"score": 0.5,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "MIT",
+"language": "Swift",
+"first_seen": "2026-11-23T12:12:50Z",
+"last_seen": "2026-11-23T12:12:50Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
