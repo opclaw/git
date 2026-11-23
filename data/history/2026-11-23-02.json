@@ -1,0 +1,882 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-23T02:58:35Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-11-22-22",
+  "to": "2026-11-23-1",
+  "watch_events": 717,
+  "repos": 616,
+  "actors": 658,
+  "ring_accounts": 7,
+  "api_calls": 16,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261123-04",
+   "repo": "wildswiftintroduce/rob-run-mod-menu-zoel",
+   "url": "https://github.com/wildswiftintroduce/rob-run-mod-menu-zoel",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 323,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 3,
+   "description": null,
+   "topics": [
+    "rob-run-aim",
+    "rob-run-esp-tool",
+    "rob-run-menu-hotkeys",
+    "rob-run-mod"
+   ],
+   "signals": {
+    "age_days": 149.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.2,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 2.16,
+    "acceleration": 88.7,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.76,
+   "score_explain": [
+    "V=2.70: хвост 192.0 зв/сут против штатных 2.2 (x89)",
+    "N=0.6: репо 149 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-07",
+   "repo": "FloorHelmsmanAxle95/-Grand-Theft-Auto-VI-preload-pc",
+   "url": "https://github.com/FloorHelmsmanAxle95/-Grand-Theft-Auto-VI-preload-pc",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 323,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": null,
+   "archived": false,
+   "size_kb": 3,
+   "description": null,
+   "topics": [
+    "gta-6-install-guide",
+    "gta-6-pc-emulator",
+    "gta-download",
+    "gta6-disk-space",
+    "gta6-preload"
+   ],
+   "signals": {
+    "age_days": 149.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.3,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 2.16,
+    "acceleration": 66.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.6,
+   "score_explain": [
+    "V=2.53: хвост 144.0 зв/сут против штатных 2.2 (x67)",
+    "N=0.6: репо 149 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-09",
+   "repo": "jushengzhang/CE-Graph",
+   "url": "https://github.com/jushengzhang/CE-Graph",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 392,
+   "forks": 1,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 894,
+   "description": "CE-Graph: Failure-Driven Workflow Refinement (ICML 2026). Reference implementation, benchmark runners, and reproducible examples.",
+   "topics": [],
+   "signals": {
+    "age_days": 19.6,
+    "last_push_days_ago": 19,
+    "stars_in_window": 3,
+    "window_h": 1.0,
+    "stars_per_day_recent": 72.0,
+    "lifetime_stars_per_day": 19.97,
+    "acceleration": 3.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.89,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.33,
+   "score_explain": [
+    "V=1.53: хвост 72.0 зв/сут против штатных 20.0 (x4)",
+    "N=1.0: репо 20 дн от роду",
+    "C=0.5: пуш 19 дн назад",
+    "fit=0.89 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-08",
+   "repo": "elementalsouls/Claude-BugHunter",
+   "url": "https://github.com/elementalsouls/Claude-BugHunter",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 18008,
+   "forks": 1983,
+   "open_issues": 18,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 3779,
+   "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+   "topics": [
+    "ai-security",
+    "anthropic",
+    "application-security",
+    "bug-bounty",
+    "bugbounty",
+    "bugcrowd"
+   ],
+   "signals": {
+    "age_days": 201.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.9,
+    "stars_per_day_recent": 76.2,
+    "lifetime_stars_per_day": 89.3,
+    "acceleration": 0.9,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.11,
+   "score_explain": [
+    "V=0.37: хвост 76.2 зв/сут против штатных 89.3 (x1)",
+    "N=0.2: репо 202 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-13",
+   "repo": "mjmirza/app-store-compliance",
+   "url": "https://github.com/mjmirza/app-store-compliance",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 4066,
+   "forks": 242,
+   "open_issues": 28,
+   "language": "Shell",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 2229,
+   "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+   "topics": [
+    "accessibility",
+    "ai-agents",
+    "android",
+    "app-review-guidelines",
+    "app-store",
+    "app-store-connect"
+   ],
+   "signals": {
+    "age_days": 169.6,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 3.1,
+    "stars_per_day_recent": 23.2,
+    "lifetime_stars_per_day": 23.97,
+    "acceleration": 1.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.04,
+   "score_explain": [
+    "V=0.41: хвост 23.2 зв/сут против штатных 24.0 (x1)",
+    "N=0.6: репо 170 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-16",
+   "repo": "google-labs-code/stitch-skills",
+   "url": "https://github.com/google-labs-code/stitch-skills",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 11961,
+   "forks": 1475,
+   "open_issues": 28,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 271,
+   "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+   "topics": [],
+   "signals": {
+    "age_days": 310.4,
+    "last_push_days_ago": 2,
+    "stars_in_window": 3,
+    "window_h": 3.3,
+    "stars_per_day_recent": 21.7,
+    "lifetime_stars_per_day": 38.53,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.02,
+   "score_explain": [
+    "V=0.27: хвост 21.7 зв/сут против штатных 38.5 (x1)",
+    "N=0.2: репо 310 дн от роду",
+    "C=1.0: пуш 2 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-05",
+   "repo": "havenicec/google-qr-sms-helper",
+   "url": "https://github.com/havenicec/google-qr-sms-helper",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 3279,
+   "forks": 660,
+   "open_issues": 24,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 99,
+   "description": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
+   "topics": [
+    "browser-automation",
+    "chrome-extension",
+    "google-auth",
+    "manifest-v3",
+    "sms-verification"
+   ],
+   "signals": {
+    "age_days": 27.7,
+    "last_push_days_ago": 25,
+    "stars_in_window": 4,
+    "window_h": 2.2,
+    "stars_per_day_recent": 42.8,
+    "lifetime_stars_per_day": 118.48,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.97,
+   "score_explain": [
+    "V=0.31: хвост 42.8 зв/сут против штатных 118.5 (x0)",
+    "N=1.0: репо 28 дн от роду",
+    "C=0.5: пуш 25 дн назад",
+    "fit=0.5 -> PS-sec",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-14",
+   "repo": "EL4CTEO/fast-anything",
+   "url": "https://github.com/EL4CTEO/fast-anything",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 2027,
+   "forks": 126,
+   "open_issues": 7,
+   "language": "Rust",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 1024,
+   "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-code-plugin",
+    "codex",
+    "developer-tools"
+   ],
+   "signals": {
+    "age_days": 1.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 3.1,
+    "stars_per_day_recent": 22.9,
+    "lifetime_stars_per_day": 1340.08,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.94,
+   "score_explain": [
+    "V=0.02: хвост 22.9 зв/сут против штатных 1340.1 (x0)",
+    "N=1.0: репо 2 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-02",
+   "repo": "pingdotgg/t3code",
+   "url": "https://github.com/pingdotgg/t3code",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 71989,
+   "forks": 12151,
+   "open_issues": 3782,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 997381,
+   "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+   "topics": [
+    "agent-orchestration",
+    "agents",
+    "ai",
+    "chatgpt",
+    "claude",
+    "claude-code"
+   ],
+   "signals": {
+    "age_days": 287.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 8,
+    "window_h": 2.7,
+    "stars_per_day_recent": 70.4,
+    "lifetime_stars_per_day": 250.72,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.91,
+   "score_explain": [
+    "V=0.15: хвост 70.4 зв/сут против штатных 250.7 (x0)",
+    "N=0.2: репо 287 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-12",
+   "repo": "fernandeslokesh10/figma-desktop-win",
+   "url": "https://github.com/fernandeslokesh10/figma-desktop-win",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 390,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 177,
+   "description": "Figma - collaborative design and prototyping platform for interface design, vector graphics and team workflows on Windows 10/11",
+   "topics": [
+    "design",
+    "design-tools",
+    "desktop",
+    "figma",
+    "figma-app",
+    "figma-desktop"
+   ],
+   "signals": {
+    "age_days": 1.5,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 2.2,
+    "stars_per_day_recent": 32.2,
+    "lifetime_stars_per_day": 259.93,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.9,
+   "score_explain": [
+    "V=0.12: хвост 32.2 зв/сут против штатных 259.9 (x0)",
+    "N=1.0: репо 2 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-06",
+   "repo": "stablyai/orca",
+   "url": "https://github.com/stablyai/orca",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 133194,
+   "forks": 8510,
+   "open_issues": 9072,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 3296796,
+   "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
+   "topics": [
+    "agent-ide",
+    "ai-agents",
+    "automation",
+    "bot",
+    "claude-code",
+    "codex"
+   ],
+   "signals": {
+    "age_days": 251.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.5,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 530.7,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.81,
+   "score_explain": [
+    "V=0.14: хвост 144.0 зв/сут против штатных 530.7 (x0)",
+    "N=0.2: репо 251 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-11",
+   "repo": "moon-dark2000/todoist-pro-win",
+   "url": "https://github.com/moon-dark2000/todoist-pro-win",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 368,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 182,
+   "description": "Todoist - task management application for project organization, task scheduling and productivity tracking on Windows 10/11",
+   "topics": [
+    "gtd",
+    "knowledge-management",
+    "note-taking",
+    "notes-app",
+    "pro",
+    "productivity"
+   ],
+   "signals": {
+    "age_days": 1.4,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 2.0,
+    "stars_per_day_recent": 36.6,
+    "lifetime_stars_per_day": 257.11,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.18,
+   "lead_score": 0.81,
+   "score_explain": [
+    "V=0.13: хвост 36.6 зв/сут против штатных 257.1 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-15",
+   "repo": "morluto/rea",
+   "url": "https://github.com/morluto/rea",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 474247,
+   "forks": 115624,
+   "open_issues": 1336,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 217199,
+   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "topics": [
+    "agent-skills",
+    "ai",
+    "android",
+    "claude-code",
+    "cli",
+    "cpp"
+   ],
+   "signals": {
+    "age_days": 223.1,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 3.2,
+    "stars_per_day_recent": 22.3,
+    "lifetime_stars_per_day": 2125.83,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.77,
+   "score_explain": [
+    "V=0.01: хвост 22.3 зв/сут против штатных 2125.8 (x0)",
+    "N=0.2: репо 223 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-01",
+   "repo": "ItsNotRexed/Leonida",
+   "url": "https://github.com/ItsNotRexed/Leonida",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 15833,
+   "forks": 1316,
+   "open_issues": 1583,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 24681,
+   "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+   "topics": [],
+   "signals": {
+    "age_days": 2.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 22,
+    "window_h": 3.7,
+    "stars_per_day_recent": 143.1,
+    "lifetime_stars_per_day": 6927.05,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.38,
+   "score_explain": [
+    "V=0.02: хвост 143.1 зв/сут против штатных 6927.0 (x0)",
+    "N=1.0: репо 2 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-03",
+   "repo": "anthropics/skills",
+   "url": "https://github.com/anthropics/skills",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 199058,
+   "forks": 23298,
+   "open_issues": 1569,
+   "language": "Python",
+   "license": null,
+   "archived": false,
+   "size_kb": 5542,
+   "description": "Public repository for Agent Skills",
+   "topics": [
+    "agent-skills"
+   ],
+   "signals": {
+    "age_days": 426.5,
+    "last_push_days_ago": 6,
+    "stars_in_window": 5,
+    "window_h": 2.4,
+    "stars_per_day_recent": 49.3,
+    "lifetime_stars_per_day": 466.77,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.37,
+   "score_explain": [
+    "V=0.06: хвост 49.3 зв/сут против штатных 466.8 (x0)",
+    "N=0.2: репо 426 дн от роду",
+    "C=1.0: пуш 6 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261123-10",
+   "repo": "sindresorhus/awesome",
+   "url": "https://github.com/sindresorhus/awesome",
+   "first_seen_at": "2026-11-23T02:58:35Z",
+   "channel": "gh_archive_watch",
+   "stars": 541164,
+   "forks": 38604,
+   "open_issues": 103,
+   "language": null,
+   "license": "CC0-1.0",
+   "archived": false,
+   "size_kb": 1566,
+   "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "lists",
+    "resources",
+    "unicorns"
+   ],
+   "signals": {
+    "age_days": 4517.6,
+    "last_push_days_ago": 82,
+    "stars_in_window": 3,
+    "window_h": 1.8,
+    "stars_per_day_recent": 39.7,
+    "lifetime_stars_per_day": 119.79,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.26,
+   "score_explain": [
+    "V=0.17: хвост 39.7 зв/сут против штатных 119.8 (x0)",
+    "N=0.2: репо 4518 дн от роду",
+    "C=0.0: пуш 82 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-23T06:58:35Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}

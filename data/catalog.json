@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 473753.0,
+"stars": 474247.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-22T16:57:34Z",
-"hits": 176,
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 177,
 "in_tg": false,
 "status": "active"
 },
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
-"stars": 131228.0,
+"stars": 133194.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,10 +1398,10 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-21T06:08:14Z",
-"hits": 58,
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 59,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "val-tools/.github": {
 "repo": "val-tools/.github",
@@ -1659,7 +1659,7 @@
 "repo": "sindresorhus/awesome",
 "url": "https://github.com/sindresorhus/awesome",
 "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-"stars": 539892.0,
+"stars": 541164.0,
 "spd": 144.0,
 "score": 0.53,
 "fit": 0.0,
@@ -1668,10 +1668,10 @@
 "license": "CC0-1.0",
 "language": "",
 "first_seen": "2026-10-20T19:30:26Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 24,
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 25,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "AhmadHassan-BTed/NaSuno": {
 "repo": "AhmadHassan-BTed/NaSuno",
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-"stars": 71137.0,
+"stars": 71989.0,
 "spd": 139.1,
 "score": 0.94,
 "fit": 0.74,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-22T16:57:34Z",
-"hits": 79,
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 80,
 "in_tg": false,
 "status": "active"
 },
@@ -8787,7 +8787,7 @@
 "repo": "anthropics/skills",
 "url": "https://github.com/anthropics/skills",
 "description": "Public repository for Agent Skills",
-"stars": 196166.0,
+"stars": 199058.0,
 "spd": 144.0,
 "score": 0.46,
 "fit": 0.52,
@@ -8796,10 +8796,10 @@
 "license": null,
 "language": "Python",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-17T04:39:35Z",
-"hits": 14,
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 15,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "jamixm4-crypto/natbypass": {
 "repo": "jamixm4-crypto/natbypass",
@@ -23349,7 +23349,7 @@
 "repo": "elementalsouls/Claude-BugHunter",
 "url": "https://github.com/elementalsouls/Claude-BugHunter",
 "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-"stars": 17646.0,
+"stars": 18008.0,
 "spd": 144.0,
 "score": 1.71,
 "fit": 0.76,
@@ -23358,8 +23358,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-22T22:23:38Z",
-"hits": 22,
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 23,
 "in_tg": true,
 "status": "active"
 },
@@ -24783,7 +24783,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 3,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "hemraj-alnafi/sparkit-raw-plugin": {
 "repo": "hemraj-alnafi/sparkit-raw-plugin",
@@ -25401,7 +25401,7 @@
 "repo": "google-labs-code/stitch-skills",
 "url": "https://github.com/google-labs-code/stitch-skills",
 "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C",
-"stars": 10255,
+"stars": 11961.0,
 "spd": 29.1,
 "score": 1.12,
 "fit": 0.74,
@@ -25410,10 +25410,10 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-18T10:31:59Z",
-"last_seen": "2026-11-18T10:31:59Z",
-"hits": 1,
-"in_tg": false,
-"status": "cooled"
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 2,
+"in_tg": true,
+"status": "active"
 },
 "Saadpeng436/neural-dsp-archetype-bundle-desktop": {
 "repo": "Saadpeng436/neural-dsp-archetype-bundle-desktop",
@@ -25508,8 +25508,8 @@
 "mjmirza/app-store-compliance": {
 "repo": "mjmirza/app-store-compliance",
 "url": "https://github.com/mjmirza/app-store-compliance",
-"description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlin",
-"stars": 3401.0,
+"description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlin",
+"stars": 4066.0,
 "spd": 69.6,
 "score": 1.95,
 "fit": 0.52,
@@ -25518,8 +25518,8 @@
 "license": "NOASSERTION",
 "language": "Shell",
 "first_seen": "2026-11-18T14:18:51Z",
-"last_seen": "2026-11-22T01:01:34Z",
-"hits": 3,
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 4,
 "in_tg": true,
 "status": "active"
 },
@@ -27975,7 +27975,7 @@
 "repo": "havenicec/google-qr-sms-helper",
 "url": "https://github.com/havenicec/google-qr-sms-helper",
 "description": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
-"stars": 2841.0,
+"stars": 3279.0,
 "spd": 166.7,
 "score": 1.89,
 "fit": 0.5,
@@ -27984,8 +27984,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-11-21T11:26:47Z",
-"last_seen": "2026-11-22T16:57:34Z",
-"hits": 6,
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 7,
 "in_tg": true,
 "status": "active"
 },
@@ -28113,13 +28113,13 @@
 "last_seen": "2026-11-22T00:29:39Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ItsNotRexed/Leonida": {
 "repo": "ItsNotRexed/Leonida",
 "url": "https://github.com/ItsNotRexed/Leonida",
 "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-"stars": 14316.0,
+"stars": 15833.0,
 "spd": 294.2,
 "score": 0.44,
 "fit": 0.0,
@@ -28128,8 +28128,8 @@
 "license": "GPL-3.0",
 "language": "Python",
 "first_seen": "2026-11-21T19:30:47Z",
-"last_seen": "2026-11-22T22:23:38Z",
-"hits": 9,
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 10,
 "in_tg": false,
 "status": "active"
 },
@@ -28329,7 +28329,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "eric-lopezdev1992b4/polar-client-skyblock-mining-2026": {
 "repo": "eric-lopezdev1992b4/polar-client-skyblock-mining-2026",
@@ -28347,7 +28347,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "chris-code-90e9/3utools-pro-mdm-unlocker-2026": {
 "repo": "chris-code-90e9/3utools-pro-mdm-unlocker-2026",
@@ -28365,7 +28365,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "ericmoorecode2001j6/monster-hunter-wilds-reframework-download": {
 "repo": "ericmoorecode2001j6/monster-hunter-wilds-reframework-download",
@@ -28383,7 +28383,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "dmitry-m-99v2/schedule-1-mod-menu-download": {
 "repo": "dmitry-m-99v2/schedule-1-mod-menu-download",
@@ -28401,7 +28401,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "victor-miller-code2097u8/cs2-cheat-esp-aimbot": {
 "repo": "victor-miller-code2097u8/cs2-cheat-esp-aimbot",
@@ -28419,7 +28419,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "leonsilvadev96h0/subnautica-2-co-op-host-sync-portable-x64": {
 "repo": "leonsilvadev96h0/subnautica-2-co-op-host-sync-portable-x64",
@@ -28437,7 +28437,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "oscar-j-code1904n1/blox-fruits-script": {
 "repo": "oscar-j-code1904n1/blox-fruits-script",
@@ -28455,7 +28455,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sam-santos1905e5/slay-the-spire-2-trainer": {
 "repo": "sam-santos1905e5/slay-the-spire-2-trainer",
@@ -28473,7 +28473,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sergey-kingx89f1/spt-aki-profile-editor-tarkov-2026": {
 "repo": "sergey-kingx89f1/spt-aki-profile-editor-tarkov-2026",
@@ -28491,7 +28491,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ivan-taylorio94v4/marvel-rivals-cheat-download": {
 "repo": "ivan-taylorio94v4/marvel-rivals-cheat-download",
@@ -28509,7 +28509,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "oscar-kumareng1996j2/robrun-cheat": {
 "repo": "oscar-kumareng1996j2/robrun-cheat",
@@ -28527,7 +28527,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "leon-moore-v9/creative-video-topaz-ai-photo-ai-portable-x64": {
 "repo": "leon-moore-v9/creative-video-topaz-ai-photo-ai-portable-x64",
@@ -28545,7 +28545,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "chriscodex1989b0/deadlock-cheat": {
 "repo": "chriscodex1989b0/deadlock-cheat",
@@ -28563,7 +28563,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "marksantoshq2002g9/hyperliquid-perp-market-maker-bot-2026": {
 "repo": "marksantoshq2002g9/hyperliquid-perp-market-maker-bot-2026",
@@ -28581,7 +28581,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "daniel-jonescode1995n2/deadlock-cheat-esp": {
 "repo": "daniel-jonescode1995n2/deadlock-cheat-esp",
@@ -28599,7 +28599,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "victor-miller-code2097u8/wave-executor": {
 "repo": "victor-miller-code2097u8/wave-executor",
@@ -28617,7 +28617,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "dmitrysantosx1995g7/ai-ide-system-utilities-idm-pro-v6-42-portable-x64": {
 "repo": "dmitrysantosx1995g7/ai-ide-system-utilities-idm-pro-v6-42-portable-x64",
@@ -28635,7 +28635,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "artemclarkdev1993x2/path-of-exile-2-map-radar-download": {
 "repo": "artemclarkdev1993x2/path-of-exile-2-map-radar-download",
@@ -28653,7 +28653,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ryanhall-2095a5/xeno-bootstrapper-multi-instance-roblox-account-portable-x": {
 "repo": "ryanhall-2095a5/xeno-bootstrapper-multi-instance-roblox-account-portable-x",
@@ -28671,7 +28671,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "luke-wright-io94n2/solara-roblox-executor-2026": {
 "repo": "luke-wright-io94n2/solara-roblox-executor-2026",
@@ -28689,7 +28689,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "antong-code95j8/rust-recoil-script-download": {
 "repo": "antong-code95j8/rust-recoil-script-download",
@@ -28707,7 +28707,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "brown-99r5/solana-memecoin-raydium-v4-meteora-dlmm-portable-x64": {
 "repo": "brown-99r5/solana-memecoin-raydium-v4-meteora-dlmm-portable-x64",
@@ -28725,7 +28725,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "roman-chencode1904b4/cad-3d-engineering-suite-autodesk-2026-autocad-revit-porta": {
 "repo": "roman-chencode1904b4/cad-3d-engineering-suite-autodesk-2026-autocad-revit-porta",
@@ -28743,7 +28743,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "artem-petrovlab04i2/counter-strike-2-inventory-skin-knife-glove-portable-x64": {
 "repo": "artem-petrovlab04i2/counter-strike-2-inventory-skin-knife-glove-portable-x64",
@@ -28761,7 +28761,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "nikitadlab00k6/fivem-hwid-spoofer": {
 "repo": "nikitadlab00k6/fivem-hwid-spoofer",
@@ -28779,7 +28779,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "nikita-taylor-eng1992h9/wave-velocity-bootstrapper-bloxstrap-2026-fflag-low-portab": {
 "repo": "nikita-taylor-eng1992h9/wave-velocity-bootstrapper-bloxstrap-2026-fflag-low-portab",
@@ -28797,7 +28797,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "nikita-deveng1999g0/switch-emulator-keys-firmware-nsp-box-xci-nsp-portable-x64": {
 "repo": "nikita-deveng1999g0/switch-emulator-keys-firmware-nsp-box-xci-nsp-portable-x64",
@@ -28815,7 +28815,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "nikita-l-x2096f3/rust-external-stash-tc-player-portable-x64": {
 "repo": "nikita-l-x2096f3/rust-external-stash-tc-player-portable-x64",
@@ -28833,7 +28833,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "benhhq1993s5/dune-awakening-external-player-ornithopter-radar-portable": {
 "repo": "benhhq1993s5/dune-awakening-external-player-ornithopter-radar-portable",
@@ -28851,7 +28851,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "kyle-moore-code2001v1/marvel-rivals-hitscan-projectile-smoothing-assistant-porta": {
 "repo": "kyle-moore-code2001v1/marvel-rivals-hitscan-projectile-smoothing-assistant-porta",
@@ -28869,7 +28869,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "yrf15gamin-pixel/ashampoo-winoptimizer-pro": {
 "repo": "yrf15gamin-pixel/ashampoo-winoptimizer-pro",
@@ -28887,7 +28887,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "oscar-sops19g1/path-of-exile-2-auto-flask-dodge-roll-portable-x64": {
 "repo": "oscar-sops19g1/path-of-exile-2-auto-flask-dodge-roll-portable-x64",
@@ -28905,7 +28905,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mikekingeng04v2/slay-the-spire-2-relic-deck-gold-save-portable-x64": {
 "repo": "mikekingeng04v2/slay-the-spire-2-relic-deck-gold-save-portable-x64",
@@ -28923,7 +28923,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "KatitoLoco/adobe-acrobat-pro": {
 "repo": "KatitoLoco/adobe-acrobat-pro",
@@ -28941,7 +28941,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "RokonX/catia-cad": {
 "repo": "RokonX/catia-cad",
@@ -28959,7 +28959,7 @@
 "last_seen": "2026-11-22T01:01:34Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Flagsmith/flagsmith": {
 "repo": "Flagsmith/flagsmith",
@@ -29523,7 +29523,7 @@
 "repo": "EL4CTEO/fast-anything",
 "url": "https://github.com/EL4CTEO/fast-anything",
 "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-"stars": 1401.0,
+"stars": 2027.0,
 "spd": 52.4,
 "score": 0.96,
 "fit": 0.74,
@@ -29532,8 +29532,8 @@
 "license": "MIT",
 "language": "Rust",
 "first_seen": "2026-11-22T16:28:04Z",
-"last_seen": "2026-11-22T16:57:34Z",
-"hits": 2,
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 3,
 "in_tg": false,
 "status": "new"
 },
@@ -30271,6 +30271,96 @@
 "language": "HTML",
 "first_seen": "2026-11-22T22:23:38Z",
 "last_seen": "2026-11-22T22:23:38Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"wildswiftintroduce/rob-run-mod-menu-zoel": {
+"repo": "wildswiftintroduce/rob-run-mod-menu-zoel",
+"url": "https://github.com/wildswiftintroduce/rob-run-mod-menu-zoel",
+"description": "",
+"stars": 323,
+"spd": 192.0,
+"score": 2.76,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "",
+"first_seen": "2026-11-23T02:58:41Z",
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"FloorHelmsmanAxle95/-Grand-Theft-Auto-VI-preload-pc": {
+"repo": "FloorHelmsmanAxle95/-Grand-Theft-Auto-VI-preload-pc",
+"url": "https://github.com/FloorHelmsmanAxle95/-Grand-Theft-Auto-VI-preload-pc",
+"description": "",
+"stars": 323,
+"spd": 144.0,
+"score": 2.6,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": null,
+"language": "",
+"first_seen": "2026-11-23T02:58:41Z",
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"jushengzhang/CE-Graph": {
+"repo": "jushengzhang/CE-Graph",
+"url": "https://github.com/jushengzhang/CE-Graph",
+"description": "CE-Graph: Failure-Driven Workflow Refinement (ICML 2026). Reference implementation, benchmark runners, and reproducible examples.",
+"stars": 392,
+"spd": 72.0,
+"score": 2.33,
+"fit": 0.89,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "Apache-2.0",
+"language": "Python",
+"first_seen": "2026-11-23T02:58:41Z",
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"fernandeslokesh10/figma-desktop-win": {
+"repo": "fernandeslokesh10/figma-desktop-win",
+"url": "https://github.com/fernandeslokesh10/figma-desktop-win",
+"description": "Figma - collaborative design and prototyping platform for interface design, vector graphics and team workflows on Windows 10/11",
+"stars": 390,
+"spd": 32.2,
+"score": 0.9,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "NOASSERTION",
+"language": "",
+"first_seen": "2026-11-23T02:58:41Z",
+"last_seen": "2026-11-23T02:58:41Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"moon-dark2000/todoist-pro-win": {
+"repo": "moon-dark2000/todoist-pro-win",
+"url": "https://github.com/moon-dark2000/todoist-pro-win",
+"description": "Todoist - task management application for project organization, task scheduling and productivity tracking on Windows 10/11",
+"stars": 368,
+"spd": 36.6,
+"score": 0.81,
+"fit": 0.76,
+"risk": 0.18,
+"ps": "PS-dev",
+"license": "NOASSERTION",
+"language": "",
+"first_seen": "2026-11-23T02:58:41Z",
+"last_seen": "2026-11-23T02:58:41Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
