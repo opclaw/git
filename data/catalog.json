@@ -75,7 +75,7 @@
 "repo": "KnifeLemon/Filee",
 "url": "https://github.com/KnifeLemon/Filee",
 "description": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
-"stars": 25953.0,
+"stars": 30515.0,
 "spd": 119.7,
 "score": 1.31,
 "fit": 0.96,
@@ -84,10 +84,10 @@
 "license": "MIT",
 "language": "C#",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-11T22:57:55Z",
-"hits": 32,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 33,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "YuJunZhiXue/dsh-purge": {
 "repo": "YuJunZhiXue/dsh-purge",
@@ -129,7 +129,7 @@
 "repo": "DietrichGebert/ponytail",
 "url": "https://github.com/DietrichGebert/ponytail",
 "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-"stars": 196085.0,
+"stars": 197759.0,
 "spd": 332.2,
 "score": 1.07,
 "fit": 0.96,
@@ -138,10 +138,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-21T14:51:56Z",
-"hits": 51,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 52,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "awesome-selfhosted/awesome-selfhosted": {
 "repo": "awesome-selfhosted/awesome-selfhosted",
@@ -177,7 +177,7 @@
 "last_seen": "2026-11-23T02:58:41Z",
 "hits": 177,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "akitaonrails/ai-memory": {
 "repo": "akitaonrails/ai-memory",
@@ -345,7 +345,7 @@
 "repo": "mattpocock/skills",
 "url": "https://github.com/mattpocock/skills",
 "description": "Skills for Real Engineers. Straight from my .agents directory.",
-"stars": 330436.0,
+"stars": 331750.0,
 "spd": 1104.0,
 "score": 0.87,
 "fit": 0.52,
@@ -354,10 +354,10 @@
 "license": "MIT",
 "language": "Shell",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-22T22:23:38Z",
-"hits": 54,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 55,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "VictorTaelin/uniichat": {
 "repo": "VictorTaelin/uniichat",
@@ -867,7 +867,7 @@
 "repo": "yetone/magpie",
 "url": "https://github.com/yetone/magpie",
 "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-"stars": 39327.0,
+"stars": 40823.0,
 "spd": 133.6,
 "score": 1.08,
 "fit": 0.74,
@@ -876,16 +876,16 @@
 "license": "MIT",
 "language": "Go",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-20T08:56:59Z",
-"hits": 34,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 35,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "Ebony-Vinyl/dsh-our-free-model": {
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 84824.0,
+"stars": 85556.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,16 +894,16 @@
 "license": "NOASSERTION",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-23T14:58:24Z",
-"hits": 117,
-"in_tg": true,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 118,
+"in_tg": false,
 "status": "active"
 },
 "Niko1221/Strata": {
 "repo": "Niko1221/Strata",
 "url": "https://github.com/Niko1221/Strata",
 "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-"stars": 47353.0,
+"stars": 47634.0,
 "spd": 191.8,
 "score": 1.04,
 "fit": 0.74,
@@ -912,9 +912,9 @@
 "license": "MIT",
 "language": "C++",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-23T14:58:24Z",
-"hits": 29,
-"in_tg": true,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 30,
+"in_tg": false,
 "status": "active"
 },
 "storytold/photocraft": {
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
-"stars": 134475.0,
+"stars": 135127.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-24T00:12:23Z",
-"hits": 60,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 61,
 "in_tg": false,
 "status": "active"
 },
@@ -1479,7 +1479,7 @@
 "repo": "hugohe3/ppt-master",
 "url": "https://github.com/hugohe3/ppt-master",
 "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support",
-"stars": 77404.0,
+"stars": 79753.0,
 "spd": 90.9,
 "score": 0.79,
 "fit": 0.52,
@@ -1488,16 +1488,16 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-16T11:47:20Z",
-"hits": 18,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 19,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "pbakaus/impeccable": {
 "repo": "pbakaus/impeccable",
 "url": "https://github.com/pbakaus/impeccable",
 "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-"stars": 113117.0,
+"stars": 115903.0,
 "spd": 1008.0,
 "score": 1.3,
 "fit": 0.52,
@@ -1506,10 +1506,10 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-19T09:14:30Z",
-"hits": 58,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 59,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "lock-tool/.github": {
 "repo": "lock-tool/.github",
@@ -1671,7 +1671,7 @@
 "last_seen": "2026-11-23T02:58:41Z",
 "hits": 25,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/NaSuno": {
 "repo": "AhmadHassan-BTed/NaSuno",
@@ -2012,7 +2012,7 @@
 "first_seen": "2026-10-21T07:49:44Z",
 "last_seen": "2026-10-25T10:01:51Z",
 "hits": 3,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "mmparko/dsh-purge": {
@@ -2102,7 +2102,7 @@
 "first_seen": "2026-10-21T07:49:44Z",
 "last_seen": "2026-10-29T02:41:23Z",
 "hits": 10,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "eagle-hq/EAGLE-4": {
@@ -3560,7 +3560,7 @@
 "first_seen": "2026-10-22T18:39:37Z",
 "last_seen": "2026-11-03T09:43:35Z",
 "hits": 7,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "NVIDIA/OpenShell": {
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-"stars": 74671.0,
+"stars": 76203.0,
 "spd": 139.1,
 "score": 0.94,
 "fit": 0.74,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-24T00:12:23Z",
-"hits": 83,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 84,
 "in_tg": false,
 "status": "active"
 },
@@ -5198,7 +5198,7 @@
 "first_seen": "2026-10-25T04:57:27Z",
 "last_seen": "2026-10-25T09:55:50Z",
 "hits": 3,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "enesozturk/dimensional-drawing": {
@@ -5216,7 +5216,7 @@
 "first_seen": "2026-10-25T04:57:27Z",
 "last_seen": "2026-10-25T05:07:10Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "Release-DLSS-5-Swapper/.github": {
@@ -5270,7 +5270,7 @@
 "first_seen": "2026-10-25T05:07:10Z",
 "last_seen": "2026-10-25T05:07:10Z",
 "hits": 1,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "google-gemini/gemini-cli": {
@@ -5288,7 +5288,7 @@
 "first_seen": "2026-10-25T05:07:10Z",
 "last_seen": "2026-10-25T10:01:51Z",
 "hits": 3,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "elayadesign/ai-design-skills": {
@@ -5378,7 +5378,7 @@
 "first_seen": "2026-10-25T09:55:50Z",
 "last_seen": "2026-10-26T14:56:44Z",
 "hits": 4,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "wangrongding/tv-fresh": {
@@ -8799,7 +8799,7 @@
 "last_seen": "2026-11-23T02:58:41Z",
 "hits": 15,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "jamixm4-crypto/natbypass": {
 "repo": "jamixm4-crypto/natbypass",
@@ -21963,7 +21963,7 @@
 "repo": "BaaRai/ARTEX",
 "url": "https://github.com/BaaRai/ARTEX",
 "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"stars": 17165.0,
+"stars": 18348.0,
 "spd": 89.7,
 "score": 1.31,
 "fit": 0.96,
@@ -21972,8 +21972,8 @@
 "license": "AGPL-3.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-23T14:58:24Z",
-"hits": 24,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 25,
 "in_tg": true,
 "status": "active"
 },
@@ -22179,7 +22179,7 @@
 "repo": "backnotprop/plannotator",
 "url": "https://github.com/backnotprop/plannotator",
 "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
-"stars": 12699.0,
+"stars": 14783.0,
 "spd": 50.1,
 "score": 1.13,
 "fit": 0.61,
@@ -22188,10 +22188,10 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-14T06:45:26Z",
-"last_seen": "2026-11-17T04:39:35Z",
-"hits": 4,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 5,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "brave-plum-co/leonardo-ai-desktop": {
 "repo": "brave-plum-co/leonardo-ai-desktop",
@@ -23348,8 +23348,8 @@
 "elementalsouls/Claude-BugHunter": {
 "repo": "elementalsouls/Claude-BugHunter",
 "url": "https://github.com/elementalsouls/Claude-BugHunter",
-"description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-"stars": 19083.0,
+"description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
+"stars": 20476.0,
 "spd": 144.0,
 "score": 1.71,
 "fit": 0.76,
@@ -23358,8 +23358,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-23T14:58:24Z",
-"hits": 25,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 26,
 "in_tg": true,
 "status": "active"
 },
@@ -25413,7 +25413,7 @@
 "last_seen": "2026-11-23T02:58:41Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Saadpeng436/neural-dsp-archetype-bundle-desktop": {
 "repo": "Saadpeng436/neural-dsp-archetype-bundle-desktop",
@@ -25779,19 +25779,19 @@
 "repo": "kunkundi/crossdesk",
 "url": "https://github.com/kunkundi/crossdesk",
 "description": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。",
-"stars": 5705.0,
-"spd": 33.2,
-"score": 1.92,
+"stars": 7088.0,
+"spd": 85.8,
+"score": 2.21,
 "fit": 0.76,
 "risk": 0.0,
 "ps": "PS-dev",
 "license": "NOASSERTION",
 "language": "C++",
 "first_seen": "2026-11-19T09:14:30Z",
-"last_seen": "2026-11-21T14:51:56Z",
-"hits": 2,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 3,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "SonicloudTech/mouse-sdk": {
 "repo": "SonicloudTech/mouse-sdk",
@@ -26823,7 +26823,7 @@
 "repo": "XiaoYouChR/Ghost-Downloader-3",
 "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
 "description": "The only downloader you need. 下载器的集大成者。",
-"stars": 15871.0,
+"stars": 16853.0,
 "spd": 109.3,
 "score": 2.0,
 "fit": 0.65,
@@ -26832,8 +26832,8 @@
 "license": "GPL-3.0",
 "language": "Python",
 "first_seen": "2026-11-20T01:05:25Z",
-"last_seen": "2026-11-23T12:12:50Z",
-"hits": 3,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 4,
 "in_tg": true,
 "status": "active"
 },
@@ -27987,7 +27987,7 @@
 "last_seen": "2026-11-23T02:58:41Z",
 "hits": 7,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Plaer1/open-clank": {
 "repo": "Plaer1/open-clank",
@@ -30291,7 +30291,7 @@
 "last_seen": "2026-11-23T02:58:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "FloorHelmsmanAxle95/-Grand-Theft-Auto-VI-preload-pc": {
 "repo": "FloorHelmsmanAxle95/-Grand-Theft-Auto-VI-preload-pc",
@@ -30309,7 +30309,7 @@
 "last_seen": "2026-11-23T02:58:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "jushengzhang/CE-Graph": {
 "repo": "jushengzhang/CE-Graph",
@@ -30327,7 +30327,7 @@
 "last_seen": "2026-11-23T02:58:41Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "fernandeslokesh10/figma-desktop-win": {
 "repo": "fernandeslokesh10/figma-desktop-win",
@@ -30345,7 +30345,7 @@
 "last_seen": "2026-11-23T02:58:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "moon-dark2000/todoist-pro-win": {
 "repo": "moon-dark2000/todoist-pro-win",
@@ -30363,7 +30363,7 @@
 "last_seen": "2026-11-23T02:58:41Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "hovocope135-tech/DSH-projects": {
 "repo": "hovocope135-tech/DSH-projects",
@@ -30765,8 +30765,8 @@
 "repo": "4lwayz/portwatch-vi",
 "url": "https://github.com/4lwayz/portwatch-vi",
 "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-"stars": 460,
-"spd": 62.0,
+"stars": 1457.0,
+"spd": 76.8,
 "score": 0.63,
 "fit": 0.5,
 "risk": 0.0,
@@ -30774,8 +30774,8 @@
 "license": null,
 "language": "JavaScript",
 "first_seen": "2026-11-24T00:12:23Z",
-"last_seen": "2026-11-24T00:12:23Z",
-"hits": 1,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -30783,7 +30783,7 @@
 "repo": "Marvisak/VIctory",
 "url": "https://github.com/Marvisak/VIctory",
 "description": "An attempt at running GTA VI on PC",
-"stars": 1437,
+"stars": 7272.0,
 "spd": 406.7,
 "score": 0.48,
 "fit": 0.0,
@@ -30792,8 +30792,8 @@
 "license": "GPL-3.0",
 "language": "Rust",
 "first_seen": "2026-11-24T00:12:23Z",
-"last_seen": "2026-11-24T00:12:23Z",
-"hits": 1,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -30801,8 +30801,8 @@
 "repo": "ivall/xcl",
 "url": "https://github.com/ivall/xcl",
 "description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-"stars": 1734,
-"spd": 62.8,
+"stars": 5859.0,
+"spd": 149.3,
 "score": 0.46,
 "fit": 0.0,
 "risk": 0.0,
@@ -30810,8 +30810,8 @@
 "license": "GPL-2.0",
 "language": "Rust",
 "first_seen": "2026-11-24T00:12:23Z",
-"last_seen": "2026-11-24T00:12:23Z",
-"hits": 1,
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -30829,6 +30829,96 @@
 "language": "HTML",
 "first_seen": "2026-11-24T00:12:23Z",
 "last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"google-antigravity/antigravity-cli": {
+"repo": "google-antigravity/antigravity-cli",
+"url": "https://github.com/google-antigravity/antigravity-cli",
+"description": "Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal.",
+"stars": 3048,
+"spd": 144.0,
+"score": 1.64,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-24T10:16:31Z",
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"shirudo-dev/shirudo": {
+"repo": "shirudo-dev/shirudo",
+"url": "https://github.com/shirudo-dev/shirudo",
+"description": "eBPF-based security platform",
+"stars": 1105,
+"spd": 32.6,
+"score": 1.48,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-sec",
+"license": "BSD-2-Clause",
+"language": "C",
+"first_seen": "2026-11-24T10:16:31Z",
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"RyanLebedev6104/robrun-cheat": {
+"repo": "RyanLebedev6104/robrun-cheat",
+"url": "https://github.com/RyanLebedev6104/robrun-cheat",
+"description": "ROB RUN external-overlay & External runtime-mod — Spatial Bone ESP, Loot Radar & frame-unlocker: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead run",
+"stars": 534,
+"spd": 192.0,
+"score": 1.09,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "C++",
+"first_seen": "2026-11-24T10:16:31Z",
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"ubiquitarianism/leonida": {
+"repo": "ubiquitarianism/leonida",
+"url": "https://github.com/ubiquitarianism/leonida",
+"description": "A continuation of Leonida, the Xbox > PC port of GTA VI",
+"stars": 909,
+"spd": 80.3,
+"score": 0.76,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "GPL-3.0",
+"language": "Python",
+"first_seen": "2026-11-24T10:16:31Z",
+"last_seen": "2026-11-24T10:16:31Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"yousufsy-ai/rob-run-menu": {
+"repo": "yousufsy-ai/rob-run-menu",
+"url": "https://github.com/yousufsy-ai/rob-run-menu",
+"description": "",
+"stars": 338,
+"spd": 144.0,
+"score": 0.74,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-24T10:16:31Z",
+"last_seen": "2026-11-24T10:16:31Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"

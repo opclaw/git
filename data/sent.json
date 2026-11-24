@@ -1,14 +1,4 @@
 {
- "sgl-project/sglang": "2026-10-25T04:57:27+00:00",
- "enesozturk/dimensional-drawing": "2026-10-25T04:57:27+00:00",
- "Niko1221/Strata": "2026-10-25T04:57:27+00:00",
- "Ebony-Vinyl/dsh-our-free-model": "2026-10-25T04:57:27+00:00",
- "deepopen-com/deepopen": "2026-10-25T05:07:10+00:00",
- "AhmadHassan-BTed/ThreadRace": "2026-10-25T09:55:50+00:00",
- "Pal-AI-Lab/Coopanion": "2026-10-25T09:55:50+00:00",
- "AhmadHassan-BTed/Jantt": "2026-10-25T09:55:50+00:00",
- "NationalSecurityAgency/ghidra": "2026-10-25T09:55:50+00:00",
- "google-gemini/gemini-cli": "2026-10-25T10:01:51+00:00",
  "DUNHKpcc/Claude-Guardian": "2026-10-25T14:27:40+00:00",
  "HarnessRouter/harnessrouter": "2026-10-25T18:14:10+00:00",
  "yeqv111/mccarbon": "2026-10-25T18:14:10+00:00",
@@ -363,5 +353,7 @@
  "AnnVieira90/face-swap-local": "2026-11-24T00:12:23+00:00",
  "Robertop7212/chatgpt-mirror-lite": "2026-11-24T00:12:23+00:00",
  "Meetsaini/emulator": "2026-11-24T00:12:23+00:00",
- "Ahmet-Dedeler/awesome-gta6-reverse-engineering": "2026-11-24T00:12:23+00:00"
+ "Ahmet-Dedeler/awesome-gta6-reverse-engineering": "2026-11-24T00:12:23+00:00",
+ "shirudo-dev/shirudo": "2026-11-24T10:16:31+00:00",
+ "RyanLebedev6104/robrun-cheat": "2026-11-24T10:16:31+00:00"
 }
