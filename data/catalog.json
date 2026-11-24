@@ -357,7 +357,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 54,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "VictorTaelin/uniichat": {
 "repo": "VictorTaelin/uniichat",
@@ -608,7 +608,7 @@
 "first_seen": "2026-10-20T00:08:51Z",
 "last_seen": "2026-11-13T08:34:54Z",
 "hits": 14,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "Ansub/tv-detox": {
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
-"stars": 133194.0,
+"stars": 134475.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-23T02:58:41Z",
-"hits": 59,
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 60,
 "in_tg": false,
 "status": "active"
 },
@@ -2930,7 +2930,7 @@
 "first_seen": "2026-10-22T05:13:54Z",
 "last_seen": "2026-10-27T10:15:54Z",
 "hits": 20,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "Renhuai123/ziwei-doushu": {
@@ -3200,7 +3200,7 @@
 "first_seen": "2026-10-22T10:28:47Z",
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 9,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "op7418/guizang-ppt-skill": {
@@ -3362,7 +3362,7 @@
 "first_seen": "2026-10-22T13:55:51Z",
 "last_seen": "2026-11-11T07:50:25Z",
 "hits": 13,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "AhmadHassan-BTed/SoulMatrix": {
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-"stars": 73946.0,
+"stars": 74671.0,
 "spd": 139.1,
 "score": 0.94,
 "fit": 0.74,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-23T14:58:24Z",
-"hits": 82,
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 83,
 "in_tg": false,
 "status": "active"
 },
@@ -4478,7 +4478,7 @@
 "first_seen": "2026-10-24T08:47:32Z",
 "last_seen": "2026-10-24T18:46:27Z",
 "hits": 3,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "hypit-ai/hypit": {
@@ -4803,7 +4803,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 10,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Derpyu520/qq-bridge": {
 "repo": "Derpyu520/qq-bridge",
@@ -4838,7 +4838,7 @@
 "first_seen": "2026-10-24T16:50:07Z",
 "last_seen": "2026-10-24T18:46:27Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "walkinglabs/learn-harness-engineering": {
@@ -4892,7 +4892,7 @@
 "first_seen": "2026-10-24T18:46:27Z",
 "last_seen": "2026-10-27T23:51:37Z",
 "hits": 9,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "hujjun/mcd-saver-strategist": {
@@ -4910,7 +4910,7 @@
 "first_seen": "2026-10-24T18:46:27Z",
 "last_seen": "2026-10-24T19:18:21Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "rjgyzakqgfiv/.github": {
@@ -5000,7 +5000,7 @@
 "first_seen": "2026-10-24T19:18:21Z",
 "last_seen": "2026-10-24T19:18:21Z",
 "hits": 1,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "assetnote/php2shell-scanner": {
@@ -5036,7 +5036,7 @@
 "first_seen": "2026-10-24T21:46:28Z",
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "yeqv111/mccarbon": {
@@ -5090,7 +5090,7 @@
 "first_seen": "2026-10-25T00:04:47Z",
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 1,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "rushanemoneplain/Canva-Pro-Studio": {
@@ -5108,7 +5108,7 @@
 "first_seen": "2026-10-25T00:04:47Z",
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 1,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "XiangpengHao/bbtree": {
@@ -5126,7 +5126,7 @@
 "first_seen": "2026-10-25T00:04:47Z",
 "last_seen": "2026-10-25T00:04:47Z",
 "hits": 1,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "rlaope/oh-my-hermes": {
@@ -5144,7 +5144,7 @@
 "first_seen": "2026-10-25T00:04:47Z",
 "last_seen": "2026-10-25T18:14:10Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "lemomo-ai/lemo-opuscar": {
@@ -5162,7 +5162,7 @@
 "first_seen": "2026-10-25T00:04:47Z",
 "last_seen": "2026-11-16T07:44:36Z",
 "hits": 7,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "jouaaaaaa/mcd-self-butler": {
@@ -19131,7 +19131,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 30,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "freeCodeCamp/freeCodeCamp": {
 "repo": "freeCodeCamp/freeCodeCamp",
@@ -21993,7 +21993,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 9,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "deepseek-ai/chat-demo": {
 "repo": "deepseek-ai/chat-demo",
@@ -24405,7 +24405,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 6,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "ShadowHackrs/gmail-account-creator": {
 "repo": "ShadowHackrs/gmail-account-creator",
@@ -25653,7 +25653,7 @@
 "repo": "HKUDS/CLI-Anything",
 "url": "https://github.com/HKUDS/CLI-Anything",
 "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-"stars": 61179.0,
+"stars": 63612.0,
 "spd": 41.0,
 "score": 0.7,
 "fit": 0.52,
@@ -25662,10 +25662,10 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-18T19:16:54Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 5,
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 6,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "521xueweihan/HelloGitHub": {
 "repo": "521xueweihan/HelloGitHub",
@@ -26349,7 +26349,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 4,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "bothaggsigym1988/frameglide": {
 "repo": "bothaggsigym1988/frameglide",
@@ -29463,7 +29463,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "BeetleRemain/gta-6-pc-download": {
 "repo": "BeetleRemain/gta-6-pc-download",
@@ -29481,7 +29481,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Iossless-Scaling-DownIoad/.github": {
 "repo": "Iossless-Scaling-DownIoad/.github",
@@ -29499,7 +29499,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "committreeloop/quickbooks-premier-win": {
 "repo": "committreeloop/quickbooks-premier-win",
@@ -29517,7 +29517,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "EL4CTEO/fast-anything": {
 "repo": "EL4CTEO/fast-anything",
@@ -29535,7 +29535,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 5,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "ruslaya/jetbrains-pycharm-win": {
 "repo": "ruslaya/jetbrains-pycharm-win",
@@ -29553,7 +29553,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "serkanellis/spire-win": {
 "repo": "serkanellis/spire-win",
@@ -29571,7 +29571,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "worksdepl0y/bbc-symphony-orchestra-win": {
 "repo": "worksdepl0y/bbc-symphony-orchestra-win",
@@ -29589,7 +29589,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "edward-komarov93/stellar-data-recovery-win": {
 "repo": "edward-komarov93/stellar-data-recovery-win",
@@ -29607,7 +29607,7 @@
 "last_seen": "2026-11-22T16:57:34Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Streetthetent33/Avid-Pro-Tools-Ultimate": {
 "repo": "Streetthetent33/Avid-Pro-Tools-Ultimate",
@@ -29625,7 +29625,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "KrakenCraneCraft/Wirecast-Version-Pro": {
 "repo": "KrakenCraneCraft/Wirecast-Version-Pro",
@@ -29643,7 +29643,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ProsecutorSpade/Premier-Version-Pro": {
 "repo": "ProsecutorSpade/Premier-Version-Pro",
@@ -29661,7 +29661,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "AoShinz/borderlands-4-shift-golden-key-bridge-novelen": {
 "repo": "AoShinz/borderlands-4-shift-golden-key-bridge-novelen",
@@ -29679,7 +29679,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "goynaraishwary-pixel/civilization-vii-ui-quick-deal-detailed-jatalin": {
 "repo": "goynaraishwary-pixel/civilization-vii-ui-quick-deal-detailed-jatalin",
@@ -29697,7 +29697,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "quanghungdhtl-dot/split-fiction-coop-dabarin": {
 "repo": "quanghungdhtl-dot/split-fiction-coop-dabarin",
@@ -29715,7 +29715,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "saurabh8955/arc-raiders-external-extraction-radar-loot-dabemir": {
 "repo": "saurabh8955/arc-raiders-external-extraction-radar-loot-dabemir",
@@ -29733,7 +29733,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "1234567890aditya/awp-gg-executor-roblox-rafalan": {
 "repo": "1234567890aditya/awp-gg-executor-roblox-rafalan",
@@ -29751,7 +29751,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mfaiqop-create/switch-firmware-19-keys-pack": {
 "repo": "mfaiqop-create/switch-firmware-19-keys-pack",
@@ -29769,7 +29769,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mathiascantillo50-blip/atmosfar-coop-saceren": {
 "repo": "mathiascantillo50-blip/atmosfar-coop-saceren",
@@ -29787,7 +29787,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "srikarthik345-art/sledding-game-coop-rafalor": {
 "repo": "srikarthik345-art/sledding-game-coop-rafalor",
@@ -29805,7 +29805,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "contactvelorixai-source/yapyap-coop-cetalen": {
 "repo": "contactvelorixai-source/yapyap-coop-cetalen",
@@ -29823,7 +29823,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ninadjl/surfshark-cekarin": {
 "repo": "ninadjl/surfshark-cekarin",
@@ -29841,7 +29841,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Nnabella/rebelle-7-danolan": {
 "repo": "Nnabella/rebelle-7-danolan",
@@ -29859,7 +29859,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sahilboss728-pixel/cs2-skin-changer-tanomar": {
 "repo": "sahilboss728-pixel/cs2-skin-changer-tanomar",
@@ -29877,7 +29877,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mishal124727-cyber/slay-the-spire-2-coop-fasaren": {
 "repo": "mishal124727-cyber/slay-the-spire-2-coop-fasaren",
@@ -29895,7 +29895,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mrriaj/cad-3d-engineering-suite-autodesk-2026-autocad-revit-venolen": {
 "repo": "mrriaj/cad-3d-engineering-suite-autodesk-2026-autocad-revit-venolen",
@@ -29913,7 +29913,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "amartuvshindulguun202-gif/rust-external-stash-tc-player-noralen": {
 "repo": "amartuvshindulguun202-gif/rust-external-stash-tc-player-noralen",
@@ -29931,7 +29931,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "codexTalwar/r-e-p-o-bepinex-host-mod-menu-nolelin": {
 "repo": "codexTalwar/r-e-p-o-bepinex-host-mod-menu-nolelin",
@@ -29949,7 +29949,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "lyubchopenchev8-bit/kingdom-come-deliverance-2-unlimited-saving-schnapps-bow-p": {
 "repo": "lyubchopenchev8-bit/kingdom-come-deliverance-2-unlimited-saving-schnapps-bow-p",
@@ -29967,7 +29967,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Srinithi754/wave-velocity-executor-keyless-lite-loader-100-ranomar": {
 "repo": "Srinithi754/wave-velocity-executor-keyless-lite-loader-100-ranomar",
@@ -29985,7 +29985,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Geovid66/polar-client-skyblock-mining-kafamar": {
 "repo": "Geovid66/polar-client-skyblock-mining-kafamar",
@@ -30003,7 +30003,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "25mcmt30/matlab-r2026a-tadarin": {
 "repo": "25mcmt30/matlab-r2026a-tadarin",
@@ -30021,7 +30021,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "thecoolmann/polymarket-perp-dex-hyperliquid-vault-market-maker-vedarin": {
 "repo": "thecoolmann/polymarket-perp-dex-hyperliquid-vault-market-maker-vedarin",
@@ -30039,7 +30039,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "enzomarquesgamer-hue/3utools-pro-mdm-unlocker-2026": {
 "repo": "enzomarquesgamer-hue/3utools-pro-mdm-unlocker-2026",
@@ -30057,7 +30057,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "shivanshu6272727-ux/bloxstrap-roblox-fflags-2026": {
 "repo": "shivanshu6272727-ux/bloxstrap-roblox-fflags-2026",
@@ -30075,7 +30075,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mohibbhai369-cloud/roblox-game-hub-fisch-auto-cast-instant-cekaren": {
 "repo": "mohibbhai369-cloud/roblox-game-hub-fisch-auto-cast-instant-cekaren",
@@ -30093,7 +30093,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "rohitsingh-del/pump-fun-volume-bump-bot-velen": {
 "repo": "rohitsingh-del/pump-fun-volume-bump-bot-velen",
@@ -30111,7 +30111,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "phoengp/solara-executor-v3-mararon": {
 "repo": "phoengp/solara-executor-v3-mararon",
@@ -30129,7 +30129,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "guygamer527/solana-memecoin-pump-fun-volume-booster-cetaven": {
 "repo": "guygamer527/solana-memecoin-pump-fun-volume-booster-cetaven",
@@ -30147,7 +30147,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ilyasRvl/dune-awakening-external-player-ornithopter-radar-rafaron": {
 "repo": "ilyasRvl/dune-awakening-external-player-ornithopter-radar-rafaron",
@@ -30165,7 +30165,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "MHS998/escape-the-backrooms-coop-ravelin": {
 "repo": "MHS998/escape-the-backrooms-coop-ravelin",
@@ -30183,7 +30183,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "sreeshan-22/roadside-research-coop-mabeven": {
 "repo": "sreeshan-22/roadside-research-coop-mabeven",
@@ -30201,7 +30201,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "meharanis2012-cpu/gamble-with-your-friends-coop-notalin": {
 "repo": "meharanis2012-cpu/gamble-with-your-friends-coop-notalin",
@@ -30219,7 +30219,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ardaozallp/rust-hid-mouse-recoil-script-jabarin": {
 "repo": "ardaozallp/rust-hid-mouse-recoil-script-jabarin",
@@ -30237,7 +30237,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "contactcosmeticcorner-pk/it-takes-two-coop-baron": {
 "repo": "contactcosmeticcorner-pk/it-takes-two-coop-baron",
@@ -30255,7 +30255,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Sdyalaty/where-winds-meet-auto-parry-assist-fov-jalelin": {
 "repo": "Sdyalaty/where-winds-meet-auto-parry-assist-fov-jalelin",
@@ -30273,7 +30273,7 @@
 "last_seen": "2026-11-22T22:23:38Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "wildswiftintroduce/rob-run-mod-menu-zoel": {
 "repo": "wildswiftintroduce/rob-run-mod-menu-zoel",
@@ -30423,7 +30423,7 @@
 "repo": "AFK-surf/xnulinux",
 "url": "https://github.com/AFK-surf/xnulinux",
 "description": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-"stars": 1191.0,
+"stars": 2018.0,
 "spd": 192.0,
 "score": 1.15,
 "fit": 0.45,
@@ -30432,8 +30432,8 @@
 "license": "NOASSERTION",
 "language": "Objective-C++",
 "first_seen": "2026-11-23T12:12:50Z",
-"last_seen": "2026-11-23T14:58:24Z",
-"hits": 2,
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 3,
 "in_tg": false,
 "status": "new"
 },
@@ -30559,6 +30559,276 @@
 "language": "Go",
 "first_seen": "2026-11-23T14:58:24Z",
 "last_seen": "2026-11-23T14:58:24Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"zed-industries/gpui": {
+"repo": "zed-industries/gpui",
+"url": "https://github.com/zed-industries/gpui",
+"description": "A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes.",
+"stars": 352,
+"spd": 164.3,
+"score": 3.65,
+"fit": 0.83,
+"risk": 0.0,
+"ps": "PS-web",
+"license": null,
+"language": "",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Awarenessnuignite/ROB-RUN-Cheat-Menu": {
+"repo": "Awarenessnuignite/ROB-RUN-Cheat-Menu",
+"url": "https://github.com/Awarenessnuignite/ROB-RUN-Cheat-Menu",
+"description": "ROB RUN Cheat Menu | Infinite Money, Aimbot, God Mode, Speed Hack & More!",
+"stars": 127,
+"spd": 192.0,
+"score": 3.47,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "GPL-3.0",
+"language": "C++",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"PeakNegotiatorKiln/Grand-Version-6": {
+"repo": "PeakNegotiatorKiln/Grand-Version-6",
+"url": "https://github.com/PeakNegotiatorKiln/Grand-Version-6",
+"description": "",
+"stars": 452,
+"spd": 240.0,
+"score": 2.33,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": null,
+"language": "Python",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Lavachilearn/rob-run-mod-trainer": {
+"repo": "Lavachilearn/rob-run-mod-trainer",
+"url": "https://github.com/Lavachilearn/rob-run-mod-trainer",
+"description": "Rob Run Mod.",
+"stars": 482,
+"spd": 44.2,
+"score": 1.96,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "TypeScript",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"blazeclientvise/rob-run-tools": {
+"repo": "blazeclientvise/rob-run-tools",
+"url": "https://github.com/blazeclientvise/rob-run-tools",
+"description": "",
+"stars": 472,
+"spd": 41.9,
+"score": 1.86,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"AnnVieira90/face-swap-local": {
+"repo": "AnnVieira90/face-swap-local",
+"url": "https://github.com/AnnVieira90/face-swap-local",
+"description": "Swap faces in photos and video — fully local.",
+"stars": 66,
+"spd": 34.5,
+"score": 1.3,
+"fit": 1.0,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "C++",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Robertop7212/chatgpt-mirror-lite": {
+"repo": "Robertop7212/chatgpt-mirror-lite",
+"url": "https://github.com/Robertop7212/chatgpt-mirror-lite",
+"description": "Your own ChatGPT mirror — one container, no logins.",
+"stars": 66,
+"spd": 35.1,
+"score": 1.24,
+"fit": 0.92,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "C++",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Meetsaini/emulator": {
+"repo": "Meetsaini/emulator",
+"url": "https://github.com/Meetsaini/emulator",
+"description": "",
+"stars": 338,
+"spd": 144.0,
+"score": 1.0,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "MIT",
+"language": "HTML",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Ahmet-Dedeler/awesome-gta6-reverse-engineering": {
+"repo": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+"url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+"description": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
+"stars": 552,
+"spd": 84.7,
+"score": 1.0,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "NOASSERTION",
+"language": "HTML",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"Ehopatoo/capcut-pro-banorin-video-editor": {
+"repo": "Ehopatoo/capcut-pro-banorin-video-editor",
+"url": "https://github.com/Ehopatoo/capcut-pro-banorin-video-editor",
+"description": "Capcut Pro Banorin Video Editor provides a video editing workspace for timeline-based projects.",
+"stars": 122,
+"spd": 192.0,
+"score": 0.95,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"LadybirdBrowser/ladybird": {
+"repo": "LadybirdBrowser/ladybird",
+"url": "https://github.com/LadybirdBrowser/ladybird",
+"description": "Truly independent web browser",
+"stars": 67748,
+"spd": 35.1,
+"score": 0.77,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "BSD-2-Clause",
+"language": "Rust",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"4lwayz/portwatch-vi": {
+"repo": "4lwayz/portwatch-vi",
+"url": "https://github.com/4lwayz/portwatch-vi",
+"description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+"stars": 460,
+"spd": 62.0,
+"score": 0.63,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "JavaScript",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Marvisak/VIctory": {
+"repo": "Marvisak/VIctory",
+"url": "https://github.com/Marvisak/VIctory",
+"description": "An attempt at running GTA VI on PC",
+"stars": 1437,
+"spd": 406.7,
+"score": 0.48,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "GPL-3.0",
+"language": "Rust",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ivall/xcl": {
+"repo": "ivall/xcl",
+"url": "https://github.com/ivall/xcl",
+"description": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
+"stars": 1734,
+"spd": 62.8,
+"score": 0.46,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "GPL-2.0",
+"language": "Rust",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Mouad06/gta": {
+"repo": "Mouad06/gta",
+"url": "https://github.com/Mouad06/gta",
+"description": "",
+"stars": 338,
+"spd": 144.0,
+"score": 0.21,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-24T00:12:23Z",
+"last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
