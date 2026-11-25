@@ -51,7 +51,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 11,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/OpenHeart": {
 "repo": "AhmadHassan-BTed/OpenHeart",
@@ -1059,7 +1059,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 26,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Imbad0202/academic-research-skills": {
 "repo": "Imbad0202/academic-research-skills",
@@ -1832,7 +1832,7 @@
 "first_seen": "2026-10-21T01:28:35Z",
 "last_seen": "2026-10-26T01:34:11Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "Graphify-Labs/graphify": {
@@ -1868,7 +1868,7 @@
 "first_seen": "2026-10-21T01:28:35Z",
 "last_seen": "2026-11-20T08:56:59Z",
 "hits": 26,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "dataelement/dsh-desktop": {
@@ -2553,7 +2553,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 12,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ikow/php2shell-poc": {
 "repo": "ikow/php2shell-poc",
@@ -2985,7 +2985,7 @@
 "last_seen": "2026-11-23T12:12:50Z",
 "hits": 10,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "K-Dense-AI/scientific-agent-skills": {
 "repo": "K-Dense-AI/scientific-agent-skills",
@@ -4029,7 +4029,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 24,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "pingdotgg/t3code": {
 "repo": "pingdotgg/t3code",
@@ -4406,7 +4406,7 @@
 "first_seen": "2026-10-24T08:47:32Z",
 "last_seen": "2026-11-16T22:21:12Z",
 "hits": 30,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "yozander2009-stack/Metroid-Dread-Recomp": {
@@ -4605,7 +4605,7 @@
 "last_seen": "2026-11-23T12:12:50Z",
 "hits": 20,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "NanmiCoder/MediaCrawler": {
 "repo": "NanmiCoder/MediaCrawler",
@@ -4983,7 +4983,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 3,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "3b1b/manim": {
 "repo": "3b1b/manim",
@@ -5054,7 +5054,7 @@
 "first_seen": "2026-10-24T21:46:28Z",
 "last_seen": "2026-10-25T18:14:10Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "Nutlope/hallmark": {
@@ -5306,7 +5306,7 @@
 "first_seen": "2026-10-25T05:07:10Z",
 "last_seen": "2026-11-07T08:57:12Z",
 "hits": 18,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "anywhere-labs/dsh-desktop": {
@@ -5450,7 +5450,7 @@
 "first_seen": "2026-10-25T14:27:40Z",
 "last_seen": "2026-10-25T14:30:25Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "donnemartin/system-design-primer": {
@@ -5522,7 +5522,7 @@
 "first_seen": "2026-10-25T18:14:10Z",
 "last_seen": "2026-11-04T01:06:14Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "JetBrains/thinkrail": {
@@ -5540,7 +5540,7 @@
 "first_seen": "2026-10-25T21:06:27Z",
 "last_seen": "2026-11-01T20:59:20Z",
 "hits": 14,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "Jakeschincariol/day-trader-skill": {
@@ -5648,7 +5648,7 @@
 "first_seen": "2026-10-26T01:34:11Z",
 "last_seen": "2026-11-07T13:27:16Z",
 "hits": 9,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "rddmwmddr/android-ad-cleaner": {
@@ -8715,7 +8715,7 @@
 "repo": "patch-gg/pixelfx",
 "url": "https://github.com/patch-gg/pixelfx",
 "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-"stars": 5939.0,
+"stars": 9097.0,
 "spd": 83.2,
 "score": 0.89,
 "fit": 0.52,
@@ -8724,10 +8724,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-08T08:42:59Z",
-"hits": 8,
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 9,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026": {
 "repo": "mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
@@ -10869,7 +10869,7 @@
 "last_seen": "2026-11-23T12:12:50Z",
 "hits": 66,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "signfencercomply/valorant-spacex-bmw": {
 "repo": "signfencercomply/valorant-spacex-bmw",
@@ -14169,7 +14169,7 @@
 "repo": "sherlock-project/sherlock",
 "url": "https://github.com/sherlock-project/sherlock",
 "description": "Hunt down social media accounts by username across social networks",
-"stars": 115439.0,
+"stars": 117127.0,
 "spd": 144.0,
 "score": 1.66,
 "fit": 0.76,
@@ -14178,10 +14178,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-05T18:15:01Z",
-"last_seen": "2026-11-21T20:48:43Z",
-"hits": 28,
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 29,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "aldegad/sprite-gen": {
 "repo": "aldegad/sprite-gen",
@@ -21962,8 +21962,8 @@
 "BaaRai/ARTEX": {
 "repo": "BaaRai/ARTEX",
 "url": "https://github.com/BaaRai/ARTEX",
-"description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
-"stars": 18348.0,
+"description": "Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.",
+"stars": 19450.0,
 "spd": 89.7,
 "score": 1.31,
 "fit": 0.96,
@@ -21972,8 +21972,8 @@
 "license": "AGPL-3.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-24T10:16:31Z",
-"hits": 25,
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 26,
 "in_tg": true,
 "status": "active"
 },
@@ -24393,19 +24393,19 @@
 "repo": "jingyaogong/minimind",
 "url": "https://github.com/jingyaogong/minimind",
 "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-"stars": 68525.0,
-"spd": 62.9,
-"score": 1.18,
+"stars": 70391.0,
+"spd": 119.2,
+"score": 1.35,
 "fit": 0.89,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-16T11:47:20Z",
-"last_seen": "2026-11-22T16:57:34Z",
-"hits": 6,
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 7,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "ShadowHackrs/gmail-account-creator": {
 "repo": "ShadowHackrs/gmail-account-creator",
@@ -25521,7 +25521,7 @@
 "last_seen": "2026-11-23T12:12:50Z",
 "hits": 5,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "ReceitaFederal/calculadora-rtc-simples-nacional": {
 "repo": "ReceitaFederal/calculadora-rtc-simples-nacional",
@@ -25653,7 +25653,7 @@
 "repo": "HKUDS/CLI-Anything",
 "url": "https://github.com/HKUDS/CLI-Anything",
 "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-"stars": 63612.0,
+"stars": 64961.0,
 "spd": 41.0,
 "score": 0.7,
 "fit": 0.52,
@@ -25662,8 +25662,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-18T19:16:54Z",
-"last_seen": "2026-11-24T00:12:23Z",
-"hits": 6,
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 7,
 "in_tg": false,
 "status": "active"
 },
@@ -25917,7 +25917,7 @@
 "last_seen": "2026-11-23T12:12:50Z",
 "hits": 6,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Likely7/Veyra-NRVideo": {
 "repo": "Likely7/Veyra-NRVideo",
@@ -27056,20 +27056,20 @@
 "XinaTian/MROffice": {
 "repo": "XinaTian/MROffice",
 "url": "https://github.com/XinaTian/MROffice",
-"description": "MR Office: open-source document, spreadsheet, presentation, PDF, handwriting and code editors. https://mroffice.ai",
-"stars": 1876.0,
+"description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Ex",
+"stars": 3974.0,
 "spd": 43.2,
-"score": 1.19,
-"fit": 0.74,
+"score": 1.22,
+"fit": 1.0,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "AGPL-3.0",
 "language": "TypeScript",
 "first_seen": "2026-11-20T08:56:59Z",
-"last_seen": "2026-11-22T08:35:40Z",
-"hits": 5,
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 6,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "Tracer-Cloud/opensre": {
 "repo": "Tracer-Cloud/opensre",
@@ -28131,7 +28131,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 12,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ChunkTherapistRecord/GTA6-KytyPS5-GTA-6": {
 "repo": "ChunkTherapistRecord/GTA6-KytyPS5-GTA-6",
@@ -29535,7 +29535,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ruslaya/jetbrains-pycharm-win": {
 "repo": "ruslaya/jetbrains-pycharm-win",
@@ -30381,7 +30381,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 2,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "antigravity-cn-community/Antigravity-Chinese-Localization": {
 "repo": "antigravity-cn-community/Antigravity-Chinese-Localization",
@@ -30399,7 +30399,7 @@
 "last_seen": "2026-11-23T12:12:50Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "imputnet/cobalt": {
 "repo": "imputnet/cobalt",
@@ -30417,7 +30417,7 @@
 "last_seen": "2026-11-23T12:12:50Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "AFK-surf/xnulinux": {
 "repo": "AFK-surf/xnulinux",
@@ -30435,7 +30435,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "erkamyaman/safe-anything": {
 "repo": "erkamyaman/safe-anything",
@@ -30453,7 +30453,7 @@
 "last_seen": "2026-11-23T12:12:50Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "os6/nospeaker": {
 "repo": "os6/nospeaker",
@@ -30471,7 +30471,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "bridge-mind/leonida": {
 "repo": "bridge-mind/leonida",
@@ -30489,7 +30489,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Boldtheagora/DoomDarkAges-GamePassSteamSync": {
 "repo": "Boldtheagora/DoomDarkAges-GamePassSteamSync",
@@ -30507,7 +30507,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "gulucaptain/Best-Paper-Writing-Skill": {
 "repo": "gulucaptain/Best-Paper-Writing-Skill",
@@ -30525,7 +30525,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "grape-dev/grape": {
 "repo": "grape-dev/grape",
@@ -30543,7 +30543,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "multica-ai/multica": {
 "repo": "multica-ai/multica",
@@ -30561,7 +30561,7 @@
 "last_seen": "2026-11-23T14:58:24Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "zed-industries/gpui": {
 "repo": "zed-industries/gpui",
@@ -30579,7 +30579,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Awarenessnuignite/ROB-RUN-Cheat-Menu": {
 "repo": "Awarenessnuignite/ROB-RUN-Cheat-Menu",
@@ -30597,7 +30597,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "PeakNegotiatorKiln/Grand-Version-6": {
 "repo": "PeakNegotiatorKiln/Grand-Version-6",
@@ -30615,7 +30615,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Lavachilearn/rob-run-mod-trainer": {
 "repo": "Lavachilearn/rob-run-mod-trainer",
@@ -30633,7 +30633,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "blazeclientvise/rob-run-tools": {
 "repo": "blazeclientvise/rob-run-tools",
@@ -30651,7 +30651,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "AnnVieira90/face-swap-local": {
 "repo": "AnnVieira90/face-swap-local",
@@ -30669,7 +30669,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Robertop7212/chatgpt-mirror-lite": {
 "repo": "Robertop7212/chatgpt-mirror-lite",
@@ -30687,7 +30687,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Meetsaini/emulator": {
 "repo": "Meetsaini/emulator",
@@ -30705,7 +30705,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Ahmet-Dedeler/awesome-gta6-reverse-engineering": {
 "repo": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
@@ -30723,7 +30723,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Ehopatoo/capcut-pro-banorin-video-editor": {
 "repo": "Ehopatoo/capcut-pro-banorin-video-editor",
@@ -30741,7 +30741,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "LadybirdBrowser/ladybird": {
 "repo": "LadybirdBrowser/ladybird",
@@ -30759,7 +30759,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "4lwayz/portwatch-vi": {
 "repo": "4lwayz/portwatch-vi",
@@ -30777,13 +30777,13 @@
 "last_seen": "2026-11-24T10:16:31Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Marvisak/VIctory": {
 "repo": "Marvisak/VIctory",
 "url": "https://github.com/Marvisak/VIctory",
 "description": "An attempt at running GTA VI on PC",
-"stars": 7272.0,
+"stars": 11546.0,
 "spd": 406.7,
 "score": 0.48,
 "fit": 0.0,
@@ -30792,10 +30792,10 @@
 "license": "GPL-3.0",
 "language": "Rust",
 "first_seen": "2026-11-24T00:12:23Z",
-"last_seen": "2026-11-24T10:16:31Z",
-"hits": 2,
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "ivall/xcl": {
 "repo": "ivall/xcl",
@@ -30813,7 +30813,7 @@
 "last_seen": "2026-11-24T10:16:31Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Mouad06/gta": {
 "repo": "Mouad06/gta",
@@ -30831,7 +30831,7 @@
 "last_seen": "2026-11-24T00:12:23Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "google-antigravity/antigravity-cli": {
 "repo": "google-antigravity/antigravity-cli",
@@ -30919,6 +30919,492 @@
 "language": "HTML",
 "first_seen": "2026-11-24T10:16:31Z",
 "last_seen": "2026-11-24T10:16:31Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"matia294/lorespeak-gamereader-2-polski-lektor-ai-do-gier-pc-2026": {
+"repo": "matia294/lorespeak-gamereader-2-polski-lektor-ai-do-gier-pc-2026",
+"url": "https://github.com/matia294/lorespeak-gamereader-2-polski-lektor-ai-do-gier-pc-2026",
+"description": "Lorespeak Gamereader 2 Polski Lektor AI Do Gier PC 2026 [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+"stars": 26,
+"spd": 240.0,
+"score": 2.42,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "Python",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"mike-kumar-lab1905z2/fivem-hwid-spoofer-2026": {
+"repo": "mike-kumar-lab1905z2/fivem-hwid-spoofer-2026",
+"url": "https://github.com/mike-kumar-lab1905z2/fivem-hwid-spoofer-2026",
+"description": "FiveM HWID smbios-utility & Unban Tool — Adhesive Global Ban Cleaner & Serial Resetter (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhe",
+"stars": 209,
+"spd": 144.0,
+"score": 1.44,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "NOASSERTION",
+"language": "Jupyter Notebook",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"dorothyyou08781/bip39-mnemonic-seed-balance-scanner-keyless": {
+"repo": "dorothyyou08781/bip39-mnemonic-seed-balance-scanner-keyless",
+"url": "https://github.com/dorothyyou08781/bip39-mnemonic-seed-balance-scanner-keyless",
+"description": "Seed Phrase Checker & Wallet Seed Phrase Checker [2026] — BIP39 Multi-Chain ETH/SOL/BTC/USDT Balance Scanner",
+"stars": 172,
+"spd": 192.0,
+"score": 1.39,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-sec",
+"license": "NOASSERTION",
+"language": "Python",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"YutozeXesi67/clair-obscur-expedition-33-parry-trainer-mod": {
+"repo": "YutozeXesi67/clair-obscur-expedition-33-parry-trainer-mod",
+"url": "https://github.com/YutozeXesi67/clair-obscur-expedition-33-parry-trainer-mod",
+"description": "Clair Obscur: Expedition 33 Parry Timing Trainer, Turn-Order HUD & Ultrawide Mod Suite (2026 Windows x64)",
+"stars": 190,
+"spd": 192.0,
+"score": 1.26,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "C++",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"richardmo-lab301/fl-studio-2026-edicion-estudio-produccion-audio-es": {
+"repo": "richardmo-lab301/fl-studio-2026-edicion-estudio-produccion-audio-es",
+"url": "https://github.com/richardmo-lab301/fl-studio-2026-edicion-estudio-produccion-audio-es",
+"description": "Fl Studio 2026 Edicion Estudio Produccion Audio Es [2026] — Standalone Windows 10/11 (x64) Release & Config",
+"stars": 128,
+"spd": 192.0,
+"score": 1.23,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-infra",
+"license": "NOASSERTION",
+"language": "C#",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"v-mysusanja-j58/comfyui-0-46-invokeai-6-14-local-ai-studio-ko": {
+"repo": "v-mysusanja-j58/comfyui-0-46-invokeai-6-14-local-ai-studio-ko",
+"url": "https://github.com/v-mysusanja-j58/comfyui-0-46-invokeai-6-14-local-ai-studio-ko",
+"description": "Comfyui 0 46 Invokeai 6 14 Local AI Studio Ko [2026] — Standalone Windows 10/11 (x64) Release & Config",
+"stars": 128,
+"spd": 192.0,
+"score": 1.22,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "Python",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"marek8606/kingdom-come-deliverance-2-trosky-kuttenberg-companion": {
+"repo": "marek8606/kingdom-come-deliverance-2-trosky-kuttenberg-companion",
+"url": "https://github.com/marek8606/kingdom-come-deliverance-2-trosky-kuttenberg-companion",
+"description": "Kingdom Come Deliverance 2 Trosky Kuttenberg Companion [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+"stars": 132,
+"spd": 192.0,
+"score": 1.21,
+"fit": 0.7,
+"risk": 0.14,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "C#",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"EL4CTEO/shrink-anything": {
+"repo": "EL4CTEO/shrink-anything",
+"url": "https://github.com/EL4CTEO/shrink-anything",
+"description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+"stars": 192,
+"spd": 35.0,
+"score": 1.14,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"martina1713/fabfilter-pro-c-3-vst3-sidechain-suite": {
+"repo": "martina1713/fabfilter-pro-c-3-vst3-sidechain-suite",
+"url": "https://github.com/martina1713/fabfilter-pro-c-3-vst3-sidechain-suite",
+"description": "Fabfilter Pro C 3 VST3 Sidechain Suite [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+"stars": 130,
+"spd": 144.0,
+"score": 1.14,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "C#",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"LoriKim03/fisch-auto-farm-script": {
+"repo": "LoriKim03/fisch-auto-farm-script",
+"url": "https://github.com/LoriKim03/fisch-auto-farm-script",
+"description": "Fisch Auto Farm Script [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+"stars": 130,
+"spd": 144.0,
+"score": 1.12,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "NOASSERTION",
+"language": "C++",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"JisungDiaz447/blox-fruits-script-keyless-2026": {
+"repo": "JisungDiaz447/blox-fruits-script-keyless-2026",
+"url": "https://github.com/JisungDiaz447/blox-fruits-script-keyless-2026",
+"description": "Blox Fruits Script [2026] — Keyless Auto Farm Mastery, Dragon/Kitsune Fruit Sniper & Sea Events Macro for Roblox",
+"stars": 174,
+"spd": 90.5,
+"score": 1.07,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "NOASSERTION",
+"language": "C++",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Norao01/solana-pump-fun-jito-bundler-sniper": {
+"repo": "Norao01/solana-pump-fun-jito-bundler-sniper",
+"url": "https://github.com/Norao01/solana-pump-fun-jito-bundler-sniper",
+"description": "Jito MEV Bot & Solana Pump.fun gRPC Sniper Bundler [2026] — Sub-Millisecond ShredStream Arbitrage & Tip Optimizer",
+"stars": 189,
+"spd": 144.0,
+"score": 1.05,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "NOASSERTION",
+"language": "Python",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"misasimmons/solana-pump-fun-jito-bundler-bot": {
+"repo": "misasimmons/solana-pump-fun-jito-bundler-bot",
+"url": "https://github.com/misasimmons/solana-pump-fun-jito-bundler-bot",
+"description": "Pump Fun Volume Bot & Solana Pump.fun Sniper Bot [2026] — Multi-Wallet Jito Bundler, Bump Bot & Anti-Bubblemaps",
+"stars": 199,
+"spd": 288.0,
+"score": 1.03,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "NOASSERTION",
+"language": "Python",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"marcusyildirim/personal-capital": {
+"repo": "marcusyildirim/personal-capital",
+"url": "https://github.com/marcusyildirim/personal-capital",
+"description": "Personal Capital for Windows 10/11. Tracks your net worth, investments and cash flow in one dashboard, then builds retirement projections and fee analyses so you can plan long-term spending and saving",
+"stars": 75,
+"spd": 27.3,
+"score": 1.02,
+"fit": 0.65,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "NOASSERTION",
+"language": "",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Umbra9179/clipboard-history-manager-windows": {
+"repo": "Umbra9179/clipboard-history-manager-windows",
+"url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+"description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+"stars": 752,
+"spd": 66.3,
+"score": 1.01,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "C#",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"kai415-debug/ffmpeg-video-audio-converter": {
+"repo": "kai415-debug/ffmpeg-video-audio-converter",
+"url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+"description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+"stars": 746,
+"spd": 35.9,
+"score": 0.92,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "MIT",
+"language": "C++",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"solv4626/steam-achievement-manager-windows": {
+"repo": "solv4626/steam-achievement-manager-windows",
+"url": "https://github.com/solv4626/steam-achievement-manager-windows",
+"description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+"stars": 749,
+"spd": 80.4,
+"score": 0.91,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Zettrox/ztrx": {
+"repo": "Zettrox/ztrx",
+"url": "https://github.com/Zettrox/ztrx",
+"description": "Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs",
+"stars": 521,
+"spd": 137.7,
+"score": 0.84,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "GPL-3.0",
+"language": "Rust",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Elenar74/fl-studio-2026-producer-unlocked-x64": {
+"repo": "Elenar74/fl-studio-2026-producer-unlocked-x64",
+"url": "https://github.com/Elenar74/fl-studio-2026-producer-unlocked-x64",
+"description": "Fl Studio 2026 Producer Unlocked X64 [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+"stars": 156,
+"spd": 192.0,
+"score": 0.8,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "NOASSERTION",
+"language": "C#",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Nebula4207/av1-video-encoder-gui": {
+"repo": "Nebula4207/av1-video-encoder-gui",
+"url": "https://github.com/Nebula4207/av1-video-encoder-gui",
+"description": "Free Windows AV1 video encoder GUI for aomenc, rav1e, SVT-AV1, NVENC, Quick Sync and VP9 with parallel encoding.",
+"stars": 685,
+"spd": 31.8,
+"score": 0.78,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "C#",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Norao01/fabfilter-total-bundle-2026-vst3-pc": {
+"repo": "Norao01/fabfilter-total-bundle-2026-vst3-pc",
+"url": "https://github.com/Norao01/fabfilter-total-bundle-2026-vst3-pc",
+"description": "iZotope Ozone 11 & FabFilter Total Bundle [2026] — VST3 Mastering Suite, Pro-Q 4 & Ozone 11 Advanced for PC",
+"stars": 205,
+"spd": 144.0,
+"score": 0.78,
+"fit": 0.48,
+"risk": 0.18,
+"ps": "PS-web",
+"license": "NOASSERTION",
+"language": "C#",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"rowanbyte3329/stardew-valley-mod-manager": {
+"repo": "rowanbyte3329/stardew-valley-mod-manager",
+"url": "https://github.com/rowanbyte3329/stardew-valley-mod-manager",
+"description": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates, and custom mod profiles.",
+"stars": 765,
+"spd": 51.6,
+"score": 0.77,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "MIT",
+"language": "C#",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Indigo-0167/universal-game-mod-manager": {
+"repo": "Indigo-0167/universal-game-mod-manager",
+"url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+"description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+"stars": 776,
+"spd": 46.5,
+"score": 0.74,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"borisnguyen58/tiller-money": {
+"repo": "borisnguyen58/tiller-money",
+"url": "https://github.com/borisnguyen58/tiller-money",
+"description": "Tiller Money for Windows 10/11. Pulls bank and credit card transactions into a spreadsheet, auto-categorizes spending and refreshes daily balances so you can track budgets and cash flow without manual",
+"stars": 77,
+"spd": 51.9,
+"score": 0.69,
+"fit": 0.61,
+"risk": 0.37,
+"ps": "PS-dev",
+"license": "NOASSERTION",
+"language": "",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Morozov-yusuf1987/dashlane": {
+"repo": "Morozov-yusuf1987/dashlane",
+"url": "https://github.com/Morozov-yusuf1987/dashlane",
+"description": "Dashlane for Windows 10/11. Stores passwords, payment cards and secure notes in an encrypted vault, autofills login forms in your browser and warns you when saved credentials appear in known breaches.",
+"stars": 78,
+"spd": 29.3,
+"score": 0.47,
+"fit": 0.5,
+"risk": 0.37,
+"ps": "PS-sec",
+"license": "NOASSERTION",
+"language": "",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Basil0879/steam-game-idler": {
+"repo": "Basil0879/steam-game-idler",
+"url": "https://github.com/Basil0879/steam-game-idler",
+"description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
+"stars": 682,
+"spd": 68.5,
+"score": 0.45,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"fxceless/victory-fork": {
+"repo": "fxceless/victory-fork",
+"url": "https://github.com/fxceless/victory-fork",
+"description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+"stars": 2153,
+"spd": 60.9,
+"score": 0.38,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "GPL-3.0",
+"language": "Rust",
+"first_seen": "2026-11-25T03:59:10Z",
+"last_seen": "2026-11-25T03:59:10Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"

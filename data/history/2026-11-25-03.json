@@ -1,0 +1,1889 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-25T03:59:02Z",
+ "window": {
+  "hours": 4,
+  "from": "2026-11-24-23",
+  "to": "2026-11-25-2",
+  "watch_events": 942,
+  "repos": 759,
+  "actors": 813,
+  "ring_accounts": 11,
+  "api_calls": 19,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261125-04",
+   "repo": "matia294/lorespeak-gamereader-2-polski-lektor-ai-do-gier-pc-2026",
+   "url": "https://github.com/matia294/lorespeak-gamereader-2-polski-lektor-ai-do-gier-pc-2026",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 26,
+   "forks": 0,
+   "open_issues": 1,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 86,
+   "description": "Lorespeak Gamereader 2 Polski Lektor AI Do Gier PC 2026 [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+   "topics": [
+    "cpp",
+    "directx-11",
+    "lorespeak-gamereader-2",
+    "lorespeak-gamereader-2-2026",
+    "lorespeak-gamereader-2-pc",
+    "lorespeak-gamereader-2-polski-lekto"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.0,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 52.0,
+    "acceleration": 4.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.42,
+   "score_explain": [
+    "V=1.73: хвост 240.0 зв/сут против штатных 52.0 (x5)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-25",
+   "repo": "mike-kumar-lab1905z2/fivem-hwid-spoofer-2026",
+   "url": "https://github.com/mike-kumar-lab1905z2/fivem-hwid-spoofer-2026",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 209,
+   "forks": 6,
+   "open_issues": 0,
+   "language": "Jupyter Notebook",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "FiveM HWID smbios-utility & Unban Tool — Adhesive Global Ban Cleaner & Serial Resetter (2026 Edition): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "topics": [
+    "cmake",
+    "cpp",
+    "directx-11",
+    "directx-12",
+    "fivem",
+    "fivem-dumper"
+   ],
+   "signals": {
+    "age_days": 1.9,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 112.07,
+    "acceleration": 1.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.44,
+   "score_explain": [
+    "V=0.83: хвост 144.0 зв/сут против штатных 112.1 (x1)",
+    "N=1.0: репо 2 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-11",
+   "repo": "dorothyyou08781/bip39-mnemonic-seed-balance-scanner-keyless",
+   "url": "https://github.com/dorothyyou08781/bip39-mnemonic-seed-balance-scanner-keyless",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 172,
+   "forks": 23,
+   "open_issues": 1,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 96,
+   "description": "Seed Phrase Checker & Wallet Seed Phrase Checker [2026] — BIP39 Multi-Chain ETH/SOL/BTC/USDT Balance Scanner",
+   "topics": [
+    "2026",
+    "bip39-scanner",
+    "crypto-wallet-checker",
+    "metamask-seed-recovery",
+    "seed-phrase-checker",
+    "wallet-seed-phrase-checker"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.2,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 255.64,
+    "acceleration": 0.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.39,
+   "score_explain": [
+    "V=0.56: хвост 192.0 зв/сут против штатных 255.6 (x1)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-sec",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-16",
+   "repo": "sherlock-project/sherlock",
+   "url": "https://github.com/sherlock-project/sherlock",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 117127,
+   "forks": 13358,
+   "open_issues": 421,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 19108,
+   "description": "Hunt down social media accounts by username across social networks",
+   "topics": [
+    "cli",
+    "cti",
+    "cybersecurity",
+    "forensics",
+    "hacktoberfest",
+    "information-gathering"
+   ],
+   "signals": {
+    "age_days": 2892.6,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.3,
+    "stars_per_day_recent": 73.2,
+    "lifetime_stars_per_day": 40.49,
+    "acceleration": 1.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.35,
+   "score_explain": [
+    "V=0.62: хвост 73.2 зв/сут против штатных 40.5 (x2)",
+    "N=0.2: репо 2893 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-26",
+   "repo": "jingyaogong/minimind",
+   "url": "https://github.com/jingyaogong/minimind",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 70391,
+   "forks": 9152,
+   "open_issues": 63,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 39567,
+   "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+   "topics": [
+    "artificial-intelligence",
+    "large-language-model"
+   ],
+   "signals": {
+    "age_days": 851.0,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 0.6,
+    "stars_per_day_recent": 119.2,
+    "lifetime_stars_per_day": 82.72,
+    "acceleration": 1.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.89,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.35,
+   "score_explain": [
+    "V=0.54: хвост 119.2 зв/сут против штатных 82.7 (x1)",
+    "N=0.2: репо 851 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.89 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-13",
+   "repo": "YutozeXesi67/clair-obscur-expedition-33-parry-trainer-mod",
+   "url": "https://github.com/YutozeXesi67/clair-obscur-expedition-33-parry-trainer-mod",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 190,
+   "forks": 19,
+   "open_issues": 1,
+   "language": "C++",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 86,
+   "description": "Clair Obscur: Expedition 33 Parry Timing Trainer, Turn-Order HUD & Ultrawide Mod Suite (2026 Windows x64)",
+   "topics": [
+    "2026",
+    "clair-obscur-expedition-33",
+    "expedition-33",
+    "expedition-33-mods",
+    "parry-timing-overlay",
+    "pictos-build-planner"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.0,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 380.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.26,
+   "score_explain": [
+    "V=0.41: хвост 192.0 зв/сут против штатных 380.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-12",
+   "repo": "richardmo-lab301/fl-studio-2026-edicion-estudio-produccion-audio-es",
+   "url": "https://github.com/richardmo-lab301/fl-studio-2026-edicion-estudio-produccion-audio-es",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 128,
+   "forks": 16,
+   "open_issues": 1,
+   "language": "C#",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 88,
+   "description": "Fl Studio 2026 Edicion Estudio Produccion Audio Es [2026] — Standalone Windows 10/11 (x64) Release & Config",
+   "topics": [
+    "desktop-app",
+    "fl-studio-2026",
+    "fl-studio-2026-edicion-estudio-prod",
+    "fl-studio-edicion",
+    "fl-studio-edicion-2026",
+    "fl-studio-edicion-pc"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.0,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 256.0,
+    "acceleration": 0.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-infra",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.23,
+   "score_explain": [
+    "V=0.56: хвост 192.0 зв/сут против штатных 256.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-infra",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-14",
+   "repo": "v-mysusanja-j58/comfyui-0-46-invokeai-6-14-local-ai-studio-ko",
+   "url": "https://github.com/v-mysusanja-j58/comfyui-0-46-invokeai-6-14-local-ai-studio-ko",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 128,
+   "forks": 5,
+   "open_issues": 1,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 90,
+   "description": "Comfyui 0 46 Invokeai 6 14 Local AI Studio Ko [2026] — Standalone Windows 10/11 (x64) Release & Config",
+   "topics": [
+    "comfyui",
+    "comfyui-0-2026",
+    "comfyui-0-46",
+    "comfyui-0-46-2026",
+    "comfyui-0-46-invokeai-6-14-local-ai",
+    "comfyui-0-46-pc"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.0,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 256.0,
+    "acceleration": 0.8,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.22,
+   "score_explain": [
+    "V=0.56: хвост 192.0 зв/сут против штатных 256.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-31",
+   "repo": "XinaTian/MROffice",
+   "url": "https://github.com/XinaTian/MROffice",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 3974,
+   "forks": 427,
+   "open_issues": 0,
+   "language": "TypeScript",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "size_kb": 179370,
+   "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
+   "topics": [
+    "ai",
+    "ai-agent",
+    "claude-code",
+    "codex",
+    "copilot",
+    "cursor"
+   ],
+   "signals": {
+    "age_days": 14.4,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.0,
+    "stars_per_day_recent": 35.8,
+    "lifetime_stars_per_day": 275.59,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 1.0,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.22,
+   "score_explain": [
+    "V=0.12: хвост 35.8 зв/сут против штатных 275.6 (x0)",
+    "N=1.0: репо 14 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=1.0 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-09",
+   "repo": "marek8606/kingdom-come-deliverance-2-trosky-kuttenberg-companion",
+   "url": "https://github.com/marek8606/kingdom-come-deliverance-2-trosky-kuttenberg-companion",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 132,
+   "forks": 27,
+   "open_issues": 1,
+   "language": "C#",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 84,
+   "description": "Kingdom Come Deliverance 2 Trosky Kuttenberg Companion [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+   "topics": [
+    "cpp",
+    "directx-11",
+    "kcd2-map",
+    "kingdom-come-config",
+    "kingdom-come-deliverance",
+    "kingdom-come-deliverance-2"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.0,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 264.0,
+    "acceleration": 0.7,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.14,
+   "lead_score": 1.21,
+   "score_explain": [
+    "V=0.55: хвост 192.0 зв/сут против штатных 264.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-18",
+   "repo": "EL4CTEO/shrink-anything",
+   "url": "https://github.com/EL4CTEO/shrink-anything",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 192,
+   "forks": 12,
+   "open_issues": 1,
+   "language": "Rust",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 1514,
+   "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
+   "topics": [
+    "ai-agents",
+    "bundle-size",
+    "claude-code",
+    "cli",
+    "code-cleanup",
+    "dead-code"
+   ],
+   "signals": {
+    "age_days": 1.5,
+    "last_push_days_ago": 1,
+    "stars_in_window": 4,
+    "window_h": 2.7,
+    "stars_per_day_recent": 35.0,
+    "lifetime_stars_per_day": 127.81,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.74,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.14,
+   "score_explain": [
+    "V=0.24: хвост 35.0 зв/сут против штатных 127.8 (x0)",
+    "N=1.0: репо 2 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.74 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-22",
+   "repo": "martina1713/fabfilter-pro-c-3-vst3-sidechain-suite",
+   "url": "https://github.com/martina1713/fabfilter-pro-c-3-vst3-sidechain-suite",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 130,
+   "forks": 23,
+   "open_issues": 1,
+   "language": "C#",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 85,
+   "description": "Fabfilter Pro C 3 VST3 Sidechain Suite [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+   "topics": [
+    "desktop-app",
+    "fabfilter-c-2026",
+    "fabfilter-c-3",
+    "fabfilter-c-3-2026",
+    "fabfilter-c-3-pc",
+    "fabfilter-c-pc"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 260.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.14,
+   "score_explain": [
+    "V=0.44: хвост 144.0 зв/сут против штатных 260.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-23",
+   "repo": "LoriKim03/fisch-auto-farm-script",
+   "url": "https://github.com/LoriKim03/fisch-auto-farm-script",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 130,
+   "forks": 19,
+   "open_issues": 1,
+   "language": "C++",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 97,
+   "description": "Fisch Auto Farm Script [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+   "topics": [
+    "fisch",
+    "fisch-auto-auto-farm",
+    "fisch-auto-farm",
+    "fisch-auto-farm-2026",
+    "fisch-auto-farm-pc",
+    "fisch-auto-farm-script"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 260.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.12,
+   "score_explain": [
+    "V=0.44: хвост 144.0 зв/сут против штатных 260.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-07",
+   "repo": "BaaRai/ARTEX",
+   "url": "https://github.com/BaaRai/ARTEX",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 19450,
+   "forks": 7272,
+   "open_issues": 37,
+   "language": "Go",
+   "license": "AGPL-3.0",
+   "archived": false,
+   "size_kb": 17241,
+   "description": "Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "autonomous-agents",
+    "bug-bounty",
+    "docker",
+    "golang"
+   ],
+   "signals": {
+    "age_days": 47.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 3.3,
+    "stars_per_day_recent": 36.1,
+    "lifetime_stars_per_day": 411.37,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.96,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.08,
+   "score_explain": [
+    "V=0.08: хвост 36.1 зв/сут против штатных 411.4 (x0)",
+    "N=0.6: репо 47 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.96 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-15",
+   "repo": "JisungDiaz447/blox-fruits-script-keyless-2026",
+   "url": "https://github.com/JisungDiaz447/blox-fruits-script-keyless-2026",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 174,
+   "forks": 29,
+   "open_issues": 1,
+   "language": "C++",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 92,
+   "description": "Blox Fruits Script [2026] — Keyless Auto Farm Mastery, Dragon/Kitsune Fruit Sniper & Sea Events Macro for Roblox",
+   "topics": [
+    "2026",
+    "auto-farm-roblox",
+    "blox-fruits",
+    "blox-fruits-script",
+    "keyless-script",
+    "roblox-blox-fruits-script"
+   ],
+   "signals": {
+    "age_days": 0.8,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.1,
+    "stars_per_day_recent": 90.5,
+    "lifetime_stars_per_day": 219.34,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.07,
+   "score_explain": [
+    "V=0.35: хвост 90.5 зв/сут против штатных 219.3 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-24",
+   "repo": "Norao01/solana-pump-fun-jito-bundler-sniper",
+   "url": "https://github.com/Norao01/solana-pump-fun-jito-bundler-sniper",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 189,
+   "forks": 19,
+   "open_issues": 2,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 74,
+   "description": "Jito MEV Bot & Solana Pump.fun gRPC Sniper Bundler [2026] — Sub-Millisecond ShredStream Arbitrage & Tip Optimizer",
+   "topics": [
+    "2026",
+    "jito-bundler",
+    "jito-mev-bot",
+    "pump-fun-sniper-bot",
+    "solana-mev-bot",
+    "solana-sniper-bot"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 378.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.05,
+   "score_explain": [
+    "V=0.32: хвост 144.0 зв/сут против штатных 378.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-02",
+   "repo": "misasimmons/solana-pump-fun-jito-bundler-bot",
+   "url": "https://github.com/misasimmons/solana-pump-fun-jito-bundler-bot",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 199,
+   "forks": 17,
+   "open_issues": 2,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 100,
+   "description": "Pump Fun Volume Bot & Solana Pump.fun Sniper Bot [2026] — Multi-Wallet Jito Bundler, Bump Bot & Anti-Bubblemaps",
+   "topics": [
+    "2026",
+    "jito-bundler-bot",
+    "pump-fun-sniper-bot",
+    "pump-fun-volume-bot",
+    "pumpfun-bot",
+    "solana-sniper-bot"
+   ],
+   "signals": {
+    "age_days": 0.8,
+    "last_push_days_ago": 0,
+    "stars_in_window": 6,
+    "window_h": 0.0,
+    "stars_per_day_recent": 288.0,
+    "lifetime_stars_per_day": 263.82,
+    "acceleration": 1.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.03,
+   "score_explain": [
+    "V=0.74: хвост 288.0 зв/сут против штатных 263.8 (x1)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-34",
+   "repo": "marcusyildirim/personal-capital",
+   "url": "https://github.com/marcusyildirim/personal-capital",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 75,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 218,
+   "description": "Personal Capital for Windows 10/11. Tracks your net worth, investments and cash flow in one dashboard, then builds retirement projections and fee analyses so you can plan long-term spending and saving decisions.",
+   "topics": [
+    "capital-gains",
+    "desktop",
+    "openclaw",
+    "personal",
+    "personal-agent",
+    "personal-ai"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.6,
+    "stars_per_day_recent": 27.3,
+    "lifetime_stars_per_day": 112.21,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.65,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.02,
+   "score_explain": [
+    "V=0.22: хвост 27.3 зв/сут против штатных 112.2 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.65 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-17",
+   "repo": "Umbra9179/clipboard-history-manager-windows",
+   "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 752,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "C#",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 6146,
+   "description": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+   "topics": [
+    "clipboard",
+    "clipboard-history",
+    "clipboard-manager",
+    "desktop-app",
+    "desktop-application",
+    "dotnet"
+   ],
+   "signals": {
+    "age_days": 1.3,
+    "last_push_days_ago": 1,
+    "stars_in_window": 4,
+    "window_h": 1.4,
+    "stars_per_day_recent": 66.3,
+    "lifetime_stars_per_day": 595.38,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.76,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.01,
+   "score_explain": [
+    "V=0.11: хвост 66.3 зв/сут против штатных 595.4 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.76 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-08",
+   "repo": "kai415-debug/ffmpeg-video-audio-converter",
+   "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 746,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "C++",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 6609,
+   "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+   "topics": [
+    "audio",
+    "audio-converter",
+    "conversion",
+    "converter-encoding",
+    "cpp",
+    "desktop"
+   ],
+   "signals": {
+    "age_days": 1.3,
+    "last_push_days_ago": 1,
+    "stars_in_window": 5,
+    "window_h": 3.3,
+    "stars_per_day_recent": 35.9,
+    "lifetime_stars_per_day": 588.27,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.92,
+   "score_explain": [
+    "V=0.06: хвост 35.9 зв/сут против штатных 588.3 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-27",
+   "repo": "solv4626/steam-achievement-manager-windows",
+   "url": "https://github.com/solv4626/steam-achievement-manager-windows",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 749,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 7418,
+   "description": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+   "topics": [
+    "achievement-management",
+    "achievements",
+    "desktop",
+    "desktop-application",
+    "game-stats",
+    "game-utility"
+   ],
+   "signals": {
+    "age_days": 1.3,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 0.9,
+    "stars_per_day_recent": 80.4,
+    "lifetime_stars_per_day": 590.19,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.91,
+   "score_explain": [
+    "V=0.13: хвост 80.4 зв/сут против штатных 590.2 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-05",
+   "repo": "Zettrox/ztrx",
+   "url": "https://github.com/Zettrox/ztrx",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 521,
+   "forks": 93,
+   "open_issues": 28,
+   "language": "Rust",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 1666,
+   "description": "Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs",
+   "topics": [],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.9,
+    "stars_per_day_recent": 137.7,
+    "lifetime_stars_per_day": 1042.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.84,
+   "score_explain": [
+    "V=0.12: хвост 137.7 зв/сут против штатных 1042.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-10",
+   "repo": "Elenar74/fl-studio-2026-producer-unlocked-x64",
+   "url": "https://github.com/Elenar74/fl-studio-2026-producer-unlocked-x64",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 156,
+   "forks": 23,
+   "open_issues": 1,
+   "language": "C#",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 71,
+   "description": "Fl Studio 2026 Producer Unlocked X64 [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config",
+   "topics": [
+    "daw-studio-2026",
+    "fl-studio",
+    "fl-studio-2026",
+    "music-production",
+    "vst3-plugins",
+    "windows-11"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.0,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 312.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.8,
+   "score_explain": [
+    "V=0.48: хвост 192.0 зв/сут против штатных 312.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-33",
+   "repo": "patch-gg/pixelfx",
+   "url": "https://github.com/patch-gg/pixelfx",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 9097,
+   "forks": 1194,
+   "open_issues": 18,
+   "language": "JavaScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 25365,
+   "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+   "topics": [
+    "agent-skills",
+    "animation",
+    "canvas",
+    "claude-code-plugin",
+    "gamedev",
+    "pixel-art"
+   ],
+   "signals": {
+    "age_days": 25.9,
+    "last_push_days_ago": 11,
+    "stars_in_window": 3,
+    "window_h": 2.5,
+    "stars_per_day_recent": 28.6,
+    "lifetime_stars_per_day": 351.43,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.8,
+   "score_explain": [
+    "V=0.08: хвост 28.6 зв/сут против штатных 351.4 (x0)",
+    "N=1.0: репо 26 дн от роду",
+    "C=0.5: пуш 11 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-19",
+   "repo": "Nebula4207/av1-video-encoder-gui",
+   "url": "https://github.com/Nebula4207/av1-video-encoder-gui",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 685,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "C#",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 9123,
+   "description": "Free Windows AV1 video encoder GUI for aomenc, rav1e, SVT-AV1, NVENC, Quick Sync and VP9 with parallel encoding.",
+   "topics": [
+    "aom",
+    "aomenc",
+    "av1",
+    "av1-encoders",
+    "chunks",
+    "encoder"
+   ],
+   "signals": {
+    "age_days": 1.3,
+    "last_push_days_ago": 1,
+    "stars_in_window": 4,
+    "window_h": 3.0,
+    "stars_per_day_recent": 31.8,
+    "lifetime_stars_per_day": 540.55,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.78,
+   "score_explain": [
+    "V=0.06: хвост 31.8 зв/сут против штатных 540.5 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-21",
+   "repo": "Norao01/fabfilter-total-bundle-2026-vst3-pc",
+   "url": "https://github.com/Norao01/fabfilter-total-bundle-2026-vst3-pc",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 205,
+   "forks": 15,
+   "open_issues": 1,
+   "language": "C#",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 75,
+   "description": "iZotope Ozone 11 & FabFilter Total Bundle [2026] — VST3 Mastering Suite, Pro-Q 4 & Ozone 11 Advanced for PC",
+   "topics": [
+    "audio-mastering-2026",
+    "fabfilter-total-bundle",
+    "izotope-ozone-11",
+    "ozone-11-vst3",
+    "vst3-plugins",
+    "windows-11"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 410.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.18,
+   "lead_score": 0.78,
+   "score_explain": [
+    "V=0.30: хвост 144.0 зв/сут против штатных 410.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-03",
+   "repo": "rowanbyte3329/stardew-valley-mod-manager",
+   "url": "https://github.com/rowanbyte3329/stardew-valley-mod-manager",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 765,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "C#",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 6283,
+   "description": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates, and custom mod profiles.",
+   "topics": [
+    "avaloniaui",
+    "cross-platform",
+    "csharp",
+    "desktop",
+    "dotnet",
+    "game-modding"
+   ],
+   "signals": {
+    "age_days": 1.3,
+    "last_push_days_ago": 1,
+    "stars_in_window": 6,
+    "window_h": 2.8,
+    "stars_per_day_recent": 51.6,
+    "lifetime_stars_per_day": 599.52,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.77,
+   "score_explain": [
+    "V=0.08: хвост 51.6 зв/сут против штатных 599.5 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-29",
+   "repo": "Indigo-0167/universal-game-mod-manager",
+   "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 776,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Rust",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 13730,
+   "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
+   "topics": [
+    "automation",
+    "desktop",
+    "epic-games",
+    "game-development",
+    "game-engine",
+    "game-mods"
+   ],
+   "signals": {
+    "age_days": 1.3,
+    "last_push_days_ago": 1,
+    "stars_in_window": 3,
+    "window_h": 1.5,
+    "stars_per_day_recent": 46.5,
+    "lifetime_stars_per_day": 611.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.74,
+   "score_explain": [
+    "V=0.07: хвост 46.5 зв/сут против штатных 611.0 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-28",
+   "repo": "borisnguyen58/tiller-money",
+   "url": "https://github.com/borisnguyen58/tiller-money",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 77,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 208,
+   "description": "Tiller Money for Windows 10/11. Pulls bank and credit card transactions into a spreadsheet, auto-categorizes spending and refreshes daily balances so you can track budgets and cash flow without manual entry.",
+   "topics": [
+    "desktop-app",
+    "guide-setup-tiller-money",
+    "helm-tiller",
+    "how-to-install-tiller-money",
+    "money",
+    "money-project"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.4,
+    "stars_per_day_recent": 51.9,
+    "lifetime_stars_per_day": 114.09,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.67
+   },
+   "fit_internal": 0.61,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.37,
+   "lead_score": 0.69,
+   "score_explain": [
+    "V=0.37: хвост 51.9 зв/сут против штатных 114.1 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.61 -> PS-dev",
+    "M=0.37: self-star 0.0, кольца 0.67"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-20",
+   "repo": "HKUDS/CLI-Anything",
+   "url": "https://github.com/HKUDS/CLI-Anything",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 64961,
+   "forks": 5917,
+   "open_issues": 296,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "archived": false,
+   "size_kb": 42161,
+   "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "topics": [],
+   "signals": {
+    "age_days": 261.6,
+    "last_push_days_ago": 4,
+    "stars_in_window": 4,
+    "window_h": 3.1,
+    "stars_per_day_recent": 31.0,
+    "lifetime_stars_per_day": 248.33,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.52,
+   "problem_statement": "PS-infer",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.68,
+   "score_explain": [
+    "V=0.07: хвост 31.0 зв/сут против штатных 248.3 (x0)",
+    "N=0.2: репо 262 дн от роду",
+    "C=1.0: пуш 4 дн назад",
+    "fit=0.52 -> PS-infer",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-32",
+   "repo": "Morozov-yusuf1987/dashlane",
+   "url": "https://github.com/Morozov-yusuf1987/dashlane",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 78,
+   "forks": 0,
+   "open_issues": 0,
+   "language": null,
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 220,
+   "description": "Dashlane for Windows 10/11. Stores passwords, payment cards and secure notes in an encrypted vault, autofills login forms in your browser and warns you when saved credentials appear in known breaches.",
+   "topics": [
+    "2026-dashlane",
+    "dashlane",
+    "dashlane-desktop",
+    "dashlane-download",
+    "dashlane-free",
+    "dashlane-install"
+   ],
+   "signals": {
+    "age_days": 0.7,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 2.5,
+    "stars_per_day_recent": 29.3,
+    "lifetime_stars_per_day": 119.61,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.67
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.37,
+   "lead_score": 0.47,
+   "score_explain": [
+    "V=0.22: хвост 29.3 зв/сут против штатных 119.6 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-sec",
+    "M=0.37: self-star 0.0, кольца 0.67"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-01",
+   "repo": "Basil0879/steam-game-idler",
+   "url": "https://github.com/Basil0879/steam-game-idler",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 682,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "TypeScript",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 13973,
+   "description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
+   "topics": [
+    "achievement-management",
+    "archisteamfarm",
+    "asf",
+    "automation",
+    "desktop",
+    "idle-master"
+   ],
+   "signals": {
+    "age_days": 1.3,
+    "last_push_days_ago": 1,
+    "stars_in_window": 7,
+    "window_h": 2.5,
+    "stars_per_day_recent": 68.5,
+    "lifetime_stars_per_day": 533.96,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.45,
+   "score_explain": [
+    "V=0.12: хвост 68.5 зв/сут против штатных 534.0 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 1 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-06",
+   "repo": "fxceless/victory-fork",
+   "url": "https://github.com/fxceless/victory-fork",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 2153,
+   "forks": 543,
+   "open_issues": 596,
+   "language": "Rust",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 2126,
+   "description": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+   "topics": [],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 2.0,
+    "stars_per_day_recent": 60.9,
+    "lifetime_stars_per_day": 4306.0,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.38,
+   "score_explain": [
+    "V=0.01: хвост 60.9 зв/сут против штатных 4306.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261125-30",
+   "repo": "Marvisak/VIctory",
+   "url": "https://github.com/Marvisak/VIctory",
+   "first_seen_at": "2026-11-25T03:59:02Z",
+   "channel": "gh_archive_watch",
+   "stars": 11546,
+   "forks": 1713,
+   "open_issues": 1199,
+   "language": "Rust",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 3200,
+   "description": "An attempt at running GTA VI on PC",
+   "topics": [],
+   "signals": {
+    "age_days": 1.3,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 1.7,
+    "stars_per_day_recent": 43.4,
+    "lifetime_stars_per_day": 9177.52,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.37,
+   "score_explain": [
+    "V=0.00: хвост 43.4 зв/сут против штатных 9177.5 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-25T07:59:02Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}
