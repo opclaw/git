@@ -129,7 +129,7 @@
 "repo": "DietrichGebert/ponytail",
 "url": "https://github.com/DietrichGebert/ponytail",
 "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-"stars": 199043.0,
+"stars": 199188.0,
 "spd": 332.2,
 "score": 1.07,
 "fit": 0.96,
@@ -138,8 +138,8 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-26T11:07:58Z",
-"hits": 54,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 55,
 "in_tg": false,
 "status": "active"
 },
@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 479079.0,
+"stars": 479386.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-26T11:07:58Z",
-"hits": 178,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 179,
 "in_tg": false,
 "status": "active"
 },
@@ -651,7 +651,7 @@
 "repo": "Panniantong/Agent-Reach",
 "url": "https://github.com/Panniantong/Agent-Reach",
 "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-"stars": 112351.0,
+"stars": 114957.0,
 "spd": 90.9,
 "score": 1.03,
 "fit": 0.96,
@@ -660,10 +660,10 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-20T00:08:51Z",
-"last_seen": "2026-11-17T01:58:15Z",
-"hits": 16,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 17,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "openclaw/openclaw": {
 "repo": "openclaw/openclaw",
@@ -885,7 +885,7 @@
 "repo": "Ebony-Vinyl/dsh-our-free-model",
 "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
 "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,",
-"stars": 87702.0,
+"stars": 87949.0,
 "spd": 363.8,
 "score": 1.11,
 "fit": 0.76,
@@ -894,8 +894,8 @@
 "license": "NOASSERTION",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-26T11:07:58Z",
-"hits": 120,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 121,
 "in_tg": false,
 "status": "active"
 },
@@ -1029,7 +1029,7 @@
 "repo": "cloudflare/security-audit-skill",
 "url": "https://github.com/cloudflare/security-audit-skill",
 "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-"stars": 76181.0,
+"stars": 78641.0,
 "spd": 279.1,
 "score": 0.98,
 "fit": 0.7,
@@ -1038,10 +1038,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-10-20T10:23:05Z",
-"last_seen": "2026-11-20T17:41:38Z",
-"hits": 80,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 81,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "tashfeenahmed/freellmapi": {
 "repo": "tashfeenahmed/freellmapi",
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
-"stars": 139388.0,
+"stars": 139883.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-26T11:07:58Z",
-"hits": 65,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 66,
 "in_tg": false,
 "status": "active"
 },
@@ -1659,7 +1659,7 @@
 "repo": "sindresorhus/awesome",
 "url": "https://github.com/sindresorhus/awesome",
 "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-"stars": 543065.0,
+"stars": 543198.0,
 "spd": 144.0,
 "score": 0.53,
 "fit": 0.0,
@@ -1668,8 +1668,8 @@
 "license": "CC0-1.0",
 "language": "",
 "first_seen": "2026-10-20T19:30:26Z",
-"last_seen": "2026-11-26T11:07:58Z",
-"hits": 27,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 28,
 "in_tg": false,
 "status": "active"
 },
@@ -1839,7 +1839,7 @@
 "repo": "Graphify-Labs/graphify",
 "url": "https://github.com/Graphify-Labs/graphify",
 "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e",
-"stars": 153460.0,
+"stars": 153703.0,
 "spd": 816.0,
 "score": 1.29,
 "fit": 1.0,
@@ -1848,8 +1848,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-10-21T01:28:35Z",
-"last_seen": "2026-11-26T05:19:18Z",
-"hits": 28,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 29,
 "in_tg": true,
 "status": "active"
 },
@@ -2541,7 +2541,7 @@
 "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
 "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
 "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-"stars": 154286.0,
+"stars": 154520.0,
 "spd": 138.5,
 "score": 1.13,
 "fit": 1.0,
@@ -2550,8 +2550,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-10-21T17:56:34Z",
-"last_seen": "2026-11-26T05:19:18Z",
-"hits": 13,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 14,
 "in_tg": false,
 "status": "active"
 },
@@ -4035,7 +4035,7 @@
 "repo": "pingdotgg/t3code",
 "url": "https://github.com/pingdotgg/t3code",
 "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-"stars": 79788.0,
+"stars": 80526.0,
 "spd": 139.1,
 "score": 0.94,
 "fit": 0.74,
@@ -4044,8 +4044,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-23T12:46:08Z",
-"last_seen": "2026-11-26T05:19:18Z",
-"hits": 86,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 87,
 "in_tg": false,
 "status": "active"
 },
@@ -6350,7 +6350,7 @@
 "first_seen": "2026-10-27T13:23:31Z",
 "last_seen": "2026-10-27T13:23:31Z",
 "hits": 1,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "hugues31/duckpad": {
@@ -6368,7 +6368,7 @@
 "first_seen": "2026-10-27T13:23:31Z",
 "last_seen": "2026-10-27T15:58:41Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "gitroomhq/postiz-app": {
@@ -12783,7 +12783,7 @@
 "repo": "JuneYaooo/rea-video",
 "url": "https://github.com/JuneYaooo/rea-video",
 "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
-"stars": 9378.0,
+"stars": 13609.0,
 "spd": 56.5,
 "score": 1.27,
 "fit": 0.96,
@@ -12792,10 +12792,10 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-04T06:42:59Z",
-"last_seen": "2026-11-16T07:44:36Z",
-"hits": 11,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 12,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "Lostuaexpand/windows-animated-wallpapers": {
 "repo": "Lostuaexpand/windows-animated-wallpapers",
@@ -21351,7 +21351,7 @@
 "repo": "GoogleChrome/modern-web-guidance-src",
 "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
 "description": "Keep your coding agent up to date with the latest web best practices",
-"stars": 8469.0,
+"stars": 11196.0,
 "spd": 117.3,
 "score": 2.3,
 "fit": 0.65,
@@ -21360,10 +21360,10 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-12T03:44:13Z",
-"last_seen": "2026-11-18T02:12:39Z",
-"hits": 11,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 12,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "agentes-chat/agentes-chat": {
 "repo": "agentes-chat/agentes-chat",
@@ -21963,8 +21963,8 @@
 "repo": "BaaRai/ARTEX",
 "url": "https://github.com/BaaRai/ARTEX",
 "description": "Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.",
-"stars": 21445.0,
-"spd": 89.7,
+"stars": 21799.0,
+"spd": 144.0,
 "score": 1.31,
 "fit": 0.96,
 "risk": 0.0,
@@ -21972,8 +21972,8 @@
 "license": "AGPL-3.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-26T11:07:58Z",
-"hits": 30,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 31,
 "in_tg": true,
 "status": "active"
 },
@@ -23061,17 +23061,17 @@
 "repo": "jub0t/Concat",
 "url": "https://github.com/jub0t/Concat",
 "description": "The open-source CapCut alternative.",
-"stars": 20926.0,
+"stars": 21225.0,
 "spd": 86.7,
 "score": 1.18,
 "fit": 0.96,
-"risk": 0.0,
+"risk": 0.09,
 "ps": "PS-infer",
 "license": "AGPL-3.0",
 "language": "Rust",
 "first_seen": "2026-11-15T08:15:57Z",
-"last_seen": "2026-11-26T11:07:58Z",
-"hits": 4,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 5,
 "in_tg": true,
 "status": "active"
 },
@@ -23349,7 +23349,7 @@
 "repo": "elementalsouls/Claude-BugHunter",
 "url": "https://github.com/elementalsouls/Claude-BugHunter",
 "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-"stars": 23282.0,
+"stars": 24052.0,
 "spd": 144.0,
 "score": 1.71,
 "fit": 0.76,
@@ -23358,8 +23358,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-26T05:19:18Z",
-"hits": 28,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 29,
 "in_tg": true,
 "status": "active"
 },
@@ -23565,19 +23565,19 @@
 "repo": "coreyhaines31/marketingskills",
 "url": "https://github.com/coreyhaines31/marketingskills",
 "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-"stars": 60498,
-"spd": 28.4,
-"score": 0.67,
+"stars": 62779.0,
+"spd": 40.9,
+"score": 0.7,
 "fit": 0.52,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-15T15:47:34Z",
-"hits": 1,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 2,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "tendertiger92/unreal-5-6-desktop": {
 "repo": "tendertiger92/unreal-5-6-desktop",
@@ -25653,19 +25653,19 @@
 "repo": "HKUDS/CLI-Anything",
 "url": "https://github.com/HKUDS/CLI-Anything",
 "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-"stars": 64961.0,
-"spd": 41.0,
-"score": 0.7,
+"stars": 66152.0,
+"spd": 48.4,
+"score": 0.71,
 "fit": 0.52,
 "risk": 0.0,
 "ps": "PS-infer",
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-18T19:16:54Z",
-"last_seen": "2026-11-25T03:59:10Z",
-"hits": 7,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 8,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "521xueweihan/HelloGitHub": {
 "repo": "521xueweihan/HelloGitHub",
@@ -26835,7 +26835,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 5,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "dynamicdeblackice-commits/joplin-arvella-notes": {
 "repo": "dynamicdeblackice-commits/joplin-arvella-notes",
@@ -27975,7 +27975,7 @@
 "repo": "havenicec/google-qr-sms-helper",
 "url": "https://github.com/havenicec/google-qr-sms-helper",
 "description": "Chrome Extension (MV3) to switch Google's mandatory QR code verification back to standard 6-digit SMS verification via iPad Mini profile & [3,null,4] RPC fallback.",
-"stars": 3279.0,
+"stars": 6526.0,
 "spd": 166.7,
 "score": 1.89,
 "fit": 0.5,
@@ -27984,10 +27984,10 @@
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-11-21T11:26:47Z",
-"last_seen": "2026-11-23T02:58:41Z",
-"hits": 7,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 8,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "Plaer1/open-clank": {
 "repo": "Plaer1/open-clank",
@@ -30765,7 +30765,7 @@
 "repo": "4lwayz/portwatch-vi",
 "url": "https://github.com/4lwayz/portwatch-vi",
 "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-"stars": 4830.0,
+"stars": 5161.0,
 "spd": 80.4,
 "score": 0.63,
 "fit": 0.5,
@@ -30774,8 +30774,8 @@
 "license": null,
 "language": "JavaScript",
 "first_seen": "2026-11-24T00:12:23Z",
-"last_seen": "2026-11-26T11:07:58Z",
-"hits": 6,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 7,
 "in_tg": false,
 "status": "active"
 },
@@ -30783,7 +30783,7 @@
 "repo": "Marvisak/VIctory",
 "url": "https://github.com/Marvisak/VIctory",
 "description": "An attempt at running GTA VI on PC",
-"stars": 11546.0,
+"stars": 13066.0,
 "spd": 406.7,
 "score": 0.48,
 "fit": 0.0,
@@ -30792,10 +30792,10 @@
 "license": "GPL-3.0",
 "language": "Rust",
 "first_seen": "2026-11-24T00:12:23Z",
-"last_seen": "2026-11-25T03:59:10Z",
-"hits": 3,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 4,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "ivall/xcl": {
 "repo": "ivall/xcl",
@@ -31425,7 +31425,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Meshurarcade/adobe-indesign": {
 "repo": "Meshurarcade/adobe-indesign",
@@ -31443,7 +31443,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "stitchstarlingrhythm/rufus": {
 "repo": "stitchstarlingrhythm/rufus",
@@ -31461,7 +31461,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "centerbrakemantag/genesis-miner": {
 "repo": "centerbrakemantag/genesis-miner",
@@ -31479,7 +31479,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ScoutWatchman/soundpad": {
 "repo": "ScoutWatchman/soundpad",
@@ -31497,7 +31497,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "PixelMesmerize/ccleaner-pro": {
 "repo": "PixelMesmerize/ccleaner-pro",
@@ -31515,7 +31515,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "Prismzyavoid/metatrader-5-bot": {
 "repo": "Prismzyavoid/metatrader-5-bot",
@@ -31533,7 +31533,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "SnareEmpressColumn36/exitlag": {
 "repo": "SnareEmpressColumn36/exitlag",
@@ -31551,7 +31551,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "GeckoColander/claude-jailbreak-prompt": {
 "repo": "GeckoColander/claude-jailbreak-prompt",
@@ -31569,7 +31569,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "AvenueMaidDeem/capcut-for-windows": {
 "repo": "AvenueMaidDeem/capcut-for-windows",
@@ -31587,7 +31587,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "BeetleSpigot/marvel-rivals-trainer-tool": {
 "repo": "BeetleSpigot/marvel-rivals-trainer-tool",
@@ -31605,7 +31605,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "FallsSaboteur/aida-64-extreme": {
 "repo": "FallsSaboteur/aida-64-extreme",
@@ -31623,7 +31623,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "VioletDugongCottage/ph-downloader": {
 "repo": "VioletDugongCottage/ph-downloader",
@@ -31641,7 +31641,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "MonitorReduce/serato-dj-pro": {
 "repo": "MonitorReduce/serato-dj-pro",
@@ -31659,7 +31659,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "CabinetmakerUncover/unlockgo": {
 "repo": "CabinetmakerUncover/unlockgo",
@@ -31677,7 +31677,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "EdgeSongWinch25/touch-copy": {
 "repo": "EdgeSongWinch25/touch-copy",
@@ -31695,7 +31695,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "blendgulltomb/unlocktool": {
 "repo": "blendgulltomb/unlocktool",
@@ -31713,7 +31713,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "DockAssembly/autodesk-inventor": {
 "repo": "DockAssembly/autodesk-inventor",
@@ -31731,7 +31731,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "gloryspidercall/rust-external-trainer-tool": {
 "repo": "gloryspidercall/rust-external-trainer-tool",
@@ -31749,7 +31749,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "CoppersmithCrochet/roblox-game-copier": {
 "repo": "CoppersmithCrochet/roblox-game-copier",
@@ -31767,7 +31767,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "TannerConduit20/axie-infinity-bot": {
 "repo": "TannerConduit20/axie-infinity-bot",
@@ -31785,7 +31785,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Voidshemooring/discord-server-cloner": {
 "repo": "Voidshemooring/discord-server-cloner",
@@ -31803,7 +31803,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "CentralPanther/ultfone-unlocker": {
 "repo": "CentralPanther/ultfone-unlocker",
@@ -31821,7 +31821,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "TriangleTesting3/voicechanger": {
 "repo": "TriangleTesting3/voicechanger",
@@ -31839,7 +31839,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "SecretArcherAppraise/quicken-deluxe": {
 "repo": "SecretArcherAppraise/quicken-deluxe",
@@ -31857,7 +31857,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Unitekeline26/auslogics": {
 "repo": "Unitekeline26/auslogics",
@@ -31875,7 +31875,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "MatterBaker73/drfoneunlock": {
 "repo": "MatterBaker73/drfoneunlock",
@@ -31893,7 +31893,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "werewolfabjurercrypt/adobe-photoshop": {
 "repo": "werewolfabjurercrypt/adobe-photoshop",
@@ -31911,7 +31911,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Brillianceplispeed/ultra-iso": {
 "repo": "Brillianceplispeed/ultra-iso",
@@ -31929,7 +31929,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "creekleaderintroduce/autocad": {
 "repo": "creekleaderintroduce/autocad",
@@ -31947,7 +31947,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "feelingbreakerask/canva-pro": {
 "repo": "feelingbreakerask/canva-pro",
@@ -31965,7 +31965,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "HiveCarrierRectify/data-grip": {
 "repo": "HiveCarrierRectify/data-grip",
@@ -31983,7 +31983,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "DivideJustice/anydesk": {
 "repo": "DivideJustice/anydesk",
@@ -32001,7 +32001,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "AuditorAngular/ios-unlocker": {
 "repo": "AuditorAngular/ios-unlocker",
@@ -32019,7 +32019,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "fangsoldiergive/adobe-illustrator": {
 "repo": "fangsoldiergive/adobe-illustrator",
@@ -32037,7 +32037,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Mergefowrench/power-director": {
 "repo": "Mergefowrench/power-director",
@@ -32055,7 +32055,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "naveenRDJ/marvel-rivals-cheat-dasaren": {
 "repo": "naveenRDJ/marvel-rivals-cheat-dasaren",
@@ -32073,7 +32073,7 @@
 "last_seen": "2026-11-25T14:08:56Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Belobug/VIctory-Belobug-AMD": {
 "repo": "Belobug/VIctory-Belobug-AMD",
@@ -32091,7 +32091,7 @@
 "last_seen": "2026-11-25T17:26:51Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "InfernalCommissioner/borisfx": {
 "repo": "InfernalCommissioner/borisfx",
@@ -32655,7 +32655,7 @@
 "repo": "alesha-pro/llm.asm",
 "url": "https://github.com/alesha-pro/llm.asm",
 "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-"stars": 893.0,
+"stars": 1170.0,
 "spd": 61.3,
 "score": 1.28,
 "fit": 0.96,
@@ -32664,8 +32664,8 @@
 "license": "MIT",
 "language": "Assembly",
 "first_seen": "2026-11-25T23:13:35Z",
-"last_seen": "2026-11-26T11:07:58Z",
-"hits": 3,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 4,
 "in_tg": true,
 "status": "new"
 },
@@ -33033,7 +33033,7 @@
 "repo": "RMvdesi/obsidian-prism",
 "url": "https://github.com/RMvdesi/obsidian-prism",
 "description": "Optical UI, damped-spring choreography, 512K shallow-water vial, pixel mascots & dual-mode thought suite for Antigravity (GPL-3.0)",
-"stars": 1745,
+"stars": 2066.0,
 "spd": 42.1,
 "score": 1.01,
 "fit": 0.65,
@@ -33042,8 +33042,8 @@
 "license": "GPL-3.0",
 "language": "JavaScript",
 "first_seen": "2026-11-26T11:07:58Z",
-"last_seen": "2026-11-26T11:07:58Z",
-"hits": 1,
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -33061,6 +33061,96 @@
 "language": "JavaScript",
 "first_seen": "2026-11-26T11:07:58Z",
 "last_seen": "2026-11-26T11:07:58Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ColumnWarlord/Adobe-Lightroom-ClassicAi2026": {
+"repo": "ColumnWarlord/Adobe-Lightroom-ClassicAi2026",
+"url": "https://github.com/ColumnWarlord/Adobe-Lightroom-ClassicAi2026",
+"description": "How to get Adobe Lightroom Classic  AI Latest",
+"stars": 88,
+"spd": 192.0,
+"score": 1.38,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "MIT",
+"language": "TypeScript",
+"first_seen": "2026-11-26T15:37:26Z",
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"calmchiefvice/WinRust-Enhanced": {
+"repo": "calmchiefvice/WinRust-Enhanced",
+"url": "https://github.com/calmchiefvice/WinRust-Enhanced",
+"description": "Fast, lightweight Windows 10/11 shell in Rust: taskbar, Explorer alternative with Space-bar quick preview, instant NTFS search, clipboard history, snap-to-edge windows and Task Manager. One installer,",
+"stars": 175,
+"spd": 192.0,
+"score": 1.12,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "MIT",
+"language": "Rust",
+"first_seen": "2026-11-26T15:37:26Z",
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"nexu-io/opengame": {
+"repo": "nexu-io/opengame",
+"url": "https://github.com/nexu-io/opengame",
+"description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish",
+"stars": 447,
+"spd": 66.3,
+"score": 1.09,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "TypeScript",
+"first_seen": "2026-11-26T15:37:26Z",
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"superdesigndev/treg": {
+"repo": "superdesigndev/treg",
+"url": "https://github.com/superdesigndev/treg",
+"description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+"stars": 9434,
+"spd": 34.7,
+"score": 1.09,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "NOASSERTION",
+"language": "Python",
+"first_seen": "2026-11-26T15:37:26Z",
+"last_seen": "2026-11-26T15:37:26Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"intel/intel-one-mono": {
+"repo": "intel/intel-one-mono",
+"url": "https://github.com/intel/intel-one-mono",
+"description": "Intel One Mono font repository",
+"stars": 10556,
+"spd": 34.0,
+"score": 1.05,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "OFL-1.1",
+"language": "",
+"first_seen": "2026-11-26T15:37:26Z",
+"last_seen": "2026-11-26T15:37:26Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
