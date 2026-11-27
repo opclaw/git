@@ -39,7 +39,7 @@
 "repo": "xerj-org/xerj",
 "url": "https://github.com/xerj-org/xerj",
 "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory a",
-"stars": 22112.0,
+"stars": 22274.0,
 "spd": 404.3,
 "score": 1.77,
 "fit": 0.96,
@@ -48,8 +48,8 @@
 "license": "Apache-2.0",
 "language": "Rust",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-27T18:48:21Z",
-"hits": 12,
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 13,
 "in_tg": true,
 "status": "active"
 },
@@ -165,7 +165,7 @@
 "repo": "morluto/rea",
 "url": "https://github.com/morluto/rea",
 "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-"stars": 480551.0,
+"stars": 481061.0,
 "spd": 917.5,
 "score": 1.11,
 "fit": 0.96,
@@ -174,8 +174,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-27T12:48:36Z",
-"hits": 181,
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 182,
 "in_tg": false,
 "status": "active"
 },
@@ -417,7 +417,7 @@
 "repo": "Gathin23/cleanyourtv",
 "url": "https://github.com/Gathin23/cleanyourtv",
 "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-"stars": 54330.0,
+"stars": 61429.0,
 "spd": 533.5,
 "score": 0.45,
 "fit": 0.0,
@@ -426,10 +426,10 @@
 "license": "NOASSERTION",
 "language": "Python",
 "first_seen": "2026-10-19T20:57:58Z",
-"last_seen": "2026-11-08T13:41:45Z",
-"hits": 87,
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 88,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "emilkowalski/skills": {
 "repo": "emilkowalski/skills",
@@ -501,7 +501,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 12,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "msitarzewski/agency-agents": {
 "repo": "msitarzewski/agency-agents",
@@ -1509,7 +1509,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 60,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "lock-tool/.github": {
 "repo": "lock-tool/.github",
@@ -1659,7 +1659,7 @@
 "repo": "sindresorhus/awesome",
 "url": "https://github.com/sindresorhus/awesome",
 "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-"stars": 543496.0,
+"stars": 543923.0,
 "spd": 144.0,
 "score": 0.53,
 "fit": 0.0,
@@ -1668,8 +1668,8 @@
 "license": "CC0-1.0",
 "language": "",
 "first_seen": "2026-10-20T19:30:26Z",
-"last_seen": "2026-11-27T02:58:30Z",
-"hits": 31,
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 32,
 "in_tg": false,
 "status": "active"
 },
@@ -6908,7 +6908,7 @@
 "first_seen": "2026-10-28T18:56:32Z",
 "last_seen": "2026-11-01T16:38:01Z",
 "hits": 4,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "rocketride-org/rocketride-server": {
@@ -6926,7 +6926,7 @@
 "first_seen": "2026-10-28T18:56:32Z",
 "last_seen": "2026-11-01T16:38:01Z",
 "hits": 3,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "SleuthMesmerize/BorisFX": {
@@ -8607,7 +8607,7 @@
 "repo": "heydamir/unslop",
 "url": "https://github.com/heydamir/unslop",
 "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-"stars": 19701.0,
+"stars": 22625.0,
 "spd": 247.1,
 "score": 1.21,
 "fit": 0.5,
@@ -8616,10 +8616,10 @@
 "license": "CC-BY-4.0",
 "language": "JavaScript",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-21T19:30:47Z",
-"hits": 32,
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 33,
 "in_tg": true,
-"status": "cooled"
+"status": "active"
 },
 "silentlionregain/Adobe-InDesign": {
 "repo": "silentlionregain/Adobe-InDesign",
@@ -8787,7 +8787,7 @@
 "repo": "anthropics/skills",
 "url": "https://github.com/anthropics/skills",
 "description": "Public repository for Agent Skills",
-"stars": 199058.0,
+"stars": 201463.0,
 "spd": 144.0,
 "score": 0.46,
 "fit": 0.52,
@@ -8796,10 +8796,10 @@
 "license": null,
 "language": "Python",
 "first_seen": "2026-10-30T15:12:18Z",
-"last_seen": "2026-11-23T02:58:41Z",
-"hits": 15,
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 16,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "jamixm4-crypto/natbypass": {
 "repo": "jamixm4-crypto/natbypass",
@@ -12117,8 +12117,8 @@
 "repo": "NVIDIA/auto-ontology",
 "url": "https://github.com/NVIDIA/auto-ontology",
 "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM ",
-"stars": 15193.0,
-"spd": 101.3,
+"stars": 15591.0,
+"spd": 144.0,
 "score": 2.41,
 "fit": 0.74,
 "risk": 0.0,
@@ -12126,8 +12126,8 @@
 "license": "Apache-2.0",
 "language": "Python",
 "first_seen": "2026-11-03T06:32:40Z",
-"last_seen": "2026-11-27T08:57:02Z",
-"hits": 20,
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 21,
 "in_tg": true,
 "status": "active"
 },
@@ -25521,7 +25521,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 8,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "ReceitaFederal/calculadora-rtc-simples-nacional": {
 "repo": "ReceitaFederal/calculadora-rtc-simples-nacional",
@@ -30765,7 +30765,7 @@
 "repo": "4lwayz/portwatch-vi",
 "url": "https://github.com/4lwayz/portwatch-vi",
 "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-"stars": 6537.0,
+"stars": 6668.0,
 "spd": 93.8,
 "score": 0.63,
 "fit": 0.5,
@@ -30774,8 +30774,8 @@
 "license": null,
 "language": "JavaScript",
 "first_seen": "2026-11-24T00:12:23Z",
-"last_seen": "2026-11-27T18:48:21Z",
-"hits": 10,
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 11,
 "in_tg": false,
 "status": "active"
 },
@@ -30795,7 +30795,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 5,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "ivall/xcl": {
 "repo": "ivall/xcl",
@@ -31173,7 +31173,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Umbra9179/clipboard-history-manager-windows": {
 "repo": "Umbra9179/clipboard-history-manager-windows",
@@ -31197,19 +31197,19 @@
 "repo": "kai415-debug/ffmpeg-video-audio-converter",
 "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
 "description": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
-"stars": 746,
-"spd": 35.9,
-"score": 0.92,
+"stars": 1136.0,
+"spd": 48.4,
+"score": 1.01,
 "fit": 0.7,
 "risk": 0.0,
 "ps": "PS-ml",
 "license": "MIT",
 "language": "C++",
 "first_seen": "2026-11-25T03:59:10Z",
-"last_seen": "2026-11-25T03:59:10Z",
-"hits": 1,
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 2,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "solv4626/steam-achievement-manager-windows": {
 "repo": "solv4626/steam-achievement-manager-windows",
@@ -33105,7 +33105,7 @@
 "repo": "nexu-io/opengame",
 "url": "https://github.com/nexu-io/opengame",
 "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish",
-"stars": 1805.0,
+"stars": 2182.0,
 "spd": 77.8,
 "score": 1.09,
 "fit": 0.74,
@@ -33114,8 +33114,8 @@
 "license": "Apache-2.0",
 "language": "TypeScript",
 "first_seen": "2026-11-26T15:37:26Z",
-"last_seen": "2026-11-27T12:48:36Z",
-"hits": 5,
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 6,
 "in_tg": false,
 "status": "active"
 },
@@ -33135,7 +33135,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "intel/intel-one-mono": {
 "repo": "intel/intel-one-mono",
@@ -33171,7 +33171,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "zmxdhc/DefiMantle": {
 "repo": "zmxdhc/DefiMantle",
@@ -33189,7 +33189,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "vishalrankhamb/TokenVesper": {
 "repo": "vishalrankhamb/TokenVesper",
@@ -33207,7 +33207,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "zmxdhc/ChainRise": {
 "repo": "zmxdhc/ChainRise",
@@ -33225,7 +33225,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "Anabelengil/NftShell": {
 "repo": "Anabelengil/NftShell",
@@ -33243,7 +33243,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "AlexSergey/fresher": {
 "repo": "AlexSergey/fresher",
@@ -33261,7 +33261,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "AmplitudePond/fl-studio-audio": {
 "repo": "AmplitudePond/fl-studio-audio",
@@ -33279,7 +33279,7 @@
 "last_seen": "2026-11-27T00:23:24Z",
 "hits": 2,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "raullenchai/tii-mceliece-gpu": {
 "repo": "raullenchai/tii-mceliece-gpu",
@@ -33297,7 +33297,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "mikuta0407/win4wine": {
 "repo": "mikuta0407/win4wine",
@@ -33315,7 +33315,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "StarHaulerRectifier/rob-run-cheat-tool": {
 "repo": "StarHaulerRectifier/rob-run-cheat-tool",
@@ -33333,7 +33333,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "zortos293/XSEmu": {
 "repo": "zortos293/XSEmu",
@@ -33351,7 +33351,7 @@
 "last_seen": "2026-11-27T02:58:30Z",
 "hits": 3,
 "in_tg": false,
-"status": "new"
+"status": "active"
 },
 "ZigZagBoi1/ScarlettPort": {
 "repo": "ZigZagBoi1/ScarlettPort",
@@ -33369,7 +33369,7 @@
 "last_seen": "2026-11-26T20:17:55Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "UnrealSalty/Strike": {
 "repo": "UnrealSalty/Strike",
@@ -34131,8 +34131,8 @@
 "repo": "trustno1-coder/VIctory-NVIDIA",
 "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
 "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats pan",
-"stars": 1696.0,
-"spd": 60.7,
+"stars": 2740.0,
+"spd": 90.0,
 "score": 0.83,
 "fit": 0.48,
 "risk": 0.0,
@@ -34140,8 +34140,8 @@
 "license": "GPL-3.0",
 "language": "Rust",
 "first_seen": "2026-11-27T12:48:36Z",
-"last_seen": "2026-11-27T18:48:21Z",
-"hits": 2,
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 3,
 "in_tg": false,
 "status": "new"
 },
@@ -34663,6 +34663,312 @@
 "language": "HTML",
 "first_seen": "2026-11-27T18:48:21Z",
 "last_seen": "2026-11-27T18:48:21Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"BoulderGirder/roshade-for-roblox": {
+"repo": "BoulderGirder/roshade-for-roblox",
+"url": "https://github.com/BoulderGirder/roshade-for-roblox",
+"description": "Roshade For Roblox 2024 pre-configured environment for streamlined desktop software utility configuration.",
+"stars": 44,
+"spd": 126.9,
+"score": 3.52,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"silverbaronaqueduct/rufus": {
+"repo": "silverbaronaqueduct/rufus",
+"url": "https://github.com/silverbaronaqueduct/rufus",
+"description": "Rufus 3.14 automated deployment pipeline for rapid, pre-configured desktop utility setup in isolated environments.",
+"stars": 44,
+"spd": 126.7,
+"score": 3.52,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"superprovostcherish/on1-photo-raw-max": {
+"repo": "superprovostcherish/on1-photo-raw-max",
+"url": "https://github.com/superprovostcherish/on1-photo-raw-max",
+"description": "On1 Photo Raw Max 2026 pre-configured environment for professional desktop software utility with automated deployment pipeline.",
+"stars": 44,
+"spd": 126.4,
+"score": 3.52,
+"fit": 0.76,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"WyrmDruidVestibule/autocad": {
+"repo": "WyrmDruidVestibule/autocad",
+"url": "https://github.com/WyrmDruidVestibule/autocad",
+"description": "AutoCAD 2023 pre-configured environment for seamless desktop utility deployment in professional workstation setup.",
+"stars": 32,
+"spd": 120.6,
+"score": 3.45,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"DelivererReside87/instagram-liker-bot": {
+"repo": "DelivererReside87/instagram-liker-bot",
+"url": "https://github.com/DelivererReside87/instagram-liker-bot",
+"description": "Instagram Liker Bot 2026 automated deployment pipeline for desktop software utility with optimized package deployment and pre-configured...",
+"stars": 50,
+"spd": 121.1,
+"score": 3.3,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-data",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"google-gemini/demolab": {
+"repo": "google-gemini/demolab",
+"url": "https://github.com/google-gemini/demolab",
+"description": "Skills, prompts, and scripts used to build and reproduce Gemini model demos",
+"stars": 909,
+"spd": 34.6,
+"score": 1.56,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "Apache-2.0",
+"language": "",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"natashaj94128/king-legacy-trainer-mod-menu": {
+"repo": "natashaj94128/king-legacy-trainer-mod-menu",
+"url": "https://github.com/natashaj94128/king-legacy-trainer-mod-menu",
+"description": "King Legacy Mod Menu & Trainer Suite — Roblox Hyperion / Byfron x64 Runtime, Keyless 100% UNC Luau bytecode c & Auto-updating Hyperion version",
+"stars": 85,
+"spd": 192.0,
+"score": 1.55,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"AliWroblewski93983/cursor-pro-trial-reset-machine-id-bypass": {
+"repo": "AliWroblewski93983/cursor-pro-trial-reset-machine-id-bypass",
+"url": "https://github.com/AliWroblewski93983/cursor-pro-trial-reset-machine-id-bypass",
+"description": "Cursor Pro Trial Reset Machine ID Bypass — Telemetry UUID Regenerator, SQLite & ASAR",
+"stars": 76,
+"spd": 209.2,
+"score": 1.5,
+"fit": 0.76,
+"risk": 0.18,
+"ps": "PS-dev",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"melissal21517/off-the-grid-trainer-mod-menu": {
+"repo": "melissal21517/off-the-grid-trainer-mod-menu",
+"url": "https://github.com/melissal21517/off-the-grid-trainer-mod-menu",
+"description": "Off The Grid (2026) Windows x64 Trainer, Mod Loader, Auto-updating AOB signature scan & DirectX 11 / 12 & Vulkan ImGui Utility",
+"stars": 81,
+"spd": 144.0,
+"score": 1.44,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"MargauxMedina4777/warhammer-40000-space-marine-2-trainer-mod-menu": {
+"repo": "MargauxMedina4777/warhammer-40000-space-marine-2-trainer-mod-menu",
+"url": "https://github.com/MargauxMedina4777/warhammer-40000-space-marine-2-trainer-mod-menu",
+"description": "Warhammer 40000 Space Marine 2 Trainer & Mod Menu (2026) — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unity IL2CPP / Unreal Engine Unlocker",
+"stars": 81,
+"spd": 144.0,
+"score": 1.44,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"mKing54324/hyper-realistic-ragdoll-trainer-mod-menu": {
+"repo": "mKing54324/hyper-realistic-ragdoll-trainer-mod-menu",
+"url": "https://github.com/mKing54324/hyper-realistic-ragdoll-trainer-mod-menu",
+"description": "Hyper Realistic Ragdoll Modding & Trainer Pack (2026) — Roblox Hyperion / Byfron x64, Keyless 100% UNC Luau bytecode c & Auto-updating Hyperion version",
+"stars": 81,
+"spd": 144.0,
+"score": 1.44,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"LePandey80259/the-forest-trainer-mod-menu": {
+"repo": "LePandey80259/the-forest-trainer-mod-menu",
+"url": "https://github.com/LePandey80259/the-forest-trainer-mod-menu",
+"description": "The Forest Windows 10/11 Mod Menu & Trainer — Auto-updating AOB signature scan, DirectX 11 / 12 & Vulkan ImGui & Unlocker",
+"stars": 81,
+"spd": 192.0,
+"score": 1.43,
+"fit": 0.7,
+"risk": 0.14,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"mist-8659/windows-mouse-keyboard-sharing-kvm": {
+"repo": "mist-8659/windows-mouse-keyboard-sharing-kvm",
+"url": "https://github.com/mist-8659/windows-mouse-keyboard-sharing-kvm",
+"description": "Free open-source KVM software to share one keyboard and mouse across multiple Windows, macOS and Linux computers.",
+"stars": 329,
+"spd": 42.9,
+"score": 0.85,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "C++",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Daiki655/jupiter-v6-arbitrage-bot": {
+"repo": "Daiki655/jupiter-v6-arbitrage-bot",
+"url": "https://github.com/Daiki655/jupiter-v6-arbitrage-bot",
+"description": "Jupiter v6 Arbitrage Bot — Circular Atomic Flash-Loan Router, Yellowstone gRPC & Jito",
+"stars": 56,
+"spd": 144.0,
+"score": 0.81,
+"fit": 0.52,
+"risk": 0.55,
+"ps": "PS-infer",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Alio52/dlss-swapper-dlss-4-preset-injector": {
+"repo": "Alio52/dlss-swapper-dlss-4-preset-injector",
+"url": "https://github.com/Alio52/dlss-swapper-dlss-4-preset-injector",
+"description": "DLSS Swapper v4 Preset Injector — NVIDIA Transformer Model, Streamline DLL Manager & RayReconstruction",
+"stars": 73,
+"spd": 41.7,
+"score": 0.76,
+"fit": 0.7,
+"risk": 0.28,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"quartzdev666/windows-pdf-editor": {
+"repo": "quartzdev666/windows-pdf-editor",
+"url": "https://github.com/quartzdev666/windows-pdf-editor",
+"description": "Free open-source Windows PDF editor to merge, split, rotate, crop, reorder and organize PDF pages with a visual interface.",
+"stars": 312,
+"spd": 49.0,
+"score": 0.75,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Python",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Ash793318/windows-hardware-monitor": {
+"repo": "Ash793318/windows-hardware-monitor",
+"url": "https://github.com/Ash793318/windows-hardware-monitor",
+"description": "Free open-source Windows hardware monitoring app for CPU, GPU, RAM, SSD temperatures, fan speeds and system performance.",
+"stars": 311,
+"spd": 28.0,
+"score": 0.38,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "MIT",
+"language": "C#",
+"first_seen": "2026-11-27T22:08:55Z",
+"last_seen": "2026-11-27T22:08:55Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
