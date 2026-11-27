@@ -1,6 +1,4 @@
 {
- "daeuniverse/honk": "2026-10-28T13:14:37+00:00",
- "horizon-rust/horizon": "2026-10-28T13:14:37+00:00",
  "Nasiko-Labs/nasiko": "2026-10-28T18:56:31+00:00",
  "rocketride-org/rocketride-server": "2026-10-28T18:56:31+00:00",
  "kajisho5/ffmpeg-skill": "2026-10-28T23:07:35+00:00",
@@ -348,5 +346,9 @@
  "beautifulrem/tower": "2026-11-27T12:48:35+00:00",
  "secfoo-com/secfoo": "2026-11-27T12:48:35+00:00",
  "google-gemini/gemini-api-cli": "2026-11-27T12:48:35+00:00",
- "KnifeLemon/Filee": "2026-11-27T12:48:35+00:00"
+ "KnifeLemon/Filee": "2026-11-27T12:48:35+00:00",
+ "KwaiMmu/KwaiMind": "2026-11-27T18:48:21+00:00",
+ "beautifulrem/iwara-search": "2026-11-27T18:48:21+00:00",
+ "beautifulrem/forge-neo-remi": "2026-11-27T18:48:21+00:00",
+ "erkamyaman/rea-games": "2026-11-27T18:48:21+00:00"
 }
