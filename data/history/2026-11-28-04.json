@@ -1,0 +1,1870 @@
+{
+ "schema": "radar/leads.v1",
+ "generated_at": "2026-11-28T04:00:23Z",
+ "window": {
+  "hours": 3,
+  "from": "2026-11-28-0",
+  "to": "2026-11-28-2",
+  "watch_events": 1759,
+  "repos": 1388,
+  "actors": 1204,
+  "ring_accounts": 61,
+  "api_calls": 9,
+  "authenticated": true
+ },
+ "leads": [
+  {
+   "lead_id": "L-20261128-02",
+   "repo": "ArmySpecialistType/dlss-swapper",
+   "url": "https://github.com/ArmySpecialistType/dlss-swapper",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 94,
+   "forks": 63,
+   "open_issues": 0,
+   "language": null,
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 5,
+   "description": "dlss dlss dlss dlss dlss1 dlss2 dlss3 dlss4 dlss5 swapper",
+   "topics": [
+    "dlss-5-optiscaler",
+    "dlss-5-release",
+    "dlss5",
+    "dlss5-swapper-enhanced",
+    "dlss5manager",
+    "dlssg"
+   ],
+   "signals": {
+    "age_days": 43.0,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 0.4,
+    "stars_per_day_recent": 240.0,
+    "lifetime_stars_per_day": 2.19,
+    "acceleration": 109.7,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 4.96,
+   "score_explain": [
+    "V=4.71: хвост 240.0 зв/сут против штатных 2.2 (x110)",
+    "N=1.0: репо 43 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-34",
+   "repo": "richardhxwang/ZeroDesk",
+   "url": "https://github.com/richardhxwang/ZeroDesk",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 131,
+   "forks": 1,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 137680,
+   "description": "A desktop and App Store for the M5Stack CardputerZero, in your computer's or phone's browser",
+   "topics": [],
+   "signals": {
+    "age_days": 10.4,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.3,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 12.58,
+    "acceleration": 11.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 2.61,
+   "score_explain": [
+    "V=2.52: хвост 144.0 зв/сут против штатных 12.6 (x11)",
+    "N=1.0: репо 10 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-22",
+   "repo": "Ryotaf8702/fable-ii-pro-patcher-installer",
+   "url": "https://github.com/Ryotaf8702/fable-ii-pro-patcher-installer",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 136,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 6,
+   "description": "Fable II Cheat — Fable II Cheats, Trainer & Mod Menu",
+   "topics": [
+    "fable-ii",
+    "fable-ii-cheat",
+    "fable-ii-cheats",
+    "fable-ii-mod-menu",
+    "fable-ii-trainer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.1,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 272.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.25,
+   "score_explain": [
+    "V=0.42: хвост 144.0 зв/сут против штатных 272.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-05",
+   "repo": "rene1701/jailbreak-script",
+   "url": "https://github.com/rene1701/jailbreak-script",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 166,
+   "forks": 45,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 3,
+   "description": "Jailbreak Script — Roblox Jailbreak Script",
+   "topics": [
+    "jailbreak",
+    "jailbreak-roblox-script",
+    "jailbreak-script",
+    "roblox",
+    "roblox-script"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.0,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 332.0,
+    "acceleration": 0.6,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.15,
+   "score_explain": [
+    "V=0.46: хвост 192.0 зв/сут против штатных 332.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-19",
+   "repo": "JeremyFontana97637/flowise-ai-pro-patcher-installer",
+   "url": "https://github.com/JeremyFontana97637/flowise-ai-pro-patcher-installer",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 137,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 10,
+   "description": "Flowise AI — Flowise AI Portable & Windows Setup",
+   "topics": [
+    "flowise-ai",
+    "flowise-ai-portable",
+    "flowise-ai-windows",
+    "windows-10",
+    "windows-11"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.1,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 274.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.1,
+   "score_explain": [
+    "V=0.42: хвост 144.0 зв/сут против штатных 274.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-17",
+   "repo": "Ivanov908/barber-simulator-roblox-script",
+   "url": "https://github.com/Ivanov908/barber-simulator-roblox-script",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 138,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Barber Simulator Script — Barber Simulator Roblox Script & Auto Farm GUI",
+   "topics": [
+    "barber-simulator",
+    "barber-simulator-roblox-script",
+    "barber-simulator-script",
+    "roblox",
+    "roblox-script"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.1,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 276.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.08,
+   "score_explain": [
+    "V=0.42: хвост 144.0 зв/сут против штатных 276.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-04",
+   "repo": "Gul4310/ea-sports-fc-26-trainer-mod-menu",
+   "url": "https://github.com/Gul4310/ea-sports-fc-26-trainer-mod-menu",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 209,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "EA SPORTS FC 26 Cheat — EA SPORTS FC 26 Cheats, Trainer & Mod Menu",
+   "topics": [
+    "ea-sports-fc-26",
+    "ea-sports-fc-26-cheat",
+    "ea-sports-fc-26-cheats",
+    "ea-sports-fc-26-mod-menu",
+    "ea-sports-fc-26-trainer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.2,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 418.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.14,
+   "lead_score": 1.04,
+   "score_explain": [
+    "V=0.38: хвост 192.0 зв/сут против штатных 418.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-16",
+   "repo": "wichaisahin101/risk-of-rain-2-pc-mod-menu",
+   "url": "https://github.com/wichaisahin101/risk-of-rain-2-pc-mod-menu",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 135,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Risk of Rain 2 Cheat — Risk of Rain 2 Cheats, Trainer & Mod Menu",
+   "topics": [
+    "risk-of-rain-2",
+    "risk-of-rain-2-cheat",
+    "risk-of-rain-2-cheats",
+    "risk-of-rain-2-mod-menu",
+    "risk-of-rain-2-trainer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.1,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 270.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.18,
+   "lead_score": 1.03,
+   "score_explain": [
+    "V=0.43: хвост 144.0 зв/сут против штатных 270.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-24",
+   "repo": "Kostasp441/knack-pro-patcher-installer",
+   "url": "https://github.com/Kostasp441/knack-pro-patcher-installer",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 136,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 6,
+   "description": "Knack Cheat — Knack Cheats, Trainer & Mod Menu",
+   "topics": [
+    "knack",
+    "knack-cheat",
+    "knack-cheats",
+    "knack-mod-menu",
+    "knack-trainer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.1,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 272.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.18,
+   "lead_score": 1.03,
+   "score_explain": [
+    "V=0.42: хвост 144.0 зв/сут против штатных 272.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-15",
+   "repo": "masato69856/skyrim-tes5-the-elder-scrolls-v-skyrim-trainer-mod-menu",
+   "url": "https://github.com/masato69856/skyrim-tes5-the-elder-scrolls-v-skyrim-trainer-mod-menu",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 139,
+   "forks": 3,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 13,
+   "description": "The Elder Scrolls V: Skyrim Cheat — The Elder Scrolls V: Skyrim Cheats, Trainer & Mod Menu",
+   "topics": [
+    "the-elder-scrolls-v-skyr",
+    "the-elder-scrolls-v-skyr-cheat",
+    "the-elder-scrolls-v-skyr-cheats",
+    "the-elder-scrolls-v-skyr-mod-menu",
+    "the-elder-scrolls-v-skyr-trainer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.1,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 278.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.18,
+   "lead_score": 1.02,
+   "score_explain": [
+    "V=0.42: хвост 144.0 зв/сут против штатных 278.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-20",
+   "repo": "cCarvalho16335/animal-hospital-anomaly-trainer-mod-menu",
+   "url": "https://github.com/cCarvalho16335/animal-hospital-anomaly-trainer-mod-menu",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 140,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "Animal Hospital (Anomaly) Script — Animal Hospital (Anomaly) Roblox Script & Auto Farm GUI",
+   "topics": [
+    "animal-hospital-anomaly",
+    "animal-hospital-anomaly-roblox-scri",
+    "animal-hospital-anomaly-script",
+    "roblox",
+    "roblox-script"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 280.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.18,
+   "lead_score": 1.02,
+   "score_explain": [
+    "V=0.41: хвост 144.0 зв/сут против штатных 280.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-03",
+   "repo": "heinz67712/the-sims-4-trainer-mod-menu",
+   "url": "https://github.com/heinz67712/the-sims-4-trainer-mod-menu",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 211,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "The Sims 4 Cheat — The Sims 4 Cheats, Trainer & Mod Menu",
+   "topics": [
+    "the-sims-4",
+    "the-sims-4-cheat",
+    "the-sims-4-cheats",
+    "the-sims-4-mod-menu",
+    "the-sims-4-trainer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 5,
+    "window_h": 1.8,
+    "stars_per_day_recent": 67.3,
+    "lifetime_stars_per_day": 422.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 1.0,
+   "score_explain": [
+    "V=0.15: хвост 67.3 зв/сут против штатных 422.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-27",
+   "repo": "pgauthier13/your-bizarre-adventure-roblox-script",
+   "url": "https://github.com/pgauthier13/your-bizarre-adventure-roblox-script",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 204,
+   "forks": 2,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Your Bizarre Adventure Script — Your Bizarre Adventure Roblox Script & Auto Farm GUI",
+   "topics": [
+    "roblox",
+    "roblox-script",
+    "your-bizarre-adventure",
+    "your-bizarre-adventure-roblox-scrip",
+    "your-bizarre-adventure-script"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 408.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-sec",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.99,
+   "score_explain": [
+    "V=0.30: хвост 144.0 зв/сут против штатных 408.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-sec",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-29",
+   "repo": "TolgaGonzalez275/practical-basketball-roblox-script",
+   "url": "https://github.com/TolgaGonzalez275/practical-basketball-roblox-script",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 197,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Practical Basketball Script — Practical Basketball Roblox Script & Auto Farm GUI",
+   "topics": [
+    "practical-basketball",
+    "practical-basketball-roblox-script",
+    "practical-basketball-script",
+    "roblox",
+    "roblox-script"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 394.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.98,
+   "score_explain": [
+    "V=0.31: хвост 144.0 зв/сут против штатных 394.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-18",
+   "repo": "CarlosAlves41/ollama-windows-desktop-suite",
+   "url": "https://github.com/CarlosAlves41/ollama-windows-desktop-suite",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 255,
+   "forks": 9,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Ollama Windows — Ollama Windows Portable & Windows Setup",
+   "topics": [
+    "ollama-windows",
+    "ollama-windows-portable",
+    "ollama-windows-windows",
+    "windows-10",
+    "windows-11"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.1,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 510.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.92,
+   "score_explain": [
+    "V=0.25: хвост 144.0 зв/сут против штатных 510.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-31",
+   "repo": "Chenle95165/7d2d-7-days-to-die-trainer-mod-menu",
+   "url": "https://github.com/Chenle95165/7d2d-7-days-to-die-trainer-mod-menu",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 207,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "im gui trainer for 7 days to die, spawn items and toggle god mode",
+   "topics": [
+    "7-days-to-die",
+    "7-days-to-die-cheat",
+    "7-days-to-die-cheats",
+    "7-days-to-die-mod-menu",
+    "7-days-to-die-trainer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 414.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.18,
+   "lead_score": 0.92,
+   "score_explain": [
+    "V=0.30: хвост 144.0 зв/сут против штатных 414.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-30",
+   "repo": "andrea57211/half-life-2-rtx-trainer-mod-menu",
+   "url": "https://github.com/andrea57211/half-life-2-rtx-trainer-mod-menu",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 211,
+   "forks": 2,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Half-Life 2 RTX Cheat — Half-Life 2 RTX Cheats, Trainer & Mod Menu",
+   "topics": [
+    "half-life-2-rtx",
+    "half-life-2-rtx-cheat",
+    "half-life-2-rtx-cheats",
+    "half-life-2-rtx-mod-menu",
+    "half-life-2-rtx-trainer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 422.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.18,
+   "lead_score": 0.91,
+   "score_explain": [
+    "V=0.29: хвост 144.0 зв/сут против штатных 422.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-25",
+   "repo": "RenataPeterson132/inzoi-cheat",
+   "url": "https://github.com/RenataPeterson132/inzoi-cheat",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 273,
+   "forks": 55,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 3,
+   "description": "inZOI Cheat — inZOI Mod Menu & Trainer",
+   "topics": [
+    "inzoi",
+    "inzoi-cheat",
+    "inzoi-mod-menu",
+    "inzoi-trainer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 546.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.18,
+   "lead_score": 0.88,
+   "score_explain": [
+    "V=0.23: хвост 144.0 зв/сут против штатных 546.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-26",
+   "repo": "Martar548/bybit-copy-trade-bot-cli-suite",
+   "url": "https://github.com/Martar548/bybit-copy-trade-bot-cli-suite",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 135,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Bybit Copy Trade Bot — Bybit Copy Trade Bot Portable & Windows Setup",
+   "topics": [
+    "bybit-copy-trade-bot",
+    "bybit-copy-trade-bot-portable",
+    "bybit-copy-trade-bot-windows",
+    "windows-10",
+    "windows-11"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 270.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.18,
+   "lead_score": 0.87,
+   "score_explain": [
+    "V=0.43: хвост 144.0 зв/сут против штатных 270.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-32",
+   "repo": "Gary166/fluxus-executor",
+   "url": "https://github.com/Gary166/fluxus-executor",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 178,
+   "forks": 10,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Runs Lua scripts against a local Fluxus build for testing.",
+   "topics": [
+    "fluxus",
+    "fluxus-executor",
+    "luau",
+    "roblox",
+    "roblox-executor"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.3,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 356.0,
+    "acceleration": 0.4,
+    "self_star_share": 0.0,
+    "ring_share": 0.33
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.18,
+   "lead_score": 0.83,
+   "score_explain": [
+    "V=0.34: хвост 144.0 зв/сут против штатных 356.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.18: self-star 0.0, кольца 0.33"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-10",
+   "repo": "schmidt21402/mordhau-trainer-mod-menu",
+   "url": "https://github.com/schmidt21402/mordhau-trainer-mod-menu",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 195,
+   "forks": 1,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "MORDHAU Cheat — MORDHAU Cheats, Trainer & Mod Menu",
+   "topics": [
+    "mordhau",
+    "mordhau-cheat",
+    "mordhau-cheats",
+    "mordhau-mod-menu",
+    "mordhau-trainer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.7,
+    "stars_per_day_recent": 55.9,
+    "lifetime_stars_per_day": 390.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.82,
+   "score_explain": [
+    "V=0.13: хвост 55.9 зв/сут против штатных 390.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-01",
+   "repo": "trustno1-coder/VIctory-NVIDIA",
+   "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 3804,
+   "forks": 1363,
+   "open_issues": 408,
+   "language": "Rust",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 2446,
+   "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+   "topics": [
+    "compatibility-layer",
+    "directx-12",
+    "dlss",
+    "frame-generation",
+    "nvidia",
+    "rust"
+   ],
+   "signals": {
+    "age_days": 2.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 10,
+    "window_h": 2.3,
+    "stars_per_day_recent": 106.4,
+    "lifetime_stars_per_day": 1741.78,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.78,
+   "score_explain": [
+    "V=0.06: хвост 106.4 зв/сут против штатных 1741.8 (x0)",
+    "N=1.0: репо 2 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-21",
+   "repo": "JeremyFontana97637/cubix-luau-workspace",
+   "url": "https://github.com/JeremyFontana97637/cubix-luau-workspace",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 138,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Cubix Executor — Cubix Roblox Script Executor",
+   "topics": [
+    "cubix",
+    "cubix-executor",
+    "luau",
+    "roblox",
+    "roblox-executor"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 276.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.72,
+   "score_explain": [
+    "V=0.42: хвост 144.0 зв/сут против штатных 276.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-23",
+   "repo": "LaylaTorres559/studio-one",
+   "url": "https://github.com/LaylaTorres559/studio-one",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 138,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 9,
+   "description": "Studio One — Studio One Portable & Windows Setup",
+   "topics": [
+    "studio-one",
+    "studio-one-portable",
+    "studio-one-windows",
+    "windows-10",
+    "windows-11"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.1,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 276.0,
+    "acceleration": 0.5,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.72,
+   "score_explain": [
+    "V=0.42: хвост 144.0 зв/сут против штатных 276.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-12",
+   "repo": "riveran0226/windows-explorer-blur-mica",
+   "url": "https://github.com/riveran0226/windows-explorer-blur-mica",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 714,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "C++",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 10278,
+   "description": "Free Windows 10 & 11 Explorer customization tool for Acrylic, Mica, transparency and background blur effects.",
+   "topics": [
+    "acrylic",
+    "blur",
+    "cpp",
+    "customization",
+    "dark-mode",
+    "desktop"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.9,
+    "stars_per_day_recent": 50.0,
+    "lifetime_stars_per_day": 1356.72,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.71,
+   "score_explain": [
+    "V=0.04: хвост 50.0 зв/сут против штатных 1356.7 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-13",
+   "repo": "quartzdev666/windows-pdf-editor",
+   "url": "https://github.com/quartzdev666/windows-pdf-editor",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 686,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "MIT",
+   "archived": false,
+   "size_kb": 6447,
+   "description": "Free open-source Windows PDF editor to merge, split, rotate, crop, reorder and organize PDF pages with a visual interface.",
+   "topics": [
+    "desktop-application",
+    "document-editor",
+    "document-management",
+    "gtk",
+    "gtk3",
+    "linux"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 2.1,
+    "stars_per_day_recent": 46.5,
+    "lifetime_stars_per_day": 1280.78,
+    "acceleration": 0.0,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.45,
+   "problem_statement": "PS-dev",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.71,
+   "score_explain": [
+    "V=0.04: хвост 46.5 зв/сут против штатных 1280.8 (x0)",
+    "N=1.0: репо 1 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.45 -> PS-dev",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-06",
+   "repo": "trandiaz07468/hydrogen-executor",
+   "url": "https://github.com/trandiaz07468/hydrogen-executor",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 134,
+   "forks": 9,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 6,
+   "description": "Hydrogen Executor — Hydrogen Roblox Script Executor",
+   "topics": [
+    "hydrogen",
+    "hydrogen-executor",
+    "luau",
+    "roblox",
+    "roblox-executor"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.3,
+    "stars_per_day_recent": 192.0,
+    "lifetime_stars_per_day": 268.0,
+    "acceleration": 0.7,
+    "self_star_share": 0.0,
+    "ring_share": 0.25
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.14,
+   "lead_score": 0.68,
+   "score_explain": [
+    "V=0.54: хвост 192.0 зв/сут против штатных 268.0 (x1)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.14: self-star 0.0, кольца 0.25"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-07",
+   "repo": "jason22477/roblox-executor",
+   "url": "https://github.com/jason22477/roblox-executor",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 202,
+   "forks": 18,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Roblox Executor — Roblox Roblox Script Executor",
+   "topics": [
+    "luau",
+    "roblox",
+    "roblox-executor"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 0.7,
+    "stars_per_day_recent": 128.8,
+    "lifetime_stars_per_day": 404.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.61,
+   "score_explain": [
+    "V=0.28: хвост 128.8 зв/сут против штатных 404.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-28",
+   "repo": "dennissato57/defeat-anime-rng-roblox-script",
+   "url": "https://github.com/dennissato57/defeat-anime-rng-roblox-script",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 206,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Defeat Anime RNG Script — Defeat Anime RNG Roblox Script & Auto Farm GUI",
+   "topics": [
+    "defeat-anime-rng",
+    "defeat-anime-rng-roblox-script",
+    "defeat-anime-rng-script",
+    "roblox",
+    "roblox-script"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 412.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 0.67
+   },
+   "fit_internal": 0.48,
+   "problem_statement": "PS-web",
+   "manipulation_risk": 0.37,
+   "lead_score": 0.53,
+   "score_explain": [
+    "V=0.30: хвост 144.0 зв/сут против штатных 412.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.48 -> PS-web",
+    "M=0.37: self-star 0.0, кольца 0.67"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-08",
+   "repo": "ProjectLeonida/mandy",
+   "url": "https://github.com/ProjectLeonida/mandy",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 2960,
+   "forks": 643,
+   "open_issues": 1518,
+   "language": "Python",
+   "license": "GPL-3.0",
+   "archived": false,
+   "size_kb": 379913,
+   "description": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
+   "topics": [],
+   "signals": {
+    "age_days": 4.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.3,
+    "stars_per_day_recent": 73.8,
+    "lifetime_stars_per_day": 709.72,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.47,
+   "score_explain": [
+    "V=0.10: хвост 73.8 зв/сут против штатных 709.7 (x0)",
+    "N=1.0: репо 4 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-09",
+   "repo": "4lwayz/portwatch-vi",
+   "url": "https://github.com/4lwayz/portwatch-vi",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 6825,
+   "forks": 206,
+   "open_issues": 256,
+   "language": "JavaScript",
+   "license": null,
+   "archived": false,
+   "size_kb": 5619,
+   "description": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+   "topics": [],
+   "signals": {
+    "age_days": 6.2,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.5,
+    "stars_per_day_recent": 66.1,
+    "lifetime_stars_per_day": 1101.34,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.5,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.47,
+   "score_explain": [
+    "V=0.06: хвост 66.1 зв/сут против штатных 1101.3 (x0)",
+    "N=1.0: репо 6 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.5 -> PS-ml",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "MISSING->auto-reject",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-14",
+   "repo": "ireneandersson785/ollama-pro-patcher-installer",
+   "url": "https://github.com/ireneandersson785/ollama-pro-patcher-installer",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 137,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 12,
+   "description": "Ollama — Ollama Portable & Windows Setup",
+   "topics": [
+    "ollama",
+    "ollama-portable",
+    "ollama-windows",
+    "windows-10",
+    "windows-11"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 2.2,
+    "stars_per_day_recent": 43.0,
+    "lifetime_stars_per_day": 274.0,
+    "acceleration": 0.2,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.47,
+   "score_explain": [
+    "V=0.15: хвост 43.0 зв/сут против штатных 274.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-33",
+   "repo": "jeffrey27804/spacewar-trainer-mod-menu",
+   "url": "https://github.com/jeffrey27804/spacewar-trainer-mod-menu",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 209,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Spacewar Cheat — Spacewar Cheats, Trainer & Mod Menu",
+   "topics": [
+    "spacewar",
+    "spacewar-cheat",
+    "spacewar-cheats",
+    "spacewar-mod-menu",
+    "spacewar-trainer"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 3,
+    "window_h": 0.0,
+    "stars_per_day_recent": 144.0,
+    "lifetime_stars_per_day": 418.0,
+    "acceleration": 0.3,
+    "self_star_share": 0.0,
+    "ring_share": 1.0
+   },
+   "fit_internal": 0.7,
+   "problem_statement": "PS-ml",
+   "manipulation_risk": 0.55,
+   "lead_score": 0.47,
+   "score_explain": [
+    "V=0.30: хвост 144.0 зв/сут против штатных 418.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.7 -> PS-ml",
+    "M=0.55: self-star 0.0, кольца 1.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  },
+  {
+   "lead_id": "L-20261128-11",
+   "repo": "agarnier471/base-uniswap-sniper-bot",
+   "url": "https://github.com/agarnier471/base-uniswap-sniper-bot",
+   "first_seen_at": "2026-11-28T04:00:23Z",
+   "channel": "gh_archive_watch",
+   "stars": 221,
+   "forks": 0,
+   "open_issues": 0,
+   "language": "Go",
+   "license": "NOASSERTION",
+   "archived": false,
+   "size_kb": 4,
+   "description": "Base Uniswap Sniper Bot — Base Uniswap Sniper Bot Portable & Windows Setup",
+   "topics": [
+    "base-uniswap-sniper-bot",
+    "base-uniswap-sniper-bot-portable",
+    "base-uniswap-sniper-bot-windows",
+    "windows-10",
+    "windows-11"
+   ],
+   "signals": {
+    "age_days": 0.5,
+    "last_push_days_ago": 0,
+    "stars_in_window": 4,
+    "window_h": 1.8,
+    "stars_per_day_recent": 54.5,
+    "lifetime_stars_per_day": 442.0,
+    "acceleration": 0.1,
+    "self_star_share": 0.0,
+    "ring_share": 0.0
+   },
+   "fit_internal": 0.0,
+   "problem_statement": "PS-unknown",
+   "manipulation_risk": 0.0,
+   "lead_score": 0.44,
+   "score_explain": [
+    "V=0.12: хвост 54.5 зв/сут против штатных 442.0 (x0)",
+    "N=1.0: репо 0 дн от роду",
+    "C=1.0: пуш 0 дн назад",
+    "fit=0.0 -> PS-unknown",
+    "M=0.0: self-star 0.0, кольца 0.0"
+   ],
+   "triage": {
+    "verdict": "needs_review",
+    "owner": "Т2",
+    "sla_deadline": "2026-11-28T08:00:23Z",
+    "checks": {
+     "license": "ok",
+     "scorecard": "not_run",
+     "readme_claims_reproduced": "not_run",
+     "sandbox_run": "not_run"
+    }
+   }
+  }
+ ]
+}
