@@ -357,7 +357,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 57,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "VictorTaelin/uniichat": {
 "repo": "VictorTaelin/uniichat",
@@ -447,7 +447,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 10,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "AhmadHassan-BTed/B": {
 "repo": "AhmadHassan-BTed/B",
@@ -879,7 +879,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 36,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "Ebony-Vinyl/dsh-our-free-model": {
 "repo": "Ebony-Vinyl/dsh-our-free-model",
@@ -1023,7 +1023,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 22,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "cloudflare/security-audit-skill": {
 "repo": "cloudflare/security-audit-skill",
@@ -1389,7 +1389,7 @@
 "repo": "stablyai/orca",
 "url": "https://github.com/stablyai/orca",
 "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
-"stars": 142259.0,
+"stars": 143065.0,
 "spd": 378.1,
 "score": 0.82,
 "fit": 0.61,
@@ -1398,8 +1398,8 @@
 "license": "MIT",
 "language": "TypeScript",
 "first_seen": "2026-10-20T15:17:36Z",
-"last_seen": "2026-11-27T18:48:21Z",
-"hits": 72,
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 73,
 "in_tg": false,
 "status": "active"
 },
@@ -1869,7 +1869,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 30,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "dataelement/dsh-desktop": {
 "repo": "dataelement/dsh-desktop",
@@ -4371,7 +4371,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 35,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "chuiziyao/maimen-certification": {
 "repo": "chuiziyao/maimen-certification",
@@ -4605,7 +4605,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 23,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "NanmiCoder/MediaCrawler": {
 "repo": "NanmiCoder/MediaCrawler",
@@ -6729,7 +6729,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 10,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "LNPANDY/NX2Apple": {
 "repo": "LNPANDY/NX2Apple",
@@ -7034,7 +7034,7 @@
 "first_seen": "2026-10-29T09:34:46Z",
 "last_seen": "2026-10-29T09:34:46Z",
 "hits": 1,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "thtbee/nectarlink": {
@@ -7052,7 +7052,7 @@
 "first_seen": "2026-10-29T09:34:46Z",
 "last_seen": "2026-11-18T14:18:51Z",
 "hits": 4,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "jackwener/Kaze": {
@@ -7106,7 +7106,7 @@
 "first_seen": "2026-10-29T09:34:46Z",
 "last_seen": "2026-11-12T03:44:13Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "Nicovic17/vanish_webcam": {
@@ -7142,7 +7142,7 @@
 "first_seen": "2026-10-29T09:34:46Z",
 "last_seen": "2026-10-31T04:39:38Z",
 "hits": 2,
-"in_tg": true,
+"in_tg": false,
 "status": "cooled"
 },
 "linshenkx/prompt-optimizer": {
@@ -10707,7 +10707,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 8,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "SaboteurImplode/Canva-Pro": {
 "repo": "SaboteurImplode/Canva-Pro",
@@ -12759,7 +12759,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 27,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "open-wxa/wxa-runner": {
 "repo": "open-wxa/wxa-runner",
@@ -18141,7 +18141,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 4,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "DIYgod/pinky": {
 "repo": "DIYgod/pinky",
@@ -21963,7 +21963,7 @@
 "repo": "BaaRai/ARTEX",
 "url": "https://github.com/BaaRai/ARTEX",
 "description": "Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed findings. Community continuation of Autumn-27/ARTEX, AGPL-3.0.",
-"stars": 23294.0,
+"stars": 23975.0,
 "spd": 144.0,
 "score": 1.31,
 "fit": 0.96,
@@ -21972,8 +21972,8 @@
 "license": "AGPL-3.0",
 "language": "Go",
 "first_seen": "2026-11-14T02:56:16Z",
-"last_seen": "2026-11-27T18:48:21Z",
-"hits": 33,
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 34,
 "in_tg": true,
 "status": "active"
 },
@@ -23349,7 +23349,7 @@
 "repo": "elementalsouls/Claude-BugHunter",
 "url": "https://github.com/elementalsouls/Claude-BugHunter",
 "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identi",
-"stars": 25399.0,
+"stars": 26575.0,
 "spd": 144.0,
 "score": 1.71,
 "fit": 0.76,
@@ -23358,8 +23358,8 @@
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-15T15:47:34Z",
-"last_seen": "2026-11-27T12:48:36Z",
-"hits": 32,
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 33,
 "in_tg": true,
 "status": "active"
 },
@@ -27069,7 +27069,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 8,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "Tracer-Cloud/opensre": {
 "repo": "Tracer-Cloud/opensre",
@@ -32091,7 +32091,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 6,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "InfernalCommissioner/borisfx": {
 "repo": "InfernalCommissioner/borisfx",
@@ -32667,7 +32667,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 5,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "pierridotite/mobile-agent-testers": {
 "repo": "pierridotite/mobile-agent-testers",
@@ -33051,17 +33051,17 @@
 "repo": "WhiteBr1ck/agy-powertools",
 "url": "https://github.com/WhiteBr1ck/agy-powertools",
 "description": "Antigravity 2.0 原生界面增强插件：界面汉化、类 Codex 紧凑排版与阶段汇报、上下文与缓存监控、会话分支及本地用量面板",
-"stars": 1648.0,
-"spd": 52.5,
-"score": 0.96,
+"stars": 2137.0,
+"spd": 68.5,
+"score": 0.98,
 "fit": 0.48,
 "risk": 0.0,
 "ps": "PS-web",
 "license": "MIT",
 "language": "JavaScript",
 "first_seen": "2026-11-26T11:07:58Z",
-"last_seen": "2026-11-27T08:57:02Z",
-"hits": 2,
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 3,
 "in_tg": false,
 "status": "active"
 },
@@ -33153,7 +33153,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "d79315/DefiDusk": {
 "repo": "d79315/DefiDusk",
@@ -33609,19 +33609,19 @@
 "repo": "gary23w/f-ck_data_brokers",
 "url": "https://github.com/gary23w/f-ck_data_brokers",
 "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
-"stars": 422.0,
+"stars": 977.0,
 "spd": 65.0,
-"score": 0.87,
+"score": 0.89,
 "fit": 0.61,
 "risk": 0.0,
 "ps": "PS-dev",
 "license": "MIT",
 "language": "Python",
 "first_seen": "2026-11-27T00:23:24Z",
-"last_seen": "2026-11-27T02:58:30Z",
-"hits": 2,
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 3,
 "in_tg": false,
-"status": "cooled"
+"status": "active"
 },
 "Pixel679-cmyk/windows-titlebar-blur-customizer": {
 "repo": "Pixel679-cmyk/windows-titlebar-blur-customizer",
@@ -33711,7 +33711,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 2,
 "in_tg": true,
-"status": "active"
+"status": "cooled"
 },
 "perixtar/Tech-OA-Interview-Questions": {
 "repo": "perixtar/Tech-OA-Interview-Questions",
@@ -33729,7 +33729,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 2,
 "in_tg": false,
-"status": "active"
+"status": "cooled"
 },
 "googlecolab/google-colab-cli": {
 "repo": "googlecolab/google-colab-cli",
@@ -33855,7 +33855,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "shogunakatsukiremedy/capri-ai-desktop": {
 "repo": "shogunakatsukiremedy/capri-ai-desktop",
@@ -33873,7 +33873,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "octocat/Hello-World": {
 "repo": "octocat/Hello-World",
@@ -33891,7 +33891,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "agent-of-empires/agent-of-empires": {
 "repo": "agent-of-empires/agent-of-empires",
@@ -33909,7 +33909,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "morozovgirish/k9s": {
 "repo": "morozovgirish/k9s",
@@ -33927,7 +33927,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": true,
-"status": "new"
+"status": "cooled"
 },
 "opensetlabs/openset-llm": {
 "repo": "opensetlabs/openset-llm",
@@ -33945,7 +33945,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "rustdesk/rustdesk": {
 "repo": "rustdesk/rustdesk",
@@ -33963,7 +33963,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Shubhamsaboo/awesome-llm-apps": {
 "repo": "Shubhamsaboo/awesome-llm-apps",
@@ -33981,7 +33981,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "ziosatya/rob-run-aim": {
 "repo": "ziosatya/rob-run-aim",
@@ -33999,7 +33999,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Robbyant/lingbot-map-v2": {
 "repo": "Robbyant/lingbot-map-v2",
@@ -34017,7 +34017,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "bird-script-light/jetbrains-webstorm": {
 "repo": "bird-script-light/jetbrains-webstorm",
@@ -34035,7 +34035,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "LukmanWood863/character-ai": {
 "repo": "LukmanWood863/character-ai",
@@ -34053,7 +34053,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "Devpro9135/goodsync": {
 "repo": "Devpro9135/goodsync",
@@ -34071,7 +34071,7 @@
 "last_seen": "2026-11-27T08:57:02Z",
 "hits": 1,
 "in_tg": false,
-"status": "new"
+"status": "cooled"
 },
 "beautifulrem/tower": {
 "repo": "beautifulrem/tower",
@@ -34131,7 +34131,7 @@
 "repo": "trustno1-coder/VIctory-NVIDIA",
 "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
 "description": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats pan",
-"stars": 3804.0,
+"stars": 4773.0,
 "spd": 106.4,
 "score": 0.83,
 "fit": 0.48,
@@ -34140,8 +34140,8 @@
 "license": "GPL-3.0",
 "language": "Rust",
 "first_seen": "2026-11-27T12:48:36Z",
-"last_seen": "2026-11-28T04:00:31Z",
-"hits": 4,
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 5,
 "in_tg": false,
 "status": "new"
 },
@@ -34239,7 +34239,7 @@
 "repo": "Red2076-arch/waifu2x-image-upscaler-windows",
 "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows",
 "description": "Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.",
-"stars": 122,
+"stars": 1053.0,
 "spd": 171.5,
 "score": 1.21,
 "fit": 0.52,
@@ -34248,8 +34248,8 @@
 "license": "MIT",
 "language": "C++",
 "first_seen": "2026-11-27T18:48:21Z",
-"last_seen": "2026-11-27T18:48:21Z",
-"hits": 1,
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -34887,7 +34887,7 @@
 "repo": "mist-8659/windows-mouse-keyboard-sharing-kvm",
 "url": "https://github.com/mist-8659/windows-mouse-keyboard-sharing-kvm",
 "description": "Free open-source KVM software to share one keyboard and mouse across multiple Windows, macOS and Linux computers.",
-"stars": 329,
+"stars": 1059.0,
 "spd": 42.9,
 "score": 0.85,
 "fit": 0.61,
@@ -34896,8 +34896,8 @@
 "license": "MIT",
 "language": "C++",
 "first_seen": "2026-11-27T22:08:55Z",
-"last_seen": "2026-11-27T22:08:55Z",
-"hits": 1,
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -34959,17 +34959,17 @@
 "repo": "Ash793318/windows-hardware-monitor",
 "url": "https://github.com/Ash793318/windows-hardware-monitor",
 "description": "Free open-source Windows hardware monitoring app for CPU, GPU, RAM, SSD temperatures, fan speeds and system performance.",
-"stars": 311,
-"spd": 28.0,
-"score": 0.38,
+"stars": 1042.0,
+"spd": 77.7,
+"score": 0.39,
 "fit": 0.0,
 "risk": 0.0,
 "ps": "PS-unknown",
 "license": "MIT",
 "language": "C#",
 "first_seen": "2026-11-27T22:08:55Z",
-"last_seen": "2026-11-27T22:08:55Z",
-"hits": 1,
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -35391,17 +35391,17 @@
 "repo": "riveran0226/windows-explorer-blur-mica",
 "url": "https://github.com/riveran0226/windows-explorer-blur-mica",
 "description": "Free Windows 10 & 11 Explorer customization tool for Acrylic, Mica, transparency and background blur effects.",
-"stars": 714,
-"spd": 50.0,
-"score": 0.71,
+"stars": 1066.0,
+"spd": 85.4,
+"score": 0.73,
 "fit": 0.45,
 "risk": 0.0,
 "ps": "PS-dev",
 "license": "MIT",
 "language": "C++",
 "first_seen": "2026-11-28T04:00:31Z",
-"last_seen": "2026-11-28T04:00:31Z",
-"hits": 1,
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 2,
 "in_tg": false,
 "status": "new"
 },
@@ -35527,6 +35527,528 @@
 "language": "Go",
 "first_seen": "2026-11-28T04:00:31Z",
 "last_seen": "2026-11-28T04:00:31Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"twobirdsfly/Hentai-Park": {
+"repo": "twobirdsfly/Hentai-Park",
+"url": "https://github.com/twobirdsfly/Hentai-Park",
+"description": "跨平台成人内容聚合客户端：图集、视频、音声、小说与游戏资源，支持聚合搜索、排行榜、阅读播放、订阅追更、离线下载与隐私保护 | Cross-platform adult content client for images, videos, asmr, novels and game resources; unified search, rankings, reading, playback, sub",
+"stars": 1318,
+"spd": 53.8,
+"score": 1.77,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "AGPL-3.0",
+"language": "Dart",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"marievasiliou/stable-diffusion-x4-pro-patcher-installer": {
+"repo": "marievasiliou/stable-diffusion-x4-pro-patcher-installer",
+"url": "https://github.com/marievasiliou/stable-diffusion-x4-pro-patcher-installer",
+"description": "stable-diffusion-x4-upscaler — stable-diffusion-x4-upscaler Portable & Windows Setup",
+"stars": 148,
+"spd": 240.0,
+"score": 1.26,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"matiadeluca/subnautica-bepinex-pack-pc-mod-menu": {
+"repo": "matiadeluca/subnautica-bepinex-pack-pc-mod-menu",
+"url": "https://github.com/matiadeluca/subnautica-bepinex-pack-pc-mod-menu",
+"description": "Subnautica BepInEx Pack Cheat — Subnautica BepInEx Pack Cheats, Trainer & Mod Menu",
+"stars": 186,
+"spd": 192.0,
+"score": 1.26,
+"fit": 0.7,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"GuillaumeOmar/dolphin-emulator-pro-patcher-installer": {
+"repo": "GuillaumeOmar/dolphin-emulator-pro-patcher-installer",
+"url": "https://github.com/GuillaumeOmar/dolphin-emulator-pro-patcher-installer",
+"description": "Dolphin Emulator — Dolphin Emulator Portable & Windows Setup",
+"stars": 174,
+"spd": 240.0,
+"score": 1.2,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"asgeirtj/system_prompts_leaks": {
+"repo": "asgeirtj/system_prompts_leaks",
+"url": "https://github.com/asgeirtj/system_prompts_leaks",
+"description": "Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google An",
+"stars": 73139,
+"spd": 54.0,
+"score": 1.15,
+"fit": 1.0,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "CC0-1.0",
+"language": "Python",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": true,
+"status": "new"
+},
+"DeadInternetStudios/100x-engineer-skill": {
+"repo": "DeadInternetStudios/100x-engineer-skill",
+"url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+"description": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+"stars": 1270,
+"spd": 41.3,
+"score": 1.05,
+"fit": 0.74,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "JavaScript",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"RyujiHenry488/pet-simulator-99-auto-farm-macro-roblox-script": {
+"repo": "RyujiHenry488/pet-simulator-99-auto-farm-macro-roblox-script",
+"url": "https://github.com/RyujiHenry488/pet-simulator-99-auto-farm-macro-roblox-script",
+"description": "Pet Simulator 99 Script — Pet Simulator 99 Roblox Script & Auto Farm GUI",
+"stars": 207,
+"spd": 144.0,
+"score": 0.97,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Lambert29949/solidworks-2026-sp2-premium-desktop-suite": {
+"repo": "Lambert29949/solidworks-2026-sp2-premium-desktop-suite",
+"url": "https://github.com/Lambert29949/solidworks-2026-sp2-premium-desktop-suite",
+"description": "SolidWorks 2026 SP2 Premium — SolidWorks 2026 SP2 Premium Portable & Windows Setup",
+"stars": 175,
+"spd": 192.0,
+"score": 0.95,
+"fit": 0.48,
+"risk": 0.14,
+"ps": "PS-web",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Morozov1094/lethal-ape-experience-auto-f-roblox-script": {
+"repo": "Morozov1094/lethal-ape-experience-auto-f-roblox-script",
+"url": "https://github.com/Morozov1094/lethal-ape-experience-auto-f-roblox-script",
+"description": "Lethal Ape Experience Script — Lethal Ape Experience Roblox Script & Auto Farm GUI",
+"stars": 193,
+"spd": 192.0,
+"score": 0.9,
+"fit": 0.48,
+"risk": 0.14,
+"ps": "PS-web",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"NarongSantos51259/sublime-text-desktop-suite": {
+"repo": "NarongSantos51259/sublime-text-desktop-suite",
+"url": "https://github.com/NarongSantos51259/sublime-text-desktop-suite",
+"description": "Sublime Text — Sublime Text Pro Trial Reset & Machine ID",
+"stars": 193,
+"spd": 192.0,
+"score": 0.9,
+"fit": 0.48,
+"risk": 0.14,
+"ps": "PS-web",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"umbradev315/ffmpeg-video-audio-converter": {
+"repo": "umbradev315/ffmpeg-video-audio-converter",
+"url": "https://github.com/umbradev315/ffmpeg-video-audio-converter",
+"description": "Free open-source FFmpeg GUI for Windows to convert video and audio, batch process media, and analyze quality.",
+"stars": 1293,
+"spd": 32.5,
+"score": 0.89,
+"fit": 0.61,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Kotlin",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"soramaruu/deadlock-counterpicker": {
+"repo": "soramaruu/deadlock-counterpicker",
+"url": "https://github.com/soramaruu/deadlock-counterpicker",
+"description": "Deadlock Counterpicker: Counter-Pick Setup for Serious Players",
+"stars": 174,
+"spd": 144.0,
+"score": 0.86,
+"fit": 0.7,
+"risk": 0.37,
+"ps": "PS-data",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"peak85-sketch/stardew-valley-mod-manager": {
+"repo": "peak85-sketch/stardew-valley-mod-manager",
+"url": "https://github.com/peak85-sketch/stardew-valley-mod-manager",
+"description": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates and custom profiles.",
+"stars": 1257,
+"spd": 29.2,
+"score": 0.79,
+"fit": 0.48,
+"risk": 0.0,
+"ps": "PS-web",
+"license": "MIT",
+"language": "C#",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"hassaanua01-cpu/build-html-ppt-skill": {
+"repo": "hassaanua01-cpu/build-html-ppt-skill",
+"url": "https://github.com/hassaanua01-cpu/build-html-ppt-skill",
+"description": "Build HTML PPT Skill: Audience-Aware Slides and Speaker Notes Template",
+"stars": 169,
+"spd": 25.7,
+"score": 0.79,
+"fit": 1.0,
+"risk": 0.41,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "HTML",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"alexander32518/solara-roblox-executor": {
+"repo": "alexander32518/solara-roblox-executor",
+"url": "https://github.com/alexander32518/solara-roblox-executor",
+"description": "Solara Executor — Solara Roblox Script Executor",
+"stars": 169,
+"spd": 192.0,
+"score": 0.77,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Leaf82770/windows-mica-backdrop-customizer": {
+"repo": "Leaf82770/windows-mica-backdrop-customizer",
+"url": "https://github.com/Leaf82770/windows-mica-backdrop-customizer",
+"description": "Free Windows 11 desktop app to customize Mica, Acrylic, and system backdrop effects for Win32 applications.",
+"stars": 1034,
+"spd": 66.4,
+"score": 0.76,
+"fit": 0.5,
+"risk": 0.0,
+"ps": "PS-ml",
+"license": "MIT",
+"language": "C#",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Riven-639/windows-dwm-blur-glass-customizer": {
+"repo": "Riven-639/windows-dwm-blur-glass-customizer",
+"url": "https://github.com/Riven-639/windows-dwm-blur-glass-customizer",
+"description": "Free Windows 10 & 11 DWM customization tool for Aero, Acrylic, Mica, blur and transparent title bar effects.",
+"stars": 1042,
+"spd": 105.0,
+"score": 0.75,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "C++",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Ibrahim27639/v2raya-pro-patcher-installer": {
+"repo": "Ibrahim27639/v2raya-pro-patcher-installer",
+"url": "https://github.com/Ibrahim27639/v2raya-pro-patcher-installer",
+"description": "v2rayA — v2rayA Portable & Windows Setup",
+"stars": 180,
+"spd": 192.0,
+"score": 0.75,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"leaf7684/windows-modern-media-player": {
+"repo": "leaf7684/windows-modern-media-player",
+"url": "https://github.com/leaf7684/windows-modern-media-player",
+"description": "Free open-source Windows media player with VLC playback, video streaming, subtitles and picture-in-picture.",
+"stars": 1056,
+"spd": 31.3,
+"score": 0.75,
+"fit": 0.52,
+"risk": 0.0,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "C#",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"aDemir581/fivem-cheat": {
+"repo": "aDemir581/fivem-cheat",
+"url": "https://github.com/aDemir581/fivem-cheat",
+"description": "FiveM Cheat — FiveM Cheat, Executor, Mod Menu & Dumper",
+"stars": 169,
+"spd": 240.0,
+"score": 0.72,
+"fit": 0.0,
+"risk": 0.11,
+"ps": "PS-unknown",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"Henderson1325/docbook-pro-patcher-installer": {
+"repo": "Henderson1325/docbook-pro-patcher-installer",
+"url": "https://github.com/Henderson1325/docbook-pro-patcher-installer",
+"description": "DocBook — DocBook Portable & Windows Setup",
+"stars": 180,
+"spd": 192.0,
+"score": 0.72,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"hollow-445/windows-keyboard-manager": {
+"repo": "hollow-445/windows-keyboard-manager",
+"url": "https://github.com/hollow-445/windows-keyboard-manager",
+"description": "Free open-source keyboard remapping software for Windows with custom layouts, programmable keys, layers and tap-hold actions.",
+"stars": 1053,
+"spd": 48.1,
+"score": 0.71,
+"fit": 0.45,
+"risk": 0.0,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "Haskell",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"MattiaMurphy17283/script-ware-luau-workspace": {
+"repo": "MattiaMurphy17283/script-ware-luau-workspace",
+"url": "https://github.com/MattiaMurphy17283/script-ware-luau-workspace",
+"description": "Script-Ware Executor — Script-Ware Roblox Script Executor",
+"stars": 178,
+"spd": 144.0,
+"score": 0.67,
+"fit": 0.0,
+"risk": 0.0,
+"ps": "PS-unknown",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"serkangreen/termux-box-pro-patcher-installer": {
+"repo": "serkangreen/termux-box-pro-patcher-installer",
+"url": "https://github.com/serkangreen/termux-box-pro-patcher-installer",
+"description": "Termux-Box — Termux-Box Portable & Windows Setup",
+"stars": 160,
+"spd": 192.0,
+"score": 0.62,
+"fit": 0.0,
+"risk": 0.14,
+"ps": "PS-unknown",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"larscastillo64/triposr-3d-pro-patcher-installer": {
+"repo": "larscastillo64/triposr-3d-pro-patcher-installer",
+"url": "https://github.com/larscastillo64/triposr-3d-pro-patcher-installer",
+"description": "TripoSR 3D — TripoSR 3D Portable & Windows Setup",
+"stars": 166,
+"spd": 192.0,
+"score": 0.61,
+"fit": 0.0,
+"risk": 0.14,
+"ps": "PS-unknown",
+"license": "NOASSERTION",
+"language": "Go",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"aryan8790/tap-simulator-reborn-mod-menu": {
+"repo": "aryan8790/tap-simulator-reborn-mod-menu",
+"url": "https://github.com/aryan8790/tap-simulator-reborn-mod-menu",
+"description": "Simulator Reborn Mod Menu: Confident Game Enhancement Setup",
+"stars": 171,
+"spd": 54.9,
+"score": 0.35,
+"fit": 0.45,
+"risk": 0.55,
+"ps": "PS-dev",
+"license": "MIT",
+"language": "HTML",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ArcheonX/youtube-downloader": {
+"repo": "ArcheonX/youtube-downloader",
+"url": "https://github.com/ArcheonX/youtube-downloader",
+"description": "YouTube Downloader: Visual Media Workflow for Creators",
+"stars": 172,
+"spd": 35.7,
+"score": 0.3,
+"fit": 0.52,
+"risk": 0.55,
+"ps": "PS-infer",
+"license": "MIT",
+"language": "HTML",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"ZANCAPROPOWER/microsoft-excel-spreadsheet": {
+"repo": "ZANCAPROPOWER/microsoft-excel-spreadsheet",
+"url": "https://github.com/ZANCAPROPOWER/microsoft-excel-spreadsheet",
+"description": "Microsoft Excel Desktop: Multi-Sheet Workbooks, Charts, and Builds for Reports, Budgets, and Lists",
+"stars": 170,
+"spd": 26.7,
+"score": 0.19,
+"fit": 0.61,
+"risk": 0.41,
+"ps": "PS-dev",
+"license": null,
+"language": "HTML",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
+"hits": 1,
+"in_tg": false,
+"status": "new"
+},
+"masatshwaro1-dotcom/minecraft-forge-mod": {
+"repo": "masatshwaro1-dotcom/minecraft-forge-mod",
+"url": "https://github.com/masatshwaro1-dotcom/minecraft-forge-mod",
+"description": "Minecraft Forge Mod: Cosmic Silk Tunnel Voronoi, Time Rewind and Blade Attack Modes",
+"stars": 172,
+"spd": 31.5,
+"score": 0.06,
+"fit": 0.0,
+"risk": 0.41,
+"ps": "PS-unknown",
+"license": "MIT",
+"language": "HTML",
+"first_seen": "2026-11-28T09:55:59Z",
+"last_seen": "2026-11-28T09:55:59Z",
 "hits": 1,
 "in_tg": false,
 "status": "new"
